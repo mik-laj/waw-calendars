@@ -42,9 +42,14 @@ def load_source_meta() -> dict[str, dict]:
     return {s["id"]: s for s in data.get("sources", [])}
 
 
+def has_required_fields(event: Event) -> bool:
+    """Baseline criterion: a usable event needs a title and a start date."""
+    return bool(event.title) and event.start_date is not None
+
+
 def in_window(event: Event, start: date, end: date) -> bool:
     """True if the event has title+date and overlaps [start, end]."""
-    if not event.title or event.start_date is None:
+    if not has_required_fields(event):
         return False
     ev_start = event.start_date
     ev_end = event.end_date or ev_start
@@ -120,7 +125,12 @@ def main(argv: list[str] | None = None) -> int:
 
     for source in sources:
         stored = storage.load_events(args.src, source)
-        selected = [e for e in stored if in_window(e, window_start, window_end)]
+        # Sources flagged all_events (e.g. trade fairs) export every event with
+        # the required fields, ignoring the N-day window.
+        if meta.get(source, {}).get("all_events"):
+            selected = [e for e in stored if has_required_fields(e)]
+        else:
+            selected = [e for e in stored if in_window(e, window_start, window_end)]
         # dedup by UID (defensive; store is already deduped)
         selected = list({e.uid: e for e in selected}.values())
         name = meta.get(source, {}).get("name", source)

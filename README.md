@@ -29,8 +29,15 @@ and it **overlaps the window** `[today, today + N days]` (default `N = 14`).
 Overlap (rather than "start within window") keeps multi-day events that are
 already running. Events are de-duplicated by a stable UID.
 
-> Note: `expoxxi` events are trade fairs scheduled months ahead, so its calendar
-> is often empty under the default 14-day window — that is expected.
+Sources flagged `all_events: true` in `config/sources.yaml` are exempt from the
+window and export **every** event that has a title and start date. This is set
+for `expoxxi` (trade fairs), which are scheduled months ahead — we always want
+all of them, not just those inside the 14-day window.
+
+> Note: `wola` cannot be fetched from GitHub-hosted runners — the
+> `wola.um.warszawa.pl` edge returns 403 to non-Polish/datacenter IPs (confirmed
+> for the whole domain, regardless of headers). It works from a Polish/residential
+> IP; running that source needs a self-hosted runner or a proxy.
 
 ## Subscribing
 

@@ -23,9 +23,13 @@
 - **shellcheck via Docker** (koalaman/shellcheck-precommit), not shellcheck-py:
   this machine's pyenv Python 3.14 lacks `lzma`, which shellcheck-py needs to
   unpack its binary. Docker hook works locally and on CI.
-- **Wola still 403s from GitHub-hosted runners even with a browser UA** — the
-  block is by datacenter IP (Azure), not User-Agent. expoxxi and waw4free work
-  fine from CI. Open question: how to source Wola (self-hosted runner, proxy,
-  seed-and-keep last-known-good via upsert, or accept it as empty in CI).
+- **Wola 403 confirmed as an IP block, not a header issue.** A temporary
+  `wola-probe` workflow tested the runner (Azure IP 172.183.132.66) against the
+  feed, root page and an event subpage with default UA, browser UA, extra
+  headers and HTTP/1.1 — all 403; expoxxi/waw4free were 200. The 403 body is the
+  city portal's own "Strona nie może zostać wyświetlona – PIUW" page. So no
+  header/UA tweak helps; Wola needs a Polish/residential egress (self-hosted
+  runner or proxy). The browser-UA change was kept (harmless, good default) but
+  it does not unblock Wola. Probe workflow removed after diagnosis.
 - CI result after fixes: `all.ics` 395 events (waw4free 395, expoxxi 0 as its
   fairs are out of the 14-day window, wola 0 due to the 403).

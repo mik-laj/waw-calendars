@@ -6,6 +6,8 @@ sources:
     name: "EXPO XXI Warszawa"
     fetcher: expoxxi
     url: "https://expoxxi.pl/events_pl/"
+    # Trade fairs: always export every fetched event, ignoring the N-day window.
+    all_events: true
 
   - id: waw4free
     name: "waw4free — darmowe wydarzenia w Warszawie"

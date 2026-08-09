@@ -60,8 +60,8 @@ group prevents overlapping runs from pushing to `data` at the same time.
 
 - **expoxxi** — the page embeds `schema.org/Event` JSON-LD, which we read
   directly. Times in the data are a scrape artifact, so trade fairs are treated
-  as all-day. These events are months out, so they rarely fall inside the
-  14-day generation window.
+  as all-day. These events are months out; the source is flagged
+  `all_events: true` so generation exports them all regardless of the window.
 - **waw4free** — no API; the listing is addressed by a dated URL, so we iterate
   the next 14 days and dedupe. Time is often only in the title, so items are
   all-day. District becomes the location.
@@ -69,6 +69,10 @@ group prevents overlapping runs from pushing to `data` at the same time.
   the subpage and parse the date block (after the calendar icon) and address.
   A timed range spanning multiple days (a recurring series shown as one range)
   is converted to an all-day banner to avoid a misleading 40-day timed block.
+  **Caveat:** `wola.um.warszawa.pl` returns 403 to non-Polish/datacenter IPs
+  (the whole domain, independent of User-Agent — verified from a runner). It
+  works locally on a Polish/residential IP; CI needs a self-hosted runner or a
+  Polish proxy to source it.
 
 ## Generation criteria
 
@@ -76,6 +80,10 @@ Include an event when it has a title and a start date and it **overlaps**
 `[today, today + N]` (default N = 14). Overlap (not "starts within") keeps
 long-running exhibitions that are on right now. De-dupe by UID. `N` is
 configurable via `--days`.
+
+Sources with `all_events: true` in `config/sources.yaml` bypass the window and
+export every event that has a title and start date (used for `expoxxi` trade
+fairs, which we always want in full).
 
 ## Known trade-offs / future work
 
