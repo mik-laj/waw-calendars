@@ -38,10 +38,10 @@ After the pipeline has run at least once, the calendars are available as raw
 files on the `data` branch:
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/data/calendars/all.ics
-https://raw.githubusercontent.com/<owner>/<repo>/data/calendars/expoxxi.ics
-https://raw.githubusercontent.com/<owner>/<repo>/data/calendars/waw4free.ics
-https://raw.githubusercontent.com/<owner>/<repo>/data/calendars/wola.ics
+https://raw.githubusercontent.com/mik-laj/waw-calendars/data/calendars/all.ics
+https://raw.githubusercontent.com/mik-laj/waw-calendars/data/calendars/expoxxi.ics
+https://raw.githubusercontent.com/mik-laj/waw-calendars/data/calendars/waw4free.ics
+https://raw.githubusercontent.com/mik-laj/waw-calendars/data/calendars/wola.ics
 ```
 
 Add the URL as a "subscribe by URL" calendar in Google/Apple Calendar.
