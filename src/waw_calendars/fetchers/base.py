@@ -10,9 +10,26 @@ import httpx
 
 log = logging.getLogger("waw_calendars.http")
 
+# A realistic desktop-browser User-Agent. Some sources (e.g. the Wola municipal
+# site behind a WAF) return 403 to custom bot agents / datacenter IPs, so we
+# present as a common browser and send the headers a browser would.
 USER_AGENT = (
-    "waw-calendars/0.1 (+https://github.com/; event calendars, contact via repo)"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 )
+
+DEFAULT_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "application/rss+xml,application/atom+xml;q=0.8,*/*;q=0.7"
+    ),
+    "Accept-Language": "pl,en-US;q=0.8,en;q=0.6",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Upgrade-Insecure-Requests": "1",
+}
 
 DEFAULT_TIMEOUT = httpx.Timeout(30.0, connect=15.0)
 
@@ -33,7 +50,7 @@ class HttpClient:
             http2=True,
             follow_redirects=True,
             timeout=DEFAULT_TIMEOUT,
-            headers={"User-Agent": USER_AGENT, "Accept-Language": "pl,en;q=0.8"},
+            headers=DEFAULT_HEADERS,
         )
 
     def __enter__(self) -> Self:
