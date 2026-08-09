@@ -21,7 +21,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import yaml
-from icalendar import Calendar, Event as IcsEvent
+from icalendar import Calendar
+from icalendar import Event as IcsEvent
 
 from . import storage
 from .models import WARSAW_TZ, Event

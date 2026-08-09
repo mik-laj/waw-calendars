@@ -25,7 +25,7 @@ URL = "https://expoxxi.pl/events_pl/"
 LOCATION = "EXPO XXI Warszawa, ul. Prądzyńskiego 12/14, Warszawa"
 
 _LD_RE = re.compile(
-    r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', re.S
+    r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', re.DOTALL
 )
 
 

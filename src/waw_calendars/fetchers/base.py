@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import time
+from typing import Self
 
 import httpx
 
@@ -35,7 +36,7 @@ class HttpClient:
             headers={"User-Agent": USER_AGENT, "Accept-Language": "pl,en;q=0.8"},
         )
 
-    def __enter__(self) -> HttpClient:
+    def __enter__(self) -> Self:
         return self
 
     def __exit__(self, *exc) -> None:
