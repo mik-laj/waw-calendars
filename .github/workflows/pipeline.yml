@@ -4,11 +4,17 @@ name: calendars
 # (events/*.yaml -> calendars/*.ics), both committed to the `data` branch.
 #
 # The two stages stay separately orchestrable via the `stage` input: a manual
-# run can execute only fetch, only generate, or both (default). Scheduled runs
-# always do both.
+# run can execute only fetch, only generate, or both (default).
+#
+# NOTE: the scheduled trigger is disabled on purpose. The pipeline is run from
+# home (the waw_calendars Home Assistant add-on) because the Wola source blocks
+# cloud/datacenter IPs; see docs/home-assistant.md. This workflow is kept as a
+# manual fallback only (it will fetch expoxxi/waw4free fine, but wola will be
+# empty from GitHub-hosted runners). To re-enable cloud scheduling, uncomment
+# the `schedule` block below.
 on:
-  schedule:
-    - cron: "17 */6 * * *"   # every 6 hours
+  # schedule:
+  #   - cron: "17 */6 * * *"   # every 6 hours
   workflow_dispatch:
     inputs:
       stage:

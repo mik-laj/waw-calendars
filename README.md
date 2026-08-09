@@ -3,8 +3,7 @@
 Aggregates Warsaw event listings from several public sources and publishes them
 as subscribable **iCal (`.ics`)** calendars — one per source plus a combined one.
 
-Everything runs on GitHub Actions. There are two independent stages so they can
-be orchestrated separately:
+There are two independent stages so they can be orchestrated separately:
 
 1. **fetch** — scrape sources into a per-source **YAML** store (durable working
    history that can be reprocessed later).
@@ -13,6 +12,14 @@ be orchestrated separately:
 
 Generated artifacts live on a separate orphan branch, **`data`**, so the code
 branch stays clean.
+
+### Where it runs
+
+The pipeline runs from **home**, as a local Home Assistant add-on (see
+[`docs/home-assistant.md`](docs/home-assistant.md)). This is required because the
+Wola source blocks cloud/datacenter IPs — a home (Polish/residential) IP fetches
+all three sources. The GitHub Actions workflow is kept only as a manual fallback;
+its schedule is disabled.
 
 ## Sources
 
@@ -101,8 +108,9 @@ src/waw_calendars/
   fetch_all.py                 # fetch entrypoint
   generate_ics.py              # generate entrypoint
 scripts/{lib,fetch,generate}.sh
+addons/waw_calendars/          # Home Assistant local add-on (the home runner)
 .github/workflows/pipeline.yml   # single workflow, fetch stage then generate stage
-docs/                          # architecture & design notes
+docs/                          # architecture, design notes, Home Assistant guide
 changelog/                     # dated notes on what changed and why
 ```
 

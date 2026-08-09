@@ -1,0 +1,33 @@
+# Home Assistant local add-on manifest.
+# Copy the whole `waw_calendars` folder into the HA `/addons` share, then
+# install it from Settings -> Add-ons -> Local add-ons.
+name: waw-calendars
+version: "0.1.0"
+slug: waw_calendars
+description: Fetch Warsaw events and publish iCal calendars to the repo `data` branch.
+url: https://github.com/mik-laj/waw-calendars
+arch:
+  - amd64
+# One-shot job: started on demand (by an automation), runs the pipeline, exits.
+startup: application
+boot: manual
+init: false
+# Read-only access to /config so we can read the SSH deploy key placed there.
+map:
+  - config:ro
+options:
+  repo_url: "git@github.com:mik-laj/waw-calendars.git"
+  data_branch: "data"
+  deploy_key_path: "/config/waw_calendars/deploy_key"
+  days: 14
+  throttle: 0.5
+  git_user_name: "home-assistant"
+  git_user_email: "ha@localhost"
+schema:
+  repo_url: str
+  data_branch: str
+  deploy_key_path: str
+  days: int
+  throttle: float
+  git_user_name: str
+  git_user_email: str
