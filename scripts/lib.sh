@@ -17,8 +17,12 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 # Prepare $WORKTREE checked out to the data branch (creating it if missing).
 setup_data_worktree() {
   cd "$REPO_ROOT"
-  git worktree prune >/dev/null 2>&1 || true
+  # Drop any leftover worktree from a previous stage/run. Order matters:
+  # remove + delete the directory first, then prune, so the branch is freed
+  # (otherwise `worktree add` fails with "'data' is already used by worktree").
+  git worktree remove --force "$WORKTREE" >/dev/null 2>&1 || true
   rm -rf "$WORKTREE"
+  git worktree prune >/dev/null 2>&1 || true
   git fetch origin "$DATA_BRANCH" >/dev/null 2>&1 || true
 
   if git show-ref --verify --quiet "refs/remotes/origin/${DATA_BRANCH}"; then
