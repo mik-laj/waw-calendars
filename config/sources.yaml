@@ -1,0 +1,19 @@
+# Event source definitions.
+# id   -> YAML/ICS file name (events/<id>.yaml, calendars/<id>.ics)
+# name -> calendar display name (X-WR-CALNAME in the .ics)
+sources:
+  - id: expoxxi
+    name: "EXPO XXI Warszawa"
+    fetcher: expoxxi
+    url: "https://expoxxi.pl/events_pl/"
+
+  - id: waw4free
+    name: "waw4free — darmowe wydarzenia w Warszawie"
+    fetcher: waw4free
+    # {date} is substituted with YYYY-M-D for each of the next 14 days
+    url: "https://waw4free.pl/warszawa-wydarzenia-{date}"
+
+  - id: wola
+    name: "Wydarzenia — Dzielnica Wola"
+    fetcher: wola
+    url: "https://wola.um.warszawa.pl/?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_jYdN6Vg9rRjn&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage"

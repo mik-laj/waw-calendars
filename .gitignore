@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Local scratch
+tmp/
+
+# Data-branch worktree and generated artifacts (they live on the `data` branch)
+.data/
+/events/
+/calendars/

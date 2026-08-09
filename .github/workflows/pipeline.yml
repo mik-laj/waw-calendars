@@ -1,0 +1,63 @@
+name: calendars
+
+# Single pipeline: fetch (sources -> events/*.yaml) then generate
+# (events/*.yaml -> calendars/*.ics), both committed to the `data` branch.
+#
+# The two stages stay separately orchestrable via the `stage` input: a manual
+# run can execute only fetch, only generate, or both (default). Scheduled runs
+# always do both.
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: "Which stage(s) to run"
+        type: choice
+        options: [all, fetch, generate]
+        default: all
+      source:
+        description: "fetch: limit to a single source (expoxxi|waw4free|wola). Empty = all."
+        required: false
+        default: ""
+      days:
+        description: "generate: window length in days"
+        required: false
+        default: "14"
+
+concurrency:
+  group: data-branch          # never push to `data` concurrently
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    env:
+      STAGE: ${{ github.event.inputs.stage || 'all' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0       # needed to fetch/create the data branch
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch stage
+        if: ${{ env.STAGE == 'all' || env.STAGE == 'fetch' }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.source }}" ]; then
+            ARGS="--source ${{ github.event.inputs.source }}"
+          fi
+          scripts/fetch.sh $ARGS
+
+      - name: Generate stage
+        if: ${{ env.STAGE == 'all' || env.STAGE == 'generate' }}
+        run: scripts/generate.sh --days "${{ github.event.inputs.days || '14' }}"
