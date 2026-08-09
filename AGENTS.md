@@ -37,6 +37,16 @@ Conventions for anyone (human or AI agent) working in this repository.
 - Times are Europe/Warsaw; all-day items use `date`, timed items use `datetime`.
 - Prefer standard-library typing syntax (`X | None`); the code targets 3.12+.
 
+## Linting / pre-commit
+
+- Run `pre-commit install` once; hooks run on every commit. Config lives in
+  `.pre-commit-config.yaml`, ruff settings in `pyproject.toml`.
+- Hooks: ruff (lint + `--fix`), ruff-format, shellcheck (Docker), YAML/TOML
+  checks, and GitHub-workflow schema validation. Keep the tree ruff-clean and
+  formatted; do not hand-format around the formatter.
+- The shellcheck hook needs Docker. `shellcheck-py` is intentionally avoided
+  because it requires a Python built with `lzma`.
+
 ## Verifying changes
 
 ```bash

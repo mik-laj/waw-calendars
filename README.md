@@ -63,6 +63,20 @@ python -m waw_calendars.generate_ics --in events --out calendars --days 14
 Useful flags: `--source <id>` (fetch one source), `-v` (debug logging),
 `--throttle <seconds>` (fetch politeness delay).
 
+### Pre-commit
+
+Linters run via [pre-commit](https://pre-commit.com/) (ruff lint + format,
+shellcheck, YAML/workflow validation). Enable the git hook once:
+
+```bash
+pip install pre-commit
+pre-commit install
+pre-commit run --all-files   # optional: run against the whole repo
+```
+
+The shellcheck hook uses Docker (needs Docker running); everything else is
+self-contained.
+
 The `scripts/fetch.sh` and `scripts/generate.sh` wrappers do the same but read
 and write the `data` branch via a git worktree, then commit and push. A single
 GitHub Actions workflow (`.github/workflows/pipeline.yml`) runs the fetch stage

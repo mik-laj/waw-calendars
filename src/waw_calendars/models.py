@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import hashlib
 from dataclasses import dataclass, field
-from datetime import date, datetime, timezone
+from datetime import UTC, date, datetime
 from typing import Any
 
 WARSAW_TZ = "Europe/Warsaw"
@@ -54,7 +54,7 @@ class Event:
 
     def __post_init__(self) -> None:
         if self.fetched_at is None:
-            self.fetched_at = datetime.now(timezone.utc)
+            self.fetched_at = datetime.now(UTC)
 
     @property
     def uid(self) -> str:
@@ -67,7 +67,8 @@ class Event:
         if self.url:
             key = f"{self.source}|{self.url.strip().lower()}"
         else:
-            key = f"{self.source}|{self.title.strip().lower()}|{_fmt_dt(self.start) or ''}"
+            start = _fmt_dt(self.start) or ""
+            key = f"{self.source}|{self.title.strip().lower()}|{start}"
         digest = hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
         return f"{digest}@waw-calendars"
 

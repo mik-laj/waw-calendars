@@ -71,10 +71,14 @@ class HttpClient:
                 resp.raise_for_status()
                 return resp.text
             except (httpx.HTTPError, httpx.StreamError) as exc:
-                wait = min(2 ** attempt, 10)
+                wait = min(2**attempt, 10)
                 log.warning(
                     "GET %s failed (attempt %d/%d): %s — waiting %ds",
-                    url, attempt, self._retries, exc, wait,
+                    url,
+                    attempt,
+                    self._retries,
+                    exc,
+                    wait,
                 )
                 if attempt < self._retries:
                     time.sleep(wait)

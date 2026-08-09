@@ -28,12 +28,22 @@ def _setup_logging(verbose: bool) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Fetch events into YAML store.")
-    parser.add_argument("--out", type=Path, default=Path("events"),
-                        help="output directory for <source>.yaml files")
-    parser.add_argument("--source", action="append", dest="sources",
-                        choices=sorted(FETCHERS), help="limit to given source(s)")
-    parser.add_argument("--throttle", type=float, default=0.5,
-                        help="min seconds between HTTP requests")
+    parser.add_argument(
+        "--out",
+        type=Path,
+        default=Path("events"),
+        help="output directory for <source>.yaml files",
+    )
+    parser.add_argument(
+        "--source",
+        action="append",
+        dest="sources",
+        choices=sorted(FETCHERS),
+        help="limit to given source(s)",
+    )
+    parser.add_argument(
+        "--throttle", type=float, default=0.5, help="min seconds between HTTP requests"
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
 

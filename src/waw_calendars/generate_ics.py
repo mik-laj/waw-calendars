@@ -94,8 +94,12 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Generate .ics from YAML store.")
     parser.add_argument("--in", dest="src", type=Path, default=Path("events"))
     parser.add_argument("--out", type=Path, default=Path("calendars"))
-    parser.add_argument("--days", type=int, default=DEFAULT_DAYS,
-                        help="window length in days (from today)")
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=DEFAULT_DAYS,
+        help="window length in days (from today)",
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
 
