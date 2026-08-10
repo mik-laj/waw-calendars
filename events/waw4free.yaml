@@ -1,5 +1,5 @@
 source: waw4free
-count: 552
+count: 631
 events:
 - uid: 22a45a72f99a1109@waw-calendars
   source: waw4free
@@ -13,7 +13,7 @@ events:
   categories:
   - dla dzieci
   - inne
-  fetched_at: '2026-08-10T04:00:14.831734+00:00'
+  fetched_at: '2026-08-10T10:00:16.151453+00:00'
 - uid: b684f08f140e1755@waw-calendars
   source: waw4free
   title: Bezpłatna wypożyczalnia kajaków w Parku Żerańskim
@@ -25,7 +25,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:14.833113+00:00'
+  fetched_at: '2026-08-10T10:00:16.152801+00:00'
 - uid: 27fcc0809544dd8e@waw-calendars
   source: waw4free
   title: Rodzinna Strefa Sportu pod Pałacem Kultury i Nauki
@@ -39,7 +39,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-08-10T04:00:14.832322+00:00'
+  fetched_at: '2026-08-10T10:00:16.152020+00:00'
 - uid: 6c8c595033db96ca@waw-calendars
   source: waw4free
   title: Godzina gry w darta za darmo
@@ -52,7 +52,7 @@ events:
   categories:
   - sport
   - inne
-  fetched_at: '2026-08-10T04:00:14.834182+00:00'
+  fetched_at: '2026-08-10T10:00:16.153879+00:00'
 - uid: fd9f551e48c145d6@waw-calendars
   source: waw4free
   title: Strefa Nowych Technologii w Centralnym Przystanku Historia
@@ -66,7 +66,7 @@ events:
   - dla dzieci
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:14.833650+00:00'
+  fetched_at: '2026-08-10T10:00:16.153348+00:00'
 - uid: 585bcd64bc3057f0@waw-calendars
   source: waw4free
   title: BEZPŁATNE KAJAKI - Jeziorko Kamionkowskie
@@ -78,7 +78,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:14.834670+00:00'
+  fetched_at: '2026-08-10T10:00:16.154363+00:00'
 - uid: f64e349f3f9fd912@waw-calendars
   source: waw4free
   title: Filmowa Stolica Lata 2026 - bezpłatne plenerowe pokazy filmowe
@@ -90,7 +90,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.835181+00:00'
+  fetched_at: '2026-08-10T10:00:16.154864+00:00'
 - uid: 7c342085bff2cdb8@waw-calendars
   source: waw4free
   title: Przedstawienia plenerowe Teatru POLONIA i OCH-Teatru
@@ -105,7 +105,7 @@ events:
   - dla młodzieży
   - dla seniorów
   - teatr
-  fetched_at: '2026-08-10T04:00:14.831197+00:00'
+  fetched_at: '2026-08-10T10:00:16.150913+00:00'
 - uid: caba6e757f9e9aa5@waw-calendars
   source: waw4free
   title: Rajdowe Lato w Mieście w Blue City
@@ -119,7 +119,7 @@ events:
   - dla dzieci
   - sport
   - inne
-  fetched_at: '2026-08-10T04:00:10.768105+00:00'
+  fetched_at: '2026-08-10T10:00:11.768485+00:00'
 - uid: 9c74c2e1e4d86641@waw-calendars
   source: waw4free
   title: Wspólna zabawa z psami
@@ -131,40 +131,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:14.835665+00:00'
-- uid: 4551dea201ecd041@waw-calendars
-  source: waw4free
-  title: Warsztaty, kino, koncerty i spotkania w Mercedes-Benz Studio Warszawa
-  start: '2026-08-05'
-  end: '2026-08-09'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-155649-warsztaty-kino-koncerty-i-spotkania-w-mercedes-benz-studio-warszawa
-  description: null
-  categories:
-  - dla dzieci
-  - dla młodzieży
-  - film
-  - impreza
-  - koncert
-  - sport
-  - warsztaty
-  - wystawa
-  - inne
-  fetched_at: '2026-08-09T16:00:07.698014+00:00'
-- uid: e31812fc01fc0e86@waw-calendars
-  source: waw4free
-  title: NOCNY MARKET 2026
-  start: '2026-08-06'
-  end: '2026-08-09'
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-152006-nocny-market-2026
-  description: null
-  categories:
-  - impreza
-  - inne
-  fetched_at: '2026-08-09T16:00:07.698513+00:00'
+  fetched_at: '2026-08-10T10:00:16.155373+00:00'
 - uid: 04718f876fb02516@waw-calendars
   source: waw4free
   title: ART Market - Poland
@@ -177,19 +144,6 @@ events:
   categories:
   - targi, garażówka
   fetched_at: '2026-08-09T16:00:07.700013+00:00'
-- uid: cc071084b8bcdbca@waw-calendars
-  source: waw4free
-  title: Bajkowe wakacje z Teatrem Baza
-  start: '2026-08-08'
-  end: '2026-08-09'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-156155-bajkowe-wakacje-z-teatrem-baza
-  description: null
-  categories:
-  - dla dzieci
-  - teatr
-  fetched_at: '2026-08-09T16:00:07.699523+00:00'
 - uid: 14a37aaa7d5583f7@waw-calendars
   source: waw4free
   title: Otwarte Mistrzostwa Warszawy w szachach
@@ -202,7 +156,7 @@ events:
   categories:
   - sport
   - inne
-  fetched_at: '2026-08-10T04:00:10.769327+00:00'
+  fetched_at: '2026-08-10T10:00:11.769533+00:00'
 - uid: d05e47d2cc676a71@waw-calendars
   source: waw4free
   title: Cyberbezpieczeństwo, AI, podstawy programowania – darmowy kurs zawodowy dla młodzieży w wieku
@@ -217,7 +171,7 @@ events:
   - dla młodzieży
   - warsztaty
   - wykład
-  fetched_at: '2026-08-10T04:00:08.647118+00:00'
+  fetched_at: '2026-08-10T10:00:09.467205+00:00'
 - uid: 94e638e29028889b@waw-calendars
   source: waw4free
   title: Warsztaty rękodzieła podczas naszych półkolonii w Kiepskiej Formie
@@ -230,7 +184,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.643387+00:00'
+  fetched_at: '2026-08-10T10:00:10.541472+00:00'
 - uid: 95ac4dc8fbbf3023@waw-calendars
   source: waw4free
   title: Angielski z Ciocią Pegą w Prochowni Żoliborz [godz. 17:00 i 17:30]
@@ -243,7 +197,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.154121+00:00'
+  fetched_at: '2026-08-10T10:00:08.980476+00:00'
 - uid: 959241dfa0386fa5@waw-calendars
   source: waw4free
   title: Beach Korfball - Plaża Poniatówka
@@ -256,7 +210,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.160272+00:00'
+  fetched_at: '2026-08-10T10:00:08.986590+00:00'
 - uid: 9ac28e8f856f7733@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia pickleballa dla początkujących w Warszawie [godz. 14:00, 15:00, 16:00, 17:00]
@@ -270,7 +224,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-08-10T04:00:08.150659+00:00'
+  fetched_at: '2026-08-10T10:00:08.977528+00:00'
 - uid: d1311073bf92dd7a@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe na Targówku | nordic walking
@@ -283,7 +237,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.159769+00:00'
+  fetched_at: '2026-08-10T10:00:08.986126+00:00'
 - uid: 3829f15fa40a72a0@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży
@@ -297,7 +251,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-08-10T04:00:08.147189+00:00'
+  fetched_at: '2026-08-10T10:00:08.974487+00:00'
 - uid: 806db59efd0f894c@waw-calendars
   source: waw4free
   title: Biodróż - letni spacer przyrodniczy
@@ -312,7 +266,7 @@ events:
   - dla młodzieży
   - dla seniorów
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.150146+00:00'
+  fetched_at: '2026-08-10T10:00:08.977026+00:00'
 - uid: cd4e03e9157d8d37@waw-calendars
   source: waw4free
   title: Było i ni ma. Spacer po przedwojennym centrum Warszawy
@@ -324,7 +278,20 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.162430+00:00'
+  fetched_at: '2026-08-10T10:00:08.987492+00:00'
+- uid: b6298507a96de8e8@waw-calendars
+  source: waw4free
+  title: 'Cuda-Wianki: zajęcia plastyczne dla dzieci'
+  start: '2026-08-11'
+  end: '2026-08-11'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-155604-cuda-wianki-zajecia-plastyczne-dla-dzieci
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:08.974998+00:00'
 - uid: cba9c5dab87ed6d0@waw-calendars
   source: waw4free
   title: CUDowne kino plenerowe | „Mama” (reż. Xavier Dolan)
@@ -336,7 +303,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.167709+00:00'
+  fetched_at: '2026-08-10T10:00:08.993353+00:00'
 - uid: cd794130881003f5@waw-calendars
   source: waw4free
   title: Czytelnia Klimatyczna Wolnego Jazdowa x Wspólny Pokój
@@ -348,7 +315,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:08.160700+00:00'
+  fetched_at: '2026-08-10T10:00:08.987044+00:00'
 - uid: cc12423b0876253e@waw-calendars
   source: waw4free
   title: DOKUMENTALNE KINO LETNIE W ELEKTROWNI POWIŚLE
@@ -360,7 +327,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.163860+00:00'
+  fetched_at: '2026-08-10T10:00:08.989727+00:00'
 - uid: feb605ec1cf445bd@waw-calendars
   source: waw4free
   title: HALO, KINO TĘCZA! Pokaz filmu „Miodowy miesiąc"
@@ -372,7 +339,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.166359+00:00'
+  fetched_at: '2026-08-10T10:00:08.992391+00:00'
 - uid: 7c6dfae26bac4226@waw-calendars
   source: waw4free
   title: Handpanowe wtorki w Restauracji Bliski Wschód!
@@ -384,7 +351,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:08.157810+00:00'
+  fetched_at: '2026-08-10T10:00:08.984276+00:00'
 - uid: fafe609b0bc130a2@waw-calendars
   source: waw4free
   title: Harce z Malcem - bezpłatne zajęcia dla dzieci i opiekunów
@@ -398,7 +365,7 @@ events:
   - dla dzieci
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:08.648189+00:00'
+  fetched_at: '2026-08-10T10:00:09.468263+00:00'
 - uid: d4781359203437a4@waw-calendars
   source: waw4free
   title: Joga na deskach
@@ -411,7 +378,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.154587+00:00'
+  fetched_at: '2026-08-10T10:00:08.980984+00:00'
 - uid: 3454dc30c2bbb3b3@waw-calendars
   source: waw4free
   title: Joga w Parku Skaryszewskim - sezon.3
@@ -424,7 +391,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.156690+00:00'
+  fetched_at: '2026-08-10T10:00:08.983326+00:00'
 - uid: d55c82711b97a598@waw-calendars
   source: waw4free
   title: Kino Letnie ALESTO
@@ -436,7 +403,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.168280+00:00'
+  fetched_at: '2026-08-10T10:00:08.993805+00:00'
 - uid: de7bb374a2740ca1@waw-calendars
   source: waw4free
   title: KINO MUZYCZNEGO NIEPOKOJU | plenerowe pokazy na Placu Zabaw // CINEMA OF MUSICAL UNREST
@@ -449,7 +416,7 @@ events:
   categories:
   - film
   - po angielsku
-  fetched_at: '2026-08-10T04:00:08.165368+00:00'
+  fetched_at: '2026-08-10T10:00:08.991190+00:00'
 - uid: 8f9f8033f323f8fc@waw-calendars
   source: waw4free
   title: Kino plenerowe Ikony Kina pod Chmurką
@@ -461,7 +428,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.164311+00:00'
+  fetched_at: '2026-08-10T10:00:08.990233+00:00'
 - uid: 59d07137d8fa62ad@waw-calendars
   source: waw4free
   title: KINO PLENEROWE w Parku Pięciu Sióstr
@@ -473,7 +440,19 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.139473+00:00'
+  fetched_at: '2026-08-10T10:00:08.966818+00:00'
+- uid: 3f81fa8b1fd487ad@waw-calendars
+  source: waw4free
+  title: Klub Sportowy Team ZabieganeDni - z nami możesz więcej
+  start: '2026-08-11'
+  end: '2026-08-11'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157009-klub-sportowy-team-zabieganedni-z-nami-mozesz-wiecej
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:08.989265+00:00'
 - uid: 3f9e26ccfcfb300b@waw-calendars
   source: waw4free
   title: Koneser Stand-upu 2026 | Bartosz Zalewski, Patryk Gosiński
@@ -485,7 +464,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:08.138722+00:00'
+  fetched_at: '2026-08-10T10:00:08.966073+00:00'
 - uid: 34289bb876d03ffb@waw-calendars
   source: waw4free
   title: Lato z Maluchem w Murowance
@@ -499,7 +478,7 @@ events:
   - dla dzieci
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:08.147677+00:00'
+  fetched_at: '2026-08-10T10:00:08.975527+00:00'
 - uid: 2692260fde46571c@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | Listy z Wilczej (2025)'
@@ -511,7 +490,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.165882+00:00'
+  fetched_at: '2026-08-10T10:00:08.991629+00:00'
 - uid: 15b9512cd3ae7d0e@waw-calendars
   source: waw4free
   title: Mongolia –bezdrożny kraj nomadów
@@ -523,7 +502,19 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-08-10T04:00:08.163408+00:00'
+  fetched_at: '2026-08-10T10:00:08.988833+00:00'
+- uid: 92ed38a230df2b78@waw-calendars
+  source: waw4free
+  title: 'Męski Most nad Wisłą Warszawa #53 - Cykliczne spotkania dla mężczyzn'
+  start: '2026-08-11'
+  end: '2026-08-11'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157005-meski-most-nad-wisla-warszawa-53-cykliczne-spotkania-dla-mezczyzn
+  description: null
+  categories:
+  - spotkanie
+  fetched_at: '2026-08-10T10:00:08.987949+00:00'
 - uid: aed73fd6c27755a1@waw-calendars
   source: waw4free
   title: Nordic Walking w Parku Praskim
@@ -536,7 +527,7 @@ events:
   categories:
   - spacer lub rower
   - sport
-  fetched_at: '2026-08-10T04:00:08.158743+00:00'
+  fetched_at: '2026-08-10T10:00:08.985203+00:00'
 - uid: fefd83824317ac0e@waw-calendars
   source: waw4free
   title: 'Pies bez problemu: wakacyjne spotkanie z psiakami!'
@@ -548,7 +539,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.148179+00:00'
+  fetched_at: '2026-08-10T10:00:08.975990+00:00'
 - uid: aa540c26cfab2c05@waw-calendars
   source: waw4free
   title: Pokaz dzieł Olgi Boznańskiej  w MNW
@@ -560,7 +551,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:08.146670+00:00'
+  fetched_at: '2026-08-10T10:00:08.973993+00:00'
 - uid: 33f5f3d18d88db96@waw-calendars
   source: waw4free
   title: Pokaz Plenerowy "Znaki Pana Śliwki"
@@ -573,7 +564,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-08-10T04:00:08.168802+00:00'
+  fetched_at: '2026-08-10T10:00:08.994275+00:00'
 - uid: 545c8fb353f281c2@waw-calendars
   source: waw4free
   title: 'PRO-JA-KTOWANIE x Karolina Sulej | MODA: ubranie z algorytmu'
@@ -585,7 +576,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-08-10T04:00:08.162921+00:00'
+  fetched_at: '2026-08-10T10:00:08.988381+00:00'
 - uid: 666ec5d5fa477d9f@waw-calendars
   source: waw4free
   title: Public Speaking practice at Poland’s First Toastmasters
@@ -599,7 +590,7 @@ events:
   - spotkanie
   - warsztaty
   - po angielsku
-  fetched_at: '2026-08-10T04:00:08.157218+00:00'
+  fetched_at: '2026-08-10T10:00:08.983842+00:00'
 - uid: 66dfa068ba11a986@waw-calendars
   source: waw4free
   title: 'Rembertowskie Kino pod Gwiazdami: Poszukiwany, Poszukiwana'
@@ -611,7 +602,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.166812+00:00'
+  fetched_at: '2026-08-10T10:00:08.992884+00:00'
 - uid: 5fafd7d362d4276b@waw-calendars
   source: waw4free
   title: Skarby Muzeum Narodowego w Warszawie cz. 1
@@ -624,7 +615,7 @@ events:
   categories:
   - spacer lub rower
   - wystawa
-  fetched_at: '2026-08-10T04:00:08.153117+00:00'
+  fetched_at: '2026-08-10T10:00:08.979338+00:00'
 - uid: 94496f854c13a041@waw-calendars
   source: waw4free
   title: Spacer śladami Powstania Warszawskiego - zdobycie gmachu PAST i Powstańcza Kronika Filmowa
@@ -636,7 +627,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.138252+00:00'
+  fetched_at: '2026-08-10T10:00:08.965589+00:00'
 - uid: 80fcc2e2ce257fc3@waw-calendars
   source: waw4free
   title: Spotlight Tuesday / ONI
@@ -649,7 +640,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:08.164768+00:00'
+  fetched_at: '2026-08-10T10:00:08.990696+00:00'
 - uid: a9e5e37977a587e0@waw-calendars
   source: waw4free
   title: Ursynów Zawsze w Formie - Zdrowy Kręgosłup
@@ -662,7 +653,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.155747+00:00'
+  fetched_at: '2026-08-10T10:00:08.982401+00:00'
 - uid: dadef9432028042d@waw-calendars
   source: waw4free
   title: WAKACYJNY OGRÓD WYOBRAŹNI - Ekoprzygoda | Skarby w Puszce
@@ -674,7 +665,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.151570+00:00'
+  fetched_at: '2026-08-10T10:00:08.977994+00:00'
 - uid: 8d4030d231b433c9@waw-calendars
   source: waw4free
   title: Warsztat kontaktu z ciałem i naturą w lesie w Lesie Kabackim | część cyklu Wellness Navigators
@@ -686,7 +677,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.156224+00:00'
+  fetched_at: '2026-08-10T10:00:08.982856+00:00'
 - uid: 6bee0f622c993266@waw-calendars
   source: waw4free
   title: Warsztaty malowania figurek w FORGE vol. 2
@@ -699,7 +690,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.155225+00:00'
+  fetched_at: '2026-08-10T10:00:08.981455+00:00'
 - uid: 24cf7e1f099a72bb@waw-calendars
   source: waw4free
   title: Wolski Run Club
@@ -711,7 +702,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:08.159302+00:00'
+  fetched_at: '2026-08-10T10:00:08.985636+00:00'
 - uid: 186206eba9f8ac1b@waw-calendars
   source: waw4free
   title: Wpadnij na łąkę | O poznawaniu innych przez spontaniczne działanie – warsztaty z improwizacji
@@ -725,7 +716,7 @@ events:
   - dla młodzieży
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.152568+00:00'
+  fetched_at: '2026-08-10T10:00:08.978496+00:00'
 - uid: e7d8b56a54f8f5c5@waw-calendars
   source: waw4free
   title: Wszystkie dzieci nasze są – edycja 7
@@ -739,7 +730,7 @@ events:
   - dla dzieci
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.153619+00:00'
+  fetched_at: '2026-08-10T10:00:08.979995+00:00'
 - uid: 62ff94860629048f@waw-calendars
   source: waw4free
   title: Yokohama Warsaw Open
@@ -751,7 +742,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:08.149523+00:00'
+  fetched_at: '2026-08-10T10:00:08.976432+00:00'
 - uid: 025ddacd92accd08@waw-calendars
   source: waw4free
   title: Śródmiejskie bieganie dla każdego
@@ -763,7 +754,20 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:08.158278+00:00'
+  fetched_at: '2026-08-10T10:00:08.984705+00:00'
+- uid: 4160c3162b993a96@waw-calendars
+  source: waw4free
+  title: Żoliborz Oficerski - spacer z przewodnikiem
+  start: '2026-08-11'
+  end: '2026-08-11'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-157020-zoliborz-oficerski-spacer-z-przewodnikiem
+  description: null
+  categories:
+  - dla seniorów
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:08.981940+00:00'
 - uid: 3020235fef7ba031@waw-calendars
   source: waw4free
   title: 7:30 am JOGA w YUTORI zajęcia bezpłatne
@@ -776,7 +780,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.648663+00:00'
+  fetched_at: '2026-08-10T10:00:09.468734+00:00'
 - uid: 6c9cc9519a1b49ac@waw-calendars
   source: waw4free
   title: BEZPŁATNE OCZYSZCZANIE WODOROWE TWARZY
@@ -788,7 +792,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:08.639829+00:00'
+  fetched_at: '2026-08-10T10:00:09.460223+00:00'
 - uid: 5799dd8e7a041184@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia plenerowe w środy [godz. 18:00, 19:00 i 20:00]
@@ -802,7 +806,20 @@ events:
   - dla dzieci
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.662759+00:00'
+  fetched_at: '2026-08-10T10:00:09.482455+00:00'
+- uid: 75444ecf818634fa@waw-calendars
+  source: waw4free
+  title: DAJ SZANSĘ SCENIE I PRZEMÓW! 780. spotkanie Toastmasters Leaders
+  start: '2026-08-12'
+  end: '2026-08-12'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157019-daj-szanse-scenie-i-przemow-780-spotkanie-toastmasters-leaders
+  description: null
+  categories:
+  - stand-up, kabaret, impro
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:09.484213+00:00'
 - uid: 88428d2a3f4e344c@waw-calendars
   source: waw4free
   title: Darmowa Zumba® na Bielanach
@@ -815,7 +832,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.666005+00:00'
+  fetched_at: '2026-08-10T10:00:09.486538+00:00'
 - uid: f88816296c03563c@waw-calendars
   source: waw4free
   title: Frisbee na Mokotowie - otwarte granie dla każdego
@@ -827,7 +844,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:08.652927+00:00'
+  fetched_at: '2026-08-10T10:00:09.472810+00:00'
 - uid: 473ca83f5c6e7bec@waw-calendars
   source: waw4free
   title: Jak odciągnąć dziecko od ekranu bez kłótni? - warsztaty dla rodziców z dziećmi (10+)
@@ -841,7 +858,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.655489+00:00'
+  fetched_at: '2026-08-10T10:00:09.475193+00:00'
 - uid: 9aa375af3f4b294a@waw-calendars
   source: waw4free
   title: Joga z Olą w Prochowni Żoliborz
@@ -854,7 +871,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.658430+00:00'
+  fetched_at: '2026-08-10T10:00:09.478249+00:00'
 - uid: dc14597a415a8485@waw-calendars
   source: waw4free
   title: KINO LETNIE LOLKA - Oscarowe Środy 2026
@@ -866,7 +883,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.641046+00:00'
+  fetched_at: '2026-08-10T10:00:09.461457+00:00'
 - uid: 149f3a1f8e5e51c1@waw-calendars
   source: waw4free
   title: KINO LETNIE „HISTORIE DO ZOBACZENIA”
@@ -878,7 +895,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.654010+00:00'
+  fetched_at: '2026-08-10T10:00:09.473691+00:00'
 - uid: 98d389ed9f0c7c05@waw-calendars
   source: waw4free
   title: Kino plenerowe na Łące POLIN
@@ -890,7 +907,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.673601+00:00'
+  fetched_at: '2026-08-10T10:00:09.490662+00:00'
 - uid: f22deb152e36d48e@waw-calendars
   source: waw4free
   title: KINO SAMOCHODOWE - FESTIWAL LOTTO KINO LETNIE
@@ -902,7 +919,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.149437+00:00'
+  fetched_at: '2026-08-10T10:00:10.051863+00:00'
 - uid: b13e97d1d0942d0e@waw-calendars
   source: waw4free
   title: 'Klub Podróżników: Madera'
@@ -915,7 +932,7 @@ events:
   categories:
   - slajdowisko
   - spotkanie
-  fetched_at: '2026-08-10T04:00:08.661344+00:00'
+  fetched_at: '2026-08-10T10:00:09.481074+00:00'
 - uid: 3da35dd228730d8f@waw-calendars
   source: waw4free
   title: Letni Festiwal Dziekanka 2026
@@ -927,7 +944,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:08.659383+00:00'
+  fetched_at: '2026-08-10T10:00:09.479134+00:00'
 - uid: a62ebe9c718618a5@waw-calendars
   source: waw4free
   title: LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU
@@ -940,7 +957,7 @@ events:
   categories:
   - dla dzieci
   - film
-  fetched_at: '2026-08-10T04:00:08.656921+00:00'
+  fetched_at: '2026-08-10T10:00:09.477296+00:00'
 - uid: f8ce66fdf0e61a3b@waw-calendars
   source: waw4free
   title: LIVE JAZZ W SAMO CENTRUM
@@ -952,7 +969,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:08.667872+00:00'
+  fetched_at: '2026-08-10T10:00:09.488412+00:00'
 - uid: dffb734c1a6eb680@waw-calendars
   source: waw4free
   title: 'Między Stronami: Dyskusyjny Klub Książki („Hanka. Opowieść o awansie" Macieja Jakubowiaka)'
@@ -965,7 +982,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:08.654493+00:00'
+  fetched_at: '2026-08-10T10:00:09.474166+00:00'
 - uid: 50e3f441be9ecad3@waw-calendars
   source: waw4free
   title: 'Męski Krąg #10 – Męski Most'
@@ -977,7 +994,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:08.661795+00:00'
+  fetched_at: '2026-08-10T10:00:09.481502+00:00'
 - uid: 480fd71a972f8ebc@waw-calendars
   source: waw4free
   title: Nie dotykaj moich płyt x Jan Młynarski
@@ -989,7 +1006,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:08.665534+00:00'
+  fetched_at: '2026-08-10T10:00:09.486072+00:00'
 - uid: b91a568283959c6c@waw-calendars
   source: waw4free
   title: NIE WYRZUCAJ - PRZERÓB |  warsztaty recyklingowe - odnawianie starych foteli
@@ -1001,7 +1018,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.652481+00:00'
+  fetched_at: '2026-08-10T10:00:09.472363+00:00'
 - uid: d05023b2042174a9@waw-calendars
   source: waw4free
   title: Niewidzialna dyskryminacja. Kiedy krzywda nie zostawia śladów. Warsztat 1/6 z cyklu SENSytywe
@@ -1014,7 +1031,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.656450+00:00'
+  fetched_at: '2026-08-10T10:00:09.476558+00:00'
 - uid: ada2d3bd3d8a9f12@waw-calendars
   source: waw4free
   title: O krok od Rzymu. Szybkie wypady w ciekawe zakątki wokół Wiecznego
@@ -1026,7 +1043,7 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-08-10T04:00:08.665100+00:00'
+  fetched_at: '2026-08-10T10:00:09.485611+00:00'
 - uid: e93d187e0e7379ab@waw-calendars
   source: waw4free
   title: Otwarte spotkanie planszówkowe
@@ -1038,7 +1055,19 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:08.651584+00:00'
+  fetched_at: '2026-08-10T10:00:09.471479+00:00'
+- uid: 8ff2fcc9ba5bc985@waw-calendars
+  source: waw4free
+  title: Park Ujazdowski - eklektyzm, kaligrafia, krajobraz w pigułce
+  start: '2026-08-12'
+  end: '2026-08-12'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157014-park-ujazdowski-eklektyzm-kaligrafia-krajobraz-w-pigulce
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:09.475639+00:00'
 - uid: 2ed42b83616b65a2@waw-calendars
   source: waw4free
   title: Piłkarska frajda dla najmłodszych!
@@ -1052,7 +1081,7 @@ events:
   - dla dzieci
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.659917+00:00'
+  fetched_at: '2026-08-10T10:00:09.479621+00:00'
 - uid: 520c173df2ae0c81@waw-calendars
   source: waw4free
   title: POLSKA W GHANIE | Fotografia przyrody | Wystawa pokonkursowa Fotograf Roku 2026| Wystawa Okregu
@@ -1065,7 +1094,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:08.664649+00:00'
+  fetched_at: '2026-08-10T10:00:09.485173+00:00'
 - uid: 4e1fd45d73fefa2f@waw-calendars
   source: waw4free
   title: Praktyki uważności - medytacja na co dzień
@@ -1077,7 +1106,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:08.657677+00:00'
+  fetched_at: '2026-08-10T10:00:09.477761+00:00'
 - uid: 8087751fe197ed6c@waw-calendars
   source: waw4free
   title: QIGONG W MUZEUM | prozdrowotne ćwiczenia dla każdego
@@ -1091,7 +1120,7 @@ events:
   - dla seniorów
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.649931+00:00'
+  fetched_at: '2026-08-10T10:00:09.469997+00:00'
 - uid: 5af35702bf8ab409@waw-calendars
   source: waw4free
   title: Rowerowy Tajemniczy Ogród na Elektoralnej
@@ -1105,7 +1134,7 @@ events:
   - spacer lub rower
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.660423+00:00'
+  fetched_at: '2026-08-10T10:00:09.480151+00:00'
 - uid: a012bddc15d3a4c9@waw-calendars
   source: waw4free
   title: Spacer - Kopiec Powstania Warszawskiego
@@ -1117,7 +1146,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.660870+00:00'
+  fetched_at: '2026-08-10T10:00:09.480584+00:00'
 - uid: 9307851a527a7da2@waw-calendars
   source: waw4free
   title: Spacer architektoniczny z Grzegorzem Miką
@@ -1129,7 +1158,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.662270+00:00'
+  fetched_at: '2026-08-10T10:00:09.481964+00:00'
 - uid: e300992299da2780@waw-calendars
   source: waw4free
   title: 'Spacer: Szlachetne zdrowie. Medycyna i zdrowie w dawnej Warszawie'
@@ -1141,7 +1170,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.654949+00:00'
+  fetched_at: '2026-08-10T10:00:09.474605+00:00'
 - uid: cbccbe0eb2e3b55a@waw-calendars
   source: waw4free
   title: Spotkanie z Vladimirem 518 i Janem Zajíčkiem oraz film „Architektura CSSR 58–89”
@@ -1154,7 +1183,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-08-10T04:00:08.671028+00:00'
+  fetched_at: '2026-08-10T10:00:09.489800+00:00'
 - uid: 3c1accbf552b9b02@waw-calendars
   source: waw4free
   title: 'STAND-UP COMEDY: ROBERT ŻUCHOWSKI'
@@ -1166,7 +1195,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:08.666925+00:00'
+  fetched_at: '2026-08-10T10:00:09.487458+00:00'
 - uid: e38a92f6a619ae9b@waw-calendars
   source: waw4free
   title: SUMMER STREET MUSIC
@@ -1178,7 +1207,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:08.653376+00:00'
+  fetched_at: '2026-08-10T10:00:09.473252+00:00'
 - uid: bd919b668725d6d5@waw-calendars
   source: waw4free
   title: Tajemnice Nowego Miasta
@@ -1190,7 +1219,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:08.663227+00:00'
+  fetched_at: '2026-08-10T10:00:09.482953+00:00'
 - uid: d9038c4639e1af57@waw-calendars
   source: waw4free
   title: Trenuj z Amnesty! Bezpłatne treningi z doświadczonym trenerem na Agrykoli
@@ -1203,7 +1232,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.663689+00:00'
+  fetched_at: '2026-08-10T10:00:09.483662+00:00'
 - uid: d31599b88e69534d@waw-calendars
   source: waw4free
   title: Ursynowski Nordic Walking 2026 | Grupy środowe
@@ -1218,7 +1247,7 @@ events:
   - spacer lub rower
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.651142+00:00'
+  fetched_at: '2026-08-10T10:00:09.471045+00:00'
 - uid: b30e83174b7f1372@waw-calendars
   source: waw4free
   title: V Letni Przegląd Filmowy Pod Wspólnym Niebem | "Cycle Mahesh", "Świat jest rodziną"
@@ -1232,7 +1261,7 @@ events:
   - film
   - spotkanie
   - wykład
-  fetched_at: '2026-08-10T04:00:08.667426+00:00'
+  fetched_at: '2026-08-10T10:00:09.487975+00:00'
 - uid: 2d90eb1353c751f5@waw-calendars
   source: waw4free
   title: WAKACYJNY OGRÓD WYOBRAŹNI - Ekoprzygoda | Eko-Stworki
@@ -1244,7 +1273,40 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.652034+00:00'
+  fetched_at: '2026-08-10T10:00:09.471933+00:00'
+- uid: b2000a8a8ba3551d@waw-calendars
+  source: waw4free
+  title: WARSztatownia - wakacyjne spotkania dla dzieci
+  start: '2026-08-12'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-154627-warsztatownia-wakacyjne-spotkania-dla-dzieci
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:10.543537+00:00'
+- uid: 4551dea201ecd041@waw-calendars
+  source: waw4free
+  title: Warsztaty, kino, koncerty i spotkania w Mercedes-Benz Studio Warszawa
+  start: '2026-08-12'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155649-warsztaty-kino-koncerty-i-spotkania-w-mercedes-benz-studio-warszawa
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - film
+  - impreza
+  - koncert
+  - sport
+  - warsztaty
+  - wystawa
+  - inne
+  fetched_at: '2026-08-10T10:00:11.770493+00:00'
 - uid: 7e41ed2498343237@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Trening ze studiem Smartass
@@ -1256,7 +1318,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-08-10T04:00:08.658929+00:00'
+  fetched_at: '2026-08-10T10:00:09.478681+00:00'
 - uid: 707b8c95c7428566@waw-calendars
   source: waw4free
   title: Wolskie Lato z Musicalem
@@ -1269,7 +1331,7 @@ events:
   categories:
   - koncert
   - teatr
-  fetched_at: '2026-08-10T04:00:08.668790+00:00'
+  fetched_at: '2026-08-10T10:00:09.488890+00:00'
 - uid: 29afd92b383ead34@waw-calendars
   source: waw4free
   title: Zajęcia jogi w plenerze w Parku Górczewska [godz. 17:30 i 18:40]
@@ -1282,7 +1344,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.656002+00:00'
+  fetched_at: '2026-08-10T10:00:09.476131+00:00'
 - uid: 32f3b31bfb4acd14@waw-calendars
   source: waw4free
   title: Zajęcia z futbolu australijskiego
@@ -1295,7 +1357,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:08.666473+00:00'
+  fetched_at: '2026-08-10T10:00:09.487025+00:00'
 - uid: 25ffe74836eb4eb7@waw-calendars
   source: waw4free
   title: Zaćmienie Słońca i Noc Spadających Gwiazd
@@ -1307,7 +1369,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:08.640308+00:00'
+  fetched_at: '2026-08-10T10:00:09.460685+00:00'
 - uid: d0f1184b4441d98c@waw-calendars
   source: waw4free
   title: ŚRODOWE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU
@@ -1319,7 +1381,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.672367+00:00'
+  fetched_at: '2026-08-10T10:00:09.490231+00:00'
 - uid: cf26083e0f585c28@waw-calendars
   source: waw4free
   title: „Bird” Letnie kino plenerowe w Pałacyku
@@ -1331,7 +1393,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:08.669966+00:00'
+  fetched_at: '2026-08-10T10:00:09.489322+00:00'
 - uid: 75dcca68ba9a6404@waw-calendars
   source: waw4free
   title: „Radio z widokiem” – reportaże dźwiękowe w Parku Edukacyjnym Muzeum Historii Polski
@@ -1344,7 +1406,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:08.664176+00:00'
+  fetched_at: '2026-08-10T10:00:09.484676+00:00'
 - uid: 408c356c019f5819@waw-calendars
   source: waw4free
   title: 3. Czwartek Kreatywności nad Wisłą
@@ -1356,7 +1418,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-08-10T04:00:09.162980+00:00'
+  fetched_at: '2026-08-10T10:00:10.065324+00:00'
 - uid: dd515b1b599ede9c@waw-calendars
   source: waw4free
   title: Aktywne czwartki - joga, cross i Tai Chi na Polu Mokotowskim
@@ -1369,7 +1431,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.158064+00:00'
+  fetched_at: '2026-08-10T10:00:10.059480+00:00'
 - uid: 38a2ad0578fdd2f0@waw-calendars
   source: waw4free
   title: Bezpłatna gimnastyka usprawniająca dla osób z niepełnosprawnościami
@@ -1382,7 +1444,7 @@ events:
   categories:
   - sport
   - dla seniorów
-  fetched_at: '2026-08-10T04:00:09.153797+00:00'
+  fetched_at: '2026-08-10T10:00:10.056635+00:00'
 - uid: 6ec96de2bc766ce8@waw-calendars
   source: waw4free
   title: Bezpłatne treningi „Trenuj ze stołecznymi policjantami”
@@ -1395,7 +1457,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.156000+00:00'
+  fetched_at: '2026-08-10T10:00:10.057611+00:00'
 - uid: 8fe1a94baa141b0c@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia latino solo dla osób z niepełnosprawnościami
@@ -1408,7 +1470,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-08-10T04:00:09.151914+00:00'
+  fetched_at: '2026-08-10T10:00:10.054304+00:00'
 - uid: a8968c9633fefd10@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe na Targówku | pilates
@@ -1421,7 +1483,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.150960+00:00'
+  fetched_at: '2026-08-10T10:00:10.053365+00:00'
 - uid: 702f0e6528161eaf@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe na Targówku | zdrowy kręgosłup
@@ -1434,7 +1496,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.152873+00:00'
+  fetched_at: '2026-08-10T10:00:10.055255+00:00'
 - uid: 7b2e50f39df04a0d@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży
@@ -1448,7 +1510,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-08-10T04:00:09.149951+00:00'
+  fetched_at: '2026-08-10T10:00:10.052367+00:00'
 - uid: 7962c643e0cf7118@waw-calendars
   source: waw4free
   title: Bezpłatny fitness na Plaży Romantycznej
@@ -1461,7 +1523,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.165795+00:00'
+  fetched_at: '2026-08-10T10:00:10.068548+00:00'
 - uid: 72e2a8539114dd77@waw-calendars
   source: waw4free
   title: Bond. James Bond... | Kino plenerowe | NO TIME TO DIE w Ale Sztuka
@@ -1473,7 +1535,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.173876+00:00'
+  fetched_at: '2026-08-10T10:00:10.076310+00:00'
 - uid: 30d21d7615d6e98a@waw-calendars
   source: waw4free
   title: Byłaś serca biciem w CAFE BIBA - Wieczór artystyczny pamięci Andrzeja Zauchy
@@ -1485,7 +1547,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:09.169490+00:00'
+  fetched_at: '2026-08-10T10:00:10.071292+00:00'
 - uid: 211de37173792267@waw-calendars
   source: waw4free
   title: Czwartkowe oprowadzania po aktualnych wystawach Zachęty
@@ -1497,7 +1559,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:09.153326+00:00'
+  fetched_at: '2026-08-10T10:00:10.056177+00:00'
 - uid: b421eea05ca39a41@waw-calendars
   source: waw4free
   title: Dzień Pamięci Starówki
@@ -1511,7 +1573,7 @@ events:
   - koncert
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:09.155023+00:00'
+  fetched_at: '2026-08-10T10:00:10.057151+00:00'
 - uid: 2706ee6bdddef188@waw-calendars
   source: waw4free
   title: Gimnastyka usprawniająca stawy i kręgosłup, rozciągająca, modelująca sylwetkę
@@ -1524,7 +1586,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-08-10T04:00:09.152396+00:00'
+  fetched_at: '2026-08-10T10:00:10.054787+00:00'
 - uid: 455e4cd812b5bb7f@waw-calendars
   source: waw4free
   title: GQ SUMMER STAGE by GQ Poland | Koncert Leona Krześniaka
@@ -1536,7 +1598,19 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:09.169984+00:00'
+  fetched_at: '2026-08-10T10:00:10.072221+00:00'
+- uid: 3ffd993a8dac15ff@waw-calendars
+  source: waw4free
+  title: Górka Kazurka - czwartkowe treningi z Team ZabieganeDni
+  start: '2026-08-13'
+  end: '2026-08-13'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157010-gorka-kazurka-czwartkowe-treningi-z-team-zabieganedni
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:10.071719+00:00'
 - uid: c4aa53a285e87142@waw-calendars
   source: waw4free
   title: HALO, KINO TĘCZA! Pokaz filmu „Człowiek z Marmuru"
@@ -1548,7 +1622,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.172324+00:00'
+  fetched_at: '2026-08-10T10:00:10.074911+00:00'
 - uid: 6fe10275914d1080@waw-calendars
   source: waw4free
   title: Joga w Parku Skaryszewskim - sezon.3
@@ -1561,7 +1635,19 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.160583+00:00'
+  fetched_at: '2026-08-10T10:00:10.062950+00:00'
+- uid: 46035f721e8bb8da@waw-calendars
+  source: waw4free
+  title: Karaoke w Galerii Młociny z Magdaleną Smati
+  start: '2026-08-13'
+  end: '2026-08-13'
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-157033-karaoke-w-galerii-mlociny-z-magdalena-smati
+  description: null
+  categories:
+  - impreza
+  fetched_at: '2026-08-10T10:00:10.066671+00:00'
 - uid: d753a6246d77066c@waw-calendars
   source: waw4free
   title: 'Koncert: Daria Salamon & Arkadiusz Nowiński'
@@ -1573,7 +1659,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:09.164825+00:00'
+  fetched_at: '2026-08-10T10:00:10.067592+00:00'
 - uid: 54c1335057bc5ddf@waw-calendars
   source: waw4free
   title: Koncerty relaksacyjne
@@ -1586,7 +1672,7 @@ events:
   categories:
   - koncert
   - inne
-  fetched_at: '2026-08-10T04:00:09.164380+00:00'
+  fetched_at: '2026-08-10T10:00:10.067157+00:00'
 - uid: dcb69f9fa1b027e9@waw-calendars
   source: waw4free
   title: Lado w Mieście 2026
@@ -1599,7 +1685,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:09.170466+00:00'
+  fetched_at: '2026-08-10T10:00:10.072681+00:00'
 - uid: d4516c56e777479b@waw-calendars
   source: waw4free
   title: Letnia akademia Slack Line
@@ -1612,7 +1698,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.156991+00:00'
+  fetched_at: '2026-08-10T10:00:10.058529+00:00'
 - uid: 2d576524740b87ef@waw-calendars
   source: waw4free
   title: Letnie potańcówki na Kołowej
@@ -1626,7 +1712,7 @@ events:
   - dla seniorów
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.162535+00:00'
+  fetched_at: '2026-08-10T10:00:10.064892+00:00'
 - uid: 732a037c0bef55e9@waw-calendars
   source: waw4free
   title: Live Juke Box - piosenki na życzenie w Arcade Bee Hala Koszyki
@@ -1639,7 +1725,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:09.167427+00:00'
+  fetched_at: '2026-08-10T10:00:10.069964+00:00'
 - uid: e96a1ec2c005ae61@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | Anioł stróż (2025)'
@@ -1651,7 +1737,20 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.171865+00:00'
+  fetched_at: '2026-08-10T10:00:10.074382+00:00'
+- uid: e31812fc01fc0e86@waw-calendars
+  source: waw4free
+  title: NOCNY MARKET 2026
+  start: '2026-08-13'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-152006-nocny-market-2026
+  description: null
+  categories:
+  - impreza
+  - inne
+  fetched_at: '2026-08-10T10:00:11.771076+00:00'
 - uid: 2022f81758c121ed@waw-calendars
   source: waw4free
   title: Nordic Walking w Parku Praskim
@@ -1664,7 +1763,7 @@ events:
   categories:
   - spacer lub rower
   - sport
-  fetched_at: '2026-08-10T04:00:09.161561+00:00'
+  fetched_at: '2026-08-10T10:00:10.063924+00:00'
 - uid: f40590ee0844827f@waw-calendars
   source: waw4free
   title: Perła Stand-up na plaży Saska! Jakub Poczęty
@@ -1676,7 +1775,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:09.170919+00:00'
+  fetched_at: '2026-08-10T10:00:10.073143+00:00'
 - uid: 66c73225f589399b@waw-calendars
   source: waw4free
   title: Plenerowe zajęcia Zumba Fitness na Białołęce
@@ -1689,7 +1788,20 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.165327+00:00'
+  fetched_at: '2026-08-10T10:00:10.068084+00:00'
+- uid: 124ddd54f33ec9f6@waw-calendars
+  source: waw4free
+  title: Pokaz filmu "A więc wojna!" i spotkanie z reżyserem
+  start: '2026-08-13'
+  end: '2026-08-13'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157013-pokaz-filmu-a-wiec-wojna-i-spotkanie-z-rezyserem
+  description: null
+  categories:
+  - film
+  - spotkanie
+  fetched_at: '2026-08-10T10:00:10.061493+00:00'
 - uid: caadcd135a8d2359@waw-calendars
   source: waw4free
   title: Poznajmy Ogród Saski i okolice!
@@ -1701,7 +1813,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.151426+00:00'
+  fetched_at: '2026-08-10T10:00:10.053838+00:00'
 - uid: cd307d9098222789@waw-calendars
   source: waw4free
   title: Rdzenne światy Meksyku vol.2
@@ -1714,7 +1826,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:09.159134+00:00'
+  fetched_at: '2026-08-10T10:00:10.061034+00:00'
 - uid: 2a9e2ef571baee76@waw-calendars
   source: waw4free
   title: 'Rembertowskie Kino pod Gwiazdami: Ozi: Głos Deszczowego Lasu'
@@ -1728,7 +1840,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - film
-  fetched_at: '2026-08-10T04:00:09.172829+00:00'
+  fetched_at: '2026-08-10T10:00:10.075408+00:00'
 - uid: a6d433b1402d4f18@waw-calendars
   source: waw4free
   title: Seniorzy na Łące – gimnastyka metodą Moshe Feldenkraisa
@@ -1742,7 +1854,7 @@ events:
   - dla seniorów
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.150466+00:00'
+  fetched_at: '2026-08-10T10:00:10.052893+00:00'
 - uid: 09dde3eeb72dabb0@waw-calendars
   source: waw4free
   title: Spacer śladami Powstania Warszawskiego - Walki o kościół Świętego Krzyża oraz na Powiślu
@@ -1754,7 +1866,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.166940+00:00'
+  fetched_at: '2026-08-10T10:00:10.069473+00:00'
 - uid: 440f716ccb1ffc24@waw-calendars
   source: waw4free
   title: Strefa Chillout – czwartki bez spiny
@@ -1767,7 +1879,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:09.157547+00:00'
+  fetched_at: '2026-08-10T10:00:10.059018+00:00'
 - uid: 862f00adcff12a76@waw-calendars
   source: waw4free
   title: Taneczne popołudnie w parku
@@ -1783,7 +1895,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:09.158626+00:00'
+  fetched_at: '2026-08-10T10:00:10.060049+00:00'
 - uid: cb2145177bdc2bfd@waw-calendars
   source: waw4free
   title: Teatr w Kosmosie - wakacyjne spektakle w parku. NA GRANICY SZALEŃSTWA
@@ -1796,7 +1908,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-08-10T04:00:09.166420+00:00'
+  fetched_at: '2026-08-10T10:00:10.069033+00:00'
 - uid: 42e39d657c695438@waw-calendars
   source: waw4free
   title: Thursday Oldie Goldie / Rock’n’Roll by Just Simon
@@ -1809,7 +1921,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:09.171408+00:00'
+  fetched_at: '2026-08-10T10:00:10.073606+00:00'
 - uid: a890181f9b095e4d@waw-calendars
   source: waw4free
   title: Ultimate frisbee dla początkujących
@@ -1824,7 +1936,7 @@ events:
   - dla młodzieży
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.159654+00:00'
+  fetched_at: '2026-08-10T10:00:10.062037+00:00'
 - uid: 4388c6b6c5796267@waw-calendars
   source: waw4free
   title: Ursynowski Nordic Walking 2026 | Grupa czwartkowa
@@ -1838,7 +1950,7 @@ events:
   - spacer lub rower
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.161094+00:00'
+  fetched_at: '2026-08-10T10:00:10.063444+00:00'
 - uid: 0f3db62b4edeb582@waw-calendars
   source: waw4free
   title: Vymianka Ubrań
@@ -1851,7 +1963,7 @@ events:
   categories:
   - targi, garażówka
   - inne
-  fetched_at: '2026-08-10T04:00:09.163899+00:00'
+  fetched_at: '2026-08-10T10:00:10.066235+00:00'
 - uid: 04f6d7ef8a687b90@waw-calendars
   source: waw4free
   title: WAKACYJNY OGRÓD WYOBRAŹNI - Ekoprzygoda | Drugie Życie dla Ubrań
@@ -1863,7 +1975,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.156465+00:00'
+  fetched_at: '2026-08-10T10:00:10.058067+00:00'
 - uid: 30dea84370e43ad6@waw-calendars
   source: waw4free
   title: Warsztaty kolażu analogowego inspirowane poezją ukraińskiego artysty Volodymyra Gabudy
@@ -1875,7 +1987,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.168881+00:00'
+  fetched_at: '2026-08-10T10:00:10.070857+00:00'
 - uid: 61059c04c627d8d7@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Kino pod gwiazdami - Dreams (2026)
@@ -1887,7 +1999,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.173392+00:00'
+  fetched_at: '2026-08-10T10:00:10.075873+00:00'
 - uid: 96d4ca958a8c5171@waw-calendars
   source: waw4free
   title: Wymianka Ciuchowa w Gnieździe
@@ -1900,7 +2012,7 @@ events:
   categories:
   - targi, garażówka
   - inne
-  fetched_at: '2026-08-10T04:00:09.162038+00:00'
+  fetched_at: '2026-08-10T10:00:10.064383+00:00'
 - uid: 1c2cddb5ceb60a2b@waw-calendars
   source: waw4free
   title: ZABAWA SŁOWEM – MAŁE FORMY LITERACKIE
@@ -1912,7 +2024,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.160109+00:00'
+  fetched_at: '2026-08-10T10:00:10.062463+00:00'
 - uid: 52898ed0e2a6ee93@waw-calendars
   source: waw4free
   title: 'Zabytkowe cmentarze Warszawy: Cmentarz Ewangelicko-Reformowany [darmowy spacer z przewodnikiem]'
@@ -1924,7 +2036,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.163424+00:00'
+  fetched_at: '2026-08-10T10:00:10.065751+00:00'
 - uid: 3a7fbc991b601db8@waw-calendars
   source: waw4free
   title: 'Śródmieście Mindfulness: Centrum Spokoju'
@@ -1936,7 +2048,20 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:09.167876+00:00'
+  fetched_at: '2026-08-10T10:00:10.070401+00:00'
+- uid: 894df366b9209b3d@waw-calendars
+  source: waw4free
+  title: Żoliborz Oficerski - spacer z przewodnikiem
+  start: '2026-08-13'
+  end: '2026-08-13'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-157021-zoliborz-oficerski-spacer-z-przewodnikiem
+  description: null
+  categories:
+  - dla seniorów
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:10.055718+00:00'
 - uid: c99ea0bdf2c0cbdd@waw-calendars
   source: waw4free
   title: 07 zgłoś się - wieczorny spacer tropem porucznika Borewicza
@@ -1948,7 +2073,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.647288+00:00'
+  fetched_at: '2026-08-10T10:00:10.553728+00:00'
 - uid: 120a5309359b58a0@waw-calendars
   source: waw4free
   title: Ambientowe leżanki
@@ -1960,7 +2085,33 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:09.646366+00:00'
+  fetched_at: '2026-08-10T10:00:10.552362+00:00'
+- uid: 5468499a935e42fa@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia plenerowe w piątki [godz. 18:00, 19:00 i 20:00]
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-156779-bezplatne-zajecia-plenerowe-w-piatki-godz-18-00-19-00-i-20-00
+  description: null
+  categories:
+  - dla dzieci
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:10.554249+00:00'
+- uid: 7b6dce4b27c554c6@waw-calendars
+  source: waw4free
+  title: Filmowy Dziedziniec FINA 2026
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-153891-filmowy-dziedziniec-fina-2026
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:10.567375+00:00'
 - uid: d5edd767166322aa@waw-calendars
   source: waw4free
   title: FREE RAVE x HELLGATE
@@ -1972,7 +2123,20 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:09.652971+00:00'
+  fetched_at: '2026-08-10T10:00:10.568373+00:00'
+- uid: 3ff3c9c88ff82305@waw-calendars
+  source: waw4free
+  title: Frisbee na Bielanach - otwarte granie dla każdego
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-152499-frisbee-na-bielanach-otwarte-granie-dla-kazdego
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:10.551918+00:00'
 - uid: 33e6df3b2aac9fd5@waw-calendars
   source: waw4free
   title: GIMLET live/ Carol Markovsky / DJ Gris
@@ -1986,7 +2150,7 @@ events:
   - impreza
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:09.652530+00:00'
+  fetched_at: '2026-08-10T10:00:10.565720+00:00'
 - uid: ba31331d702ad8aa@waw-calendars
   source: waw4free
   title: Kaprysy fortuny. Spacer w okolicach Ogrodu Saskiego
@@ -1998,7 +2162,31 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.646829+00:00'
+  fetched_at: '2026-08-10T10:00:10.553277+00:00'
+- uid: 0d56acc316305e96@waw-calendars
+  source: waw4free
+  title: Karaoke z ArtVabik na Wolnej Woli!
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-157031-karaoke-z-artvabik-na-wolnej-woli
+  description: null
+  categories:
+  - impreza
+  fetched_at: '2026-08-10T10:00:10.563182+00:00'
+- uid: d1fc1684c990c4a3@waw-calendars
+  source: waw4free
+  title: Kino letnie we Włochach
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Włochy, Warszawa
+  url: https://waw4free.pl/wydarzenie-154409-kino-letnie-we-wlochach
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:10.563620+00:00'
 - uid: 92cd372a74787a6c@waw-calendars
   source: waw4free
   title: Kino plenerowe na Woli - Ostatnia sesja w Paryżu
@@ -2010,7 +2198,31 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.652026+00:00'
+  fetched_at: '2026-08-10T10:00:10.565225+00:00'
+- uid: 06f1efda72e11493@waw-calendars
+  source: waw4free
+  title: Kino plenerowe w Parku Szczęśliwickim
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-153576-kino-plenerowe-w-parku-szczesliwickim
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:10.566187+00:00'
+- uid: d0446d723c3f5fe4@waw-calendars
+  source: waw4free
+  title: Kino Plenerowe w Ursusie
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Ursus, Warszawa
+  url: https://waw4free.pl/wydarzenie-152805-kino-plenerowe-w-ursusie
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:10.566617+00:00'
 - uid: e540614ef036e1e9@waw-calendars
   source: waw4free
   title: Klub Książki Ucieczka
@@ -2024,7 +2236,7 @@ events:
   - dla młodzieży
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:09.645126+00:00'
+  fetched_at: '2026-08-10T10:00:10.550162+00:00'
 - uid: 7995f129d7138295@waw-calendars
   source: waw4free
   title: Kolorowy bączek - bezpłatne animacje dla dzieci w wieku 1-3 lat i opiekunów
@@ -2037,7 +2249,19 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.643873+00:00'
+  fetched_at: '2026-08-10T10:00:10.545948+00:00'
+- uid: 8baefc0497f8fd9d@waw-calendars
+  source: waw4free
+  title: Koncert na Plaży Rusałka - Zespół F.I.L.M.
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-157037-koncert-na-plazy-rusalka-zespol-f-i-l-m
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-08-10T10:00:10.560285+00:00'
 - uid: 0313d099b65ed346@waw-calendars
   source: waw4free
   title: Koncert na tarasie | W MAYA
@@ -2049,7 +2273,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:09.648243+00:00'
+  fetched_at: '2026-08-10T10:00:10.557740+00:00'
 - uid: addd6666832a9c4d@waw-calendars
   source: waw4free
   title: Letnie Brzmienie Bielan 2026 | Mind, Body & Soul
@@ -2061,7 +2285,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:09.648678+00:00'
+  fetched_at: '2026-08-10T10:00:10.558726+00:00'
 - uid: b7f655d0e1ee3490@waw-calendars
   source: waw4free
   title: PIASECZYŃSKIE KINO PLENEROWE - "F1"
@@ -2073,7 +2297,22 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:09.651581+00:00'
+  fetched_at: '2026-08-10T10:00:10.564682+00:00'
+- uid: c7d107835fdc3918@waw-calendars
+  source: waw4free
+  title: Planszówkowe Piątki Pileckiego - KLUB GIER HISTORYCZNYCH
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155216-planszowkowe-piatki-pileckiego-klub-gier-historycznych
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - spotkanie
+  - inne
+  fetched_at: '2026-08-10T10:00:10.549611+00:00'
 - uid: ac41f3944f61d64d@waw-calendars
   source: waw4free
   title: Poznajmy Łazienki Królewskie!
@@ -2085,7 +2324,32 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:09.644332+00:00'
+  fetched_at: '2026-08-10T10:00:10.547129+00:00'
+- uid: 07651e84c7edfdb0@waw-calendars
+  source: waw4free
+  title: PUB QUIZ W CHONO
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-155134-pub-quiz-w-chono
+  description: null
+  categories:
+  - inne
+  fetched_at: '2026-08-10T10:00:10.556737+00:00'
+- uid: 7f8f3148c3a4295b@waw-calendars
+  source: waw4free
+  title: Reksio, Uszatek i spółka - co rodzice czytali, albo słuchali, gdy byli mali
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156336-reksio-uszatek-i-spolka-co-rodzice-czytali-albo-sluchali-gdy-byli-mali
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:10.546612+00:00'
 - uid: bf5da3d6e1121c0c@waw-calendars
   source: waw4free
   title: Salsa pod gołym niebem
@@ -2098,7 +2362,43 @@ events:
   categories:
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.649240+00:00'
+  fetched_at: '2026-08-10T10:00:10.560757+00:00'
+- uid: f5023bc75a305a1e@waw-calendars
+  source: waw4free
+  title: Sladem warszawskiej prostytucji
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156998-sladem-warszawskiej-prostytucji
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:10.559758+00:00'
+- uid: 07d0ca5aabfbc99b@waw-calendars
+  source: waw4free
+  title: Spacer po Starych Powązkach
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-156996-spacer-po-starych-powazkach
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:10.547590+00:00'
+- uid: c399e792ed9fe5d0@waw-calendars
+  source: waw4free
+  title: Spacer po Łazienkach Królewskich
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156997-spacer-po-lazienkach-krolewskich
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:10.549076+00:00'
 - uid: eee0fa593da480ce@waw-calendars
   source: waw4free
   title: Spotkanie z pieśnią żołnierską przy ognisku
@@ -2112,7 +2412,7 @@ events:
   - koncert
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:09.650655+00:00'
+  fetched_at: '2026-08-10T10:00:10.561844+00:00'
 - uid: fa74482c1298e874@waw-calendars
   source: waw4free
   title: Sąsiedzki Klub Filmowy - pokaz filmu niespodzianki
@@ -2126,7 +2426,32 @@ events:
   - film
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:09.647795+00:00'
+  fetched_at: '2026-08-10T10:00:10.554743+00:00'
+- uid: 19b95767ba6f78b7@waw-calendars
+  source: waw4free
+  title: Ursynowskie Lato Filmowe 2026 - Kino Pod Chmurką - Kopa Cwila
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-154835-ursynowskie-lato-filmowe-2026-kino-pod-chmurka-kopa-cwila
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:10.564075+00:00'
+- uid: 26cee9d248704fcc@waw-calendars
+  source: waw4free
+  title: Ursynów Zawsze w Formie - Zdrowy Kręgosłup
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-153397-ursynow-zawsze-w-formie-zdrowy-kregoslup
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:10.555697+00:00'
 - uid: d361417acc868236@waw-calendars
   source: waw4free
   title: W DZIEŃ GORĄCEGO LATA zawitajcie do Ale Sztuka na imprezkę
@@ -2138,7 +2463,19 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:09.651145+00:00'
+  fetched_at: '2026-08-10T10:00:10.562645+00:00'
+- uid: cb969a86d6b9b58f@waw-calendars
+  source: waw4free
+  title: W piątki gram w gry na Laurowej
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Białołęka, Warszawa
+  url: https://waw4free.pl/wydarzenie-156720-w-piatki-gram-w-gry-na-laurowej
+  description: null
+  categories:
+  - inne
+  fetched_at: '2026-08-10T10:00:10.551075+00:00'
 - uid: 738e896da0d0695f@waw-calendars
   source: waw4free
   title: Warsaw GroundZero - Community Starts Here
@@ -2152,7 +2489,7 @@ events:
   - spotkanie
   - inne
   - po angielsku
-  fetched_at: '2026-08-10T04:00:09.649760+00:00'
+  fetched_at: '2026-08-10T10:00:10.561302+00:00'
 - uid: c8e1f99f00757623@waw-calendars
   source: waw4free
   title: Wodniackie porządki w Dzielnicy Wisła 2026
@@ -2164,7 +2501,97 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:09.645900+00:00'
+  fetched_at: '2026-08-10T10:00:10.550610+00:00'
+- uid: 9a5bd0d6a9db0bd3@waw-calendars
+  source: waw4free
+  title: Zatańczmy jeszcze raz! | POTAŃCÓWKA DKŚ na Foksal 11
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-154642-zatanczmy-jeszcze-raz-potancowka-dks-na-foksal-11
+  description: null
+  categories:
+  - impreza
+  fetched_at: '2026-08-10T10:00:10.552827+00:00'
+- uid: b9ac15ea7585632e@waw-calendars
+  source: waw4free
+  title: Żoliborz Oficerski - spacer z przewodnikiem
+  start: '2026-08-14'
+  end: '2026-08-14'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-157022-zoliborz-oficerski-spacer-z-przewodnikiem
+  description: null
+  categories:
+  - dla seniorów
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:10.548379+00:00'
+- uid: 4ee6c791953d88b2@waw-calendars
+  source: waw4free
+  title: „Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026
+  start: '2026-08-14'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-150549-wielkie-serca-spektakle-w-multimedialnym-parku-fontann-2026
+  description: null
+  categories:
+  - dla dzieci
+  - inne
+  fetched_at: '2026-08-10T10:00:11.011304+00:00'
+- uid: cc071084b8bcdbca@waw-calendars
+  source: waw4free
+  title: Bajkowe wakacje z Teatrem Baza
+  start: '2026-08-15'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156155-bajkowe-wakacje-z-teatrem-baza
+  description: null
+  categories:
+  - dla dzieci
+  - teatr
+  fetched_at: '2026-08-10T10:00:11.771596+00:00'
+- uid: ec5259ca777c75dc@waw-calendars
+  source: waw4free
+  title: Bezpłatna joga w ogrodzie na dachu Galerii Północnej
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Białołęka, Warszawa
+  url: https://waw4free.pl/wydarzenie-155213-bezplatna-joga-w-ogrodzie-na-dachu-galerii-polnocnej
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.036325+00:00'
+- uid: ee88fe2d8e0f796c@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia jogi
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-151770-bezplatne-zajecia-jogi
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.033038+00:00'
+- uid: d569075bf4593201@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia jogi pod chmurką w Parku Bródnowskim
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-152362-bezplatne-zajecia-jogi-pod-chmurka-w-parku-brodnowskim
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.025149+00:00'
 - uid: 9487031277fd2516@waw-calendars
   source: waw4free
   title: Bitwa Warszawska – „Wielka kombinacja” – „Cud nad Wisłą” . Wykład prof. Grzegorza Nowika [godz.
@@ -2178,7 +2605,20 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-08-10T04:00:10.608493+00:00'
+  fetched_at: '2026-08-10T10:00:11.041274+00:00'
+- uid: b424959bdc3ce7ca@waw-calendars
+  source: waw4free
+  title: BOKS DLA WSZYSTKICH w Śródmieściu
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-152067-boks-dla-wszystkich-w-srodmiesciu
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.046153+00:00'
 - uid: a328e4ad7123a8e6@waw-calendars
   source: waw4free
   title: CHARYTATYWNY JARMARK ŚWIĘTEGO JACKA
@@ -2192,7 +2632,7 @@ events:
   - impreza
   - targi, garażówka
   - inne
-  fetched_at: '2026-08-10T04:00:10.769890+00:00'
+  fetched_at: '2026-08-10T10:00:11.772174+00:00'
 - uid: 06fd71df077d3657@waw-calendars
   source: waw4free
   title: Darmowy dyżur krawcowej
@@ -2205,7 +2645,7 @@ events:
   categories:
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:10.606995+00:00'
+  fetched_at: '2026-08-10T10:00:11.039471+00:00'
 - uid: 70dcd2e6fefd8bdd@waw-calendars
   source: waw4free
   title: Darmowy dyżur naprawczy elektronika i małe AGD
@@ -2218,7 +2658,7 @@ events:
   categories:
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:10.602005+00:00'
+  fetched_at: '2026-08-10T10:00:11.030397+00:00'
 - uid: 587e3d8f2f741a1b@waw-calendars
   source: waw4free
   title: Eko jednorożce na patyku - darmowy warsztat [godz. 12:00 lub14:00]
@@ -2231,7 +2671,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.606514+00:00'
+  fetched_at: '2026-08-10T10:00:11.038972+00:00'
 - uid: 9b5d5599562b0a2e@waw-calendars
   source: waw4free
   title: Festiwal Plaż x Plaża SASKA
@@ -2245,7 +2685,7 @@ events:
   - impreza
   - koncert
   - inne
-  fetched_at: '2026-08-10T04:00:10.612858+00:00'
+  fetched_at: '2026-08-10T10:00:11.052748+00:00'
 - uid: 907317635b5ce2f6@waw-calendars
   source: waw4free
   title: Festiwal Radykalna Kultura Romska | Kitchen Orchestra with Iva Bittová
@@ -2257,7 +2697,19 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.618626+00:00'
+  fetched_at: '2026-08-10T10:00:11.062015+00:00'
+- uid: c28776f02524f558@waw-calendars
+  source: waw4free
+  title: Gimnastyka dla osób z niepełnosprawnościami
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-149632-gimnastyka-dla-osob-z-niepelnosprawnosciami
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.024000+00:00'
 - uid: 1fce0a5b97ab4ab1@waw-calendars
   source: waw4free
   title: HOUSE BAND / Soul’n’Voices feat. Taraska & Beata Orbik / Dj Victor Rayo
@@ -2271,7 +2723,7 @@ events:
   - impreza
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.622383+00:00'
+  fetched_at: '2026-08-10T10:00:11.069621+00:00'
 - uid: 12ad86ef8c1c7451@waw-calendars
   source: waw4free
   title: Impro draka za Zwrotnikiem Raka - komedia improwizowana grupy NOPLANDO
@@ -2284,7 +2736,33 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-08-10T04:00:10.621063+00:00'
+  fetched_at: '2026-08-10T10:00:11.065433+00:00'
+- uid: d1465a2d9238979a@waw-calendars
+  source: waw4free
+  title: IV FESTIWAL PADEREWSKI NA UJAZDOWIE
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156887-iv-festiwal-paderewski-na-ujazdowie
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-08-10T10:00:11.056071+00:00'
+- uid: 880a5b74848534ec@waw-calendars
+  source: waw4free
+  title: Jam session na Wolnej Woli!
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-157032-jam-session-na-wolnej-woli
+  description: null
+  categories:
+  - impreza
+  - koncert
+  - inne
+  fetched_at: '2026-08-10T10:00:11.064515+00:00'
 - uid: f4aeab9e1228e104@waw-calendars
   source: waw4free
   title: JAZZ NA STARÓWCE 2026 | Tribute Miles Davies Orchestra
@@ -2296,7 +2774,108 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.620155+00:00'
+  fetched_at: '2026-08-10T10:00:11.064022+00:00'
+- uid: 2b9fe0684105b4cc@waw-calendars
+  source: waw4free
+  title: Joga dla każdego w naturze
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-157015-joga-dla-kazdego-w-naturze
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.023531+00:00'
+- uid: f458b95072910785@waw-calendars
+  source: waw4free
+  title: Joga na Sadach Żoliborskich
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-152347-joga-na-sadach-zoliborskich
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.024474+00:00'
+- uid: d8621251388ff1e9@waw-calendars
+  source: waw4free
+  title: Joga na trawie w Pokoju na lato
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-154533-joga-na-trawie-w-pokoju-na-lato
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.033509+00:00'
+- uid: 033635186a7e4b2b@waw-calendars
+  source: waw4free
+  title: JOGA NA TRAWIE | ELEKTROWNIA POWIŚLE x CHANGE STUDIO
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155299-joga-na-trawie-elektrownia-powisle-x-change-studio
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.028706+00:00'
+- uid: ecbb3fdc1e256770@waw-calendars
+  source: waw4free
+  title: Joga w trawie - plenerowe zajęcia w Parku przy Bażantarni
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-153942-joga-w-trawie-plenerowe-zajecia-w-parku-przy-bazantarni
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.026152+00:00'
+- uid: cd1bbd72cb6e0554@waw-calendars
+  source: waw4free
+  title: Kino Letnie na Cytadeli
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-155641-kino-letnie-na-cytadeli
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.069125+00:00'
+- uid: 1c1b29c0fb56aca5@waw-calendars
+  source: waw4free
+  title: Kino letnie we Włochach
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Włochy, Warszawa
+  url: https://waw4free.pl/wydarzenie-154410-kino-letnie-we-wlochach
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.066496+00:00'
+- uid: 4da9e74a66593259@waw-calendars
+  source: waw4free
+  title: Kino na leżakach | Praga-Północ
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-155606-kino-na-lezakach-praga-polnoc
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.066964+00:00'
 - uid: 72281103b501e511@waw-calendars
   source: waw4free
   title: Koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego w Łazienkach Królewskich
@@ -2308,7 +2887,22 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.616503+00:00'
+  fetched_at: '2026-08-10T10:00:11.059368+00:00'
+- uid: a369f7f645aaacc2@waw-calendars
+  source: waw4free
+  title: Lekkoatletyka dla wszystkich - rodzinne treningi na Raabego z Team ZabieganeDni
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157011-lekkoatletyka-dla-wszystkich-rodzinne-treningi-na-raabego-z-team-zabieganedni
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - sport
+  fetched_at: '2026-08-10T10:00:11.032182+00:00'
 - uid: 7a526d7b4774fb36@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | Wartość sentymentalna (2025)'
@@ -2320,7 +2914,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:10.621606+00:00'
+  fetched_at: '2026-08-10T10:00:11.066041+00:00'
 - uid: a17f2849eb2c0d8c@waw-calendars
   source: waw4free
   title: Muzyczna medytacja z mantrami
@@ -2332,7 +2926,21 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:10.619115+00:00'
+  fetched_at: '2026-08-10T10:00:11.062966+00:00'
+- uid: ec898b74cb5df900@waw-calendars
+  source: waw4free
+  title: Muzyczne spotkania sąsiedzkie
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-152534-muzyczne-spotkania-sasiedzkie
+  description: null
+  categories:
+  - dla dzieci
+  - koncert
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.056913+00:00'
 - uid: a75aab2f705e4f71@waw-calendars
   source: waw4free
   title: MUZYCZNE SPOTKANIA Z LEGENDAMI SŁOWIAŃSKIMI NA PRADZE-POŁUDNIE
@@ -2347,7 +2955,7 @@ events:
   - koncert
   - teatr
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.611840+00:00'
+  fetched_at: '2026-08-10T10:00:11.052241+00:00'
 - uid: 0bbb790f5429baf7@waw-calendars
   source: waw4free
   title: Old into new - przemaluj swój stary ciuch
@@ -2359,7 +2967,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.604808+00:00'
+  fetched_at: '2026-08-10T10:00:11.034425+00:00'
 - uid: d17b9ff2816e9658@waw-calendars
   source: waw4free
   title: Piknik historyczny w Święto Wojska Polskiego
@@ -2376,7 +2984,7 @@ events:
   - impreza
   - koncert
   - inne
-  fetched_at: '2026-08-10T04:00:10.610350+00:00'
+  fetched_at: '2026-08-10T10:00:11.048139+00:00'
 - uid: 896ebb4c224cd3d4@waw-calendars
   source: waw4free
   title: Pilates anti-aging nad Wisłą
@@ -2389,7 +2997,19 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.601054+00:00'
+  fetched_at: '2026-08-10T10:00:11.025633+00:00'
+- uid: 8e2097c74d32c398@waw-calendars
+  source: waw4free
+  title: Plażowe granie w ultimate frisbee
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-152497-plazowe-granie-w-ultimate-frisbee
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.047146+00:00'
 - uid: 2015ee4d71601499@waw-calendars
   source: waw4free
   title: POL-ENG Super Quiz Warsaw (PUB QUIZ)
@@ -2404,7 +3024,7 @@ events:
   - spotkanie
   - inne
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.592427+00:00'
+  fetched_at: '2026-08-10T10:00:11.011901+00:00'
 - uid: bcb06f43d4e6c53c@waw-calendars
   source: waw4free
   title: Poranny spacer szlakiem legend warszawskich
@@ -2416,7 +3036,37 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.601521+00:00'
+  fetched_at: '2026-08-10T10:00:11.029743+00:00'
+- uid: 612fe2c7ee62726d@waw-calendars
+  source: waw4free
+  title: Potańcówka Międzypokoleniowa w Parku Hassów
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Ursus, Warszawa
+  url: https://waw4free.pl/wydarzenie-155548-potancowka-miedzypokoleniowa-w-parku-hassow
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - impreza
+  fetched_at: '2026-08-10T10:00:11.060840+00:00'
+- uid: 35ed83612ab0ed7c@waw-calendars
+  source: waw4free
+  title: Potańcówka na Ochocie dla wszystkich pokoleń
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-156609-potancowka-na-ochocie-dla-wszystkich-pokolen
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - impreza
+  fetched_at: '2026-08-10T10:00:11.061537+00:00'
 - uid: accbf5c84b076a42@waw-calendars
   source: waw4free
   title: Powstańcy, Legioniści, Żołnierze. Od walki o wolność do służby dla państwa | spacer z przewodnikiem
@@ -2431,7 +3081,7 @@ events:
   - spacer lub rower
   - wykład
   - wystawa
-  fetched_at: '2026-08-10T04:00:10.609525+00:00'
+  fetched_at: '2026-08-10T10:00:11.043752+00:00'
 - uid: db086a2e32b82198@waw-calendars
   source: waw4free
   title: Powązki Wojskowe w rocznicę Bitwy Warszawskiej
@@ -2443,7 +3093,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.615171+00:00'
+  fetched_at: '2026-08-10T10:00:11.055366+00:00'
 - uid: 57102bd265fbd7db@waw-calendars
   source: waw4free
   title: 'Queen: Legenda na wielkim ekranie w Ale Sztuka'
@@ -2457,7 +3107,7 @@ events:
   - film
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:10.622898+00:00'
+  fetched_at: '2026-08-10T10:00:11.070153+00:00'
 - uid: b52cfa40b4f7b6e9@waw-calendars
   source: waw4free
   title: Rock Legionowo 40-lecie zespołu SexBomba
@@ -2470,7 +3120,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:10.614686+00:00'
+  fetched_at: '2026-08-10T10:00:11.054342+00:00'
 - uid: 544e1c59b9db5de3@waw-calendars
   source: waw4free
   title: Scena Letnia | Carlos ex – Bad Boys Blue | KONCERT
@@ -2482,7 +3132,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.620588+00:00'
+  fetched_at: '2026-08-10T10:00:11.064970+00:00'
 - uid: d74005514823a43a@waw-calendars
   source: waw4free
   title: Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica wybuchu Powstania Warszawskiego
@@ -2495,7 +3145,56 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.613838+00:00'
+  fetched_at: '2026-08-10T10:00:11.053652+00:00'
+- uid: fe99ff50da07d919@waw-calendars
+  source: waw4free
+  title: SOBOTNIE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU NA PLACU TRYNOPOLSKIM
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-154216-sobotnie-letnie-kino-plenerowe-dla-doroslych-na-targowku-na-placu-trynopolskim
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.068459+00:00'
+- uid: b470ba513326dc6f@waw-calendars
+  source: waw4free
+  title: SOBOTNIE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU w Arthouse Kołowa
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-154215-sobotnie-letnie-kino-plenerowe-dla-doroslych-na-targowku-w-arthouse-kolowa
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.067874+00:00'
+- uid: d946bda411169eea@waw-calendars
+  source: waw4free
+  title: Sobotnie Spacery 2026
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-155057-sobotnie-spacery-2026
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:11.053215+00:00'
+- uid: 1f7ec5d49ea4dc06@waw-calendars
+  source: waw4free
+  title: Sobotnie zajęcia jogi w plenerze na Osiedlu "Przyjaźń" [godz. 10:00 i 11:10]
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-154171-sobotnie-zajecia-jogi-w-plenerze-na-osiedlu-przyjazn-godz-10-00-i-11-10
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.026619+00:00'
 - uid: e6ef8ec527df6583@waw-calendars
   source: waw4free
   title: Spektakl „Polityka”
@@ -2508,7 +3207,20 @@ events:
   categories:
   - dla młodzieży
   - teatr
-  fetched_at: '2026-08-10T04:00:10.619683+00:00'
+  fetched_at: '2026-08-10T10:00:11.063461+00:00'
+- uid: 3664c803eb1ae2e4@waw-calendars
+  source: waw4free
+  title: Spotkania szachowe nad Wisłą
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-154864-spotkania-szachowe-nad-wisla
+  description: null
+  categories:
+  - sport
+  - spotkanie
+  fetched_at: '2026-08-10T10:00:11.051491+00:00'
 - uid: c9ac0fd051272749@waw-calendars
   source: waw4free
   title: SPOTKANIA Z TEATREM I LEGENDAMI SŁOWIAŃSKIMI NA TARGÓWKU
@@ -2522,7 +3234,7 @@ events:
   - dla dzieci
   - teatr
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.605990+00:00'
+  fetched_at: '2026-08-10T10:00:11.037490+00:00'
 - uid: 04885889adf2a12b@waw-calendars
   source: waw4free
   title: Swingowy Wieczór nad Wisłą
@@ -2535,7 +3247,7 @@ events:
   categories:
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.617311+00:00'
+  fetched_at: '2026-08-10T10:00:11.059861+00:00'
 - uid: 41e8e6206dff4e48@waw-calendars
   source: waw4free
   title: Słuchowiska na leżakach - Teatr Polskiego Radia i Teatr Ochoty
@@ -2547,7 +3259,60 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:10.615606+00:00'
+  fetched_at: '2026-08-10T10:00:11.057895+00:00'
+- uid: 66b3f56cbe839d41@waw-calendars
+  source: waw4free
+  title: Tajemnice Starego Miasta
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156999-tajemnice-starego-miasta
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:11.035313+00:00'
+- uid: d97b44bafdef7dc4@waw-calendars
+  source: waw4free
+  title: Targ Śniadaniowy na Żoliborzu // Saturday Breakfast Market
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-151012-targ-sniadaniowy-na-zoliborzu-saturday-breakfast-market
+  description: null
+  categories:
+  - impreza
+  - inne
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.023035+00:00'
+- uid: 880c56637a132917@waw-calendars
+  source: waw4free
+  title: Ursynowski Nordic Walking 2026 | Grupy sobotnie
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-147624-ursynowski-nordic-walking-2026-grupy-sobotnie
+  description: null
+  categories:
+  - spacer lub rower
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.045046+00:00'
+- uid: db3d526f38226e8b@waw-calendars
+  source: waw4free
+  title: Warszawski OPEN STAGE
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156718-warszawski-open-stage
+  description: null
+  categories:
+  - koncert
+  - inne
+  fetched_at: '2026-08-10T10:00:11.062486+00:00'
 - uid: e1846ef93ef6f616@waw-calendars
   source: waw4free
   title: 'Warszawskie Miasta Ogrody: 2/4 Żoliborz Oficerski [darmowy spacer z przewodnikiem]'
@@ -2559,7 +3324,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.608017+00:00'
+  fetched_at: '2026-08-10T10:00:11.040519+00:00'
 - uid: 6478a958f483c9be@waw-calendars
   source: waw4free
   title: WarszeMuzik | ECHA BRACI GOLD
@@ -2571,7 +3336,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.618189+00:00'
+  fetched_at: '2026-08-10T10:00:11.060296+00:00'
 - uid: 78d0a490f135f9cb@waw-calendars
   source: waw4free
   title: Warsztaty muzyki perskiej z Dariushem Rasouli i Masato Tani // Persian music workshop with Dariush
@@ -2585,7 +3350,69 @@ events:
   categories:
   - warsztaty
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.610837+00:00'
+  fetched_at: '2026-08-10T10:00:11.049103+00:00'
+- uid: ccc73ad5f4a11146@waw-calendars
+  source: waw4free
+  title: Westfield Summer Festival | Joga
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155180-westfield-summer-festival-joga
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.033983+00:00'
+- uid: 4c03615e18216342@waw-calendars
+  source: waw4free
+  title: Westfield Summer Festival | Pilates
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155176-westfield-summer-festival-pilates
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.027547+00:00'
+- uid: 82eb952596dc8096@waw-calendars
+  source: waw4free
+  title: Westfield Summer Festival | Warsztaty taneczne
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155181-westfield-summer-festival-warsztaty-taneczne
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.048609+00:00'
+- uid: a5d34ee446ea88b4@waw-calendars
+  source: waw4free
+  title: Wilanowskie Kino na Leżakach
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-153479-wilanowskie-kino-na-lezakach
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.067409+00:00'
+- uid: 5177b2b1e4e6cdb2@waw-calendars
+  source: waw4free
+  title: Wilanowskie Kino Plenerowe dla dzieci
+  start: '2026-08-15'
+  end: '2026-08-15'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-153481-wilanowskie-kino-plenerowe-dla-dzieci
+  description: null
+  categories:
+  - dla dzieci
+  - film
+  fetched_at: '2026-08-10T10:00:11.051001+00:00'
 - uid: acf1903828247b7c@waw-calendars
   source: waw4free
   title: Wzlatujemy! Śladami historycznego lotu Orlińskiego i Kubiaka | rodzinna gra muzealna
@@ -2602,7 +3429,7 @@ events:
   - spacer lub rower
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:10.602610+00:00'
+  fetched_at: '2026-08-10T10:00:11.031036+00:00'
 - uid: ae9291d1e1c83610@waw-calendars
   source: waw4free
   title: Zacisze - 75 lat w Warszawie [spacer z przewodnikiem PTTK]
@@ -2614,7 +3441,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.616057+00:00'
+  fetched_at: '2026-08-10T10:00:11.058918+00:00'
 - uid: 096859c9af512caf@waw-calendars
   source: waw4free
   title: Łazienki Królewskie - rezydencja ostatniego króla Polski
@@ -2626,7 +3453,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.611297+00:00'
+  fetched_at: '2026-08-10T10:00:11.050106+00:00'
 - uid: 16751694e8204955@waw-calendars
   source: waw4free
   title: Łodzie ze słów | Warsztat poetycki i rzeźba
@@ -2638,7 +3465,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.607546+00:00'
+  fetched_at: '2026-08-10T10:00:11.040069+00:00'
 - uid: a09a32dab982e06d@waw-calendars
   source: waw4free
   title: Święto Wojska Polskiego - defilada wojskowa
@@ -2653,7 +3480,7 @@ events:
   - dla młodzieży
   - wystawa
   - inne
-  fetched_at: '2026-08-10T04:00:10.609027+00:00'
+  fetched_at: '2026-08-10T10:00:11.042516+00:00'
 - uid: 038a650b0179c377@waw-calendars
   source: waw4free
   title: '#CHODŹPOTAŃCZYĆ BEZPŁATNE LEKCJE TAŃCA I POTAŃCÓWKA'
@@ -2666,7 +3493,7 @@ events:
   categories:
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.782738+00:00'
+  fetched_at: '2026-08-10T10:00:11.798878+00:00'
 - uid: 83a4d61be1598e3e@waw-calendars
   source: waw4free
   title: 25 educja Falenickich Koncertów Letnich | Amerykański trębacz jazzowy Gary Guthman
@@ -2678,7 +3505,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.790948+00:00'
+  fetched_at: '2026-08-10T10:00:11.809924+00:00'
 - uid: e3fca3f0b773e277@waw-calendars
   source: waw4free
   title: 25 educja Falenickich Koncertów Letnich | koncert finałowy w wykonaniu Bartosza Jakubczaka
@@ -2690,7 +3517,19 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.791409+00:00'
+  fetched_at: '2026-08-10T10:00:11.810369+00:00'
+- uid: 859cd302288dae9e@waw-calendars
+  source: waw4free
+  title: 5. sezon koncertów plenerowych pt. "Fortepian Szopena"
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: null
+  url: https://waw4free.pl/wydarzenie-153654-5-sezon-koncertow-plenerowych-pt-fortepian-szopena
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-08-10T10:00:11.801838+00:00'
 - uid: 29f5c3cd55fa882b@waw-calendars
   source: waw4free
   title: Bajki na Trawie 2026 | Opowieści starego kredensu
@@ -2703,7 +3542,58 @@ events:
   categories:
   - dla dzieci
   - teatr
-  fetched_at: '2026-08-10T04:00:10.781736+00:00'
+  fetched_at: '2026-08-10T10:00:11.796658+00:00'
+- uid: 415df21d73899e3f@waw-calendars
+  source: waw4free
+  title: Bajki plenerowe w Parku Czechowickim
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Ursus, Warszawa
+  url: https://waw4free.pl/wydarzenie-155493-bajki-plenerowe-w-parku-czechowickim
+  description: null
+  categories:
+  - dla dzieci
+  - teatr
+  fetched_at: '2026-08-10T10:00:11.772748+00:00'
+- uid: e9602a31c7695c6f@waw-calendars
+  source: waw4free
+  title: Bajkowe Śródmieście
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155217-bajkowe-srodmiescie
+  description: null
+  categories:
+  - dla dzieci
+  - teatr
+  fetched_at: '2026-08-10T10:00:11.778401+00:00'
+- uid: 7be2f62c4ba609f7@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia jogi
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-151799-bezplatne-zajecia-jogi
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.783892+00:00'
+- uid: 648329896e77f0e3@waw-calendars
+  source: waw4free
+  title: BINGO W PROCHOWNI
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-157026-bingo-w-prochowni
+  description: null
+  categories:
+  - inne
+  fetched_at: '2026-08-10T10:00:11.808907+00:00'
 - uid: e4157b8624d5c1b4@waw-calendars
   source: waw4free
   title: Chodź potańczyć w koneserze! Bezpłatne lekcje tańca i potańcówka
@@ -2716,7 +3606,7 @@ events:
   categories:
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.783870+00:00'
+  fetched_at: '2026-08-10T10:00:11.799653+00:00'
 - uid: 6883c29e82791306@waw-calendars
   source: waw4free
   title: CIEPLIŃSKI/BIES DUO / KONCERT
@@ -2728,7 +3618,34 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.789037+00:00'
+  fetched_at: '2026-08-10T10:00:11.807047+00:00'
+- uid: 3046145e1fe5e930@waw-calendars
+  source: waw4free
+  title: Darmowe Animacje dla Dzieci nad Wisłą
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156033-darmowe-animacje-dla-dzieci-nad-wisla
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  - inne
+  fetched_at: '2026-08-10T10:00:11.797368+00:00'
+- uid: 406d3b939bbff8b2@waw-calendars
+  source: waw4free
+  title: DARMOWE ZAJĘCIA JOGI Z WIDOKIEM NA WISŁĘ
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155255-darmowe-zajecia-jogi-z-widokiem-na-wisle
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.785557+00:00'
 - uid: 06b5662abe256aba@waw-calendars
   source: waw4free
   title: DOBROCZYNNIE // 3. Rodzinny Mecz dominikański o puchar św. Jacka
@@ -2742,7 +3659,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-08-10T04:00:10.775111+00:00'
+  fetched_at: '2026-08-10T10:00:11.788384+00:00'
 - uid: 0f087ad9cf3f14da@waw-calendars
   source: waw4free
   title: Festiwal Radykalna Kultura Romska | Sara Czureja-Łakatosz i Bastarda
@@ -2754,7 +3671,33 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.790041+00:00'
+  fetched_at: '2026-08-10T10:00:11.808431+00:00'
+- uid: 7e5857b08a486da8@waw-calendars
+  source: waw4free
+  title: GARDEN LIVE SESSIONS
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156804-garden-live-sessions
+  description: null
+  categories:
+  - impreza
+  - koncert
+  fetched_at: '2026-08-10T10:00:11.786545+00:00'
+- uid: c5f85d2c100078d1@waw-calendars
+  source: waw4free
+  title: GRUNT I WODA | AKTYWNIE W PLENERZE x MOTION
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-152793-grunt-i-woda-aktywnie-w-plenerze-x-motion
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.784360+00:00'
 - uid: 4c9c8f1b2ac412ca@waw-calendars
   source: waw4free
   title: Indyjski Festiwal Plenerowy - BHARAT MATA KI JAI 2026
@@ -2773,7 +3716,7 @@ events:
   - targi, garażówka
   - warsztaty
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.777330+00:00'
+  fetched_at: '2026-08-10T10:00:11.790683+00:00'
 - uid: 1f236ef465fa2139@waw-calendars
   source: waw4free
   title: Jak to było być królem. Opowieści dla dzieci prosto z Łazienek Królewskich.
@@ -2786,7 +3729,46 @@ events:
   categories:
   - dla dzieci
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.784860+00:00'
+  fetched_at: '2026-08-10T10:00:11.802793+00:00'
+- uid: e7ec2e582ab702a0@waw-calendars
+  source: waw4free
+  title: Joga na Polu Mokotowskim - 11 sezon
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-153684-joga-na-polu-mokotowskim-11-sezon
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.777882+00:00'
+- uid: 81136e54cc8dd2c3@waw-calendars
+  source: waw4free
+  title: Joga w Parku Praskim - sezon. 4
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-151953-joga-w-parku-praskim-sezon-4
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.782927+00:00'
+- uid: 677d85a68a5a1080@waw-calendars
+  source: waw4free
+  title: Joga w parku Ulricha
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-156988-joga-w-parku-ulricha
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.782101+00:00'
 - uid: 60aaffc2e6eac183@waw-calendars
   source: waw4free
   title: Joga w parku – niedzielne południe z naturą
@@ -2799,7 +3781,69 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.779051+00:00'
+  fetched_at: '2026-08-10T10:00:11.792990+00:00'
+- uid: 4320a4fd5c0d8fc3@waw-calendars
+  source: waw4free
+  title: Kino plenerowe dla dużych i małych
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-155581-kino-plenerowe-dla-duzych-i-malych
+  description: null
+  categories:
+  - dla dzieci
+  - film
+  fetched_at: '2026-08-10T10:00:11.786067+00:00'
+- uid: 4f2038ae611a23f9@waw-calendars
+  source: waw4free
+  title: Kino Plenerowe na Rynku Nowego Miasta
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-152804-kino-plenerowe-na-rynku-nowego-miasta
+  description: null
+  categories:
+  - film
+  - impreza
+  fetched_at: '2026-08-10T10:00:11.813456+00:00'
+- uid: 24b99a188f5d99b0@waw-calendars
+  source: waw4free
+  title: Kino plenerowe w Parku Kaskada
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-155582-kino-plenerowe-w-parku-kaskada
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.816842+00:00'
+- uid: 8717b830ca661c60@waw-calendars
+  source: waw4free
+  title: Klub Fotograficzny
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wawer, Warszawa
+  url: https://waw4free.pl/wydarzenie-145320-klub-fotograficzny
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.804952+00:00'
+- uid: 0503d6b0c1ccb86a@waw-calendars
+  source: waw4free
+  title: klub Team ZabieganeDni - Kabacki Kocur
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157012-klub-team-zabieganedni-kabacki-kocur
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.773270+00:00'
 - uid: e41da045e574b661@waw-calendars
   source: waw4free
   title: Kocajki, czyli baśnie na kocach. DLA DOROSŁYCH
@@ -2813,7 +3857,19 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:10.772818+00:00'
+  fetched_at: '2026-08-10T10:00:11.785075+00:00'
+- uid: 56b93e8146b03d9e@waw-calendars
+  source: waw4free
+  title: Koncert Chopinowski w Łazienkach Królewskich [godz. 12:00 i 16:00]
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-152770-koncert-chopinowski-w-lazienkach-krolewskich-godz-12-00-i-16-00
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-08-10T10:00:11.763628+00:00'
 - uid: 56d7ffb6ea4b0e61@waw-calendars
   source: waw4free
   title: Koncert JUST 5 i Papa D
@@ -2826,7 +3882,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:10.793132+00:00'
+  fetched_at: '2026-08-10T10:00:11.812389+00:00'
 - uid: 537d82dc222c097c@waw-calendars
   source: waw4free
   title: Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
@@ -2839,7 +3895,32 @@ events:
   categories:
   - dla dzieci
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.780715+00:00'
+  fetched_at: '2026-08-10T10:00:11.794716+00:00'
+- uid: 5a6ed6207ab47ae7@waw-calendars
+  source: waw4free
+  title: LETNIE AUDYCJE ORGANOWE / SUMMER ORGAN RECITALS
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-152767-letnie-audycje-organowe-summer-organ-recitals
+  description: null
+  categories:
+  - koncert
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.798381+00:00'
+- uid: be187da942519f31@waw-calendars
+  source: waw4free
+  title: Letnie Kino Plenerowe na Woli
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-155332-letnie-kino-plenerowe-na-woli
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.801235+00:00'
 - uid: c9f0488cf9377499@waw-calendars
   source: waw4free
   title: Letnie Koncerty Promenadowe 2026 | W wiedeńskim nastroju
@@ -2851,7 +3932,19 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.776663+00:00'
+  fetched_at: '2026-08-10T10:00:11.790041+00:00'
+- uid: f30560756f5bc322@waw-calendars
+  source: waw4free
+  title: Manewry Tradycyjnych Łodzi Wiślanych
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155219-manewry-tradycyjnych-lodzi-wislanych
+  description: null
+  categories:
+  - inne
+  fetched_at: '2026-08-10T10:00:11.803801+00:00'
 - uid: 5e7840561536e5fd@waw-calendars
   source: waw4free
   title: Muzyczne Lato na Ursynowie 2026 | KLASYKA
@@ -2863,7 +3956,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.787881+00:00'
+  fetched_at: '2026-08-10T10:00:11.806318+00:00'
 - uid: ded2a7f03af3497e@waw-calendars
   source: waw4free
   title: MUZYCZNE SPOTKANIA Z TEATREM I LEGENDAMI SŁOWIAŃSKIMI WE WŁOCHACH
@@ -2879,7 +3972,7 @@ events:
   - koncert
   - teatr
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.778529+00:00'
+  fetched_at: '2026-08-10T10:00:11.791720+00:00'
 - uid: cbaa593c4f320c57@waw-calendars
   source: waw4free
   title: Młoda Polska | kino plenerowe na Głębockiej 66 | "Wieża. Jasny dzień” (2017)
@@ -2891,7 +3984,83 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:10.792348+00:00'
+  fetched_at: '2026-08-10T10:00:11.811311+00:00'
+- uid: 25ac08228e6bcf12@waw-calendars
+  source: waw4free
+  title: New City Sounds - cykl letnich koncertów młodych talentów w Fabryce Norblina
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-154244-new-city-sounds-cykl-letnich-koncertow-mlodych-talentow-w-fabryce-norblina
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-08-10T10:00:11.805414+00:00'
+- uid: 58107d1666b030af@waw-calendars
+  source: waw4free
+  title: NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-154218-niedzielne-letnie-kino-plenerowe-dla-doroslych-na-targowku
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.815657+00:00'
+- uid: e3b8f717ed4ae408@waw-calendars
+  source: waw4free
+  title: NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU W PARKU BRÓDNOWSKIM
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-154217-niedzielne-letnie-kino-plenerowe-dla-doroslych-na-targowku-w-parku-brodnowskim
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-08-10T10:00:11.814477+00:00'
+- uid: 2597fec9b7265f44@waw-calendars
+  source: waw4free
+  title: Niedzielne Spotkanie Sparingowe
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-58073-niedzielne-spotkanie-sparingowe
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  - inne
+  fetched_at: '2026-08-10T10:00:11.773802+00:00'
+- uid: f3b75eec723d3dc5@waw-calendars
+  source: waw4free
+  title: Niedzielne tańce w Fabryce Norblina
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-153450-niedzielne-tance-w-fabryce-norblina
+  description: null
+  categories:
+  - impreza
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.796187+00:00'
+- uid: fff756f90c90bcf9@waw-calendars
+  source: waw4free
+  title: Odkryj Stare i Nowe Miasto w Warszawie
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155431-odkryj-stare-i-nowe-miasto-w-warszawie
+  description: null
+  categories:
+  - spacer lub rower
+  - wykład
+  fetched_at: '2026-08-10T10:00:11.781083+00:00'
 - uid: 52b98ba479631e6d@waw-calendars
   source: waw4free
   title: Osiedle "Przyjażń". O szorstkiej polsko- radzieckiej przyjażni. Spacer z przewodnikiem.
@@ -2903,7 +4072,22 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.779516+00:00'
+  fetched_at: '2026-08-10T10:00:11.793443+00:00'
+- uid: 0947888fd06e1adc@waw-calendars
+  source: waw4free
+  title: Plenerowe, rodzinne intuicyjne malowanie w Dzielnicy Ursynów [godz. 15:00 i 16:30]
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-155268-plenerowe-rodzinne-intuicyjne-malowanie-w-dzielnicy-ursynow-godz-15-00-i-16-30
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.800792+00:00'
 - uid: 33a11986b39412cf@waw-calendars
   source: waw4free
   title: Powstańcy, Legioniści, Żołnierze. Od walki o wolność do służby dla państwa | spacer z przewodnikiem
@@ -2918,7 +4102,7 @@ events:
   - spacer lub rower
   - wykład
   - wystawa
-  fetched_at: '2026-08-10T04:00:10.781265+00:00'
+  fetched_at: '2026-08-10T10:00:11.795702+00:00'
 - uid: ffe9cbb7cda73a4e@waw-calendars
   source: waw4free
   title: RODZINNA NIEDZIELA | WARSZTATY KULINARNE
@@ -2932,7 +4116,37 @@ events:
   - dla dzieci
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.782258+00:00'
+  fetched_at: '2026-08-10T10:00:11.797905+00:00'
+- uid: c8995023559945c3@waw-calendars
+  source: waw4free
+  title: RODZINNE NIEDZIELE W ELEKTROWNI POWIŚLE
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-155331-rodzinne-niedziele-w-elektrowni-powisle
+  description: null
+  categories:
+  - dla dzieci
+  - impreza
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.789414+00:00'
+- uid: 30a98619d3aea4e6@waw-calendars
+  source: waw4free
+  title: Rodzinne pląsanie na trawiastym dywanie
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-150184-rodzinne-plasanie-na-trawiastym-dywanie
+  description: null
+  categories:
+  - dla dzieci
+  - sport
+  - spotkanie
+  - warsztaty
+  - inne
+  fetched_at: '2026-08-10T10:00:11.775482+00:00'
 - uid: 030018e75a839544@waw-calendars
   source: waw4free
   title: Rodzinne Zamieszanie w Wawrze – bezpłatny piknik rodzinny
@@ -2948,7 +4162,7 @@ events:
   - koncert
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:10.774134+00:00'
+  fetched_at: '2026-08-10T10:00:11.787148+00:00'
 - uid: 2ae406bb3b98ca03@waw-calendars
   source: waw4free
   title: Siekierki - 110 lat w Warszawie [spacer z przewodnikiem PTTK]
@@ -2960,7 +4174,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.772301+00:00'
+  fetched_at: '2026-08-10T10:00:11.783390+00:00'
 - uid: 81ca6182e06d9a9d@waw-calendars
   source: waw4free
   title: Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica wybuchu Powstania Warszawskiego
@@ -2973,7 +4187,19 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.784325+00:00'
+  fetched_at: '2026-08-10T10:00:11.802300+00:00'
+- uid: 5f7e7bb2e01f99b8@waw-calendars
+  source: waw4free
+  title: Sladami " Lalki" Bolesława Prusa
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157000-sladami-lalki-boleslawa-prusa
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-08-10T10:00:11.795199+00:00'
 - uid: 9a039178f34732a4@waw-calendars
   source: waw4free
   title: 'Spacer: Śladami "Złego". Warszawa Leopolda Tyrmanda'
@@ -2985,7 +4211,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.777765+00:00'
+  fetched_at: '2026-08-10T10:00:11.791140+00:00'
 - uid: 91c6e783de5a8627@waw-calendars
   source: waw4free
   title: Speed Friending w Bar a Boo Warszawa
@@ -2998,7 +4224,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:10.786357+00:00'
+  fetched_at: '2026-08-10T10:00:11.804468+00:00'
 - uid: cb714982e1d7ad6c@waw-calendars
   source: waw4free
   title: SPOTKANIA Z TEATREM I LEGENDAMI SŁOWIAŃSKIMI NA ŻOLIBORZU
@@ -3014,7 +4240,73 @@ events:
   - teatr
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:10.785852+00:00'
+  fetched_at: '2026-08-10T10:00:11.803350+00:00'
+- uid: b5e7aacf55ba5fdf@waw-calendars
+  source: waw4free
+  title: Sunday Najlepsze Karaoke w Mieście!
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-156461-sunday-najlepsze-karaoke-w-miescie
+  description: null
+  categories:
+  - impreza
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.807984+00:00'
+- uid: 29ebeb00c5bfc239@waw-calendars
+  source: waw4free
+  title: Targ Śniadaniowy na Mokotowie // Sunday Breakfast Market
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-151013-targ-sniadaniowy-na-mokotowie-sunday-breakfast-market
+  description: null
+  categories:
+  - impreza
+  - inne
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.776022+00:00'
+- uid: da43abcdc166d3bc@waw-calendars
+  source: waw4free
+  title: Tańczmy razem – zawsze w formie!
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-152316-tanczmy-razem-zawsze-w-formie
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:11.776492+00:00'
+- uid: b99a225d8b2d61cd@waw-calendars
+  source: waw4free
+  title: 'THE WRITE PLACE: Free Creative Writing Improvisation'
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-157023-the-write-place-free-creative-writing-improvisation
+  description: null
+  categories:
+  - warsztaty
+  - inne
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.800243+00:00'
+- uid: 5619a06084ade2e7@waw-calendars
+  source: waw4free
+  title: Trening Biegowy z 12tri.pl
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-78636-trening-biegowy-z-12tri-pl
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.774248+00:00'
 - uid: 3c016c023012beca@waw-calendars
   source: waw4free
   title: Warsaw 2.0 Comedy Show
@@ -3027,7 +4319,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.791899+00:00'
+  fetched_at: '2026-08-10T10:00:11.810873+00:00'
 - uid: c1500a1027c7013c@waw-calendars
   source: waw4free
   title: Warsaw International FOOD FESTIVAL 2026
@@ -3041,7 +4333,7 @@ events:
   - impreza
   - inne
   - po angielsku
-  fetched_at: '2026-08-10T04:00:10.776181+00:00'
+  fetched_at: '2026-08-10T10:00:11.788903+00:00'
 - uid: aad689017824d544@waw-calendars
   source: waw4free
   title: Warszawskie Kocykowanie | Laboratorium Ciekawości
@@ -3055,7 +4347,7 @@ events:
   - dla dzieci
   - teatr
   - warsztaty
-  fetched_at: '2026-08-10T04:00:10.770855+00:00'
+  fetched_at: '2026-08-10T10:00:11.780301+00:00'
 - uid: 53d9ddfb7265d32b@waw-calendars
   source: waw4free
   title: WarszeMuzik | SYRENA:RE
@@ -3067,7 +4359,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:10.786831+00:00'
+  fetched_at: '2026-08-10T10:00:11.805874+00:00'
 - uid: efb7117d862e6f63@waw-calendars
   source: waw4free
   title: Wawerska Garażówka
@@ -3079,7 +4371,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-08-10T04:00:10.770346+00:00'
+  fetched_at: '2026-08-10T10:00:11.776961+00:00'
 - uid: d820e2dd579abac4@waw-calendars
   source: waw4free
   title: Wzlatujemy! Śladami historycznego lotu Orlińskiego i Kubiaka | rodzinna gra muzealna
@@ -3096,7 +4388,62 @@ events:
   - spacer lub rower
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:10.780120+00:00'
+  fetched_at: '2026-08-10T10:00:11.794043+00:00'
+- uid: 7005c6afe968b58b@waw-calendars
+  source: waw4free
+  title: Zajęcia ruchowe połączone z piknikiem // Fitness in the park and picnic
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-156661-zajecia-ruchowe-polaczone-z-piknikiem-fitness-in-the-park-and-picnic
+  description: null
+  categories:
+  - sport
+  - spotkanie
+  - inne
+  - po angielsku
+  fetched_at: '2026-08-10T10:00:11.792475+00:00'
+- uid: 9568c4f8d5d96de2@waw-calendars
+  source: waw4free
+  title: Zapytaj przyrodnika. Spotkania przyrodnicze dla dzieci, młodzieży i dorosłych
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156911-zapytaj-przyrodnika-spotkania-przyrodnicze-dla-dzieci-mlodziezy-i-doroslych
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - spotkanie
+  - wykład
+  - inne
+  fetched_at: '2026-08-10T10:00:11.787872+00:00'
+- uid: 3072cdf9b37b59b5@waw-calendars
+  source: waw4free
+  title: Zatańczmy jeszcze raz! | POTAŃCÓWKA DKŚ na Foksal 11
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-156311-zatanczmy-jeszcze-raz-potancowka-dks-na-foksal-11
+  description: null
+  categories:
+  - impreza
+  fetched_at: '2026-08-10T10:00:11.807494+00:00'
+- uid: d5aa01709182b69c@waw-calendars
+  source: waw4free
+  title: Śródmiejskie bieganie dla każdego
+  start: '2026-08-16'
+  end: '2026-08-16'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-149938-srodmiejskie-bieganie-dla-kazdego
+  description: null
+  categories:
+  - sport
+  fetched_at: '2026-08-10T10:00:11.774684+00:00'
 - uid: 3942ee3c3c091f5e@waw-calendars
   source: waw4free
   title: „Spacer po Krakowskim Przedmieściu”
@@ -3108,7 +4455,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:10.771821+00:00'
+  fetched_at: '2026-08-10T10:00:11.781593+00:00'
 - uid: 1e65bc52c721dd43@waw-calendars
   source: waw4free
   title: 'Cuda-Wianki: folkowe malowanie toreb'
@@ -3121,7 +4468,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:11.820540+00:00'
+  fetched_at: '2026-08-10T10:00:12.847233+00:00'
 - uid: ff1424a8037459f3@waw-calendars
   source: waw4free
   title: 'Heca na Placu: Do Bigosu! STAND-UP I Chachulska I Górniak I Matan I Pańczyk I Podwysocka I Różalska'
@@ -3133,7 +4480,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:11.824964+00:00'
+  fetched_at: '2026-08-10T10:00:12.850412+00:00'
 - uid: 8b76b3f7e0533f8e@waw-calendars
   source: waw4free
   title: Lato pełne przygody!
@@ -3146,7 +4493,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:11.820025+00:00'
+  fetched_at: '2026-08-10T10:00:12.846732+00:00'
 - uid: 7efd49b925aa0433@waw-calendars
   source: waw4free
   title: Mity, w które uwierzyliśmy x Justyna Dżbik-Kluge | Kiedyś to było, teraz już nie
@@ -3158,7 +4505,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-08-10T04:00:11.823988+00:00'
+  fetched_at: '2026-08-10T10:00:12.849982+00:00'
 - uid: d0073d25c6675692@waw-calendars
   source: waw4free
   title: Napiszmy coś – warsztaty pisania
@@ -3170,7 +4517,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:11.821487+00:00'
+  fetched_at: '2026-08-10T10:00:12.848173+00:00'
 - uid: ff2a793d8dd3ef8e@waw-calendars
   source: waw4free
   title: OM Chanting
@@ -3182,7 +4529,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:11.823439+00:00'
+  fetched_at: '2026-08-10T10:00:12.849529+00:00'
 - uid: ea0fc59aa03ed722@waw-calendars
   source: waw4free
   title: Sierpniowe piosenki na udręki | Musical Improwizowany w Pokoju na Lato
@@ -3195,7 +4542,7 @@ events:
   categories:
   - koncert
   - teatr
-  fetched_at: '2026-08-10T04:00:11.825934+00:00'
+  fetched_at: '2026-08-10T10:00:12.851365+00:00'
 - uid: 48e8b9de682b068f@waw-calendars
   source: waw4free
   title: SZU/MY bazaar - nadzieje i lęki
@@ -3207,7 +4554,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:11.821981+00:00'
+  fetched_at: '2026-08-10T10:00:12.848645+00:00'
 - uid: 770cf749d397ad16@waw-calendars
   source: waw4free
   title: Wieczorynki – Letnie Kino Plenerowe dla Dzieci | "Kurozając i zagadka chomika ciemności"
@@ -3220,7 +4567,7 @@ events:
   categories:
   - dla dzieci
   - film
-  fetched_at: '2026-08-10T04:00:11.825452+00:00'
+  fetched_at: '2026-08-10T10:00:12.850903+00:00'
 - uid: d38e86452f99e44b@waw-calendars
   source: waw4free
   title: Zrób z nami wegańskie kanapki dla Fundacji Daj Herbatę!
@@ -3233,7 +4580,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:11.821032+00:00'
+  fetched_at: '2026-08-10T10:00:12.847714+00:00'
 - uid: 959beeb4d9fa4112@waw-calendars
   source: waw4free
   title: „Bezradne i romantyczne”. Spotkanie z Aleksandrą Korczak i Magdą Korczyńską
@@ -3245,7 +4592,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:11.822976+00:00'
+  fetched_at: '2026-08-10T10:00:12.849098+00:00'
 - uid: 25002caaed0ea11c@waw-calendars
   source: waw4free
   title: Czytelnia Klimatyczna Wolnego Jazdowa x Wspólny Pokój
@@ -3257,7 +4604,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:12.445488+00:00'
+  fetched_at: '2026-08-10T10:00:13.687381+00:00'
 - uid: 3d1911c5094c6dd8@waw-calendars
   source: waw4free
   title: Dlaczego warto wybrać mało uczęszczaną trasę "Northern Circuit" zdobywając Dach Afryki i jak
@@ -3270,7 +4617,7 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-08-10T04:00:12.447348+00:00'
+  fetched_at: '2026-08-10T10:00:13.689200+00:00'
 - uid: a5c20d9f96970ad6@waw-calendars
   source: waw4free
   title: Gimnastyka mózgu i joga serca - MAL
@@ -3283,7 +4630,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.444942+00:00'
+  fetched_at: '2026-08-10T10:00:13.686941+00:00'
 - uid: 16a6b02391c5e883@waw-calendars
   source: waw4free
   title: HALO, KINO TĘCZA! Krótkie metraże, wielka przyszłość
@@ -3295,7 +4642,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.448981+00:00'
+  fetched_at: '2026-08-10T10:00:13.690659+00:00'
 - uid: cbe1282622f09178@waw-calendars
   source: waw4free
   title: Konstancin-Jeziorna - spotkanie z uważnym dotykiem w masażu SHIATSU
@@ -3307,7 +4654,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.446903+00:00'
+  fetched_at: '2026-08-10T10:00:13.688741+00:00'
 - uid: 3392027d89441bc6@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | Tamte dni, tamte noce (2017)'
@@ -3319,7 +4666,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.448440+00:00'
+  fetched_at: '2026-08-10T10:00:13.690223+00:00'
 - uid: 278bedc1ffe0af77@waw-calendars
   source: waw4free
   title: 'Rembertowskie Kino pod Gwiazdami: Forrest Gump'
@@ -3331,7 +4678,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.449433+00:00'
+  fetched_at: '2026-08-10T10:00:13.691120+00:00'
 - uid: 6b4d1bf62338b9c6@waw-calendars
   source: waw4free
   title: Skarby Muzeum Narodowego w Warszawie cz. 2
@@ -3344,7 +4691,7 @@ events:
   categories:
   - spacer lub rower
   - wystawa
-  fetched_at: '2026-08-10T04:00:12.443047+00:00'
+  fetched_at: '2026-08-10T10:00:13.684729+00:00'
 - uid: 2605364b0f93805b@waw-calendars
   source: waw4free
   title: Spacer Śladami Powstania Warszawskiego - walki na Powiślu Czerniakowskim i desant "berlingowców"
@@ -3356,7 +4703,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:12.444463+00:00'
+  fetched_at: '2026-08-10T10:00:13.686455+00:00'
 - uid: 69f22e5bdcc495da@waw-calendars
   source: waw4free
   title: Spotlight Tuesday / ONI
@@ -3369,7 +4716,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:12.447820+00:00'
+  fetched_at: '2026-08-10T10:00:13.689668+00:00'
 - uid: 44a0165824759346@waw-calendars
   source: waw4free
   title: Strefa sportu dla Seniorów
@@ -3382,7 +4729,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-08-10T04:00:12.443525+00:00'
+  fetched_at: '2026-08-10T10:00:13.685490+00:00'
 - uid: ec32ab7656a6336d@waw-calendars
   source: waw4free
   title: TECH NO! x Techstorie | Wielki mysliciel - o samodzielnym mysleniu w dobie AI
@@ -3394,7 +4741,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-08-10T04:00:12.446456+00:00'
+  fetched_at: '2026-08-10T10:00:13.688303+00:00'
 - uid: 26c7f4e9f60b9d55@waw-calendars
   source: waw4free
   title: Warsztaty szydełkowania w FORGE
@@ -3407,7 +4754,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.444011+00:00'
+  fetched_at: '2026-08-10T10:00:13.686009+00:00'
 - uid: b59132759895578c@waw-calendars
   source: waw4free
   title: Wpadnij na łąkę | O twórczej ekspresji niezależnej od umiejętności plastycznych – warsztaty ze
@@ -3421,7 +4768,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.442555+00:00'
+  fetched_at: '2026-08-10T10:00:13.684243+00:00'
 - uid: da2e47cd89867f56@waw-calendars
   source: waw4free
   title: Wtorki z jogą na PGE Narodowym
@@ -3434,7 +4781,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.446006+00:00'
+  fetched_at: '2026-08-10T10:00:13.687869+00:00'
 - uid: 2513c5eeaf7187a7@waw-calendars
   source: waw4free
   title: Filmowe Środy – Letnie Kino Plenerowe dla Dorosłych | "Tajny agent"
@@ -3446,7 +4793,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.876511+00:00'
+  fetched_at: '2026-08-10T10:00:13.800680+00:00'
 - uid: e67ba220c4b08c44@waw-calendars
   source: waw4free
   title: Filmy z festiwalu Watch Docs na dziedzińcu Teatru Komuna Warszawa | "Kumotry"
@@ -3458,7 +4805,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.877143+00:00'
+  fetched_at: '2026-08-10T10:00:13.801557+00:00'
 - uid: b40e05955677e219@waw-calendars
   source: waw4free
   title: Gazu! Gazu! Nieznane historie, ukryte perełki ulic Ludnej i Solca
@@ -3470,7 +4817,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:12.872375+00:00'
+  fetched_at: '2026-08-10T10:00:13.796049+00:00'
 - uid: d637d739b2b60053@waw-calendars
   source: waw4free
   title: Koncert na tarasie | Maria Waszkiewicz
@@ -3482,7 +4829,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:12.875077+00:00'
+  fetched_at: '2026-08-10T10:00:13.799163+00:00'
 - uid: 448a5a6bc4fb7d42@waw-calendars
   source: waw4free
   title: MASZ TO Z BAŃKI x Socjolożki_pl | Red pill czy weź pigułkę - o manosferze i feministkach
@@ -3494,7 +4841,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-08-10T04:00:12.874619+00:00'
+  fetched_at: '2026-08-10T10:00:13.798711+00:00'
 - uid: f92905f02736afbe@waw-calendars
   source: waw4free
   title: Midnight Concert - Klasyka na Koszykach
@@ -3506,7 +4853,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:12.877594+00:00'
+  fetched_at: '2026-08-10T10:00:13.802175+00:00'
 - uid: 9c65e2f9867bc431@waw-calendars
   source: waw4free
   title: 'Męski Most Warszawa #53 – Cykliczne spotkania dla mężczyzn'
@@ -3518,7 +4865,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:12.872813+00:00'
+  fetched_at: '2026-08-10T10:00:13.796483+00:00'
 - uid: 199e06d7b60135f7@waw-calendars
   source: waw4free
   title: Nie tylko Woodstock | Festiwalowe dokumenty muzyczne - "Fala"
@@ -3530,7 +4877,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:12.873264+00:00'
+  fetched_at: '2026-08-10T10:00:13.796933+00:00'
 - uid: 3c8eafb26f7e22fc@waw-calendars
   source: waw4free
   title: 'PÓŁKA Z POEZJĄ: „Północna granica świadomości” u Inger Christensen / MINIWYKŁAD I WARSZTAT'
@@ -3543,7 +4890,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-08-10T04:00:12.871030+00:00'
+  fetched_at: '2026-08-10T10:00:13.794636+00:00'
 - uid: b1a88f528ff46f67@waw-calendars
   source: waw4free
   title: Radek Jaworski. Wystawa fotografii „Miasto | Natura”.
@@ -3555,7 +4902,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:12.874191+00:00'
+  fetched_at: '2026-08-10T10:00:13.797852+00:00'
 - uid: 13f4da9247268b32@waw-calendars
   source: waw4free
   title: Spacer architektoniczny z Grzegorzem Miką
@@ -3567,7 +4914,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:12.873698+00:00'
+  fetched_at: '2026-08-10T10:00:13.797364+00:00'
 - uid: 4fe69bc78e4a8133@waw-calendars
   source: waw4free
   title: Spotkanie z Anną Cymer i Tomkiem Rygalikiem oraz film „Aalto – z miłości do architektury”
@@ -3580,7 +4927,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-08-10T04:00:12.878114+00:00'
+  fetched_at: '2026-08-10T10:00:13.802644+00:00'
 - uid: 87974f1dc45129c6@waw-calendars
   source: waw4free
   title: 'STAND-UP COMEDY: KUBA WU W CUDZIE NAD WISŁĄ'
@@ -3592,7 +4939,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:12.875520+00:00'
+  fetched_at: '2026-08-10T10:00:13.799597+00:00'
 - uid: 109dba3b0c810151@waw-calendars
   source: waw4free
   title: V Letni Przegląd Filmowy Pod Wspólnym Niebem | "Księżyc to mój ojciec"
@@ -3606,7 +4953,7 @@ events:
   - film
   - spotkanie
   - wykład
-  fetched_at: '2026-08-10T04:00:12.876059+00:00'
+  fetched_at: '2026-08-10T10:00:13.800225+00:00'
 - uid: fec6593a7487f630@waw-calendars
   source: waw4free
   title: 'Warsztat Krawiecki: Letnie spodnie/szarawary'
@@ -3618,7 +4965,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.870547+00:00'
+  fetched_at: '2026-08-10T10:00:13.794166+00:00'
 - uid: 19c0b86c3fa291c7@waw-calendars
   source: waw4free
   title: 'Wspólne dzierganie na Wolskiej: otwarte spotkanie'
@@ -3630,7 +4977,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.871923+00:00'
+  fetched_at: '2026-08-10T10:00:13.795525+00:00'
 - uid: 70c61801cbac2790@waw-calendars
   source: waw4free
   title: Z kulturką na trawie | “Wielka wyprawa na wyspę Boom Boom”
@@ -3643,7 +4990,7 @@ events:
   categories:
   - dla dzieci
   - teatr
-  fetched_at: '2026-08-10T04:00:12.870103+00:00'
+  fetched_at: '2026-08-10T10:00:13.793708+00:00'
 - uid: a41dc6fa8afd9533@waw-calendars
   source: waw4free
   title: Zaprzędzeni przy kawie
@@ -3655,7 +5002,19 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:12.871479+00:00'
+  fetched_at: '2026-08-10T10:00:13.795093+00:00'
+- uid: 840d48f01d1786b9@waw-calendars
+  source: waw4free
+  title: Ćwicz autoprezentację z klubem Toastmasters Royal Best Speakers
+  start: '2026-08-19'
+  end: '2026-08-19'
+  all_day: true
+  location: Włochy, Warszawa
+  url: https://waw4free.pl/wydarzenie-157006-cwicz-autoprezentacje-z-klubem-toastmasters-royal-best-speakers
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:13.798286+00:00'
 - uid: cda1b88bc0a1401b@waw-calendars
   source: waw4free
   title: Dokąd tak biegnie, czy nie jest zmęczony? Spotkanie z Tomaszem Ulanowskim
@@ -3667,7 +5026,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:13.432960+00:00'
+  fetched_at: '2026-08-10T10:00:14.550348+00:00'
 - uid: fecf52081992c55b@waw-calendars
   source: waw4free
   title: GRUNT I WODA | DAME TIMBA, czyli kubańska potańcówka z DJ TRESORMAN
@@ -3679,7 +5038,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:13.433398+00:00'
+  fetched_at: '2026-08-10T10:00:14.550793+00:00'
 - uid: d8b3153596c7b796@waw-calendars
   source: waw4free
   title: HALO, KINO TĘCZA! Pokaz filmu „Człowiek z żelaza"
@@ -3691,7 +5050,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:13.436619+00:00'
+  fetched_at: '2026-08-10T10:00:14.555740+00:00'
 - uid: b90ab47974099f27@waw-calendars
   source: waw4free
   title: 'Kino samochodowe i leżakowe w Centrum Handlowym Ursynów: Ostatnia sesja w Paryżu'
@@ -3703,7 +5062,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:13.438491+00:00'
+  fetched_at: '2026-08-10T10:00:14.557652+00:00'
 - uid: 2845b533771d0fb5@waw-calendars
   source: waw4free
   title: 'Koncert: Małgorzata Skrzyniarz & Leszek Wypych'
@@ -3715,7 +5074,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:13.432511+00:00'
+  fetched_at: '2026-08-10T10:00:14.549918+00:00'
 - uid: 92434721de51f196@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | GoldenEye (1995)'
@@ -3727,7 +5086,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:13.436178+00:00'
+  fetched_at: '2026-08-10T10:00:14.555033+00:00'
 - uid: dc6bd453d271e538@waw-calendars
   source: waw4free
   title: Maks Rosa i przyjaciele - stand-up Open Mic
@@ -3739,7 +5098,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:13.434814+00:00'
+  fetched_at: '2026-08-10T10:00:14.552170+00:00'
 - uid: 28038ebccc667778@waw-calendars
   source: waw4free
   title: Na tropie tajemnic Starego Miasta
@@ -3751,7 +5110,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:13.431624+00:00'
+  fetched_at: '2026-08-10T10:00:14.549029+00:00'
 - uid: aba39d7bffae6064@waw-calendars
   source: waw4free
   title: Perła Stand-up na plaży Saska! Jasiek Borkowski
@@ -3763,7 +5122,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:13.435255+00:00'
+  fetched_at: '2026-08-10T10:00:14.552604+00:00'
 - uid: 9d548f0e9297ea2e@waw-calendars
   source: waw4free
   title: 'Rembertowskie Kino pod Gwiazdami: Szczęście Mikołajka'
@@ -3777,7 +5136,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - film
-  fetched_at: '2026-08-10T04:00:13.437137+00:00'
+  fetched_at: '2026-08-10T10:00:14.556301+00:00'
 - uid: 8b0afc3cb36b8f0b@waw-calendars
   source: waw4free
   title: Retro Kino dla Dzieci w Murowance
@@ -3791,7 +5150,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - film
-  fetched_at: '2026-08-10T04:00:13.429266+00:00'
+  fetched_at: '2026-08-10T10:00:14.546643+00:00'
 - uid: a6095032c09a160f@waw-calendars
   source: waw4free
   title: Roztańczona Gromada| LATO Z GROMADĄ 2026
@@ -3803,7 +5162,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:13.431180+00:00'
+  fetched_at: '2026-08-10T10:00:14.548563+00:00'
 - uid: 4830c0d6a23c4f5b@waw-calendars
   source: waw4free
   title: Sąsiedzki grill i kreatywny chill
@@ -3815,7 +5174,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-08-10T04:00:13.430287+00:00'
+  fetched_at: '2026-08-10T10:00:14.547666+00:00'
 - uid: 26b061d0d0013d10@waw-calendars
   source: waw4free
   title: Taniec w kręgu
@@ -3828,7 +5187,7 @@ events:
   categories:
   - dla seniorów
   - warsztaty
-  fetched_at: '2026-08-10T04:00:13.434360+00:00'
+  fetched_at: '2026-08-10T10:00:14.551719+00:00'
 - uid: 94a2676a3e7a5504@waw-calendars
   source: waw4free
   title: Teatr w Kosmosie - wakacyjne spektakle w parku. NIE MÓW NIKOMU
@@ -3841,7 +5200,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-08-10T04:00:13.433885+00:00'
+  fetched_at: '2026-08-10T10:00:14.551260+00:00'
 - uid: 1d5c9779b82083c9@waw-calendars
   source: waw4free
   title: Thursday Oldie Goldie / Rock’n’Roll by Just Simon
@@ -3854,7 +5213,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:13.435721+00:00'
+  fetched_at: '2026-08-10T10:00:14.553090+00:00'
 - uid: c490207f6f2da08f@waw-calendars
   source: waw4free
   title: Ursynowskie Lato Filmowe 2026 - Kino Letnie dla Zielonego Ursynowa
@@ -3866,7 +5225,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:13.437569+00:00'
+  fetched_at: '2026-08-10T10:00:14.556742+00:00'
 - uid: 75df20194bbdf2b2@waw-calendars
   source: waw4free
   title: 'Warsztaty: Mozaika klimatyczna'
@@ -3878,7 +5237,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:13.430724+00:00'
+  fetched_at: '2026-08-10T10:00:14.548127+00:00'
 - uid: fb9a6fbd24e289cb@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Kino pod gwiazdami - Kopnęłaby Cię gdybym mogła (2026)
@@ -3890,7 +5249,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:13.438047+00:00'
+  fetched_at: '2026-08-10T10:00:14.557219+00:00'
 - uid: e07c5000f9598e5a@waw-calendars
   source: waw4free
   title: Wianki na Zawadach
@@ -3905,7 +5264,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-08-10T04:00:13.429830+00:00'
+  fetched_at: '2026-08-10T10:00:14.547217+00:00'
 - uid: af02ad4e6205af36@waw-calendars
   source: waw4free
   title: 'Zabytkowe cmentarze Warszawy: 3/5 Cmentarz Ewangelicko-Augsburski [darmowy spacer z przewodnikiem]'
@@ -3917,7 +5276,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:13.432077+00:00'
+  fetched_at: '2026-08-10T10:00:14.549463+00:00'
 - uid: 6cdd550cc7e704c0@waw-calendars
   source: waw4free
   title: Bílá Voda. Dyskusja w Klubie z Kawą nad Książką
@@ -3930,7 +5289,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:14.087553+00:00'
+  fetched_at: '2026-08-10T10:00:15.143614+00:00'
 - uid: 2a868fe27f1eafd5@waw-calendars
   source: waw4free
   title: Elegia dla Rzekotnowego Stawu | Kolektyw ZAJE
@@ -3943,7 +5302,7 @@ events:
   categories:
   - wykład
   - wystawa
-  fetched_at: '2026-08-10T04:00:14.622252+00:00'
+  fetched_at: '2026-08-10T10:00:15.723841+00:00'
 - uid: f6fe3a8046ced657@waw-calendars
   source: waw4free
   title: End of Summer - Święto Gofra
@@ -3957,7 +5316,20 @@ events:
   - impreza
   - koncert
   - inne
-  fetched_at: '2026-08-10T04:00:14.836800+00:00'
+  fetched_at: '2026-08-10T10:00:16.155951+00:00'
+- uid: dbc6667d70da18d2@waw-calendars
+  source: waw4free
+  title: Gimnastyka mózgu i joga serca
+  start: '2026-08-21'
+  end: '2026-08-21'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-157027-gimnastyka-mozgu-i-joga-serca
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:15.140929+00:00'
 - uid: fa230130eee34665@waw-calendars
   source: waw4free
   title: Kino plenerowe na Woli - Dreams
@@ -3969,7 +5341,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.091131+00:00'
+  fetched_at: '2026-08-10T10:00:15.147564+00:00'
 - uid: d387815f18729605@waw-calendars
   source: waw4free
   title: Koncert kieszonkowy w Pokoju na Lato
@@ -3981,7 +5353,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.089326+00:00'
+  fetched_at: '2026-08-10T10:00:15.145611+00:00'
 - uid: 6b11c14e2eabf890@waw-calendars
   source: waw4free
   title: Odzyskuję siebie” – antyprzemocowa grupa wsparcia dla kobiet
@@ -3993,7 +5365,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:14.087088+00:00'
+  fetched_at: '2026-08-10T10:00:15.143155+00:00'
 - uid: a8e2d26cbd2e7a19@waw-calendars
   source: waw4free
   title: PIASECZYŃSKIE KINO PLENEROWE - "Wartość sentymentalna"
@@ -4005,7 +5377,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.090686+00:00'
+  fetched_at: '2026-08-10T10:00:15.147134+00:00'
 - uid: 32d4c8a38f40e8cd@waw-calendars
   source: waw4free
   title: Potańcówka rock’n’rollowa
@@ -4018,7 +5390,7 @@ events:
   categories:
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.088025+00:00'
+  fetched_at: '2026-08-10T10:00:15.144096+00:00'
 - uid: de2450b790d7c37a@waw-calendars
   source: waw4free
   title: Retro na Stawach | “Diamenty Polskiej Piosenki”
@@ -4030,7 +5402,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.085710+00:00'
+  fetched_at: '2026-08-10T10:00:15.141807+00:00'
 - uid: 96f4b7904d1e61b6@waw-calendars
   source: waw4free
   title: 'Spacer:  Gdzie się chowa warszawska secesja? Vol. 2'
@@ -4042,7 +5414,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.086636+00:00'
+  fetched_at: '2026-08-10T10:00:15.142705+00:00'
 - uid: 0109caf19e900bd7@waw-calendars
   source: waw4free
   title: Summer Evening Concerts 2026 | Krzysztof Urbaniak
@@ -4054,7 +5426,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.085281+00:00'
+  fetched_at: '2026-08-10T10:00:15.141358+00:00'
 - uid: fc92df4070fbbc27@waw-calendars
   source: waw4free
   title: Warsaw GroundZero - Community Starts Here
@@ -4068,7 +5440,7 @@ events:
   - spotkanie
   - inne
   - po angielsku
-  fetched_at: '2026-08-10T04:00:14.089820+00:00'
+  fetched_at: '2026-08-10T10:00:15.146185+00:00'
 - uid: 916c5305c84ad336@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Koncert przy świecach - muzyka filmowa
@@ -4080,7 +5452,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.090262+00:00'
+  fetched_at: '2026-08-10T10:00:15.146661+00:00'
 - uid: 30a712374af09107@waw-calendars
   source: waw4free
   title: Wieczory Muzyczne w Parku Górczewska | Olga Prusik Band
@@ -4092,7 +5464,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.084319+00:00'
+  fetched_at: '2026-08-10T10:00:15.139947+00:00'
 - uid: 0cdc07318e65fd30@waw-calendars
   source: waw4free
   title: 'Wywczas: Planszownia'
@@ -4105,7 +5477,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:14.086194+00:00'
+  fetched_at: '2026-08-10T10:00:15.142269+00:00'
 - uid: 85ecf1a0635ec5c7@waw-calendars
   source: waw4free
   title: Zielny Piątek
@@ -4119,7 +5491,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-08-10T04:00:14.084831+00:00'
+  fetched_at: '2026-08-10T10:00:15.140440+00:00'
 - uid: 4eda8c90058655a3@waw-calendars
   source: waw4free
   title: Automasaż z sąsiadką Beatą
@@ -4131,7 +5503,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.631387+00:00'
+  fetched_at: '2026-08-10T10:00:15.734869+00:00'
 - uid: 0c07c3c0b825d34f@waw-calendars
   source: waw4free
   title: Bajkowe Poranki w Murowance
@@ -4145,7 +5517,7 @@ events:
   - dla dzieci
   - film
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.627602+00:00'
+  fetched_at: '2026-08-10T10:00:15.730979+00:00'
 - uid: fca874372c9fb643@waw-calendars
   source: waw4free
   title: 'Bezpłatny spacer: Warszawa, której nie znamy - śladami przedwojennego Śródmieścia'
@@ -4157,7 +5529,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.634605+00:00'
+  fetched_at: '2026-08-10T10:00:15.738727+00:00'
 - uid: 111c8d913c87bb87@waw-calendars
   source: waw4free
   title: Bleach Art | Forge Day Fest
@@ -4169,7 +5541,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.630054+00:00'
+  fetched_at: '2026-08-10T10:00:15.733456+00:00'
 - uid: c73a51b3ccf7ce8f@waw-calendars
   source: waw4free
   title: Eko jednorożce na patyku - darmowy warsztat [godz. 12:00 lub14:00]
@@ -4182,7 +5554,22 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.628571+00:00'
+  fetched_at: '2026-08-10T10:00:15.731978+00:00'
+- uid: 7d16577b06693171@waw-calendars
+  source: waw4free
+  title: Fajfy Włochowskie czyli Potańcówki Międzypokoleniowe
+  start: '2026-08-22'
+  end: '2026-08-22'
+  all_day: true
+  location: Włochy, Warszawa
+  url: https://waw4free.pl/wydarzenie-155665-fajfy-wlochowskie-czyli-potancowki-miedzypokoleniowe
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - impreza
+  fetched_at: '2026-08-10T10:00:15.739763+00:00'
 - uid: e633326159899d10@waw-calendars
   source: waw4free
   title: Forge Day Fest
@@ -4197,7 +5584,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.629107+00:00'
+  fetched_at: '2026-08-10T10:00:15.732499+00:00'
 - uid: 6358fc4a03ee177f@waw-calendars
   source: waw4free
   title: Guided Walks in English
@@ -4210,7 +5597,7 @@ events:
   categories:
   - spacer lub rower
   - po angielsku
-  fetched_at: '2026-08-10T04:00:14.624611+00:00'
+  fetched_at: '2026-08-10T10:00:15.727182+00:00'
 - uid: 5197112cf72d167d@waw-calendars
   source: waw4free
   title: House Band / Syreny Miasta feat. Dryllka & Lina Silva / LayDJ
@@ -4224,7 +5611,7 @@ events:
   - impreza
   - koncert
   - po angielsku
-  fetched_at: '2026-08-10T04:00:14.638759+00:00'
+  fetched_at: '2026-08-10T10:00:15.743599+00:00'
 - uid: f5fb40de43575524@waw-calendars
   source: waw4free
   title: JAZZ NA STARÓWCE 2026 | Marcin Masecki & Boleros
@@ -4236,7 +5623,20 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.638274+00:00'
+  fetched_at: '2026-08-10T10:00:15.743058+00:00'
+- uid: 05204c03955b7a46@waw-calendars
+  source: waw4free
+  title: JOGA na Patio Zielony zakątek - Lato z Gromadą 2026
+  start: '2026-08-22'
+  end: '2026-08-22'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-154733-joga-na-patio-zielony-zakatek-lato-z-gromada-2026
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:15.726222+00:00'
 - uid: 8aa830dc048fd7d2@waw-calendars
   source: waw4free
   title: Klimatyczni Architekci | Piknik Rodzinny
@@ -4253,7 +5653,7 @@ events:
   - wykład
   - wystawa
   - inne
-  fetched_at: '2026-08-10T04:00:14.627111+00:00'
+  fetched_at: '2026-08-10T10:00:15.730454+00:00'
 - uid: 4c15ea03a68eefe6@waw-calendars
   source: waw4free
   title: Koncert Eweliny Flinty z zespołem "Mariposa"
@@ -4265,7 +5665,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.640141+00:00'
+  fetched_at: '2026-08-10T10:00:15.745053+00:00'
 - uid: 3e162b126235b4ac@waw-calendars
   source: waw4free
   title: Koneser Stand-upu 2026 | SynMojegoTaty, Bartek Toczek
@@ -4277,7 +5677,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:14.641005+00:00'
+  fetched_at: '2026-08-10T10:00:15.745961+00:00'
 - uid: c129db0fecba4a7a@waw-calendars
   source: waw4free
   title: Lato w Pałacu | PLĄS X ASP W WARSZAWIE - Potańcówka w Pałacu Czapskich
@@ -4289,7 +5689,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:14.639222+00:00'
+  fetched_at: '2026-08-10T10:00:15.744119+00:00'
 - uid: fc70554055c020da@waw-calendars
   source: waw4free
   title: Legendy Warszawskie podczas spaceru po Starówce z przewodnikiem
@@ -4301,7 +5701,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.636003+00:00'
+  fetched_at: '2026-08-10T10:00:15.740739+00:00'
 - uid: 631317216e66c3e2@waw-calendars
   source: waw4free
   title: Linoryt  | Forge Day Fest
@@ -4313,7 +5713,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.630506+00:00'
+  fetched_at: '2026-08-10T10:00:15.733910+00:00'
 - uid: b0070765bf4c827b@waw-calendars
   source: waw4free
   title: 'LOT Kino Letnie: W Stronę Zachodzącego Słońca | Kokuho (2025)'
@@ -4325,7 +5725,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.640569+00:00'
+  fetched_at: '2026-08-10T10:00:15.745505+00:00'
 - uid: 021f9f82e872a8d0@waw-calendars
   source: waw4free
   title: Muzyczna medytacja-kirtan
@@ -4337,7 +5737,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-08-10T04:00:14.637329+00:00'
+  fetched_at: '2026-08-10T10:00:15.742085+00:00'
 - uid: bedad385da78d835@waw-calendars
   source: waw4free
   title: NAWZAJEM! - Szycie po Sąsiedzku
@@ -4349,7 +5749,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.630949+00:00'
+  fetched_at: '2026-08-10T10:00:15.734358+00:00'
 - uid: c89e0a31349f6081@waw-calendars
   source: waw4free
   title: Nightskating Warszawa - EXTREME
@@ -4362,7 +5762,7 @@ events:
   categories:
   - sport
   - inne
-  fetched_at: '2026-08-10T04:00:14.642356+00:00'
+  fetched_at: '2026-08-10T10:00:15.747292+00:00'
 - uid: 9805914a29e08113@waw-calendars
   source: waw4free
   title: Nightskating Warszawa - Shine On Party, poziom 1
@@ -4376,7 +5776,7 @@ events:
   - impreza
   - sport
   - inne
-  fetched_at: '2026-08-10T04:00:14.637826+00:00'
+  fetched_at: '2026-08-10T10:00:15.742575+00:00'
 - uid: 84422f7d45c7b7cb@waw-calendars
   source: waw4free
   title: Nowa Zachodnia wśród kolejowych perełek
@@ -4388,7 +5788,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.625592+00:00'
+  fetched_at: '2026-08-10T10:00:15.728150+00:00'
 - uid: 1ea2e46a3c54cebb@waw-calendars
   source: waw4free
   title: Pierwszy Wielki Służewski Plener Fotograficzny
@@ -4402,7 +5802,7 @@ events:
   - spacer lub rower
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.622751+00:00'
+  fetched_at: '2026-08-10T10:00:15.724339+00:00'
 - uid: 07fac48b8ffd9e2e@waw-calendars
   source: waw4free
   title: Porządek na stronie, czyli skład książki
@@ -4416,7 +5816,20 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.628110+00:00'
+  fetched_at: '2026-08-10T10:00:15.731469+00:00'
+- uid: a4bcf28f1ebca493@waw-calendars
+  source: waw4free
+  title: Prago, tu lato! Warsztaty edukacyjno-ekologiczne
+  start: '2026-08-22'
+  end: '2026-08-22'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-155841-prago-tu-lato-warsztaty-edukacyjno-ekologiczne
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:15.726686+00:00'
 - uid: ed19c8107989c1f7@waw-calendars
   source: waw4free
   title: Przystanek Plaża. Zapraszamy na Bardowskiego
@@ -4431,7 +5844,7 @@ events:
   - impreza
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.625157+00:00'
+  fetched_at: '2026-08-10T10:00:15.727696+00:00'
 - uid: ade9389270d04b9e@waw-calendars
   source: waw4free
   title: Rembertowskie potańcówki dla wszystkich pokoleń
@@ -4443,7 +5856,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:14.636880+00:00'
+  fetched_at: '2026-08-10T10:00:15.741625+00:00'
 - uid: 6672c22f822b799a@waw-calendars
   source: waw4free
   title: Rodzinna GRA MIEJSKA na Bulwarach Wiślanych – Rodzinny Wyścig z Kapitanem Warszawą
@@ -4456,7 +5869,7 @@ events:
   categories:
   - dla dzieci
   - inne
-  fetched_at: '2026-08-10T04:00:14.626513+00:00'
+  fetched_at: '2026-08-10T10:00:15.729080+00:00'
 - uid: 33692dd12129977d@waw-calendars
   source: waw4free
   title: RODZINNE WARSZTATY EKOLOGICZNE - Leśne mobile
@@ -4469,7 +5882,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.624133+00:00'
+  fetched_at: '2026-08-10T10:00:15.725691+00:00'
 - uid: 54e0312cda33c13a@waw-calendars
   source: waw4free
   title: Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica wybuchu Powstania Warszawskiego
@@ -4482,7 +5895,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.633248+00:00'
+  fetched_at: '2026-08-10T10:00:15.737379+00:00'
 - uid: 0868fb2dccf147c5@waw-calendars
   source: waw4free
   title: Spacer po Narbutta – śladami elit II RP.
@@ -4494,7 +5907,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.634172+00:00'
+  fetched_at: '2026-08-10T10:00:15.738299+00:00'
 - uid: f650b073cf0d07c6@waw-calendars
   source: waw4free
   title: Spacer po Woli - Ulrychów
@@ -4506,7 +5919,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.635554+00:00'
+  fetched_at: '2026-08-10T10:00:15.740220+00:00'
 - uid: a7775fc78e974888@waw-calendars
   source: waw4free
   title: Spacer przyrodniczy po parku Potulickich
@@ -4518,7 +5931,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.623646+00:00'
+  fetched_at: '2026-08-10T10:00:15.725232+00:00'
 - uid: 16cb55862740f86c@waw-calendars
   source: waw4free
   title: 'Tańce nad Wisłą 2026: blues'
@@ -4532,7 +5945,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.635120+00:00'
+  fetched_at: '2026-08-10T10:00:15.739240+00:00'
 - uid: d79dd6ab2c1cac5e@waw-calendars
   source: waw4free
   title: URSUS. SPACERY HISTORYCZNE | 50.ROCZNICA POWSTANIA KOR | Czerwiec ’76
@@ -4544,7 +5957,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.632802+00:00'
+  fetched_at: '2026-08-10T10:00:15.736940+00:00'
 - uid: 909f4242c8736e36@waw-calendars
   source: waw4free
   title: Wakacyjna Strefa Rekreacji w Rembertowie
@@ -4558,7 +5971,7 @@ events:
   - dla dzieci
   - impreza
   - inne
-  fetched_at: '2026-08-10T04:00:14.629599+00:00'
+  fetched_at: '2026-08-10T10:00:15.733022+00:00'
 - uid: 23f493e79b89b5b3@waw-calendars
   source: waw4free
   title: Warszawa | „Mazowsze” w kadrze. W hołdzie Andrzejowi Wajdzie
@@ -4571,7 +5984,7 @@ events:
   categories:
   - film
   - koncert
-  fetched_at: '2026-08-10T04:00:14.633709+00:00'
+  fetched_at: '2026-08-10T10:00:15.737859+00:00'
 - uid: 17db1a7891894ec6@waw-calendars
   source: waw4free
   title: WarszeMuzik | SUMMER THOUGHTS
@@ -4583,7 +5996,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.636440+00:00'
+  fetched_at: '2026-08-10T10:00:15.741195+00:00'
 - uid: ec858bdd5612d4aa@waw-calendars
   source: waw4free
   title: Warsztat Spawalniczy | Forge Day Fest
@@ -4595,7 +6008,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.631831+00:00'
+  fetched_at: '2026-08-10T10:00:15.735965+00:00'
 - uid: 221ae3d04ddd8f02@waw-calendars
   source: waw4free
   title: Warsztaty - kolorowe breloki z pościeli z drugiego obiegu z Zuzą Tokarską z OdPodszewki
@@ -4607,7 +6020,20 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.626034+00:00'
+  fetched_at: '2026-08-10T10:00:15.728588+00:00'
+- uid: 41dd589211d306db@waw-calendars
+  source: waw4free
+  title: WARSZTATY DLA MŁODZIEŻY I DOROSŁYCH | Błękitny splot – cyjanotypia z wykorzystaniem tkanin
+  start: '2026-08-22'
+  end: '2026-08-22'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157035-warsztaty-dla-mlodziezy-i-doroslych-blekitny-splot-cyjanotypia-z-wykorzystaniem-tkanin
+  description: null
+  categories:
+  - dla młodzieży
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:15.729849+00:00'
 - uid: d2830a2601fe2838@waw-calendars
   source: waw4free
   title: Wieczór Komedii Improwizowanej z Frajdą
@@ -4620,7 +6046,24 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-08-10T04:00:14.639682+00:00'
+  fetched_at: '2026-08-10T10:00:15.744586+00:00'
+- uid: fbb4b0e111995a11@waw-calendars
+  source: waw4free
+  title: Wolska Potańcówka w Ogrodach Ulricha
+  start: '2026-08-22'
+  end: '2026-08-22'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-153742-wolska-potancowka-w-ogrodach-ulricha
+  description: null
+  categories:
+  - dla dzieci
+  - dla seniorów
+  - impreza
+  - koncert
+  - teatr
+  - warsztaty
+  fetched_at: '2026-08-10T10:00:15.735501+00:00'
 - uid: b071bbd132964c94@waw-calendars
   source: waw4free
   title: 'WYWCZAS: Żoliborski Morning Rave'
@@ -4632,7 +6075,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:14.623212+00:00'
+  fetched_at: '2026-08-10T10:00:15.724791+00:00'
 - uid: f13ec9eb846e9940@waw-calendars
   source: waw4free
   title: Łemkowie – opowieść w skrawkach
@@ -4647,7 +6090,7 @@ events:
   - warsztaty
   - wykład
   - inne
-  fetched_at: '2026-08-10T04:00:14.632358+00:00'
+  fetched_at: '2026-08-10T10:00:15.736482+00:00'
 - uid: 4017b0416ca27a78@waw-calendars
   source: waw4free
   title: „POJEDYNEK” / KINO POD GWIAZDAMI
@@ -4659,7 +6102,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.641889+00:00'
+  fetched_at: '2026-08-10T10:00:15.746834+00:00'
 - uid: 234dab5664f04c59@waw-calendars
   source: waw4free
   title: „Thelma i Louise” | Letnie kino plenerowe w Pałacyku
@@ -4671,7 +6114,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:14.641448+00:00'
+  fetched_at: '2026-08-10T10:00:15.746391+00:00'
 - uid: bb6a18c77e81e8cb@waw-calendars
   source: waw4free
   title: Bajki na Trawie 2026 | Cudowny chleb
@@ -4684,7 +6127,7 @@ events:
   categories:
   - dla dzieci
   - teatr
-  fetched_at: '2026-08-10T04:00:14.846142+00:00'
+  fetched_at: '2026-08-10T10:00:16.163668+00:00'
 - uid: 1343b34e5769b5b5@waw-calendars
   source: waw4free
   title: Bajkowa Praga-Południe - Kwiat Paproci
@@ -4697,7 +6140,7 @@ events:
   categories:
   - dla dzieci
   - teatr
-  fetched_at: '2026-08-10T04:00:14.839120+00:00'
+  fetched_at: '2026-08-10T10:00:16.156955+00:00'
 - uid: b85d20c528c22093@waw-calendars
   source: waw4free
   title: Bliskie Choreografie Przestrzenne
@@ -4709,7 +6152,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.841152+00:00'
+  fetched_at: '2026-08-10T10:00:16.158957+00:00'
 - uid: 3f1162098c72fa32@waw-calendars
   source: waw4free
   title: Bułgarski Festiwal Róż - wykład. Royal Rose 2026
@@ -4722,7 +6165,7 @@ events:
   categories:
   - dla młodzieży
   - wykład
-  fetched_at: '2026-08-10T04:00:14.847194+00:00'
+  fetched_at: '2026-08-10T10:00:16.164603+00:00'
 - uid: c21e1443c3196e0f@waw-calendars
   source: waw4free
   title: Czarodziejska góra – instalacja Mirosława Bałki
@@ -4736,7 +6179,7 @@ events:
   - teatr
   - wystawa
   - inne
-  fetched_at: '2026-08-10T04:00:14.843482+00:00'
+  fetched_at: '2026-08-10T10:00:16.161300+00:00'
 - uid: da40422e89c726aa@waw-calendars
   source: waw4free
   title: Dzień Fotografii w SDK
@@ -4751,7 +6194,7 @@ events:
   - spotkanie
   - warsztaty
   - wystawa
-  fetched_at: '2026-08-10T04:00:14.844957+00:00'
+  fetched_at: '2026-08-10T10:00:16.162740+00:00'
 - uid: 2c5870524be6c8ed@waw-calendars
   source: waw4free
   title: Dzień Psa w Browarach Warszawskich
@@ -4767,7 +6210,7 @@ events:
   - sport
   - spotkanie
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.839683+00:00'
+  fetched_at: '2026-08-10T10:00:16.157504+00:00'
 - uid: d4c986613f874869@waw-calendars
   source: waw4free
   title: GRUNT I WODA | WARSZTATY KULINARNE DLA DZIECI NAD WISŁĄ | Dorayaki
@@ -4780,7 +6223,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.848650+00:00'
+  fetched_at: '2026-08-10T10:00:16.166072+00:00'
 - uid: 94b255dc4f8a31ec@waw-calendars
   source: waw4free
   title: Joga w parku – niedzielne południe z naturą
@@ -4793,7 +6236,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.844418+00:00'
+  fetched_at: '2026-08-10T10:00:16.162222+00:00'
 - uid: 7935a0e56c1f2abb@waw-calendars
   source: waw4free
   title: Koncert Dawida Kwiatkowskiego
@@ -4805,7 +6248,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.853185+00:00'
+  fetched_at: '2026-08-10T10:00:16.170569+00:00'
 - uid: 70782d36cc66846a@waw-calendars
   source: waw4free
   title: Koneser Stand-upu 2026 | Adam Sobaniec, Kamil Kozieł
@@ -4817,7 +6260,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:14.852735+00:00'
+  fetched_at: '2026-08-10T10:00:16.170141+00:00'
 - uid: ad57188317a1b6ff@waw-calendars
   source: waw4free
   title: Kulturalna Białołęka | Potańcówka
@@ -4829,7 +6272,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-08-10T04:00:14.845581+00:00'
+  fetched_at: '2026-08-10T10:00:16.163198+00:00'
 - uid: 3665575bfa08ca42@waw-calendars
   source: waw4free
   title: Letnie Koncerty Promenadowe 2026 | Tango Libre
@@ -4841,7 +6284,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.842947+00:00'
+  fetched_at: '2026-08-10T10:00:16.160747+00:00'
 - uid: d962b820a464982d@waw-calendars
   source: waw4free
   title: Mirosław Bałka i scenografia do Czarodziejskiej góry – wykład Andy Rottenberg
@@ -4854,7 +6297,7 @@ events:
   categories:
   - dla seniorów
   - wykład
-  fetched_at: '2026-08-10T04:00:14.851820+00:00'
+  fetched_at: '2026-08-10T10:00:16.169190+00:00'
 - uid: fd146b1677fcec5e@waw-calendars
   source: waw4free
   title: Muranów dawniej i dziś. Autorski spacer w języku ukraińskim // Муранув минулого і сьогодення.
@@ -4868,7 +6311,7 @@ events:
   categories:
   - spacer lub rower
   - po ukraińsku
-  fetched_at: '2026-08-10T04:00:14.848183+00:00'
+  fetched_at: '2026-08-10T10:00:16.165580+00:00'
 - uid: 67097f37ed657f04@waw-calendars
   source: waw4free
   title: Muzyczne Lato na Ursynowie 2026 | JAZZ
@@ -4880,7 +6323,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.850434+00:00'
+  fetched_at: '2026-08-10T10:00:16.167832+00:00'
 - uid: eb29cfcf0d0f19e0@waw-calendars
   source: waw4free
   title: Przydrożne Historie czyli pamięć i wiara zaklęte w kapliczkach
@@ -4892,7 +6335,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-08-10T04:00:14.846672+00:00'
+  fetched_at: '2026-08-10T10:00:16.164139+00:00'
 - uid: 1dec29387a78bc92@waw-calendars
   source: waw4free
   title: Rodzinna GRA MIEJSKA na Polu Mokotowskim – Rodzinny Wyścig z Kapitanem Warszawą
@@ -4905,7 +6348,7 @@ events:
   categories:
   - dla dzieci
   - inne
-  fetched_at: '2026-08-10T04:00:14.842058+00:00'
+  fetched_at: '2026-08-10T10:00:16.159874+00:00'
 - uid: c9aaf91c541eea53@waw-calendars
   source: waw4free
   title: RODZINNA NIEDZIELA | RAMKI PEŁNE WSPOMNIEŃ
@@ -4919,7 +6362,7 @@ events:
   - dla dzieci
   - impreza
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.847687+00:00'
+  fetched_at: '2026-08-10T10:00:16.165120+00:00'
 - uid: e243234402b24af3@waw-calendars
   source: waw4free
   title: Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica wybuchu Powstania Warszawskiego
@@ -4932,7 +6375,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.849115+00:00'
+  fetched_at: '2026-08-10T10:00:16.166504+00:00'
 - uid: 92d0e6c1e69c4b98@waw-calendars
   source: waw4free
   title: 'Spacer - Warszawa zachowana: Aleje Ujazdowskie'
@@ -4944,7 +6387,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.849545+00:00'
+  fetched_at: '2026-08-10T10:00:16.166953+00:00'
 - uid: b116a7a079474ba5@waw-calendars
   source: waw4free
   title: Spacer po cmentarzu żydowskim w Pruszkowie
@@ -4956,7 +6399,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.842503+00:00'
+  fetched_at: '2026-08-10T10:00:16.160308+00:00'
 - uid: 45110cfc5c1645ff@waw-calendars
   source: waw4free
   title: 'Spacer: Łazienki za czasów króla Stanisława. (Po nim koncert chopinowski)'
@@ -4968,7 +6411,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.840171+00:00'
+  fetched_at: '2026-08-10T10:00:16.157977+00:00'
 - uid: 07273d094a1d517c@waw-calendars
   source: waw4free
   title: Warsaw 2.0 Comedy Show
@@ -4981,7 +6424,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - po angielsku
-  fetched_at: '2026-08-10T04:00:14.852303+00:00'
+  fetched_at: '2026-08-10T10:00:16.169668+00:00'
 - uid: 5f62bf35620a6c6e@waw-calendars
   source: waw4free
   title: Warszawskie Kocykowanie | Rytmy, Dźwięki i Muzyczne Sekrety
@@ -4995,7 +6438,7 @@ events:
   - dla dzieci
   - teatr
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.838059+00:00'
+  fetched_at: '2026-08-10T10:00:16.156461+00:00'
 - uid: 656acc5c3a3dba69@waw-calendars
   source: waw4free
   title: WarszeMuzik | RABAH x MAKSYMIUK
@@ -5007,7 +6450,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.849990+00:00'
+  fetched_at: '2026-08-10T10:00:16.167383+00:00'
 - uid: fab43a7523432bec@waw-calendars
   source: waw4free
   title: Warsztaty pieczenia bułeczek [godz. 11:00 i 15:00]
@@ -5019,7 +6462,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.841586+00:00'
+  fetched_at: '2026-08-10T10:00:16.159390+00:00'
 - uid: a61ddc9704f55d4e@waw-calendars
   source: waw4free
   title: 'Wywczas┃POGŁOS: HARMONIA – PRZEPŁYW'
@@ -5031,7 +6474,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:14.851339+00:00'
+  fetched_at: '2026-08-10T10:00:16.168696+00:00'
 - uid: d9796c2821e403f4@waw-calendars
   source: waw4free
   title: XXI Powsińskie Dożynki
@@ -5046,7 +6489,7 @@ events:
   - dla młodzieży
   - impreza
   - koncert
-  fetched_at: '2026-08-10T04:00:14.840696+00:00'
+  fetched_at: '2026-08-10T10:00:16.158501+00:00'
 - uid: 1c2aa407346d2d9b@waw-calendars
   source: waw4free
   title: Zaginiony świat Dynasów i Sewerynowa. Od magnackich pałaców do ruin cyklistów
@@ -5058,7 +6501,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:14.843945+00:00'
+  fetched_at: '2026-08-10T10:00:16.161742+00:00'
 - uid: 4d7b5bc2641bcef5@waw-calendars
   source: waw4free
   title: Złote Przeboje Renesansu
@@ -5070,7 +6513,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:14.850890+00:00'
+  fetched_at: '2026-08-10T10:00:16.168265+00:00'
 - uid: 43eec45613d68aab@waw-calendars
   source: waw4free
   title: '"Spotkania" z Anną Czerwińską'
@@ -5083,7 +6526,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-08-10T04:00:07.838732+00:00'
+  fetched_at: '2026-08-10T10:00:08.847202+00:00'
 - uid: 9da2a69aff09c721@waw-calendars
   source: waw4free
   title: '"Spotkania" z Anną Czerwińską'
@@ -5110,19 +6553,20 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.829426+00:00'
-- uid: 859cd302288dae9e@waw-calendars
+  fetched_at: '2026-08-10T10:00:08.837237+00:00'
+- uid: bd59e86c97f95ef1@waw-calendars
   source: waw4free
-  title: 5. sezon koncertów plenerowych pt. "Fortepian Szopena"
+  title: 482. spotkanie Asbiro Toastmasters
   start: null
   end: null
   all_day: true
-  location: null
-  url: https://waw4free.pl/wydarzenie-153654-5-sezon-koncertow-plenerowych-pt-fortepian-szopena
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-157018-482-spotkanie-asbiro-toastmasters
   description: null
   categories:
-  - koncert
-  fetched_at: '2026-08-09T16:00:07.733053+00:00'
+  - warsztaty
+  - inne
+  fetched_at: '2026-08-10T10:00:08.845290+00:00'
 - uid: 4dbc6fe2560b111e@waw-calendars
   source: waw4free
   title: Bajki na Trawie 2026 | Kalosze szczęścia
@@ -5136,19 +6580,6 @@ events:
   - dla dzieci
   - teatr
   fetched_at: '2026-08-09T16:00:07.724274+00:00'
-- uid: 415df21d73899e3f@waw-calendars
-  source: waw4free
-  title: Bajki plenerowe w Parku Czechowickim
-  start: null
-  end: null
-  all_day: true
-  location: Ursus, Warszawa
-  url: https://waw4free.pl/wydarzenie-155493-bajki-plenerowe-w-parku-czechowickim
-  description: null
-  categories:
-  - dla dzieci
-  - teatr
-  fetched_at: '2026-08-09T16:00:07.700477+00:00'
 - uid: e23f1a70dbcdfb4c@waw-calendars
   source: waw4free
   title: Bajkowa Praga-Południe - Petson i Findus
@@ -5173,7 +6604,20 @@ events:
   description: null
   categories:
   - reklama
-  fetched_at: '2026-08-10T04:00:14.088381+00:00'
+  fetched_at: '2026-08-10T10:00:15.144445+00:00'
+- uid: ee66b3b01d49914e@waw-calendars
+  source: waw4free
+  title: Bemowskie Kino Plenerowe dla Dzieci
+  start: null
+  end: null
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-156541-bemowskie-kino-plenerowe-dla-dzieci
+  description: null
+  categories:
+  - dla dzieci
+  - film
+  fetched_at: '2026-08-10T10:00:08.850717+00:00'
 - uid: 64b7575e21ef469f@waw-calendars
   source: waw4free
   title: Bezpłatna Zumba w Jabłonnie
@@ -5186,7 +6630,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.837359+00:00'
+  fetched_at: '2026-08-10T10:00:08.845793+00:00'
 - uid: 518b147335ecf30c@waw-calendars
   source: waw4free
   title: Bezpłatne aikido dla dorosłych
@@ -5199,20 +6643,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.840570+00:00'
-- uid: 7be2f62c4ba609f7@waw-calendars
-  source: waw4free
-  title: Bezpłatne zajęcia jogi
-  start: null
-  end: null
-  all_day: true
-  location: Wilanów, Warszawa
-  url: https://waw4free.pl/wydarzenie-151799-bezplatne-zajecia-jogi
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.710804+00:00'
+  fetched_at: '2026-08-10T10:00:08.849071+00:00'
 - uid: 320cf46612f1d91c@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe na Targówku | pilates
@@ -5225,7 +6656,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.835517+00:00'
+  fetched_at: '2026-08-10T10:00:08.843413+00:00'
 - uid: 9abe49d0f7551c9e@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia sportowe na Targówku | stretching
@@ -5238,7 +6669,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.838276+00:00'
+  fetched_at: '2026-08-10T10:00:08.846717+00:00'
 - uid: f9d9f85319a9d1bc@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami
@@ -5251,7 +6682,7 @@ events:
   categories:
   - dla dzieci
   - sport
-  fetched_at: '2026-08-10T04:00:07.832755+00:00'
+  fetched_at: '2026-08-10T10:00:08.840615+00:00'
 - uid: 3b405cae19205f6b@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami
@@ -5264,7 +6695,7 @@ events:
   categories:
   - dla dzieci
   - sport
-  fetched_at: '2026-08-10T04:00:07.834122+00:00'
+  fetched_at: '2026-08-10T10:00:08.842017+00:00'
 - uid: 6721d13eb85b824d@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia Zumby w Domu Kultury Świt
@@ -5290,7 +6721,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.840103+00:00'
+  fetched_at: '2026-08-10T10:00:08.848584+00:00'
 - uid: 132490985b64efc9@waw-calendars
   source: waw4free
   title: 'Budynki mówią 6. Spacer nr 4: Nowa Praga'
@@ -5351,7 +6782,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.833226+00:00'
+  fetched_at: '2026-08-10T10:00:08.841099+00:00'
 - uid: 09bb123a132e5b26@waw-calendars
   source: waw4free
   title: 'CUDowne Kino Plenerowe: "Notting Hill" | wstęp wolny'
@@ -5392,34 +6823,7 @@ events:
   - sport
   - warsztaty
   - po angielsku
-  fetched_at: '2026-08-10T04:00:07.841560+00:00'
-- uid: 3046145e1fe5e930@waw-calendars
-  source: waw4free
-  title: Darmowe Animacje dla Dzieci nad Wisłą
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-156033-darmowe-animacje-dla-dzieci-nad-wisla
-  description: null
-  categories:
-  - dla dzieci
-  - warsztaty
-  - inne
-  fetched_at: '2026-08-09T16:00:07.724753+00:00'
-- uid: 406d3b939bbff8b2@waw-calendars
-  source: waw4free
-  title: DARMOWE ZAJĘCIA JOGI Z WIDOKIEM NA WISŁĘ
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-155255-darmowe-zajecia-jogi-z-widokiem-na-wisle
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.711730+00:00'
+  fetched_at: '2026-08-10T10:00:08.850245+00:00'
 - uid: 664ebc871c86b8ae@waw-calendars
   source: waw4free
   title: Darmowy coworking w Warszawie
@@ -5430,7 +6834,7 @@ events:
   url: https://waw4free.pl/informacja-1095-darmowy-coworking-w-warszawie
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.855265+00:00'
+  fetched_at: '2026-08-10T10:00:16.172664+00:00'
 - uid: 1f3439d0c614f0b3@waw-calendars
   source: waw4free
   title: DOBRE KINO NA SADACH by Filmweb
@@ -5442,7 +6846,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:07.842429+00:00'
+  fetched_at: '2026-08-10T10:00:08.851659+00:00'
 - uid: 6c313eaac05e7d11@waw-calendars
   source: waw4free
   title: 'Dziewczyny z rekorderami: Justyna Banaszczyk "Bug Poems" | silent słuchowisko nad Wisłą'
@@ -5466,7 +6870,7 @@ events:
   url: https://waw4free.pl/w-warszawie-za-darmo-dzisiaj
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.853961+00:00'
+  fetched_at: '2026-08-10T10:00:16.171357+00:00'
 - uid: cec8eb291fe26fac@waw-calendars
   source: waw4free
   title: Falenicka Giełda Staroci
@@ -5527,7 +6931,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.828908+00:00'
+  fetched_at: '2026-08-10T10:00:08.836717+00:00'
 - uid: 6f49c73607533578@waw-calendars
   source: waw4free
   title: Frisbee na Bielanach - otwarte granie dla każdego
@@ -5540,20 +6944,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.834584+00:00'
-- uid: 7e5857b08a486da8@waw-calendars
-  source: waw4free
-  title: GARDEN LIVE SESSIONS
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-156804-garden-live-sessions
-  description: null
-  categories:
-  - impreza
-  - koncert
-  fetched_at: '2026-08-09T16:00:07.714083+00:00'
+  fetched_at: '2026-08-10T10:00:08.842477+00:00'
 - uid: 86d87786262c9485@waw-calendars
   source: waw4free
   title: Gdzie śpią pawie w Łazienkach? [spacer z przewodnikiem PTTK]
@@ -5592,19 +6983,6 @@ events:
   - spacer lub rower
   - inne
   fetched_at: '2026-08-09T16:00:07.716916+00:00'
-- uid: c5f85d2c100078d1@waw-calendars
-  source: waw4free
-  title: GRUNT I WODA | AKTYWNIE W PLENERZE x MOTION
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-152793-grunt-i-woda-aktywnie-w-plenerze-x-motion
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.711276+00:00'
 - uid: 0a4bf1998fd19c89@waw-calendars
   source: waw4free
   title: GRUNT I WODA | WARSZTATY KULINARNE DLA DZIECI NAD WISŁĄ | Wietnamskie sajgonki bez gotowania
@@ -5630,7 +7008,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-08-10T04:00:07.839635+00:00'
+  fetched_at: '2026-08-10T10:00:08.848124+00:00'
 - uid: 7ad1e7b0ad2c2222@waw-calendars
   source: waw4free
   title: 'Honest Ground #2 - Skip the small talk, Meet new friends'
@@ -5655,7 +7033,7 @@ events:
   url: https://waw4free.pl/informacje
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.854224+00:00'
+  fetched_at: '2026-08-10T10:00:16.171613+00:00'
 - uid: 9e73c475ebe7916c@waw-calendars
   source: waw4free
   title: Jazz w Aninie. Karolina Błachnia Quartet
@@ -5668,19 +7046,6 @@ events:
   categories:
   - koncert
   fetched_at: '2026-08-09T16:00:07.740229+00:00'
-- uid: e7ec2e582ab702a0@waw-calendars
-  source: waw4free
-  title: Joga na Polu Mokotowskim - 11 sezon
-  start: null
-  end: null
-  all_day: true
-  location: Ochota, Warszawa
-  url: https://waw4free.pl/wydarzenie-153684-joga-na-polu-mokotowskim-11-sezon
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.705640+00:00'
 - uid: 8f7ad19990fb3034@waw-calendars
   source: waw4free
   title: Joga nad Wisłą w Szerokich Barach
@@ -5693,33 +7058,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.836433+00:00'
-- uid: 81136e54cc8dd2c3@waw-calendars
-  source: waw4free
-  title: Joga w Parku Praskim - sezon. 4
-  start: null
-  end: null
-  all_day: true
-  location: Praga-Północ, Warszawa
-  url: https://waw4free.pl/wydarzenie-151953-joga-w-parku-praskim-sezon-4
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.710337+00:00'
-- uid: 677d85a68a5a1080@waw-calendars
-  source: waw4free
-  title: Joga w parku Ulricha
-  start: null
-  end: null
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-156988-joga-w-parku-ulricha
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.709867+00:00'
+  fetched_at: '2026-08-10T10:00:08.844337+00:00'
 - uid: e0d39c9dfa4a8347@waw-calendars
   source: waw4free
   title: Joga w parku – niedzielne południe z naturą
@@ -5756,7 +7095,7 @@ events:
   url: https://m.me/j/AbaeNYWhNzCEDoJm/
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.854999+00:00'
+  fetched_at: '2026-08-10T10:00:16.172410+00:00'
 - uid: 2c17ddb613734582@waw-calendars
   source: waw4free
   title: KAPELANI POWSTANIA WARSZAWSKIEGO. HISTORIA O. JÓZEFA WARSZAWSKIEGO SI
@@ -5782,44 +7121,6 @@ events:
   - dla dzieci
   - film
   fetched_at: '2026-08-09T16:00:07.727532+00:00'
-- uid: 4320a4fd5c0d8fc3@waw-calendars
-  source: waw4free
-  title: Kino plenerowe dla dużych i małych
-  start: null
-  end: null
-  all_day: true
-  location: Żoliborz, Warszawa
-  url: https://waw4free.pl/wydarzenie-155581-kino-plenerowe-dla-duzych-i-malych
-  description: null
-  categories:
-  - dla dzieci
-  - film
-  fetched_at: '2026-08-09T16:00:07.712210+00:00'
-- uid: 4f2038ae611a23f9@waw-calendars
-  source: waw4free
-  title: Kino Plenerowe na Rynku Nowego Miasta
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-152804-kino-plenerowe-na-rynku-nowego-miasta
-  description: null
-  categories:
-  - film
-  - impreza
-  fetched_at: '2026-08-09T16:00:07.743429+00:00'
-- uid: 24b99a188f5d99b0@waw-calendars
-  source: waw4free
-  title: Kino plenerowe w Parku Kaskada
-  start: null
-  end: null
-  all_day: true
-  location: Żoliborz, Warszawa
-  url: https://waw4free.pl/wydarzenie-155582-kino-plenerowe-w-parku-kaskada
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-08-09T16:00:07.744715+00:00'
 - uid: 308de43910a506c2@waw-calendars
   source: waw4free
   title: 'Kino plenerowe z projektem #WisłaSPLOT: „Posłuchaj, co chcę ci powiedzieć” | film + spotkanie
@@ -5835,18 +7136,6 @@ events:
   - spotkanie
   - wykład
   fetched_at: '2026-08-09T16:00:07.741596+00:00'
-- uid: 8717b830ca661c60@waw-calendars
-  source: waw4free
-  title: Klub Fotograficzny
-  start: null
-  end: null
-  all_day: true
-  location: Wawer, Warszawa
-  url: https://waw4free.pl/wydarzenie-145320-klub-fotograficzny
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.736673+00:00'
 - uid: b7f3319bc26a6aa6@waw-calendars
   source: waw4free
   title: Koncert amerykańskiego chóru mennonitów The Hope Singers
@@ -5859,18 +7148,6 @@ events:
   categories:
   - koncert
   fetched_at: '2026-08-09T16:00:07.707961+00:00'
-- uid: 56b93e8146b03d9e@waw-calendars
-  source: waw4free
-  title: Koncert Chopinowski w Łazienkach Królewskich [godz. 12:00 i 16:00]
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-152770-koncert-chopinowski-w-lazienkach-krolewskich-godz-12-00-i-16-00
-  description: null
-  categories:
-  - koncert
-  fetched_at: '2026-08-09T16:00:07.691292+00:00'
 - uid: f848224fbefc75a5@waw-calendars
   source: waw4free
   title: Koncert IRA
@@ -5908,7 +7185,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-08-10T04:00:07.822077+00:00'
+  fetched_at: '2026-08-10T10:00:08.829539+00:00'
 - uid: 22393a4bf1372014@waw-calendars
   source: waw4free
   title: Koneser Stand-upu 2026 | Tomek Kołecki, Szymon Baraniecki
@@ -5920,7 +7197,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:07.822551+00:00'
+  fetched_at: '2026-08-10T10:00:08.830104+00:00'
 - uid: 41607c3c5662b670@waw-calendars
   source: waw4free
   title: Konstancin-Jeziorna - Automasaż i taniec intuicyjny
@@ -5946,7 +7223,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.830456+00:00'
+  fetched_at: '2026-08-10T10:00:08.838284+00:00'
 - uid: 12a4a6437fa632d1@waw-calendars
   source: waw4free
   title: Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
@@ -5960,31 +7237,6 @@ events:
   - dla dzieci
   - spacer lub rower
   fetched_at: '2026-08-09T16:00:07.719681+00:00'
-- uid: 5a6ed6207ab47ae7@waw-calendars
-  source: waw4free
-  title: LETNIE AUDYCJE ORGANOWE / SUMMER ORGAN RECITALS
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-152767-letnie-audycje-organowe-summer-organ-recitals
-  description: null
-  categories:
-  - koncert
-  - po angielsku
-  fetched_at: '2026-08-09T16:00:07.727079+00:00'
-- uid: be187da942519f31@waw-calendars
-  source: waw4free
-  title: Letnie Kino Plenerowe na Woli
-  start: null
-  end: null
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-155332-letnie-kino-plenerowe-na-woli
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-08-09T16:00:07.729838+00:00'
 - uid: 3d33b543bd346ffa@waw-calendars
   source: waw4free
   title: Letnie Koncerty Promenadowe 2026 | Kiss Me Right (jazz)
@@ -6012,18 +7264,6 @@ events:
   - warsztaty
   - inne
   fetched_at: '2026-08-09T16:00:07.709407+00:00'
-- uid: f30560756f5bc322@waw-calendars
-  source: waw4free
-  title: Manewry Tradycyjnych Łodzi Wiślanych
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-155219-manewry-tradycyjnych-lodzi-wislanych
-  description: null
-  categories:
-  - inne
-  fetched_at: '2026-08-09T16:00:07.736249+00:00'
 - uid: 2015a7e9df60217f@waw-calendars
   source: waw4free
   title: Marszałek i jego Warszawa | spacer z przewodnikiem po Warszawie
@@ -6058,7 +7298,7 @@ events:
   url: https://waw4free.pl/miejsca
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.854476+00:00'
+  fetched_at: '2026-08-10T10:00:16.171897+00:00'
 - uid: 541cc7d7800365b6@waw-calendars
   source: waw4free
   title: 'Mikrowyprawa #wKoronachMiasta | Furtka do Natury'
@@ -6081,7 +7321,7 @@ events:
   url: https://waw4free.pl/wstep-wolny
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.853442+00:00'
+  fetched_at: '2026-08-10T10:00:16.170847+00:00'
 - uid: 1b8421518aee522f@waw-calendars
   source: waw4free
   title: Muzyczne Lato na Ursynowie 2026 | FOLK
@@ -6094,18 +7334,6 @@ events:
   categories:
   - koncert
   fetched_at: '2026-08-09T16:00:07.737990+00:00'
-- uid: 25ac08228e6bcf12@waw-calendars
-  source: waw4free
-  title: New City Sounds - cykl letnich koncertów młodych talentów w Fabryce Norblina
-  start: null
-  end: null
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-154244-new-city-sounds-cykl-letnich-koncertow-mlodych-talentow-w-fabryce-norblina
-  description: null
-  categories:
-  - koncert
-  fetched_at: '2026-08-09T16:00:07.737116+00:00'
 - uid: db28fcdd59b185f5@waw-calendars
   source: waw4free
   title: Newsletter waw4free
@@ -6116,71 +7344,7 @@ events:
   url: https://waw4free.pl/newsletter
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.854733+00:00'
-- uid: 58107d1666b030af@waw-calendars
-  source: waw4free
-  title: NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU
-  start: null
-  end: null
-  all_day: true
-  location: Targówek, Warszawa
-  url: https://waw4free.pl/wydarzenie-154218-niedzielne-letnie-kino-plenerowe-dla-doroslych-na-targowku
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-08-09T16:00:07.744296+00:00'
-- uid: e3b8f717ed4ae408@waw-calendars
-  source: waw4free
-  title: NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU W PARKU BRÓDNOWSKIM
-  start: null
-  end: null
-  all_day: true
-  location: Targówek, Warszawa
-  url: https://waw4free.pl/wydarzenie-154217-niedzielne-letnie-kino-plenerowe-dla-doroslych-na-targowku-w-parku-brodnowskim
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-08-09T16:00:07.743865+00:00'
-- uid: 2597fec9b7265f44@waw-calendars
-  source: waw4free
-  title: Niedzielne Spotkanie Sparingowe
-  start: null
-  end: null
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-58073-niedzielne-spotkanie-sparingowe
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  - inne
-  fetched_at: '2026-08-09T16:00:07.702780+00:00'
-- uid: f3b75eec723d3dc5@waw-calendars
-  source: waw4free
-  title: Niedzielne tańce w Fabryce Norblina
-  start: null
-  end: null
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-153450-niedzielne-tance-w-fabryce-norblina
-  description: null
-  categories:
-  - impreza
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.723809+00:00'
-- uid: fff756f90c90bcf9@waw-calendars
-  source: waw4free
-  title: Odkryj Stare i Nowe Miasto w Warszawie
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-155431-odkryj-stare-i-nowe-miasto-w-warszawie
-  description: null
-  categories:
-  - spacer lub rower
-  - wykład
-  fetched_at: '2026-08-09T16:00:07.706616+00:00'
+  fetched_at: '2026-08-10T10:00:16.172154+00:00'
 - uid: 6c75599ed9e666d2@waw-calendars
   source: waw4free
   title: Ogród romantyczny w Łazienkach
@@ -6204,7 +7368,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.828422+00:00'
+  fetched_at: '2026-08-10T10:00:08.836281+00:00'
 - uid: c7bc23934955b17e@waw-calendars
   source: waw4free
   title: Park Skaryszewski - z historią Wedlów w tle [spacer z przewodnikiem PTTK]
@@ -6257,21 +7421,6 @@ events:
   - spotkanie
   - inne
   fetched_at: '2026-08-09T16:00:07.731266+00:00'
-- uid: 0947888fd06e1adc@waw-calendars
-  source: waw4free
-  title: Plenerowe, rodzinne intuicyjne malowanie w Dzielnicy Ursynów [godz. 15:00 i 16:30]
-  start: null
-  end: null
-  all_day: true
-  location: Ursynów, Warszawa
-  url: https://waw4free.pl/wydarzenie-155268-plenerowe-rodzinne-intuicyjne-malowanie-w-dzielnicy-ursynow-godz-15-00-i-16-30
-  description: null
-  categories:
-  - dla dzieci
-  - dla młodzieży
-  - dla seniorów
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.729405+00:00'
 - uid: d8ede7327ad0ea79@waw-calendars
   source: waw4free
   title: Poniedziałkowe granie z WGP
@@ -6284,7 +7433,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-08-10T04:00:07.832306+00:00'
+  fetched_at: '2026-08-10T10:00:08.840162+00:00'
 - uid: c48f081c9befb408@waw-calendars
   source: waw4free
   title: Poniedziałkowe zajęcia jogi w plenerze na Osiedlu "Przyjaźń"
@@ -6297,7 +7446,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.835055+00:00'
+  fetched_at: '2026-08-10T10:00:08.842956+00:00'
 - uid: 5d44477504452aa9@waw-calendars
   source: waw4free
   title: Poród, połóg i inne troski. Literatura na żywo
@@ -6389,36 +7538,6 @@ events:
   - impreza
   - warsztaty
   fetched_at: '2026-08-09T16:00:07.726165+00:00'
-- uid: c8995023559945c3@waw-calendars
-  source: waw4free
-  title: RODZINNE NIEDZIELE W ELEKTROWNI POWIŚLE
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-155331-rodzinne-niedziele-w-elektrowni-powisle
-  description: null
-  categories:
-  - dla dzieci
-  - impreza
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.717840+00:00'
-- uid: 30a98619d3aea4e6@waw-calendars
-  source: waw4free
-  title: Rodzinne pląsanie na trawiastym dywanie
-  start: null
-  end: null
-  all_day: true
-  location: Praga-Południe, Warszawa
-  url: https://waw4free.pl/wydarzenie-150184-rodzinne-plasanie-na-trawiastym-dywanie
-  description: null
-  categories:
-  - dla dzieci
-  - sport
-  - spotkanie
-  - warsztaty
-  - inne
-  fetched_at: '2026-08-09T16:00:07.704226+00:00'
 - uid: e3b8ec5c499186d5@waw-calendars
   source: waw4free
   title: Sonbird - Koncert plenerowy
@@ -6478,7 +7597,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:07.835967+00:00'
+  fetched_at: '2026-08-10T10:00:08.843875+00:00'
 - uid: 72e12000ee7c821d@waw-calendars
   source: waw4free
   title: Spacers śladami Powstania Warszawskiego - walki na Nowym Mieście i obrona PWPW
@@ -6503,7 +7622,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:07.833648+00:00'
+  fetched_at: '2026-08-10T10:00:08.841529+00:00'
 - uid: f292fc6ba239a26c@waw-calendars
   source: waw4free
   title: Sploty. Będzin – Warszawa „Najważniejszą rzeczą jest życie” | warsztaty artystyczne
@@ -6541,20 +7660,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-08-10T04:00:07.839180+00:00'
-- uid: b5e7aacf55ba5fdf@waw-calendars
-  source: waw4free
-  title: Sunday Najlepsze Karaoke w Mieście!
-  start: null
-  end: null
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-156461-sunday-najlepsze-karaoke-w-miescie
-  description: null
-  categories:
-  - impreza
-  - po angielsku
-  fetched_at: '2026-08-09T16:00:07.739312+00:00'
+  fetched_at: '2026-08-10T10:00:08.847633+00:00'
 - uid: 59850fa464a55287@waw-calendars
   source: waw4free
   title: Szkolenie z Pierwszej Pomocy
@@ -6566,46 +7672,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.831838+00:00'
-- uid: 29ebeb00c5bfc239@waw-calendars
-  source: waw4free
-  title: Targ Śniadaniowy na Mokotowie // Sunday Breakfast Market
-  start: null
-  end: null
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-151013-targ-sniadaniowy-na-mokotowie-sunday-breakfast-market
-  description: null
-  categories:
-  - impreza
-  - inne
-  - po angielsku
-  fetched_at: '2026-08-09T16:00:07.704712+00:00'
-- uid: da43abcdc166d3bc@waw-calendars
-  source: waw4free
-  title: Tańczmy razem – zawsze w formie!
-  start: null
-  end: null
-  all_day: true
-  location: Praga-Południe, Warszawa
-  url: https://waw4free.pl/wydarzenie-152316-tanczmy-razem-zawsze-w-formie
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-08-09T16:00:07.705185+00:00'
-- uid: 5619a06084ade2e7@waw-calendars
-  source: waw4free
-  title: Trening Biegowy z 12tri.pl
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-78636-trening-biegowy-z-12tri-pl
-  description: null
-  categories:
-  - sport
-  fetched_at: '2026-08-09T16:00:07.703227+00:00'
+  fetched_at: '2026-08-10T10:00:08.839672+00:00'
 - uid: 48a11fb12014939b@waw-calendars
   source: waw4free
   title: Ursynów Zawsze w Formie - Pilates
@@ -6618,7 +7685,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.837817+00:00'
+  fetched_at: '2026-08-10T10:00:08.846258+00:00'
 - uid: aaf27fa2a18a1379@waw-calendars
   source: waw4free
   title: Uszyj swój sen - rodzinna manufaktura poduszek
@@ -6682,7 +7749,7 @@ events:
   url: https://waw4free.pl/wesprzyj
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.855563+00:00'
+  fetched_at: '2026-08-10T10:00:16.172940+00:00'
 - uid: 76af8f593945b047@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Aktywacje dla dzieci z Fikołkami
@@ -6695,7 +7762,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-08-10T04:00:07.836902+00:00'
+  fetched_at: '2026-08-10T10:00:08.844814+00:00'
 - uid: e6791097ffa98adf@waw-calendars
   source: waw4free
   title: White Party & Darmowa lekcja salsy w Teatro Cubano
@@ -6721,7 +7788,7 @@ events:
   categories:
   - dla dzieci
   - film
-  fetched_at: '2026-08-10T04:00:07.841039+00:00'
+  fetched_at: '2026-08-10T10:00:08.849535+00:00'
 - uid: 3209acddd79c531a@waw-calendars
   source: waw4free
   title: Wolskie Kino na Leżakach
@@ -6733,7 +7800,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-08-10T04:00:07.841998+00:00'
+  fetched_at: '2026-08-10T10:00:08.851226+00:00'
 - uid: df757da8f4c56595@waw-calendars
   source: waw4free
   title: Wyprzedaż Garażowa na Nowym Bazarze Różyckiego
@@ -6756,7 +7823,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=13.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:09.174424+00:00'
+  fetched_at: '2026-08-10T10:00:10.076855+00:00'
 - uid: dbc6ce24298d7419@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w czwartek, 20 sierpnia
@@ -6767,7 +7834,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=20.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:13.439016+00:00'
+  fetched_at: '2026-08-10T10:00:14.558345+00:00'
 - uid: cc6661e2e2e87eb3@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w niedzielę, 16 sierpnia
@@ -6778,7 +7845,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=16.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:10.793665+00:00'
+  fetched_at: '2026-08-10T10:00:11.818036+00:00'
 - uid: 44320b97700f788f@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w niedzielę, 23 sierpnia
@@ -6789,7 +7856,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=23.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.853695+00:00'
+  fetched_at: '2026-08-10T10:00:16.171105+00:00'
 - uid: d2c8913a5edac628@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w niedzielę, 9 sierpnia
@@ -6811,7 +7878,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=14.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:09.653508+00:00'
+  fetched_at: '2026-08-10T10:00:10.569154+00:00'
 - uid: 4ac2b6d840442468@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w piątek, 21 sierpnia
@@ -6822,7 +7889,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=21.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.091646+00:00'
+  fetched_at: '2026-08-10T10:00:15.148102+00:00'
 - uid: 70383890f591dbea@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w poniedziałek, 10 sierpnia
@@ -6833,7 +7900,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=10.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:07.842950+00:00'
+  fetched_at: '2026-08-10T10:00:08.852314+00:00'
 - uid: 99845206f9f6511e@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w poniedziałek, 17 sierpnia
@@ -6844,7 +7911,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=17.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:11.826467+00:00'
+  fetched_at: '2026-08-10T10:00:12.851916+00:00'
 - uid: 95eba10d1086f4e4@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w sobotę, 15 sierpnia
@@ -6855,7 +7922,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=15.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:10.623429+00:00'
+  fetched_at: '2026-08-10T10:00:11.070739+00:00'
 - uid: c6e85821e4f409a7@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w sobotę, 22 sierpnia
@@ -6866,7 +7933,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=22.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:14.642881+00:00'
+  fetched_at: '2026-08-10T10:00:15.747827+00:00'
 - uid: afe144eb9465dcdc@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w środę, 12 sierpnia
@@ -6877,7 +7944,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=12.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:08.676369+00:00'
+  fetched_at: '2026-08-10T10:00:09.491692+00:00'
 - uid: a5744fbd8b25ce27@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w środę, 19 sierpnia
@@ -6888,7 +7955,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=19.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:12.878632+00:00'
+  fetched_at: '2026-08-10T10:00:13.803186+00:00'
 - uid: 16467d29d07206c1@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające we wtorek, 11 sierpnia
@@ -6899,7 +7966,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=11.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:08.169376+00:00'
+  fetched_at: '2026-08-10T10:00:08.994816+00:00'
 - uid: cf10d789e6f4107b@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające we wtorek, 18 sierpnia
@@ -6910,7 +7977,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=18.08.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:12.449958+00:00'
+  fetched_at: '2026-08-10T10:00:13.691635+00:00'
 - uid: 03576585c5d68f6b@waw-calendars
   source: waw4free
   title: Wyszukiwarka wydarzeń
@@ -6921,50 +7988,7 @@ events:
   url: https://waw4free.pl/szukaj
   description: null
   categories: []
-  fetched_at: '2026-08-10T04:00:07.843213+00:00'
-- uid: 7005c6afe968b58b@waw-calendars
-  source: waw4free
-  title: Zajęcia ruchowe połączone z piknikiem // Fitness in the park and picnic
-  start: null
-  end: null
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-156661-zajecia-ruchowe-polaczone-z-piknikiem-fitness-in-the-park-and-picnic
-  description: null
-  categories:
-  - sport
-  - spotkanie
-  - inne
-  - po angielsku
-  fetched_at: '2026-08-09T16:00:07.720215+00:00'
-- uid: 9568c4f8d5d96de2@waw-calendars
-  source: waw4free
-  title: Zapytaj przyrodnika. Spotkania przyrodnicze dla dzieci, młodzieży i dorosłych
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-156911-zapytaj-przyrodnika-spotkania-przyrodnicze-dla-dzieci-mlodziezy-i-doroslych
-  description: null
-  categories:
-  - dla dzieci
-  - dla młodzieży
-  - spotkanie
-  - wykład
-  - inne
-  fetched_at: '2026-08-09T16:00:07.715980+00:00'
-- uid: 3072cdf9b37b59b5@waw-calendars
-  source: waw4free
-  title: Zatańczmy jeszcze raz! | POTAŃCÓWKA DKŚ na Foksal 11
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-156311-zatanczmy-jeszcze-raz-potancowka-dks-na-foksal-11
-  description: null
-  categories:
-  - impreza
-  fetched_at: '2026-08-09T16:00:07.738849+00:00'
+  fetched_at: '2026-08-10T10:00:08.852572+00:00'
 - uid: 4ab7136d434e7b4a@waw-calendars
   source: waw4free
   title: Łabędzie z Dolinki / spotkanie z cyklu Ptasie Spacery
@@ -6978,18 +8002,6 @@ events:
   - spacer lub rower
   - wykład
   fetched_at: '2026-08-09T16:00:07.721171+00:00'
-- uid: d5aa01709182b69c@waw-calendars
-  source: waw4free
-  title: Śródmiejskie bieganie dla każdego
-  start: null
-  end: null
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-149938-srodmiejskie-bieganie-dla-kazdego
-  description: null
-  categories:
-  - sport
-  fetched_at: '2026-08-09T16:00:07.703660+00:00'
 - uid: 5aa5c7804cbac341@waw-calendars
   source: waw4free
   title: 'Śródmieście Mindfulness: Centrum Spokoju'
@@ -7013,7 +8025,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-08-10T04:00:07.830895+00:00'
+  fetched_at: '2026-08-10T10:00:08.838710+00:00'
 - uid: 012d4bf37b463c8f@waw-calendars
   source: waw4free
   title: Śródmieście Płn. cz. 2 - spacer z przewodnikiem
