@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wodny Plac Zabaw na Syrence
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:22a45a72f99a1109@waw-calendars
 CATEGORIES:dla dzieci,inne
 LOCATION:Wawer\, Warszawa
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatna wypożyczalnia kajaków w Parku Żerańskim
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b684f08f140e1755@waw-calendars
 CATEGORIES:sport
 LOCATION:Białołęka\, Warszawa
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinna Strefa Sportu pod Pałacem Kultury i Nauki
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:27fcc0809544dd8e@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport
 LOCATION:Śródmieście\, Warszawa
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Godzina gry w darta za darmo
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6c8c595033db96ca@waw-calendars
 CATEGORIES:sport,inne
 LOCATION:Wola\, Warszawa
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:BEZPŁATNE KAJAKI - Jeziorko Kamionkowskie
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:585bcd64bc3057f0@waw-calendars
 CATEGORIES:sport
 LOCATION:Praga-Południe\, Warszawa
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Filmowa Stolica Lata 2026 - bezpłatne plenerowe pokazy filmowe
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f64e349f3f9fd912@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Przedstawienia plenerowe Teatru POLONIA i OCH-Teatru
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7c342085bff2cdb8@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,teatr
 LOCATION:Ochota\, Warszawa
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólna zabawa z psami
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9c74c2e1e4d86641@waw-calendars
 CATEGORIES:inne
 LOCATION:Bemowo\, Warszawa
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Strefa Nowych Technologii w Centralnym Przystanku Historia
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fd9f551e48c145d6@waw-calendars
 CATEGORIES:dla dzieci,warsztaty,inne
 LOCATION:Śródmieście\, Warszawa
@@ -104,7 +104,7 @@ SUMMARY:Warsztaty rękodzieła podczas naszych półkolonii w Kiepskiej Fo
  rmie
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2ee0ece345bcab11@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Wola\, Warszawa
@@ -112,591 +112,10 @@ URL:https://waw4free.pl/wydarzenie-157269-warsztaty-rekodziela-podczas-nas
  zych-polkolonii-w-kiepskiej-formie
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Angielski z Ciocią Pegą w Prochowni Żoliborz [godz. 17:00 i 17:
- 30]
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:95ac4dc8fbbf3023@waw-calendars
-CATEGORIES:dla dzieci,warsztaty
-LOCATION:Żoliborz\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153035-angielski-z-ciocia-pega-w-procho
- wni-zoliborz-godz-17-00-i-17-30
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beach Korfball - Plaża Poniatówka
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:959241dfa0386fa5@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155982-beach-korfball-plaza-poniatowka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia pickleballa dla początkujących w Warszawie [
- godz. 14:00\, 15:00\, 16:00\, 17:00]
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:9ac28e8f856f7733@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,sport
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155804-bezplatne-zajecia-pickleballa-dl
- a-poczatkujacych-w-warszawie-godz-14-00-15-00-16-00-17-00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia sportowe na Targówku | nordic walking
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:d1311073bf92dd7a@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Targówek\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154839-bezplatne-zajecia-sportowe-na-ta
- rgowku-nordic-walking
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:3829f15fa40a72a0@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,sport
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154899-bezplatne-zajecia-sportowe-z-bad
- mintona-dla-dzieci-i-mlodziezy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUDowne Kino Plenerowe | „Pokuta”
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:8f18ac1e0a764fc0@waw-calendars
-CATEGORIES:film
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157205-cudowne-kino-plenerowe-pokuta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYKL ŚRÓDMIEJSKA KLASYKA KINA: ARCYDZIEŁA I ODKRYCIA | Bitwa o 
- Algier
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:bb44f17422c15424@waw-calendars
-CATEGORIES:film,wykład
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157144-cykl-srodmiejska-klasyka-kina-ar
- cydziela-i-odkrycia-bitwa-o-algier
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuda-Wianki: zajęcia plastyczne dla dzieci
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:b6298507a96de8e8@waw-calendars
-CATEGORIES:dla dzieci,warsztaty
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155604-cuda-wianki-zajecia-plastyczne-d
- la-dzieci
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Czytelnia Klimatyczna Wolnego Jazdowa x Wspólny Pokój
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:25002caaed0ea11c@waw-calendars
-CATEGORIES:inne
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156871-czytelnia-klimatyczna-wolnego-ja
- zdowa-x-wspolny-pokoj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DOKUMENTALNE KINO LETNIE W ELEKTROWNI POWIŚLE
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:cc12423b0876253e@waw-calendars
-CATEGORIES:film
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154862-dokumentalne-kino-letnie-w-elekt
- rowni-powisle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dlaczego warto wybrać mało uczęszczaną trasę "Northern Circui
- t" zdobywając Dach Afryki i jak nocleg
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:3d1911c5094c6dd8@waw-calendars
-CATEGORIES:slajdowisko
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156946-dlaczego-warto-wybrac-malo-uczes
- zczana-trase-northern-circuit-zdobywajac-dach-afryki-i-jak-nocleg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gimnastyka mózgu i joga serca
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:b36277ae0cb98e1c@waw-calendars
-CATEGORIES:warsztaty
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157159-gimnastyka-mozgu-i-joga-serca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gimnastyka mózgu i joga serca - MAL
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:a5c20d9f96970ad6@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156523-gimnastyka-mozgu-i-joga-serca-ma
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HALO\, KINO TĘCZA! Krótkie metraże\, wielka przyszłość
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:16a6b02391c5e883@waw-calendars
-CATEGORIES:film
-LOCATION:Żoliborz\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155284-halo-kino-tecza-krotkie-metraze-
- wielka-przyszlosc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Handpanowe wtorki w Restauracji Bliski Wschód!
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:7c6dfae26bac4226@waw-calendars
-CATEGORIES:koncert
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-141055-handpanowe-wtorki-w-restauracji-
- bliski-wschod
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joga na deskach
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:d4781359203437a4@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155459-joga-na-deskach
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joga w Parku Skaryszewskim - sezon.3
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:3454dc30c2bbb3b3@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-151954-joga-w-parku-skaryszewskim-sezon
- -3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KINO MUZYCZNEGO NIEPOKOJU | plenerowe pokazy na Placu Zabaw // CIN
- EMA OF MUSICAL UNREST
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:de7bb374a2740ca1@waw-calendars
-CATEGORIES:film,po angielsku
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153070-kino-muzycznego-niepokoju-plener
- owe-pokazy-na-placu-zabaw-cinema-of-musical-unrest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KINO PLENEROWE w Parku Pięciu Sióstr
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:59d07137d8fa62ad@waw-calendars
-CATEGORIES:film
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-150719-kino-plenerowe-w-parku-pieciu-si
- ostr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kabaddi - Treningi otwarte
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:938bcc48ad64fb71@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157050-kabaddi-treningi-otwarte
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kino Letnie ALESTO
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:d55c82711b97a598@waw-calendars
-CATEGORIES:film
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155600-kino-letnie-alesto
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kino plenerowe Ikony Kina pod Chmurką
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:8f9f8033f323f8fc@waw-calendars
-CATEGORIES:film
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153592-kino-plenerowe-ikony-kina-pod-ch
- murka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klub Filmowy WCK "Biografie na wielkim ekranie"
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:721fa01162e0190b@waw-calendars
-CATEGORIES:film
-LOCATION:Wawer\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157162-klub-filmowy-wck-biografie-na-wi
- elkim-ekranie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klub Sportowy Team ZabieganeDni - z nami możesz więcej
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:3f81fa8b1fd487ad@waw-calendars
-CATEGORIES:sport
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157009-klub-sportowy-team-zabieganedni-
- z-nami-mozesz-wiecej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konstancin-Jeziorna - spotkanie z uważnym dotykiem w masażu SHIA
- TSU
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:cbe1282622f09178@waw-calendars
-CATEGORIES:warsztaty
-URL:https://waw4free.pl/wydarzenie-156591-konstancin-jeziorna-spotkanie-z-
- uwaznym-dotykiem-w-masazu-shiatsu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kosmetyk\, fryzjer\, wizażysta – opanuj trendy w stylizacji i d
- baniu o wizerunek
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:7400185694a803ad@waw-calendars
-CATEGORIES:dla młodzieży,warsztaty
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157238-kosmetyk-fryzjer-wizazysta-opanu
- j-trendy-w-stylizacji-i-dbaniu-o-wizerunek
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kucharz\, piekarz\, cukiernik – poznaj tajniki sztuki kulinarnej
-  i wypieków od kuchni
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:9a2570b30a1512f2@waw-calendars
-CATEGORIES:dla młodzieży,warsztaty
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157237-kucharz-piekarz-cukiernik-poznaj
- -tajniki-sztuki-kulinarnej-i-wypiekow-od-kuchni
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | Tamte dni\, ta
- mte noce (2017)
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:3392027d89441bc6@waw-calendars
-CATEGORIES:film
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153516-lot-kino-letnie-w-strone-zachodz
- acego-slonca-tamte-dni-tamte-noce-2017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lato z Maluchem w Murowance
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:34289bb876d03ffb@waw-calendars
-CATEGORIES:dla dzieci,spotkanie,inne
-LOCATION:Wawer\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154808-lato-z-maluchem-w-murowance
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marymont - spacer z przewodnikiem
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:fc72eb473a225716@waw-calendars
-CATEGORIES:dla seniorów,spacer lub rower
-LOCATION:Żoliborz\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157200-marymont-spacer-z-przewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nordic Walking w Parku Praskim
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:aed73fd6c27755a1@waw-calendars
-CATEGORIES:spacer lub rower,sport
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-151832-nordic-walking-w-parku-praskim
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Partyzancka Grupa Szydełkowa - naucz się dziergać i stwórz z n
- ami włóczkową instalację
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:bbe3eebc8377280d@waw-calendars
-CATEGORIES:spotkanie,warsztaty,inne
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157149-partyzancka-grupa-szydelkowa-nau
- cz-sie-dziergac-i-stworz-z-nami-wloczkowa-instalacje
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plac w ruchu | Miejska piłka nożna
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:71ba9e658c70abc1@waw-calendars
-CATEGORIES:sport
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157285-plac-w-ruchu-miejska-pilka-nozna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pokaz dzieł Olgi Boznańskiej  w MNW
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:aa540c26cfab2c05@waw-calendars
-CATEGORIES:wystawa
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-141796-pokaz-dziel-olgi-boznanskiej-w-m
- nw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Speaking practice at Poland’s First Toastmasters
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:666ec5d5fa477d9f@waw-calendars
-CATEGORIES:spotkanie,warsztaty,po angielsku
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156673-public-speaking-practice-at-pola
- nd-s-first-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rembertowskie Kino pod Gwiazdami: Forrest Gump
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:278bedc1ffe0af77@waw-calendars
-CATEGORIES:film
-LOCATION:Rembertów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156353-rembertowskie-kino-pod-gwiazdami
- -forrest-gump
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skarby Muzeum Narodowego w Warszawie cz. 2
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:6b4d1bf62338b9c6@waw-calendars
-CATEGORIES:spacer lub rower,wystawa
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156796-skarby-muzeum-narodowego-w-warsz
- awie-cz-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer po Śródmieściu śladami bohaterów książki „Powstani
- e warszawskie. Historie mówione”
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:a890947f9db9039e@waw-calendars
-CATEGORIES:spacer lub rower
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157145-spacer-po-srodmiesciu-sladami-bo
- haterow-ksiazki-powstanie-warszawskie-historie-mowione
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer Śladami Powstania Warszawskiego - walki na Powiślu Czerni
- akowskim i desant "berlingowców"
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:2605364b0f93805b@waw-calendars
-CATEGORIES:spacer lub rower
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155919-spacer-sladami-powstania-warszaw
- skiego-walki-na-powislu-czerniakowskim-i-desant-berlingowcow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer: Trzy Place w Centrum Warszawy
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:dd0dbb6ae5ad0a33@waw-calendars
-CATEGORIES:spacer lub rower
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157279-spacer-trzy-place-w-centrum-wars
- zawy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spotlight Tuesday / ONI
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:69f22e5bdcc495da@waw-calendars
-CATEGORIES:koncert,po angielsku
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156143-spotlight-tuesday-oni
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strefa sportu dla Seniorów
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:44a0165824759346@waw-calendars
-CATEGORIES:dla seniorów,sport
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-155750-strefa-sportu-dla-seniorow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECH NO! x Techstorie | Wielki mysliciel - o samodzielnym mysleniu
-  w dobie AI
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:ec32ab7656a6336d@waw-calendars
-CATEGORIES:wykład
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156481-tech-no-x-techstorie-wielki-mysl
- iciel-o-samodzielnym-mysleniu-w-dobie-ai
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tajemnice Starego Miasta - wieczorny spacer
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:fbfe9e0b8461c0ae@waw-calendars
-CATEGORIES:spacer lub rower
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157084-tajemnice-starego-miasta-wieczor
- ny-spacer
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ursynów Zawsze w Formie - Zdrowy Kręgosłup
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:a9e5e37977a587e0@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153398-ursynow-zawsze-w-formie-zdrowy-k
- regoslup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warsztaty ruchu intuicyjnego | kolektyw SZUMY
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:53bbffaf70ebaaf2@waw-calendars
-CATEGORIES:warsztaty
-LOCATION:Żoliborz\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157123-warsztaty-ruchu-intuicyjnego-kol
- ektyw-szumy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warsztaty szydełkowania w FORGE
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:26c7f4e9f60b9d55@waw-calendars
-CATEGORIES:dla młodzieży,warsztaty
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156110-warsztaty-szydelkowania-w-forge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolski Run Club
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:24cf7e1f099a72bb@waw-calendars
-CATEGORIES:sport
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-152928-wolski-run-club
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wpadnij na łąkę | O twórczej ekspresji niezależnej od umieję
- tności plastycznych – warsztaty ze street artu
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:b59132759895578c@waw-calendars
-CATEGORIES:spotkanie,warsztaty
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154524-wpadnij-na-lake-o-tworczej-ekspr
- esji-niezaleznej-od-umiejetnosci-plastycznych-warsztaty-ze-street-artu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wtorki z jogą na PGE Narodowym
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:da2e47cd89867f56@waw-calendars
-CATEGORIES:sport,warsztaty
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-142974-wtorki-z-joga-na-pge-narodowym
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śladem warszawskich Żydów
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:09faf773f9e2da36@waw-calendars
-CATEGORIES:spacer lub rower
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157047-sladem-warszawskich-zydow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śródmiejskie bieganie dla każdego
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:025ddacd92accd08@waw-calendars
-CATEGORIES:sport
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-149937-srodmiejskie-bieganie-dla-kazdeg
- o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„ABAKAMANIA. Magdalena Abakanowicz Artystka Osobna” - Pokaz Pl
- enerowy i spotkanie z twórcami
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260817T160031Z
-UID:e9dfbbec95b2388d@waw-calendars
-CATEGORIES:film,spotkanie
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157288-abakamania-magdalena-abakanowicz
- -artystka-osobna-pokaz-plenerowy-i-spotkanie-z-tworcami
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:7:30 am JOGA w YUTORI zajęcia bezpłatne
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3020235fef7ba031@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -708,7 +127,7 @@ SUMMARY:Bezpłatne zajęcia plenerowe w środy [godz. 18:00\, 19:00 i 20:0
  0]
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5799dd8e7a041184@waw-calendars
 CATEGORIES:dla dzieci,sport,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -719,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Darmowa Zumba® na Bielanach
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:88428d2a3f4e344c@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Bielany\, Warszawa
@@ -730,7 +149,7 @@ SUMMARY:Filmowe Środy – Letnie Kino Plenerowe dla Dorosłych | "Tajny a
  gent"
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2513c5eeaf7187a7@waw-calendars
 CATEGORIES:film
 LOCATION:Wesoła\, Warszawa
@@ -742,7 +161,7 @@ SUMMARY:Filmy z festiwalu Watch Docs na dziedzińcu Teatru Komuna Warszawa
   | "Kumotry"
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e67ba220c4b08c44@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -753,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Folkowe ballady na Sadach | koncert MORYE na Sadach
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:77290b4ca0acd50e@waw-calendars
 CATEGORIES:koncert
 LOCATION:Żoliborz\, Warszawa
@@ -764,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Fortepianowe Lunch Timce Concerts
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5dae8cd585e7385a@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -775,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Frisbee na Mokotowie - otwarte granie dla każdego
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f88816296c03563c@waw-calendars
 CATEGORIES:sport
 LOCATION:Mokotów\, Warszawa
@@ -787,7 +206,7 @@ SUMMARY:Gazu! Gazu! Nieznane historie\, ukryte perełki ulic Ludnej i Solc
  a
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b40e05955677e219@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -798,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Gimnastyka dla smyka
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:23db66a776606e62@waw-calendars
 CATEGORIES:dla dzieci,sport,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -808,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Joga z Olą w Prochowni Żoliborz
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9aa375af3f4b294a@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -818,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:KINO LETNIE LOLKA - Oscarowe Środy 2026
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dc14597a415a8485@waw-calendars
 CATEGORIES:film
 LOCATION:Ochota\, Warszawa
@@ -829,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:KINO LETNIE „HISTORIE DO ZOBACZENIA”
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:149f3a1f8e5e51c1@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -840,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:KINO SAMOCHODOWE - FESTIWAL LOTTO KINO LETNIE
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f22deb152e36d48e@waw-calendars
 CATEGORIES:film
 LOCATION:Ursynów\, Warszawa
@@ -851,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Kino plenerowe na Łące POLIN
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:98d389ed9f0c7c05@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -861,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert na tarasie | Maria Waszkiewicz
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d637d739b2b60053@waw-calendars
 CATEGORIES:koncert
 LOCATION:Praga-Północ\, Warszawa
@@ -872,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a62ebe9c718618a5@waw-calendars
 CATEGORIES:dla dzieci,film
 LOCATION:Targówek\, Warszawa
@@ -883,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:LIVE JAZZ W SAMO CENTRUM
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f8ce66fdf0e61a3b@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -893,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Letni Festiwal Dziekanka 2026
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3da35dd228730d8f@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -904,7 +323,7 @@ SUMMARY:MASZ TO Z BAŃKI x Socjolożki_pl | Red pill czy weź pigułkę -
  o manosferze i feministkach
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:448a5a6bc4fb7d42@waw-calendars
 CATEGORIES:wykład
 LOCATION:Wola\, Warszawa
@@ -915,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Concert - Klasyka na Koszykach
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f92905f02736afbe@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -926,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Męski Most Warszawa #53 – Cykliczne spotkania dla mężczyzn
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9c65e2f9867bc431@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Wola\, Warszawa
@@ -937,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:Namaluj sztukę na swoich ubraniach
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d8515172947fe824@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -948,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Nie tylko Woodstock | Festiwalowe dokumenty muzyczne - "Fala"
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:199e06d7b60135f7@waw-calendars
 CATEGORIES:film,spotkanie
 LOCATION:Mokotów\, Warszawa
@@ -959,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Piłkarska frajda dla najmłodszych!
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2ed42b83616b65a2@waw-calendars
 CATEGORIES:dla dzieci,sport,warsztaty
 LOCATION:Ursus\, Warszawa
@@ -970,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Poznajmy Stare Powązki - od Bramy II do IV
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e8a841844988d070@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -981,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Praktyki uważności - medytacja na co dzień
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4e1fd45d73fefa2f@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -993,7 +412,7 @@ SUMMARY:PÓŁKA Z POEZJĄ: „Północna granica świadomości” u Inger
  Christensen / MINIWYKŁAD I WARSZTAT
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3c8eafb26f7e22fc@waw-calendars
 CATEGORIES:warsztaty,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -1004,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:QIGONG W MUZEUM | prozdrowotne ćwiczenia dla każdego
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8087751fe197ed6c@waw-calendars
 CATEGORIES:dla seniorów,sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1015,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Radek Jaworski. Wystawa fotografii „Miasto | Natura”.
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b1a88f528ff46f67@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Śródmieście\, Warszawa
@@ -1026,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:STAND-UP COMEDY: KUBA WU W CUDZIE NAD WISŁĄ
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:87974f1dc45129c6@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Śródmieście\, Warszawa
@@ -1037,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:SUMMER STREET MUSIC
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e38a92f6a619ae9b@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -1047,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:Slam Rysunkowy | kolektyw SZUMY
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:90dcb7f767ad19c5@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -1057,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer architektoniczny z Grzegorzem Miką
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:13f4da9247268b32@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Żoliborz\, Warszawa
@@ -1069,7 +488,7 @@ SUMMARY:Spotkanie z Anną Cymer i Tomkiem Rygalikiem oraz film „Aalto
  – z miłości do architektury”
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4fe69bc78e4a8133@waw-calendars
 CATEGORIES:film,spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -1080,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Stand-Up na Plaży Wesoła! Cezary Jurkiewicz x  Roman Kostelecki
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b70768b3971fff5c@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Wesoła\, Warszawa
@@ -1092,7 +511,7 @@ SUMMARY:Trenuj z Amnesty! Bezpłatne treningi z doświadczonym trenerem na
   Agrykoli
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d9038c4639e1af57@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1103,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowski Nordic Walking 2026 | Grupy środowe
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d31599b88e69534d@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower,sport,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -1115,7 +534,7 @@ SUMMARY:V Letni Przegląd Filmowy Pod Wspólnym Niebem | "Księżyc to mó
  j ojciec"
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:109dba3b0c810151@waw-calendars
 CATEGORIES:film,spotkanie,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -1126,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:WARSztatownia - wakacyjne spotkania dla dzieci
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b2000a8a8ba3551d@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1137,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztat Krawiecki: Letnie spodnie/szarawary
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fec6593a7487f630@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -1149,7 +568,7 @@ SUMMARY:Warsztaty\, kino\, koncerty i spotkania w Mercedes-Benz Studio War
  szawa
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4551dea201ecd041@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,film,impreza,koncert,sport,warsztaty
  ,wystawa,inne
@@ -1161,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:Westfield Summer Festival | Trening ze studiem Smartass
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7e41ed2498343237@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -1172,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Lato z Musicalem
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:707b8c95c7428566@waw-calendars
 CATEGORIES:koncert,teatr
 LOCATION:Wola\, Warszawa
@@ -1182,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólne dzierganie na Wolskiej: otwarte spotkanie
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:19c0b86c3fa291c7@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -1193,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Z kulturką na trawie | “Wielka wyprawa na wyspę Boom Boom”
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:70c61801cbac2790@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Bielany\, Warszawa
@@ -1204,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia jogi w plenerze w Parku Górczewska [godz. 17:30 i 18:40]
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:29afd92b383ead34@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -1215,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia z futbolu australijskiego
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:32f3b31bfb4acd14@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -1226,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Zaprzędzeni przy kawie
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a41dc6fa8afd9533@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -1236,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:Zielone Nowe Centrum Warszawy
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8c51c1f8dba68fe0@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1246,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Ćwicz autoprezentację z klubem Toastmasters Royal Best Speakers
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:840d48f01d1786b9@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Włochy\, Warszawa
@@ -1257,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:ŚRODOWE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d0f1184b4441d98c@waw-calendars
 CATEGORIES:film
 LOCATION:Targówek\, Warszawa
@@ -1268,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:Śladem warszawskiego getta - Tragiczne losy Dzielnicy Północnej
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:979a8d9a7d56eb99@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1279,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Aktywne czwartki - joga\, cross i Tai Chi na Polu Mokotowskim
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dd515b1b599ede9c@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -1291,7 +710,7 @@ SUMMARY:Bezpłatna gimnastyka usprawniająca dla osób z niepełnosprawno
  ściami
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:38a2ad0578fdd2f0@waw-calendars
 CATEGORIES:sport,dla seniorów
 LOCATION:Bemowo\, Warszawa
@@ -1302,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne treningi „Trenuj ze stołecznymi policjantami”
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6ec96de2bc766ce8@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wola\, Warszawa
@@ -1314,7 +733,7 @@ SUMMARY:Bezpłatne zajęcia latino solo dla osób z niepełnosprawnościam
  i
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8fe1a94baa141b0c@waw-calendars
 CATEGORIES:dla seniorów,sport
 LOCATION:Bemowo\, Warszawa
@@ -1325,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia sportowe na Targówku | pilates
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a8968c9633fefd10@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Targówek\, Warszawa
@@ -1336,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia sportowe na Targówku | zdrowy kręgosłup
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:702f0e6528161eaf@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Targówek\, Warszawa
@@ -1347,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7b2e50f39df04a0d@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport
 LOCATION:Mokotów\, Warszawa
@@ -1358,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatny fitness na Plaży Romantycznej
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7962c643e0cf7118@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -1369,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:Było i ni ma. Spacer po przedwojennym centrum Warszawy
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c30f30bf2b1b0f8d@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1380,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:Czwartkowe oprowadzania po aktualnych wystawach Zachęty
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:211de37173792267@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Śródmieście\, Warszawa
@@ -1391,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:DMC DJs DAY
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ff45cf89e20fb961@waw-calendars
 CATEGORIES:impreza,spotkanie,targi\, garażówka,warsztaty,wykład
 LOCATION:Wola\, Warszawa
@@ -1401,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:Dance Weekend in Warsaw festival
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:df07a9a24fc8af11@waw-calendars
 CATEGORIES:impreza,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -1411,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Darmowe Warsztaty Edukacyjne Świadoma Mama
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1c2ab10ec75ad944@waw-calendars
 CATEGORIES:sport,warsztaty,wykład
 LOCATION:Mokotów\, Warszawa
@@ -1423,7 +842,7 @@ SUMMARY:Dokąd tak biegnie\, czy nie jest zmęczony? Spotkanie z Tomaszem
  Ulanowskim
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:cda1b88bc0a1401b@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Wola\, Warszawa
@@ -1434,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:GQ SUMMER STAGE by GQ Poland | Koncert Weroniki Drybs
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fe17e7451f3ba315@waw-calendars
 CATEGORIES:koncert
 LOCATION:Praga-Północ\, Warszawa
@@ -1446,7 +865,7 @@ SUMMARY:GRUNT I WODA | DAME TIMBA\, czyli kubańska potańcówka z DJ TRES
  ORMAN
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fecf52081992c55b@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -1457,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Gimnastyka mózgu i joga serca
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:848353e8511b4c37@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1468,7 +887,7 @@ SUMMARY:Gimnastyka usprawniająca stawy i kręgosłup\, rozciągająca\, m
  odelująca sylwetkę
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2706ee6bdddef188@waw-calendars
 CATEGORIES:dla seniorów,sport
 LOCATION:Praga-Południe\, Warszawa
@@ -1479,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:HALO\, KINO TĘCZA! Pokaz filmu „Człowiek z żelaza"
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d8b3153596c7b796@waw-calendars
 CATEGORIES:film
 LOCATION:Żoliborz\, Warszawa
@@ -1490,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w Parku Skaryszewskim - sezon.3
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6fe10275914d1080@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -1501,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:Językowy Pub Quiz!
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e748bf8d37cb74a9@waw-calendars
 CATEGORIES:dla młodzieży,spotkanie,inne
 LOCATION:Śródmieście\, Warszawa
@@ -1512,7 +931,7 @@ SUMMARY:Kino samochodowe i leżakowe w Centrum Handlowym Ursynów: Ostatni
  a sesja w Paryżu
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b90ab47974099f27@waw-calendars
 CATEGORIES:film
 LOCATION:Ursynów\, Warszawa
@@ -1523,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert: Małgorzata Skrzyniarz & Leszek Wypych
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2845b533771d0fb5@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -1535,7 +954,7 @@ SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | GoldenEye (199
  5)
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:92434721de51f196@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -1546,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:Lado w Mieście 2026
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dcb69f9fa1b027e9@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Śródmieście\, Warszawa
@@ -1556,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:Letnia akademia Slack Line
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d4516c56e777479b@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1566,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:Letnie potańcówki na Kołowej
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2d576524740b87ef@waw-calendars
 CATEGORIES:dla seniorów,impreza,warsztaty
 LOCATION:Targówek\, Warszawa
@@ -1576,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Live Juke Box - piosenki na życzenie w Arcade Bee Hala Koszyki
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:732a037c0bef55e9@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Śródmieście\, Warszawa
@@ -1587,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Maks Rosa i przyjaciele - stand-up Open Mic
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dc6bd453d271e538@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Śródmieście\, Warszawa
@@ -1598,7 +1017,7 @@ BEGIN:VEVENT
 SUMMARY:Marymont - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e63d4ae2d4c2f016@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower
 LOCATION:Żoliborz\, Warszawa
@@ -1608,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:Mit i twórczość Volodymyra Gabudy — prelekcja
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:afb31453ee1596ff@waw-calendars
 CATEGORIES:wykład
 LOCATION:Śródmieście\, Warszawa
@@ -1619,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:NOCNY MARKET 2026
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e31812fc01fc0e86@waw-calendars
 CATEGORIES:impreza,inne
 LOCATION:Wola\, Warszawa
@@ -1629,7 +1048,7 @@ BEGIN:VEVENT
 SUMMARY:Na tropie tajemnic Starego Miasta
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:28038ebccc667778@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1640,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Niezwykła historia pojazdów na dwóch kółkach
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0f82f334ade9b7de@waw-calendars
 CATEGORIES:wykład
 LOCATION:Białołęka\, Warszawa
@@ -1651,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:Nordic Walking w Parku Praskim
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2022f81758c121ed@waw-calendars
 CATEGORIES:spacer lub rower,sport
 LOCATION:Praga-Północ\, Warszawa
@@ -1661,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:POTAŃCÓWKA - Roztańczona GROMADA | Lato z GROMADĄ 2026
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b05262be5758e3ab@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -1672,7 +1091,7 @@ BEGIN:VEVENT
 SUMMARY:PRETTY WOMAN | Kino plenerowe w Ale Sztuka
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1dd3b6f8d75afd7f@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -1684,7 +1103,7 @@ SUMMARY:Park Akcji "Burza" i Kopiec Powstania Warszawskiego - rodzinny spa
  cer z przewodnikiem
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:08474f1286456d81@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -1695,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:Perła Stand-up na plaży Saska! Jasiek Borkowski
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:aba39d7bffae6064@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Południe\, Warszawa
@@ -1706,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:Plenerowe zajęcia Zumba Fitness na Białołęce
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:66c73225f589399b@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Białołęka\, Warszawa
@@ -1718,7 +1137,7 @@ SUMMARY:Pokaz dokumentu „Dokąd sięga wzrok" i spotkanie z reżyserką|
   Letnie Rozmowy Filmowe w Galerii Instytutu Pileckiego
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:cd2954fa6da5a203@waw-calendars
 CATEGORIES:film,spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -1730,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Poznajmy Stare Powązki - trasa klasyczna
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:79245ac7e5f82154@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1741,7 +1160,7 @@ BEGIN:VEVENT
 SUMMARY:Rembertowskie Kino pod Gwiazdami: Szczęście Mikołajka
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9d548f0e9297ea2e@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,film
 LOCATION:Rembertów\, Warszawa
@@ -1752,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Republika Karakałpacka oczami Wandy
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1927d6ba94939b09@waw-calendars
 CATEGORIES:slajdowisko,spotkanie
 LOCATION:Praga-Północ\, Warszawa
@@ -1763,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:Retro Kino dla Dzieci w Murowance
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8b0afc3cb36b8f0b@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,film
 LOCATION:Wawer\, Warszawa
@@ -1774,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Roztańczona Gromada| LATO Z GROMADĄ 2026
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a6095032c09a160f@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -1785,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:Seniorzy na Łące – gimnastyka metodą Moshe Feldenkraisa
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a6d433b1402d4f18@waw-calendars
 CATEGORIES:dla seniorów,sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -1797,7 +1216,7 @@ SUMMARY:Spacer somatyczny z Alką Nauman │ z Pawilonu Tańca na Plac Zab
  aw
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:57d9292ed188822e@waw-calendars
 CATEGORIES:spacer lub rower,inne
 LOCATION:Śródmieście\, Warszawa
@@ -1808,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:Strefa Chillout – czwartki bez spiny
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:440f716ccb1ffc24@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -1819,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:Sąsiedzki grill i kreatywny chill
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4830c0d6a23c4f5b@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Wola\, Warszawa
@@ -1830,7 +1249,7 @@ BEGIN:VEVENT
 SUMMARY:Taniec w kręgu
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:26b061d0d0013d10@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -1840,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:Teatr w Kosmosie - wakacyjne spektakle w parku. NIE MÓW NIKOMU
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:94a2676a3e7a5504@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,teatr
 LOCATION:Włochy\, Warszawa
@@ -1851,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:Thursday Oldie Goldie / Rock’n’Roll by Just Simon
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1d5c9779b82083c9@waw-calendars
 CATEGORIES:koncert,po angielsku
 LOCATION:Wola\, Warszawa
@@ -1862,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:Ultimate frisbee dla początkujących
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a890181f9b095e4d@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -1873,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowski Nordic Walking 2026 | Grupa czwartkowa
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4388c6b6c5796267@waw-calendars
 CATEGORIES:spacer lub rower,sport,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -1884,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowskie Lato Filmowe 2026 - Kino Letnie dla Zielonego Ursynowa
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c490207f6f2da08f@waw-calendars
 CATEGORIES:film
 LOCATION:Ursynów\, Warszawa
@@ -1895,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty Rękodzielnicze w Pół na Puł
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e177f54474ba1531@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -1907,7 +1326,7 @@ SUMMARY:Warsztaty “Roboty ze śmieci - spontaniczny teatr robotyczny”
  oraz spektakl "Śmiecio Eko baja"
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f4c460fb598a7344@waw-calendars
 CATEGORIES:dla dzieci,teatr,warsztaty
 LOCATION:Wesoła\, Warszawa
@@ -1918,7 +1337,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty: Mozaika klimatyczna
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:75df20194bbdf2b2@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -1929,7 +1348,7 @@ SUMMARY:Westfield Summer Festival | Kino pod gwiazdami - Kopnęłaby Cię
  gdybym mogła (2026)
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fb9a6fbd24e289cb@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -1940,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:Wianki na Zawadach
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e07c5000f9598e5a@waw-calendars
 CATEGORIES:dla dzieci,impreza,koncert,warsztaty
 LOCATION:Wilanów\, Warszawa
@@ -1951,7 +1370,7 @@ SUMMARY:Zabytkowe cmentarze Warszawy: 3/5 Cmentarz Ewangelicko-Augsburski
  [darmowy spacer z przewodnikiem]
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:af02ad4e6205af36@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -1962,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:Żydowski Muranów - wieczorny spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e29498283121c627@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -1974,7 +1393,7 @@ SUMMARY:"Kubuś i inni - polskie siły pancerne w Powstaniu Warszawskim" N
  orbert Bączyk w rozmowie z Łukaszem Mieszkowskim
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d282f1994d094f7d@waw-calendars
 CATEGORIES:spotkanie,wykład,wystawa
 LOCATION:Wola\, Warszawa
@@ -1987,7 +1406,7 @@ SUMMARY:Bemowskie Kino Plenerowe dla dzieci – „Dzielna banda i tajemni
  ca zaginionego wujka”
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4caa7a7770682522@waw-calendars
 CATEGORIES:dla dzieci,film
 LOCATION:Bemowo\, Warszawa
@@ -1999,7 +1418,7 @@ SUMMARY:Bezpłatne zajęcia plenerowe w piątki [godz. 18:00\, 19:00 i 20:
  00]
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5468499a935e42fa@waw-calendars
 CATEGORIES:dla dzieci,sport,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -2010,7 +1429,7 @@ BEGIN:VEVENT
 SUMMARY:Bílá Voda. Dyskusja w Klubie z Kawą nad Książką
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6cdd550cc7e704c0@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2021,7 +1440,7 @@ BEGIN:VEVENT
 SUMMARY:DMC POLAND 2026 FINALS
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a528eefa09430027@waw-calendars
 CATEGORIES:impreza,inne
 LOCATION:Wola\, Warszawa
@@ -2031,7 +1450,7 @@ BEGIN:VEVENT
 SUMMARY:Elegia dla Rzekotnowego Stawu | Kolektyw ZAJE
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2a868fe27f1eafd5@waw-calendars
 CATEGORIES:wykład,wystawa
 LOCATION:Śródmieście\, Warszawa
@@ -2042,7 +1461,7 @@ BEGIN:VEVENT
 SUMMARY:End of Summer - Święto Gofra
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f6fe3a8046ced657@waw-calendars
 CATEGORIES:impreza,koncert,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -2052,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:Filmowy Dziedziniec FINA 2026
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7b6dce4b27c554c6@waw-calendars
 CATEGORIES:film
 LOCATION:Mokotów\, Warszawa
@@ -2062,7 +1481,7 @@ BEGIN:VEVENT
 SUMMARY:Frisbee na Bielanach - otwarte granie dla każdego
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3ff3c9c88ff82305@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Bielany\, Warszawa
@@ -2073,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:Gimnastyka mózgu i joga serca
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dbc6667d70da18d2@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -2083,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:Hado - sport przyszłości w Galerii Północnej
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2d4351b573ca1434@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport
 LOCATION:Białołęka\, Warszawa
@@ -2094,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:Kino Plenerowe w Ursusie
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d0446d723c3f5fe4@waw-calendars
 CATEGORIES:film
 LOCATION:Ursus\, Warszawa
@@ -2104,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:Kino letnie we Włochach
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d1fc1684c990c4a3@waw-calendars
 CATEGORIES:film
 LOCATION:Włochy\, Warszawa
@@ -2114,7 +1533,7 @@ BEGIN:VEVENT
 SUMMARY:Kino plenerowe na Woli - Dreams
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fa230130eee34665@waw-calendars
 CATEGORIES:film
 LOCATION:Wola\, Warszawa
@@ -2124,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:Kino plenerowe w Parku Szczęśliwickim
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:06f1efda72e11493@waw-calendars
 CATEGORIES:film
 LOCATION:Ochota\, Warszawa
@@ -2135,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert kieszonkowy w Pokoju na Lato
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d387815f18729605@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -2146,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:Kryminalne opowieści dawnej Warszawy
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9ee54607ff4b8ec3@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2157,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:Kto\, gdzie i z kim. Spacer szlakiem romansów
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7d02b76ccbd1d8d1@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2168,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:Odzyskuję siebie” – antyprzemocowa grupa wsparcia dla kobiet
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6b11c14e2eabf890@waw-calendars
 CATEGORIES:inne
 LOCATION:Wola\, Warszawa
@@ -2179,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:PIASECZYŃSKIE KINO PLENEROWE - "Wartość sentymentalna"
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a8e2d26cbd2e7a19@waw-calendars
 CATEGORIES:film
 URL:https://waw4free.pl/wydarzenie-155107-piaseczynskie-kino-plenerowe-war
@@ -2189,7 +1608,7 @@ BEGIN:VEVENT
 SUMMARY:PUB QUIZ W CHONO
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:07651e84c7edfdb0@waw-calendars
 CATEGORIES:inne
 LOCATION:Ochota\, Warszawa
@@ -2199,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:Performance dziewiarski - forma otwarta | kolektyw SZUMY
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1da0ff886abb831e@waw-calendars
 CATEGORIES:inne
 LOCATION:Żoliborz\, Warszawa
@@ -2210,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Perła Stand-up na plaży Saska! Tomek Kołecki
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5e958339496e21be@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Południe\, Warszawa
@@ -2221,7 +1640,7 @@ BEGIN:VEVENT
 SUMMARY:Planszówkowe Piątki Pileckiego - KLUB GIER HISTORYCZNYCH
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c7d107835fdc3918@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spotkanie,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2232,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:Potańcówka rock’n’rollowa
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:32d4c8a38f40e8cd@waw-calendars
 CATEGORIES:impreza,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -2243,7 +1662,7 @@ SUMMARY:Reksio\, Uszatek i spółka - co rodzice czytali\, albo słuchali\
  , gdy byli mali
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7f8f3148c3a4295b@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -2254,7 +1673,7 @@ BEGIN:VEVENT
 SUMMARY:Retro na Stawach | “Diamenty Polskiej Piosenki”
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:de2450b790d7c37a@waw-calendars
 CATEGORIES:koncert
 LOCATION:Bielany\, Warszawa
@@ -2265,7 +1684,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer:  Gdzie się chowa warszawska secesja? Vol. 2
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:96f4b7904d1e61b6@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2276,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Evening Concerts 2026 | Krzysztof Urbaniak
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0109caf19e900bd7@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -2287,7 +1706,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowskie Lato Filmowe 2026 - Kino Pod Chmurką - Kopa Cwila
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:19b95767ba6f78b7@waw-calendars
 CATEGORIES:film
 LOCATION:Ursynów\, Warszawa
@@ -2298,7 +1717,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynów Zawsze w Formie - Zdrowy Kręgosłup
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:26cee9d248704fcc@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -2309,7 +1728,7 @@ BEGIN:VEVENT
 SUMMARY:W piątki gram w gry na Laurowej
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:cb969a86d6b9b58f@waw-calendars
 CATEGORIES:inne
 LOCATION:Białołęka\, Warszawa
@@ -2319,7 +1738,7 @@ BEGIN:VEVENT
 SUMMARY:Warsaw GroundZero - Community Starts Here
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fc92df4070fbbc27@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -2331,7 +1750,7 @@ SUMMARY:Westfield Summer Festival | Koncert przy świecach - muzyka filmow
  a
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:916c5305c84ad336@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -2342,7 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:White Summer Night by Perła | Ale Sztuka
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:32cd565d60b6451f@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -2353,7 +1772,7 @@ BEGIN:VEVENT
 SUMMARY:Wieczory Muzyczne w Parku Górczewska | Olga Prusik Band
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:30a712374af09107@waw-calendars
 CATEGORIES:koncert
 LOCATION:Bemowo\, Warszawa
@@ -2365,7 +1784,7 @@ SUMMARY:Współczesna kołysanka | Song Performance | Wiktoria Było Miło
   Mirosz | kolektyw SZUMY
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e8459e617314ef2f@waw-calendars
 CATEGORIES:koncert,inne
 LOCATION:Żoliborz\, Warszawa
@@ -2376,7 +1795,7 @@ BEGIN:VEVENT
 SUMMARY:Wywczas: Planszownia
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0cdc07318e65fd30@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Żoliborz\, Warszawa
@@ -2386,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:Zatańczmy jeszcze raz! | POTAŃCÓWKA DKŚ na Foksal 11
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9a5bd0d6a9db0bd3@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -2397,7 +1816,7 @@ BEGIN:VEVENT
 SUMMARY:Zielny Piątek
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:85ecf1a0635ec5c7@waw-calendars
 CATEGORIES:spotkanie,warsztaty,inne
 LOCATION:Wola\, Warszawa
@@ -2407,7 +1826,7 @@ BEGIN:VEVENT
 SUMMARY:„Spacer po okolicach Pałacu Kultury i Nauki”
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3f7d88b558df2e8e@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2419,7 +1838,7 @@ SUMMARY:„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2
  026
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4ee6c791953d88b2@waw-calendars
 CATEGORIES:dla dzieci,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2430,7 +1849,7 @@ BEGIN:VEVENT
 SUMMARY:23. FESTIWAL KULTURY ŻYDOWSKIEJ WARSZAWA SINGERA 2026
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4b0ff319934f2b25@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,film,koncert,spacer lu
  b rower,spotkanie,teatr,warsztaty,wykład,wystawa,inne
@@ -2442,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:3-LECIE KANALII: Delayed Ejaculation\, Cadavra\, Kanalia
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a1ef87cdc802772c@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Mokotów\, Warszawa
@@ -2453,7 +1872,7 @@ BEGIN:VEVENT
 SUMMARY:Automasaż z sąsiadką Beatą
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4eda8c90058655a3@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -2463,7 +1882,7 @@ BEGIN:VEVENT
 SUMMARY:BOKS DLA WSZYSTKICH w Śródmieściu
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b424959bdc3ce7ca@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -2474,7 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:Bajkowe Poranki w Murowance
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0c07c3c0b825d34f@waw-calendars
 CATEGORIES:dla dzieci,film,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -2484,7 +1903,7 @@ BEGIN:VEVENT
 SUMMARY:Bajkowe wakacje z Teatrem Baza
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:cc071084b8bcdbca@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Śródmieście\, Warszawa
@@ -2494,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Bajkowe Śródmieście
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e9602a31c7695c6f@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Śródmieście\, Warszawa
@@ -2504,7 +1923,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatna joga w ogrodzie na dachu Galerii Północnej
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ec5259ca777c75dc@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Białołęka\, Warszawa
@@ -2515,7 +1934,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia jogi
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ee88fe2d8e0f796c@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wilanów\, Warszawa
@@ -2525,7 +1944,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia jogi pod chmurką w Parku Bródnowskim
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d569075bf4593201@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Targówek\, Warszawa
@@ -2537,7 +1956,7 @@ SUMMARY:Bezpłatny spacer: Warszawa\, której nie znamy - śladami przedwo
  jennego Śródmieścia
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fca874372c9fb643@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2549,7 +1968,7 @@ SUMMARY:Białowieża-Warszawa\, czyli żubry w lasach\, parkach i muzeach
  | Wykład Dariusza Iwana
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b0f0e632a00685d6@waw-calendars
 CATEGORIES:wykład
 LOCATION:Śródmieście\, Warszawa
@@ -2560,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:Bielańskie Dożynki 2026
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:53d9327d58b2c9ca@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,impreza,koncert,sport,warsztaty
 LOCATION:Bielany\, Warszawa
@@ -2570,7 +1989,7 @@ BEGIN:VEVENT
 SUMMARY:Bleach Art | Forge Day Fest
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:111c8d913c87bb87@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2580,7 +1999,7 @@ BEGIN:VEVENT
 SUMMARY:DZIKIE LATO / Lista fb free / Vinylstealer & friends
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9c3f4d61e13748e9@waw-calendars
 CATEGORIES:impreza
 LOCATION:Mokotów\, Warszawa
@@ -2591,7 +2010,7 @@ BEGIN:VEVENT
 SUMMARY:Eko Sobótki - Warszawskie Zoo
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:68d08d0adf0ec9da@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -2602,7 +2021,7 @@ SUMMARY:Eko jednorożce na patyku - darmowy warsztat [godz. 12:00 lub14:00
  ]
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c73a51b3ccf7ce8f@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2613,7 +2032,7 @@ BEGIN:VEVENT
 SUMMARY:Fajfy Włochowskie czyli Potańcówki Międzypokoleniowe
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7d16577b06693171@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza
 LOCATION:Włochy\, Warszawa
@@ -2624,7 +2043,7 @@ BEGIN:VEVENT
 SUMMARY:Forge Day Fest
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e633326159899d10@waw-calendars
 CATEGORIES:dla młodzieży,impreza,koncert,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2634,7 +2053,7 @@ BEGIN:VEVENT
 SUMMARY:Gimnastyka dla osób z niepełnosprawnościami
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c28776f02524f558@waw-calendars
 CATEGORIES:sport
 LOCATION:Bemowo\, Warszawa
@@ -2645,7 +2064,7 @@ BEGIN:VEVENT
 SUMMARY:Guided Walks in English
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6358fc4a03ee177f@waw-calendars
 CATEGORIES:spacer lub rower,po angielsku
 LOCATION:Praga-Północ\, Warszawa
@@ -2655,7 +2074,7 @@ BEGIN:VEVENT
 SUMMARY:House Band / Syreny Miasta feat. Dryllka & Lina Silva / LayDJ
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5197112cf72d167d@waw-calendars
 CATEGORIES:impreza,koncert,po angielsku
 LOCATION:Wola\, Warszawa
@@ -2666,7 +2085,7 @@ BEGIN:VEVENT
 SUMMARY:IV FESTIWAL PADEREWSKI NA UJAZDOWIE
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d1465a2d9238979a@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -2677,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:JAZZ NA STARÓWCE 2026 | Marcin Masecki & Boleros
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f5fb40de43575524@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -2688,7 +2107,7 @@ BEGIN:VEVENT
 SUMMARY:JOGA NA TRAWIE | ELEKTROWNIA POWIŚLE x CHANGE STUDIO
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:033635186a7e4b2b@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -2699,7 +2118,7 @@ BEGIN:VEVENT
 SUMMARY:JOGA na Patio Zielony zakątek - Lato z Gromadą 2026
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:05204c03955b7a46@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -2710,7 +2129,7 @@ BEGIN:VEVENT
 SUMMARY:Jak powstaje miasto? | bezpłatny spacer po Mokotowie
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4b8ae91da639dae7@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -2721,7 +2140,7 @@ BEGIN:VEVENT
 SUMMARY:Joga dla każdego w naturze
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:58583410676fbda9@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2731,7 +2150,7 @@ BEGIN:VEVENT
 SUMMARY:Joga na Patio Zielony Zakątek - w sercu Warszawy
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a7db1d551a33bd16@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -2742,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:Joga na Sadach Żoliborskich
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f458b95072910785@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -2752,7 +2171,7 @@ BEGIN:VEVENT
 SUMMARY:Joga na trawie w Pokoju na lato
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d8621251388ff1e9@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wola\, Warszawa
@@ -2762,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w trawie - plenerowe zajęcia w Parku przy Bażantarni
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ecbb3fdc1e256770@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -2773,7 +2192,7 @@ BEGIN:VEVENT
 SUMMARY:Kawowy Melanż
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2a671e909046ad50@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -2783,7 +2202,7 @@ BEGIN:VEVENT
 SUMMARY:Kino Letnie na Cytadeli
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:cd1bbd72cb6e0554@waw-calendars
 CATEGORIES:film
 LOCATION:Żoliborz\, Warszawa
@@ -2793,7 +2212,7 @@ BEGIN:VEVENT
 SUMMARY:Kino letnie we Włochach
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1c1b29c0fb56aca5@waw-calendars
 CATEGORIES:film
 LOCATION:Włochy\, Warszawa
@@ -2803,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:Kino na leżakach | Praga-Północ
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4da9e74a66593259@waw-calendars
 CATEGORIES:film
 LOCATION:Praga-Północ\, Warszawa
@@ -2813,7 +2232,7 @@ BEGIN:VEVENT
 SUMMARY:Klimatyczni Architekci | Piknik Rodzinny
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8aa830dc048fd7d2@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,warsztaty,wykład,wystawa,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2824,7 +2243,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Eweliny Flinty z zespołem "Mariposa"
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4c15ea03a68eefe6@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wesoła\, Warszawa
@@ -2835,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert PECTUS
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d7b23214bc307631@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Bielany\, Warszawa
@@ -2845,7 +2264,7 @@ BEGIN:VEVENT
 SUMMARY:Koneser Stand-upu 2026 | SynMojegoTaty\, Bartek Toczek
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3e162b126235b4ac@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Północ\, Warszawa
@@ -2856,7 +2275,7 @@ BEGIN:VEVENT
 SUMMARY:Kresowym szlakiem po Cmentarzu Wojskowym na Powązkach
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f08c0a57143c86c2@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Żoliborz\, Warszawa
@@ -2867,7 +2286,7 @@ BEGIN:VEVENT
 SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | Kokuho (2025)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b0070765bf4c827b@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -2879,7 +2298,7 @@ SUMMARY:Lato w Pałacu | PLĄS X ASP W WARSZAWIE - Potańcówka w Pałacu
  Czapskich
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c129db0fecba4a7a@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -2890,7 +2309,7 @@ BEGIN:VEVENT
 SUMMARY:Legendy Warszawskie podczas spaceru po Starówce z przewodnikiem
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fc70554055c020da@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -2901,7 +2320,7 @@ BEGIN:VEVENT
 SUMMARY:Linoryt  | Forge Day Fest
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:631317216e66c3e2@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2911,7 +2330,7 @@ BEGIN:VEVENT
 SUMMARY:Muzyczna medytacja-kirtan
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:021f9f82e872a8d0@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -2921,7 +2340,7 @@ BEGIN:VEVENT
 SUMMARY:Muzyczne spotkania sąsiedzkie
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ec898b74cb5df900@waw-calendars
 CATEGORIES:dla dzieci,koncert,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -2931,7 +2350,7 @@ BEGIN:VEVENT
 SUMMARY:NAWZAJEM! - Szycie po Sąsiedzku
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bedad385da78d835@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -2941,7 +2360,7 @@ BEGIN:VEVENT
 SUMMARY:Nightskating Warszawa - EXTREME
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c89e0a31349f6081@waw-calendars
 CATEGORIES:sport,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2951,7 +2370,7 @@ BEGIN:VEVENT
 SUMMARY:Nightskating Warszawa - Shine On Party\, poziom 1
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9805914a29e08113@waw-calendars
 CATEGORIES:impreza,sport,inne
 LOCATION:Śródmieście\, Warszawa
@@ -2962,7 +2381,7 @@ BEGIN:VEVENT
 SUMMARY:Nowa Zachodnia wśród kolejowych perełek
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:84422f7d45c7b7cb@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -2973,7 +2392,7 @@ BEGIN:VEVENT
 SUMMARY:Pierwszy Wielki Służewski Plener Fotograficzny
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1ea2e46a3c54cebb@waw-calendars
 CATEGORIES:spacer lub rower,spotkanie,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -2984,7 +2403,7 @@ BEGIN:VEVENT
 SUMMARY:Plażowe granie w ultimate frisbee
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8e2097c74d32c398@waw-calendars
 CATEGORIES:sport
 LOCATION:Praga-Północ\, Warszawa
@@ -2995,7 +2414,7 @@ BEGIN:VEVENT
 SUMMARY:Porządek na stronie\, czyli skład książki
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:07fac48b8ffd9e2e@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3006,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:Potańcówka Międzypokoleniowa w Parku Hassów
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:612fe2c7ee62726d@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza
 LOCATION:Ursus\, Warszawa
@@ -3017,7 +2436,7 @@ BEGIN:VEVENT
 SUMMARY:Potańcówka na Ochocie dla wszystkich pokoleń
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:35ed83612ab0ed7c@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza
 LOCATION:Ochota\, Warszawa
@@ -3028,7 +2447,7 @@ BEGIN:VEVENT
 SUMMARY:Prago\, tu lato! Warsztaty edukacyjno-ekologiczne
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a4bcf28f1ebca493@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -3039,7 +2458,7 @@ BEGIN:VEVENT
 SUMMARY:Przystanek Plaża. Zapraszamy na Bardowskiego
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ed19c8107989c1f7@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,warsztaty
 LOCATION:Targówek\, Warszawa
@@ -3050,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:RODZINNE WARSZTATY EKOLOGICZNE - Leśne mobile
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:33692dd12129977d@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Bielany\, Warszawa
@@ -3061,7 +2480,7 @@ BEGIN:VEVENT
 SUMMARY:RODZINNE ZAMIESZANIE NA WOLI
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e48d0af621753642@waw-calendars
 CATEGORIES:dla dzieci,impreza,warsztaty,inne
 LOCATION:Wola\, Warszawa
@@ -3071,7 +2490,7 @@ BEGIN:VEVENT
 SUMMARY:Rembertowskie potańcówki dla wszystkich pokoleń
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ade9389270d04b9e@waw-calendars
 CATEGORIES:impreza
 LOCATION:Rembertów\, Warszawa
@@ -3083,7 +2502,7 @@ SUMMARY:Rodzinna GRA MIEJSKA na Bulwarach Wiślanych – Rodzinny Wyścig
  z Kapitanem Warszawą
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6672c22f822b799a@waw-calendars
 CATEGORIES:dla dzieci,inne
 LOCATION:Śródmieście\, Warszawa
@@ -3094,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinne Warsztaty Pszczelarskie [godz. 10:00\, 11:30 lub 13:00]
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:989fe2dfea964be8@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -3106,7 +2525,7 @@ SUMMARY:SOBOTNIE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU NA PLAC
  U TRYNOPOLSKIM
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fe99ff50da07d919@waw-calendars
 CATEGORIES:film
 LOCATION:Targówek\, Warszawa
@@ -3118,7 +2537,7 @@ SUMMARY:SOBOTNIE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU w Artho
  use Kołowa
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b470ba513326dc6f@waw-calendars
 CATEGORIES:film
 LOCATION:Targówek\, Warszawa
@@ -3129,7 +2548,7 @@ BEGIN:VEVENT
 SUMMARY:SZU/MY bazaar - nadzieje i lęki
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:48e8b9de682b068f@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Żoliborz\, Warszawa
@@ -3141,7 +2560,7 @@ SUMMARY:Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica w
  ściu Południowym\, cz. 1
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:54e0312cda33c13a@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -3153,7 +2572,7 @@ BEGIN:VEVENT
 SUMMARY:Sobotnie Spacery 2026
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d946bda411169eea@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Praga-Północ\, Warszawa
@@ -3164,7 +2583,7 @@ SUMMARY:Sobotnie zajęcia jogi w plenerze na Osiedlu "Przyjaźń" [godz. 1
  0:00 i 11:10]
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1f7ec5d49ea4dc06@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -3175,7 +2594,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po Narbutta – śladami elit II RP.
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0868fb2dccf147c5@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -3186,7 +2605,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po Woli - Ulrychów
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f650b073cf0d07c6@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -3196,7 +2615,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po cmentarzu prawosławnym na Woli
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ec3b73350ca4bac0@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -3207,7 +2626,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer przyrodniczy po parku Potulickich
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a7775fc78e974888@waw-calendars
 CATEGORIES:spacer lub rower
 URL:https://waw4free.pl/wydarzenie-156834-spacer-przyrodniczy-po-parku-pot
@@ -3217,7 +2636,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkania szachowe nad Wisłą
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3664c803eb1ae2e4@waw-calendars
 CATEGORIES:sport,spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -3227,7 +2646,7 @@ BEGIN:VEVENT
 SUMMARY:Stare Miasto od podstaw. Spacer z przewodniczką
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7b5cb96679f1ebe4@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -3239,7 +2658,7 @@ SUMMARY:Stare Powązki - historie\, które spoczywają w Warszawie - space
  r z przewodnikiem
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:683018234ec86d79@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -3250,7 +2669,7 @@ BEGIN:VEVENT
 SUMMARY:Słuchowiska na leżakach - Teatr Polskiego Radia i Teatr Ochoty
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:41e8e6206dff4e48@waw-calendars
 CATEGORIES:teatr,inne
 LOCATION:Ochota\, Warszawa
@@ -3261,7 +2680,7 @@ BEGIN:VEVENT
 SUMMARY:Targ Śniadaniowy na Żoliborzu // Saturday Breakfast Market
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d97b44bafdef7dc4@waw-calendars
 CATEGORIES:impreza,inne,po angielsku
 LOCATION:Żoliborz\, Warszawa
@@ -3272,7 +2691,7 @@ BEGIN:VEVENT
 SUMMARY:Tańce nad Wisłą 2026: blues
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:16cb55862740f86c@waw-calendars
 CATEGORIES:impreza,koncert,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3282,7 +2701,7 @@ BEGIN:VEVENT
 SUMMARY:Trashy Bazaar: warsztaty z kolażu upcyclingowego | kolektyw SZUMY
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d16c101db67049d4@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -3294,7 +2713,7 @@ SUMMARY:URSUS. SPACERY HISTORYCZNE | 50.ROCZNICA POWSTANIA KOR | Czerwiec
  ’76
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d79dd6ab2c1cac5e@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Ursus\, Warszawa
@@ -3305,7 +2724,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowski Nordic Walking 2026 | Grupy sobotnie
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:880c56637a132917@waw-calendars
 CATEGORIES:spacer lub rower,sport,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -3317,7 +2736,7 @@ SUMMARY:WARSZTATY DLA MŁODZIEŻY I DOROSŁYCH | Błękitny splot – cyja
  notypia z wykorzystaniem tkanin
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:41dd589211d306db@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3328,7 +2747,7 @@ BEGIN:VEVENT
 SUMMARY:WYWCZAS: Żoliborski Morning Rave
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b071bbd132964c94@waw-calendars
 CATEGORIES:impreza
 LOCATION:Żoliborz\, Warszawa
@@ -3338,7 +2757,7 @@ BEGIN:VEVENT
 SUMMARY:Wakacyjna Strefa Rekreacji w Rembertowie
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:909f4242c8736e36@waw-calendars
 CATEGORIES:dla dzieci,impreza,inne
 LOCATION:Rembertów\, Warszawa
@@ -3349,7 +2768,7 @@ BEGIN:VEVENT
 SUMMARY:Warszawa | „Mazowsze” w kadrze. W hołdzie Andrzejowi Wajdzie
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:23f493e79b89b5b3@waw-calendars
 CATEGORIES:film,koncert
 LOCATION:Śródmieście\, Warszawa
@@ -3360,7 +2779,7 @@ BEGIN:VEVENT
 SUMMARY:Warszawski OPEN STAGE
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:db3d526f38226e8b@waw-calendars
 CATEGORIES:koncert,inne
 LOCATION:Śródmieście\, Warszawa
@@ -3370,7 +2789,7 @@ BEGIN:VEVENT
 SUMMARY:WarszeMuzik | SUMMER THOUGHTS
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:17db1a7891894ec6@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -3380,7 +2799,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztat Spawalniczy | Forge Day Fest
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ec858bdd5612d4aa@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -3392,7 +2811,7 @@ SUMMARY:Warsztaty - kolorowe breloki z pościeli z drugiego obiegu z Zuzą
   Tokarską z OdPodszewki
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:221ae3d04ddd8f02@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -3403,7 +2822,7 @@ BEGIN:VEVENT
 SUMMARY:Westfield Summer Festival | Joga
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ccc73ad5f4a11146@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -3413,7 +2832,7 @@ BEGIN:VEVENT
 SUMMARY:Westfield Summer Festival | Pilates
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4c03615e18216342@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -3424,7 +2843,7 @@ BEGIN:VEVENT
 SUMMARY:Westfield Summer Festival | Warsztaty taneczne
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:82eb952596dc8096@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3435,7 +2854,7 @@ BEGIN:VEVENT
 SUMMARY:Wieczór Komedii Improwizowanej z Frajdą
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d2830a2601fe2838@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,teatr
 LOCATION:Praga-Północ\, Warszawa
@@ -3446,7 +2865,7 @@ BEGIN:VEVENT
 SUMMARY:Wilanowskie Kino Plenerowe dla dzieci
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5177b2b1e4e6cdb2@waw-calendars
 CATEGORIES:dla dzieci,film
 LOCATION:Wilanów\, Warszawa
@@ -3457,7 +2876,7 @@ BEGIN:VEVENT
 SUMMARY:Wilanowskie Kino na Leżakach
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a5d34ee446ea88b4@waw-calendars
 CATEGORIES:film
 LOCATION:Wilanów\, Warszawa
@@ -3467,7 +2886,7 @@ BEGIN:VEVENT
 SUMMARY:Wolska Potańcówka w Ogrodach Ulricha
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fbb4b0e111995a11@waw-calendars
 CATEGORIES:dla dzieci,dla seniorów,impreza,koncert,teatr,warsztaty
 LOCATION:Wola\, Warszawa
@@ -3478,7 +2897,7 @@ BEGIN:VEVENT
 SUMMARY:Łazienki Królewskie - rezydencja ostatniego króla Polski.
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bdfe81438a1a0b46@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -3489,7 +2908,7 @@ BEGIN:VEVENT
 SUMMARY:Łemkowie – opowieść w skrawkach
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f13ec9eb846e9940@waw-calendars
 CATEGORIES:spotkanie,warsztaty,wykład,inne
 LOCATION:Wola\, Warszawa
@@ -3499,7 +2918,7 @@ BEGIN:VEVENT
 SUMMARY:„POJEDYNEK” / KINO POD GWIAZDAMI
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4017b0416ca27a78@waw-calendars
 CATEGORIES:film
 URL:https://waw4free.pl/wydarzenie-156304-pojedynek-kino-pod-gwiazdami
@@ -3508,7 +2927,7 @@ BEGIN:VEVENT
 SUMMARY:„Thelma i Louise” | Letnie kino plenerowe w Pałacyku
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:234dab5664f04c59@waw-calendars
 CATEGORIES:film
 LOCATION:Praga-Północ\, Warszawa
@@ -3519,7 +2938,7 @@ BEGIN:VEVENT
 SUMMARY:5. sezon koncertów plenerowych pt. "Fortepian Szopena"
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:859cd302288dae9e@waw-calendars
 CATEGORIES:koncert
 URL:https://waw4free.pl/wydarzenie-153654-5-sezon-koncertow-plenerowych-pt
@@ -3529,7 +2948,7 @@ BEGIN:VEVENT
 SUMMARY:Bajki na Trawie 2026 | Cudowny chleb
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bb6a18c77e81e8cb@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Ursynów\, Warszawa
@@ -3540,7 +2959,7 @@ BEGIN:VEVENT
 SUMMARY:Bajki plenerowe w Parku Czechowickim
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:415df21d73899e3f@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Ursus\, Warszawa
@@ -3551,7 +2970,7 @@ BEGIN:VEVENT
 SUMMARY:Bajkowa Praga-Południe - Kwiat Paproci
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1343b34e5769b5b5@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Praga-Południe\, Warszawa
@@ -3562,7 +2981,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne zajęcia jogi
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7be2f62c4ba609f7@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wilanów\, Warszawa
@@ -3572,7 +2991,7 @@ BEGIN:VEVENT
 SUMMARY:Bliskie Choreografie Przestrzenne
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b85d20c528c22093@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -3583,7 +3002,7 @@ BEGIN:VEVENT
 SUMMARY:Bułgarski Festiwal Róż - wykład. Royal Rose 2026
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3f1162098c72fa32@waw-calendars
 CATEGORIES:dla młodzieży,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -3594,7 +3013,7 @@ BEGIN:VEVENT
 SUMMARY:CUDowne Kino Plenerowe | „Pulp Fiction” z lektorem NA ŻYWO
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0792193f000af6f6@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -3605,7 +3024,7 @@ BEGIN:VEVENT
 SUMMARY:Czarodziejska góra – instalacja Mirosława Bałki
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c21e1443c3196e0f@waw-calendars
 CATEGORIES:teatr,wystawa,inne
 LOCATION:Mokotów\, Warszawa
@@ -3616,7 +3035,7 @@ BEGIN:VEVENT
 SUMMARY:DARMOWE ZAJĘCIA JOGI Z WIDOKIEM NA WISŁĘ
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:406d3b939bbff8b2@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3627,7 +3046,7 @@ BEGIN:VEVENT
 SUMMARY:Darmowe Animacje dla Dzieci nad Wisłą
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3046145e1fe5e930@waw-calendars
 CATEGORIES:dla dzieci,warsztaty,inne
 LOCATION:Śródmieście\, Warszawa
@@ -3638,7 +3057,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień Fotografii w SDK
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:da40422e89c726aa@waw-calendars
 CATEGORIES:slajdowisko,spotkanie,warsztaty,wystawa
 LOCATION:Mokotów\, Warszawa
@@ -3648,7 +3067,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień Psa w Browarach Warszawskich
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2c5870524be6c8ed@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,spotkanie,warsztaty
 LOCATION:Wola\, Warszawa
@@ -3659,7 +3078,7 @@ BEGIN:VEVENT
 SUMMARY:GARDEN LIVE SESSIONS
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7e5857b08a486da8@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Śródmieście\, Warszawa
@@ -3669,7 +3088,7 @@ BEGIN:VEVENT
 SUMMARY:GRUNT I WODA | AKTYWNIE W PLENERZE x MOTION
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c5f85d2c100078d1@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3681,7 +3100,7 @@ SUMMARY:GRUNT I WODA | WARSZTATY KULINARNE DLA DZIECI NAD WISŁĄ | Doraya
  ki
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d4c986613f874869@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -3692,7 +3111,7 @@ BEGIN:VEVENT
 SUMMARY:Joga na Polu Mokotowskim - 11 sezon
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e7ec2e582ab702a0@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Ochota\, Warszawa
@@ -3703,7 +3122,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w Parku Praskim - sezon. 4
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:81136e54cc8dd2c3@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -3713,7 +3132,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w parku Ulricha
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:677d85a68a5a1080@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Wola\, Warszawa
@@ -3723,7 +3142,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w parku – niedzielne południe z naturą
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:94b255dc4f8a31ec@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -3734,7 +3153,7 @@ BEGIN:VEVENT
 SUMMARY:Kino Plenerowe na Rynku Nowego Miasta
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4f2038ae611a23f9@waw-calendars
 CATEGORIES:film,impreza
 LOCATION:Śródmieście\, Warszawa
@@ -3745,7 +3164,7 @@ BEGIN:VEVENT
 SUMMARY:Kino plenerowe w Parku Kaskada
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:24b99a188f5d99b0@waw-calendars
 CATEGORIES:film
 LOCATION:Żoliborz\, Warszawa
@@ -3755,7 +3174,7 @@ BEGIN:VEVENT
 SUMMARY:Klub Fotograficzny
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8717b830ca661c60@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wawer\, Warszawa
@@ -3766,7 +3185,7 @@ SUMMARY:Koncert Chopinowski w Łazienkach Królewskich [godz. 12:00 i 16:0
  0]
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:56b93e8146b03d9e@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -3777,7 +3196,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Dawida Kwiatkowskiego
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7935a0e56c1f2abb@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wawer\, Warszawa
@@ -3787,7 +3206,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert „Pałace Czarów” - Bahia
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:85dd68ce4fc829bc@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -3797,7 +3216,7 @@ BEGIN:VEVENT
 SUMMARY:Koneser Stand-upu 2026 | Adam Sobaniec\, Kamil Kozieł
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:70782d36cc66846a@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Północ\, Warszawa
@@ -3808,7 +3227,7 @@ BEGIN:VEVENT
 SUMMARY:Kulturalna Białołęka | Potańcówka
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ad57188317a1b6ff@waw-calendars
 CATEGORIES:impreza
 LOCATION:Białołęka\, Warszawa
@@ -3818,7 +3237,7 @@ BEGIN:VEVENT
 SUMMARY:LETNIE AUDYCJE ORGANOWE / SUMMER ORGAN RECITALS
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5a6ed6207ab47ae7@waw-calendars
 CATEGORIES:koncert,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -3829,7 +3248,7 @@ BEGIN:VEVENT
 SUMMARY:Letnie Kino Plenerowe na Woli
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:be187da942519f31@waw-calendars
 CATEGORIES:film
 LOCATION:Wola\, Warszawa
@@ -3839,7 +3258,7 @@ BEGIN:VEVENT
 SUMMARY:Letnie Koncerty Promenadowe 2026 | Tango Libre
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3665575bfa08ca42@waw-calendars
 CATEGORIES:koncert
 LOCATION:Mokotów\, Warszawa
@@ -3850,7 +3269,7 @@ BEGIN:VEVENT
 SUMMARY:Manewry Tradycyjnych Łodzi Wiślanych
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f30560756f5bc322@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -3862,7 +3281,7 @@ SUMMARY:Mirosław Bałka i scenografia do Czarodziejskiej góry – wykła
  d Andy Rottenberg
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d962b820a464982d@waw-calendars
 CATEGORIES:dla seniorów,wykład
 LOCATION:Mokotów\, Warszawa
@@ -3875,7 +3294,7 @@ SUMMARY:Muranów dawniej i dziś. Autorski spacer w języku ukraińskim //
  а екскурсія українською мовою
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fd146b1677fcec5e@waw-calendars
 CATEGORIES:spacer lub rower,po ukraińsku
 LOCATION:Śródmieście\, Warszawa
@@ -3886,7 +3305,7 @@ BEGIN:VEVENT
 SUMMARY:Muzyczne Lato na Ursynowie 2026 | JAZZ
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:67097f37ed657f04@waw-calendars
 CATEGORIES:koncert
 LOCATION:Ursynów\, Warszawa
@@ -3897,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:58107d1666b030af@waw-calendars
 CATEGORIES:film
 LOCATION:Targówek\, Warszawa
@@ -3909,7 +3328,7 @@ SUMMARY:NIEDZIELNE LETNIE KINO PLENEROWE DLA DOROSŁYCH NA TARGÓWKU W PAR
  KU BRÓDNOWSKIM
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e3b8f717ed4ae408@waw-calendars
 CATEGORIES:film
 LOCATION:Targówek\, Warszawa
@@ -3921,7 +3340,7 @@ SUMMARY:New City Sounds - cykl letnich koncertów młodych talentów w Fab
  ryce Norblina
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:25ac08228e6bcf12@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -3932,7 +3351,7 @@ BEGIN:VEVENT
 SUMMARY:Niedzielne Spotkanie Sparingowe
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2597fec9b7265f44@waw-calendars
 CATEGORIES:sport,warsztaty,inne
 LOCATION:Mokotów\, Warszawa
@@ -3942,7 +3361,7 @@ BEGIN:VEVENT
 SUMMARY:Niedzielne tańce w Fabryce Norblina
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f3b75eec723d3dc5@waw-calendars
 CATEGORIES:impreza,warsztaty
 LOCATION:Wola\, Warszawa
@@ -3954,7 +3373,7 @@ SUMMARY:O zabawach w Ogrodzie\, czyli spacer i dancing przedwojenny w Ogro
  dzie Saskiem
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ccfbe3fcc3d9092b@waw-calendars
 CATEGORIES:impreza,spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -3965,7 +3384,7 @@ BEGIN:VEVENT
 SUMMARY:Odkryj Stare i Nowe Miasto w Warszawie
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fff756f90c90bcf9@waw-calendars
 CATEGORIES:spacer lub rower,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -3976,7 +3395,7 @@ BEGIN:VEVENT
 SUMMARY:PIKNIK RODZINNE ZAMIESZANIE NA BIELANACH
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d48b92fd11004d26@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,warsztaty
 LOCATION:Bielany\, Warszawa
@@ -3987,7 +3406,7 @@ BEGIN:VEVENT
 SUMMARY:Piknik Wakacyjny
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e65d4ccc28160776@waw-calendars
 CATEGORIES:dla dzieci,impreza,koncert,spacer lub rower,warsztaty
 LOCATION:Włochy\, Warszawa
@@ -3998,7 +3417,7 @@ SUMMARY:Plenerowe\, rodzinne intuicyjne malowanie w Dzielnicy Ursynów [go
  dz. 15:00 i 16:30]
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0947888fd06e1adc@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,warsztaty
 LOCATION:Ursynów\, Warszawa
@@ -4009,7 +3428,7 @@ BEGIN:VEVENT
 SUMMARY:Przydrożne Historie czyli pamięć i wiara zaklęte w kapliczkach
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:eb29cfcf0d0f19e0@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Wawer\, Warszawa
@@ -4020,7 +3439,7 @@ BEGIN:VEVENT
 SUMMARY:RODZINNA NIEDZIELA | RAMKI PEŁNE WSPOMNIEŃ
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c9aaf91c541eea53@waw-calendars
 CATEGORIES:dla dzieci,impreza,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -4031,7 +3450,7 @@ BEGIN:VEVENT
 SUMMARY:RODZINNE NIEDZIELE W ELEKTROWNI POWIŚLE
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c8995023559945c3@waw-calendars
 CATEGORIES:dla dzieci,impreza,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4043,7 +3462,7 @@ SUMMARY:Rodzinna GRA MIEJSKA na Polu Mokotowskim – Rodzinny Wyścig z Ka
  pitanem Warszawą
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1dec29387a78bc92@waw-calendars
 CATEGORIES:dla dzieci,inne
 LOCATION:Ochota\, Warszawa
@@ -4054,7 +3473,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinne pląsanie na trawiastym dywanie
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:30a98619d3aea4e6@waw-calendars
 CATEGORIES:dla dzieci,sport,spotkanie,warsztaty,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -4067,7 +3486,7 @@ SUMMARY:Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica w
  ściu Południowym\, cz. 2
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e243234402b24af3@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4079,7 +3498,7 @@ BEGIN:VEVENT
 SUMMARY:Slam Poetycki w Teatrze Baza
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d7777b5849c5c60f@waw-calendars
 CATEGORIES:spotkanie,teatr,inne
 LOCATION:Mokotów\, Warszawa
@@ -4089,7 +3508,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer - Warszawa zachowana: Aleje Ujazdowskie
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:92d0e6c1e69c4b98@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4100,7 +3519,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po cmentarzu żydowskim w Pruszkowie
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b116a7a079474ba5@waw-calendars
 CATEGORIES:spacer lub rower
 URL:https://waw4free.pl/wydarzenie-155326-spacer-po-cmentarzu-zydowskim-w-
@@ -4110,7 +3529,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer z przewodnikiem po Cytadeli
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6c64676796f24eac@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Żoliborz\, Warszawa
@@ -4122,7 +3541,7 @@ SUMMARY:Spacer: Łazienki za czasów króla Stanisława. (Po nim koncert c
  hopinowski)
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:45110cfc5c1645ff@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4133,7 +3552,7 @@ BEGIN:VEVENT
 SUMMARY:Straszny spacer po Starówce
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4b261f5db6df293d@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4143,7 +3562,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Najlepsze Karaoke w Mieście!
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b5e7aacf55ba5fdf@waw-calendars
 CATEGORIES:impreza,po angielsku
 LOCATION:Wola\, Warszawa
@@ -4154,7 +3573,7 @@ BEGIN:VEVENT
 SUMMARY:THE WRITE PLACE: Free Creative Writing Improvisation
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f2099ecab9cf2392@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 LOCATION:Ochota\, Warszawa
@@ -4165,7 +3584,7 @@ BEGIN:VEVENT
 SUMMARY:Targ Śniadaniowy na Mokotowie // Sunday Breakfast Market
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:29ebeb00c5bfc239@waw-calendars
 CATEGORIES:impreza,inne,po angielsku
 LOCATION:Mokotów\, Warszawa
@@ -4176,7 +3595,7 @@ BEGIN:VEVENT
 SUMMARY:Tańczmy razem – zawsze w formie!
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:da43abcdc166d3bc@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -4186,7 +3605,7 @@ BEGIN:VEVENT
 SUMMARY:Trening Biegowy z 12tri.pl
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5619a06084ade2e7@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -4196,7 +3615,7 @@ BEGIN:VEVENT
 SUMMARY:Warsaw 2.0 Comedy Show
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:07273d094a1d517c@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -4206,7 +3625,7 @@ BEGIN:VEVENT
 SUMMARY:Warszawskie Kocykowanie | Rytmy\, Dźwięki i Muzyczne Sekrety
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5f62bf35620a6c6e@waw-calendars
 CATEGORIES:dla dzieci,teatr,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -4217,7 +3636,7 @@ BEGIN:VEVENT
 SUMMARY:WarszeMuzik | RABAH x MAKSYMIUK
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:656acc5c3a3dba69@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -4227,7 +3646,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty monotypii na bawełnie z Joanną Świerczyńską
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7dafc95d594adfe6@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -4238,7 +3657,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty pieczenia bułeczek [godz. 11:00 i 15:00]
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fab43a7523432bec@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -4249,7 +3668,7 @@ BEGIN:VEVENT
 SUMMARY:Wywczas┃POGŁOS: HARMONIA – PRZEPŁYW
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a61ddc9704f55d4e@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -4259,7 +3678,7 @@ BEGIN:VEVENT
 SUMMARY:XXI Powsińskie Dożynki
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d9796c2821e403f4@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,impreza,koncert
 LOCATION:Wilanów\, Warszawa
@@ -4270,7 +3689,7 @@ SUMMARY:Zaginiony świat Dynasów i Sewerynowa. Od magnackich pałaców do
   ruin cyklistów
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1c2aa407346d2d9b@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4282,7 +3701,7 @@ SUMMARY:Zajęcia ruchowe połączone z piknikiem // Fitness in the park an
  d picnic
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7005c6afe968b58b@waw-calendars
 CATEGORIES:sport,spotkanie,inne,po angielsku
 LOCATION:Mokotów\, Warszawa
@@ -4293,7 +3712,7 @@ BEGIN:VEVENT
 SUMMARY:Zatańczmy jeszcze raz! | POTAŃCÓWKA DKŚ na Foksal 11
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3072cdf9b37b59b5@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -4304,7 +3723,7 @@ BEGIN:VEVENT
 SUMMARY:Złote Przeboje Renesansu
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4d7b5bc2641bcef5@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wawer\, Warszawa
@@ -4314,7 +3733,7 @@ BEGIN:VEVENT
 SUMMARY:Śladami Zawiszaków. Rodzinny spacer o Powstaniu Warszawskim
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:aa5f11b32ee5b2b5@waw-calendars
 CATEGORIES:dla dzieci,spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4325,7 +3744,7 @@ BEGIN:VEVENT
 SUMMARY:Śródmiejskie bieganie dla każdego
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d5aa01709182b69c@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -4336,7 +3755,7 @@ BEGIN:VEVENT
 SUMMARY:„Spacer po Starych Powązkach. Cz. 1”
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4ca55d89076f8758@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -4346,7 +3765,7 @@ BEGIN:VEVENT
 SUMMARY:„Wokół 1670” - spacer po Warszawie inspirowany serialem
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:54b3a3bb48cb4d7a@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4357,7 +3776,7 @@ BEGIN:VEVENT
 SUMMARY:Cuda-Wianki: gliniane garneczki
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b8c84d21395c3986@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty
 LOCATION:Wola\, Warszawa
@@ -4368,7 +3787,7 @@ SUMMARY:Edukacyjny spektakl dla dzieci „Piraci z Plastiklandu. Sekrety G
  łębin” [godz. 9:00\, 11:00 i 13:00]
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:70b67cf9845e7102@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,teatr
 LOCATION:Bielany\, Warszawa
@@ -4379,7 +3798,7 @@ BEGIN:VEVENT
 SUMMARY:Gimnastyka mózgu i joga serca
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0e48721be596d630@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -4389,7 +3808,7 @@ BEGIN:VEVENT
 SUMMARY:Heca na Placu: Musical Improwizowany - Piosenki na udręki
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:81247333f6b608a1@waw-calendars
 CATEGORIES:koncert,stand-up\, kabaret\, impro
 LOCATION:Śródmieście\, Warszawa
@@ -4400,7 +3819,7 @@ BEGIN:VEVENT
 SUMMARY:Kolażowa Antologia Poezji: Bronisława Ostrowska
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ff29e466f2aa756f@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -4411,7 +3830,7 @@ BEGIN:VEVENT
 SUMMARY:Las na receptę | Spotkanie autorskie z Markiem Michalskim
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5d9b8a8cbe6bee98@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Wola\, Warszawa
@@ -4422,7 +3841,7 @@ BEGIN:VEVENT
 SUMMARY:Lato pełne przygody!
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:323edcdb2663f242@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4432,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:Make ekobomby not war | nasienny spacer
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ee0f1a6da86beaaf@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Ochota\, Warszawa
@@ -4444,7 +3863,7 @@ SUMMARY:Naturalne Inspiracje – bezpłatne warsztaty rzeźby w drewnie dl
  a mieszkańców dzielnicy Włochy
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dc9e111300621edb@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,warsztaty
 LOCATION:Włochy\, Warszawa
@@ -4455,7 +3874,7 @@ BEGIN:VEVENT
 SUMMARY:Open Mic Stand Up w Arcade Bee Hala Koszyki x Wydarzenia Komediowe
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3699ed0634d78d3e@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Śródmieście\, Warszawa
@@ -4467,7 +3886,7 @@ SUMMARY:Patrycja Piekutowska | DŹWIĘKI METROPOLII na skrzypcach w Ale Sz
  tuka
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1bcd9e43ccef0815@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -4478,7 +3897,7 @@ BEGIN:VEVENT
 SUMMARY:Pomorska Troja zlokalizowana
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:20b90091ce1be389@waw-calendars
 CATEGORIES:slajdowisko
 LOCATION:Śródmieście\, Warszawa
@@ -4488,7 +3907,7 @@ BEGIN:VEVENT
 SUMMARY:Poród - psychika i doświadczenia z ciała
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:28a014537cd3865b@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Bielany\, Warszawa
@@ -4500,7 +3919,7 @@ SUMMARY:Spektakl "Piraci z Plastiklandu. Sekrety głębin" [godz. 9:00\, 1
  1:00\, 13:00]
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:241647e501bd15a2@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Bielany\, Warszawa
@@ -4512,7 +3931,7 @@ SUMMARY:TAKA GRUPA - grupa rozwojowa dla osób\, które właśnie idą do
  szkoły średniej
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a12096e6abed1a1a@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -4523,7 +3942,7 @@ BEGIN:VEVENT
 SUMMARY:Trening siatkarski z KSG Warszawa
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:476b1ca0a6969d67@waw-calendars
 CATEGORIES:sport
 LOCATION:Bielany\, Warszawa
@@ -4535,7 +3954,7 @@ SUMMARY:Wieczory filmowe dla dorosłych w Amfiteatr Bemowo w Parku Górcze
  wska! | "Był sobie pies’’
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9d6297cb4ff8ac8d@waw-calendars
 CATEGORIES:film
 LOCATION:Bemowo\, Warszawa
@@ -4547,7 +3966,7 @@ SUMMARY:Arabeski. Dyskusja nad książką Serhija Żadana z długiej listy
   tegorocznej Nagrody Angelus
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e02969e6bd5a4250@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -4559,7 +3978,7 @@ SUMMARY:CUDowne Kino Plenerowe | „Boże Ciało” / „Corpus Christi”
   (ENG SUB)
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b672b88d1f43a310@waw-calendars
 CATEGORIES:film,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -4570,7 +3989,7 @@ BEGIN:VEVENT
 SUMMARY:Czytelnia Klimatyczna Wolnego Jazdowa x Wspólny Pokój
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5b0e3bb2b5a52432@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -4581,7 +4000,7 @@ BEGIN:VEVENT
 SUMMARY:HALO\, KINO TĘCZA! Pokaz filmu „Nienawiść"
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b0ed2eb76b8bf33f@waw-calendars
 CATEGORIES:film
 LOCATION:Żoliborz\, Warszawa
@@ -4592,7 +4011,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert ogrodowy | Bonaventura
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e35b42c1082e93f0@waw-calendars
 CATEGORIES:koncert
 LOCATION:Targówek\, Warszawa
@@ -4603,7 +4022,7 @@ SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | Miłość\, kt
  óra zostaje (2025)
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b890653920a14a14@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -4615,7 +4034,7 @@ SUMMARY:Lato Smutnych Książek | "Ściana" Marlen Haushofer | Gościni: N
  atalia Szostak
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:361c08ed50b2d8bc@waw-calendars
 CATEGORIES:wykład
 LOCATION:Wola\, Warszawa
@@ -4626,7 +4045,7 @@ BEGIN:VEVENT
 SUMMARY:Lato w Pałacu | Moja bajka warsztaty fotograficzne dla dorosłych
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f2d3ce78839ed542@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4638,7 +4057,7 @@ SUMMARY:Naturalne Inspiracje – bezpłatne warsztaty rzeźby w drewnie dl
  a mieszkańców dzielnicy Włochy [godz. 9:00 i 14:00]
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:478c8bf54d058edd@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,warsztaty
 LOCATION:Włochy\, Warszawa
@@ -4650,7 +4069,7 @@ BEGIN:VEVENT
 SUMMARY:Plac w ruchu | Bieganie
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b864d8950469d67b@waw-calendars
 CATEGORIES:sport
 LOCATION:Śródmieście\, Warszawa
@@ -4660,7 +4079,7 @@ BEGIN:VEVENT
 SUMMARY:Rembertowskie Kino pod Gwiazdami: Chłopaki nie płaczą
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d56dcff8a136d96a@waw-calendars
 CATEGORIES:film
 LOCATION:Rembertów\, Warszawa
@@ -4671,7 +4090,7 @@ BEGIN:VEVENT
 SUMMARY:Skarby Muzeum Narodowego w Warszawie cz. 1
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c2b5be3b8d3e96b6@waw-calendars
 CATEGORIES:spacer lub rower,wystawa
 LOCATION:Śródmieście\, Warszawa
@@ -4682,7 +4101,7 @@ BEGIN:VEVENT
 SUMMARY:Tajemnice Nowego Miasta - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1f12b0838a6c0504@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -4694,7 +4113,7 @@ SUMMARY:WYKŁAD | CZAS NA SZTUKĘ! | Artystki w sztuce dawnej z kolekcji M
  NW
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:04f91981c0f84669@waw-calendars
 CATEGORIES:dla młodzieży,dla seniorów,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -4706,7 +4125,7 @@ SUMMARY:Warsztat kontaktu z ciałem i naturą na Polu Mokotowskim | częś
  ć cyklu Wellness Navigators
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:560d5557f50c3c23@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -4717,7 +4136,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty szydełkowania w FORGE vol.2
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c502a40887f40832@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -4730,7 +4149,7 @@ SUMMARY:Wpadnij na łąkę | O tym jak można się ruszać\, żeby sprawia
  h
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7952fc9fca735030@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4743,7 +4162,7 @@ SUMMARY:ZAPISY na Squash Junior Start 2026 - bezpłatne treningi squasha d
  la dzieci i młodzieży (7-15 lat)
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:dfed1baf0499f194@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -4754,7 +4173,7 @@ BEGIN:VEVENT
 SUMMARY:FILMOWE PATIO | Lato z Gromadą 2026 | "Mamma Mia!"
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:94947219f4b1e7ca@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -4765,7 +4184,7 @@ BEGIN:VEVENT
 SUMMARY:Fortepianowe Lunch Timce Concerts
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e8a5bd9014382c47@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -4776,7 +4195,7 @@ BEGIN:VEVENT
 SUMMARY:Klub Mola Książkowego
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a54e27baab6105bd@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Praga-Południe\, Warszawa
@@ -4786,7 +4205,7 @@ BEGIN:VEVENT
 SUMMARY:Kreatywne pisanie z Loesje
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2268314575006964@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4796,7 +4215,7 @@ BEGIN:VEVENT
 SUMMARY:MARIUSZ DĄBROWSKI // STAND-UP W CUDZIE NAD WISŁĄ
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e3c2a6b62ffb9fac@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Śródmieście\, Warszawa
@@ -4808,7 +4227,7 @@ SUMMARY:Mity\, w które uwierzyliśmy x Justyna Dżbik-Kluge | American dr
  eam
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ae84595583427e36@waw-calendars
 CATEGORIES:wykład
 LOCATION:Wola\, Warszawa
@@ -4819,7 +4238,7 @@ BEGIN:VEVENT
 SUMMARY:Moje granice – jak mówić „nie” bez poczucia winy
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:471c41a0fcd0a074@waw-calendars
 CATEGORIES:warsztaty
 URL:https://waw4free.pl/wydarzenie-157008-moje-granice-jak-mowic-nie-bez-p
@@ -4829,7 +4248,7 @@ BEGIN:VEVENT
 SUMMARY:Otwarte Spotkanie Fotograficzne
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:595c48727ce5ffc1@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Praga-Północ\, Warszawa
@@ -4839,7 +4258,7 @@ BEGIN:VEVENT
 SUMMARY:Przychodnia dla roślin i sąsiedzka wymianka roślinna
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fdf4391748cce356@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Mokotów\, Warszawa
@@ -4851,7 +4270,7 @@ SUMMARY:Reportażowy Klub Książki - „Demon Copperhead” Barbary Kings
  olver
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ecd9a9645e068890@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Praga-Północ\, Warszawa
@@ -4862,7 +4281,7 @@ BEGIN:VEVENT
 SUMMARY:Rowerowy Tajemniczy Ogród na Elektoralnej
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8b81d3599f4bda8e@waw-calendars
 CATEGORIES:spacer lub rower,spotkanie,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -4873,7 +4292,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer architektoniczny z Grzegorzem Miką
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7691de07457ca08f@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -4885,7 +4304,7 @@ SUMMARY:Spotkanie z Adrianą Prodeus i Jakubem Szczęsnym oraz film „Jak
   zrobić film o betonie?”
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:83c2b19760bf98a4@waw-calendars
 CATEGORIES:film,spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -4896,7 +4315,7 @@ BEGIN:VEVENT
 SUMMARY:Tańcząc ku korzeniom
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a6a4c765d614b019@waw-calendars
 CATEGORIES:koncert,teatr
 LOCATION:Praga-Południe\, Warszawa
@@ -4906,7 +4325,7 @@ BEGIN:VEVENT
 SUMMARY:Trening siatkarski z KSG Warszawa
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d99ca61a30d05f6a@waw-calendars
 CATEGORIES:sport
 LOCATION:Bielany\, Warszawa
@@ -4917,7 +4336,7 @@ BEGIN:VEVENT
 SUMMARY:Twórcze inspiracje na Wolskiej: Pamiątka z wakacji
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9aca59c47639481b@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -4928,7 +4347,7 @@ BEGIN:VEVENT
 SUMMARY:Uwaga na dziury! - Partyzanckie warsztaty malarskie street art
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d198b641fc4d0165@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Ochota\, Warszawa
@@ -4939,7 +4358,7 @@ BEGIN:VEVENT
 SUMMARY:V Letni Przegląd Filmowy Pod Wspólnym Niebem | "White Snail"
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c0459affbe8a5f4b@waw-calendars
 CATEGORIES:film,spotkanie,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -4950,7 +4369,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty rzeźby w drewnie na Targówku
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:78e1de4f0849cd08@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Targówek\, Warszawa
@@ -4961,7 +4380,7 @@ BEGIN:VEVENT
 SUMMARY:Z kulturką na trawie | “Wyspy Szczęśliwości”
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bb7d7c9980724f8a@waw-calendars
 CATEGORIES:dla dzieci,koncert
 LOCATION:Bielany\, Warszawa
@@ -4972,7 +4391,7 @@ BEGIN:VEVENT
 SUMMARY:„Wartość sentymentalna” - Letnie kino plenerowe w Pałacyku
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7b0fea754ed60ca1@waw-calendars
 CATEGORIES:film
 LOCATION:Praga-Północ\, Warszawa
@@ -4984,7 +4403,7 @@ SUMMARY:Bardzo Kulturalny Czwartek – Koncert Honoraty Królikiewicz „N
  ie jest za późno”
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9752d86131465b2c@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -4995,7 +4414,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatny webinar: "Dobra adaptacja w przedszkolu."
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7ed381f558a4de43@waw-calendars
 CATEGORIES:wykład
 URL:https://waw4free.pl/wydarzenie-157276-bezplatny-webinar-dobra-adaptacj
@@ -5006,7 +4425,7 @@ SUMMARY:CYFROWY SURVIVAL - technologia bez tajemnic | Cyberbezpieczeństwo
   na co dzień
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:94b2d293b4afd6e8@waw-calendars
 CATEGORIES:warsztaty,wykład
 LOCATION:Targówek\, Warszawa
@@ -5017,7 +4436,7 @@ BEGIN:VEVENT
 SUMMARY:Co tam się nie działo! - spacer wokół Pałacu Krasińskich
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bc6fc8d21d4f52c0@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5028,7 +4447,7 @@ BEGIN:VEVENT
 SUMMARY:DECOUPAGE BOTANICZNY - STWÓRZ WŁASNE PUDEŁKO
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7cbe32cdccef8109@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5039,7 +4458,7 @@ BEGIN:VEVENT
 SUMMARY:Emilia Jechna #Odkrycia
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1453126a1e6cd641@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Śródmieście\, Warszawa
@@ -5049,7 +4468,7 @@ BEGIN:VEVENT
 SUMMARY:HALO\, KINO TĘCZA! Pokaz filmu „Przekładaniec"
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ad6b9d9c7bbcc976@waw-calendars
 CATEGORIES:film
 LOCATION:Żoliborz\, Warszawa
@@ -5060,7 +4479,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert: Jay Nowakowski
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4228690b352ab771@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -5070,7 +4489,7 @@ BEGIN:VEVENT
 SUMMARY:Koncerty relaksacyjne
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:54c1335057bc5ddf@waw-calendars
 CATEGORIES:koncert,inne
 LOCATION:Targówek\, Warszawa
@@ -5080,7 +4499,7 @@ BEGIN:VEVENT
 SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | Lalka (1968)
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:26d51cbdecd1ca0d@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -5091,7 +4510,7 @@ BEGIN:VEVENT
 SUMMARY:Make ekobomby not war | warsztaty tworzenia bomb nasiennych
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8095e7a732083da7@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Ochota\, Warszawa
@@ -5102,7 +4521,7 @@ BEGIN:VEVENT
 SUMMARY:Muralów\, czyli szlakiem street artu Muranowa
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e0fa282d7c3d2f50@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5113,7 +4532,7 @@ BEGIN:VEVENT
 SUMMARY:NAWZAJEM! Mini Wysypisko Śmieci
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9d7f40f3884dc6d0@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -5123,7 +4542,7 @@ BEGIN:VEVENT
 SUMMARY:Perła Stand-up na plaży Saska! Bartek Walos
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b34f420beb355ad8@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Południe\, Warszawa
@@ -5134,7 +4553,7 @@ BEGIN:VEVENT
 SUMMARY:Podróże z antropologią. Nowa Kaledonia
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:68b0febb97f8cb48@waw-calendars
 CATEGORIES:slajdowisko,spotkanie,wykład
 LOCATION:Śródmieście\, Warszawa
@@ -5147,7 +4566,7 @@ SUMMARY:Pokaz dokumentu „Paszporty Paragwaju" i rozmowa z Moniką Maniew
   Galerii Instytutu Pileckiego
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fce258551fea9408@waw-calendars
 CATEGORIES:film,spotkanie
 LOCATION:Śródmieście\, Warszawa
@@ -5159,7 +4578,7 @@ BEGIN:VEVENT
 SUMMARY:Rembertowskie Kino pod Gwiazdami: Wonka
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:05ce375462d18e22@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,film
 LOCATION:Rembertów\, Warszawa
@@ -5170,7 +4589,7 @@ BEGIN:VEVENT
 SUMMARY:Sing Along na finał Pokoju na Lato
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:153d1a20c4d25bc8@waw-calendars
 CATEGORIES:impreza
 LOCATION:Wola\, Warszawa
@@ -5181,7 +4600,7 @@ BEGIN:VEVENT
 SUMMARY:Starcie opcji - AIRBNB
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d4919c241e7fe71d@waw-calendars
 CATEGORIES:wykład
 LOCATION:Śródmieście\, Warszawa
@@ -5192,7 +4611,7 @@ SUMMARY:Teatr w Kosmosie - wakacyjne spektakle w parku. GORĄCZKA CZWARTKO
  WEGO IMPRO
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:22594c8245267317@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,teatr
 LOCATION:Włochy\, Warszawa
@@ -5203,7 +4622,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty rzeźby w drewnie na Targówku
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6598b15acd18f07b@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Targówek\, Warszawa
@@ -5215,7 +4634,7 @@ SUMMARY:Westfield Summer Festival | Kino pod gwiazdami - Ostatnia sesja w
  Paryżu (2026)
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6fb52d6a5212e1ec@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -5226,7 +4645,7 @@ BEGIN:VEVENT
 SUMMARY:Ambientowe leżanki
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:120a5309359b58a0@waw-calendars
 CATEGORIES:impreza
 LOCATION:Żoliborz\, Warszawa
@@ -5237,7 +4656,7 @@ SUMMARY:DZIEŃ CZYTANIA KOMIKSÓW W MIEJSCACH PUBLICZNYCH – W WILLI FRAN
  KÓWCE
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9bd3a2a885be6e1a@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spotkanie,warsztaty,inne
 URL:https://waw4free.pl/wydarzenie-156307-dzien-czytania-komiksow-w-miejsc
@@ -5248,7 +4667,7 @@ SUMMARY:FOTOGRAFIA STUDYJNA KWIATÓW - warsztaty fotograficzne dla młodzi
  eży
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1ee7af43a39b5df0@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5259,7 +4678,7 @@ BEGIN:VEVENT
 SUMMARY:Gimlet Live Band / Carol Markovsky / DJ Envee
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:714595d48699c542@waw-calendars
 CATEGORIES:koncert,po angielsku
 LOCATION:Wola\, Warszawa
@@ -5270,7 +4689,7 @@ BEGIN:VEVENT
 SUMMARY:KONCERT NA DACHU: Maciej Starnawski z Zespołem
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b348a1d12d6219f3@waw-calendars
 CATEGORIES:koncert
 LOCATION:Targówek\, Warszawa
@@ -5281,7 +4700,7 @@ BEGIN:VEVENT
 SUMMARY:Kino plenerowe na Woli - Cudowne życie
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:eaca1b20c54c5b7b@waw-calendars
 CATEGORIES:film
 LOCATION:Wola\, Warszawa
@@ -5293,7 +4712,7 @@ SUMMARY:Kolorowy bączek - bezpłatne animacje dla dzieci w wieku 1-3 lat
  i opiekunów
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7995f129d7138295@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5305,7 +4724,7 @@ SUMMARY:Koncert Gwiazd w Parku Szczęśliwickim. Na scenie Dżem i Oskar C
  yms
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b73696ef6515701e@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Ochota\, Warszawa
@@ -5317,7 +4736,7 @@ SUMMARY:Koncert patriotyczny „SIERPNIOWE SYMFONIE WOLNOŚCI” z Fundacj
  ą Rozwoju Pasji JoséSong
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:10bd859b1198c62b@waw-calendars
 CATEGORIES:koncert
 LOCATION:Bielany\, Warszawa
@@ -5328,7 +4747,7 @@ BEGIN:VEVENT
 SUMMARY:Latające Psy 44 - Warszawa 2026
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:741082e40e30f162@waw-calendars
 CATEGORIES:sport,targi\, garażówka,inne
 LOCATION:Wilanów\, Warszawa
@@ -5338,7 +4757,7 @@ BEGIN:VEVENT
 SUMMARY:O szkole prozą i rymem
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d2d7d55f621f8343@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wawer\, Warszawa
@@ -5349,7 +4768,7 @@ SUMMARY:Od rezydencji rządowych do kawalerki Gombrowicza. Spacer w okolic
  ach placu Unii Lubelskiej
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bc82e309537019f1@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5361,7 +4780,7 @@ SUMMARY:POKAZY FILMÓW DOKUMENTALNYCH | 50. ROCZNICA POWSTANIA KOR | "Tajn
  e taśmy SB" 2002
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5eb4f9a418b7f00c@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -5372,7 +4791,7 @@ BEGIN:VEVENT
 SUMMARY:Plenerowa dyskoteka z Dj Zimnym Gulaszem w Ale Sztuka
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5a4d9c0d1ab6d54e@waw-calendars
 CATEGORIES:impreza
 LOCATION:Śródmieście\, Warszawa
@@ -5383,7 +4802,7 @@ BEGIN:VEVENT
 SUMMARY:Pokój na lato gra: KASIA LINS OBYWATELKA K.L. | koncert
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ad28c95da43a4a08@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -5394,7 +4813,7 @@ BEGIN:VEVENT
 SUMMARY:Relaksacja z mantrami
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:84c52ccd9fd0675f@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -5405,7 +4824,7 @@ SUMMARY:Retro na Stawach | “Krawczyk\, Wodecki\, Niemen – dźwięk pok
  oleń”
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:457545feb453dfe1@waw-calendars
 CATEGORIES:koncert
 LOCATION:Bielany\, Warszawa
@@ -5416,7 +4835,7 @@ BEGIN:VEVENT
 SUMMARY:Salsa pod gołym niebem
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bf5da3d6e1121c0c@waw-calendars
 CATEGORIES:impreza,warsztaty
 LOCATION:Wola\, Warszawa
@@ -5427,7 +4846,7 @@ SUMMARY:Spotkanie po lecie. Wieczór improwizacji komediowej z grupą Wię
  cej drzew feat. Po Przecinku
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a1325f3f2d666377@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 LOCATION:Praga-Południe\, Warszawa
@@ -5438,7 +4857,7 @@ BEGIN:VEVENT
 SUMMARY:TANDEM JĘZYKOWY OK Language Center Ursus SIERPIEŃ 2026
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d359cbfe1c96b03c@waw-calendars
 CATEGORIES:spotkanie,inne
 LOCATION:Ursus\, Warszawa
@@ -5449,7 +4868,7 @@ BEGIN:VEVENT
 SUMMARY:Urzeka nas rzeka | Rejs edukacyjny o zachodzie słońca
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6c30a023cf6dca3d@waw-calendars
 CATEGORIES:inne
 LOCATION:Śródmieście\, Warszawa
@@ -5460,7 +4879,7 @@ BEGIN:VEVENT
 SUMMARY:VI Ząbkowski Festiwal Streetfoodu x Zakończenie Wakacji
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:be78a09d82c84bab@waw-calendars
 CATEGORIES:impreza,inne
 URL:https://waw4free.pl/wydarzenie-156632-vi-zabkowski-festiwal-streetfood
@@ -5470,7 +4889,7 @@ BEGIN:VEVENT
 SUMMARY:Warsaw GroundZero - Community Starts Here
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:bcae60664cdbd872@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -5481,7 +4900,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty kreatywnego pisania Loesje - warsztaty redakcyjne
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:09d6654c858037fd@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5492,7 +4911,7 @@ BEGIN:VEVENT
 SUMMARY:Wola Jazz Festival #4
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8d803f37e37bb9c1@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -5502,7 +4921,7 @@ BEGIN:VEVENT
 SUMMARY:ŁĄCZENIE KROPEK. Zbliżenia.
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:58e57f6f10a05756@waw-calendars
 CATEGORIES:inne
 LOCATION:Praga-Północ\, Warszawa
@@ -5512,7 +4931,7 @@ BEGIN:VEVENT
 SUMMARY:23. urodziny Instytutu Teatralnego
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5ebf56494292f6b8@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,impreza,koncert,sport,teatr,warsztat
  y,wykład,wystawa
@@ -5524,7 +4943,7 @@ BEGIN:VEVENT
 SUMMARY:Artystyczne Popołudnie na Żoliborzu
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:032b8992c0bef93a@waw-calendars
 CATEGORIES:dla dzieci,impreza,koncert,warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -5535,7 +4954,7 @@ BEGIN:VEVENT
 SUMMARY:CZARNINA koncert plenerowy
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d778bb522e888493@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wesoła\, Warszawa
@@ -5545,7 +4964,7 @@ BEGIN:VEVENT
 SUMMARY:Dawny Kamionek Fabryczny. Spacer z Przewodnikiem
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:945bf13ea236e229@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Praga-Południe\, Warszawa
@@ -5556,7 +4975,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień Zabawy z Nickelodeon
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4da6571d5fcf54c1@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,spotkanie,teatr,warsztaty,inne
 LOCATION:Wola\, Warszawa
@@ -5566,7 +4985,7 @@ BEGIN:VEVENT
 SUMMARY:Filip’s Quiz Night (PubQuiz in English)
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:922704448b305170@waw-calendars
 CATEGORIES:inne,po angielsku
 LOCATION:Praga-Północ\, Warszawa
@@ -5577,7 +4996,7 @@ BEGIN:VEVENT
 SUMMARY:GIMLET live band / Rey Ceballo & Tripulacion Cubana
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5b02da836961d257@waw-calendars
 CATEGORIES:impreza,koncert,po angielsku
 LOCATION:Wola\, Warszawa
@@ -5588,7 +5007,7 @@ BEGIN:VEVENT
 SUMMARY:Gramy w zielone: sąsiedzka wymiana roślin doniczkowych
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:127a2eeebd8394b1@waw-calendars
 CATEGORIES:inne
 LOCATION:Wola\, Warszawa
@@ -5599,7 +5018,7 @@ BEGIN:VEVENT
 SUMMARY:IGRANIE  ZGRANICAMI W ZWIĄZKU
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e1515f0d22d35cdf@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -5609,7 +5028,7 @@ BEGIN:VEVENT
 SUMMARY:IV FESTIWAL KULTURY MAZOWSZA
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:556e2e5037260b44@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,koncert,teatr,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5619,7 +5038,7 @@ BEGIN:VEVENT
 SUMMARY:JAZZ NA STARÓWCE 2026 | Adam Bałdych European Quartet
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e99fd0e2cd029803@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -5630,7 +5049,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Inauguracyjny XX3 Festiwalu Ensemble
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:461009696db24c10@waw-calendars
 CATEGORIES:koncert
 URL:https://waw4free.pl/wydarzenie-157231-koncert-inauguracyjny-xx3-festiw
@@ -5641,7 +5060,7 @@ SUMMARY:LOT Kino Letnie: W Stronę Zachodzącego Słońca | Dwunastu gniew
  nych ludzi (1957)
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:796c484677579022@waw-calendars
 CATEGORIES:film
 LOCATION:Śródmieście\, Warszawa
@@ -5653,7 +5072,7 @@ SUMMARY:Mini POLIN na łące 2026: Przepis na szczęście – zajęcia sen
  soryczne dla dzieci
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:51917ca4330bcc05@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5665,7 +5084,7 @@ SUMMARY:NA TARGÓWKU SZWAGRA ZIĘĆ.... Dawna Kultura Warszawy Na Targówk
  u! #03
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6e4d9c18e4a99113@waw-calendars
 CATEGORIES:impreza,koncert,spotkanie
 LOCATION:Targówek\, Warszawa
@@ -5676,7 +5095,7 @@ BEGIN:VEVENT
 SUMMARY:Noc Nietoperzy w Kamieniu 2026
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1489cfdc408743a1@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spacer lub rower,warsztaty,wykład,i
  nne
@@ -5688,7 +5107,7 @@ SUMMARY:Nocny spacer śladami Powstania Warszawskiego - ewakuacja kanałow
  a i przebicie do Śródmieścia
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:d1c8798e7b213d65@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5699,7 +5118,7 @@ BEGIN:VEVENT
 SUMMARY:Pamiętniki z wakacji - spektakl improwizowany w Południku 2.0
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7d219b16d493490d@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,teatr
 LOCATION:Śródmieście\, Warszawa
@@ -5710,7 +5129,7 @@ BEGIN:VEVENT
 SUMMARY:Piknik Sąsiedzki na Filmowym Dziedzińcu FINA
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4e3ebf42a8fb56fe@waw-calendars
 CATEGORIES:film,impreza,koncert,spotkanie,targi\, garażówka,warsztaty,in
  ne
@@ -5722,7 +5141,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates anti-aging nad Wisłą
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:896ebb4c224cd3d4@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5732,7 +5151,7 @@ BEGIN:VEVENT
 SUMMARY:Pokój na Lato gra: INA WEST | koncert
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:351025b4dc288e78@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -5743,7 +5162,7 @@ BEGIN:VEVENT
 SUMMARY:Pożegnanie lata
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5b2e9edec6369b0c@waw-calendars
 CATEGORIES:spotkanie
 LOCATION:Wola\, Warszawa
@@ -5753,7 +5172,7 @@ BEGIN:VEVENT
 SUMMARY:Przestrzenie wspólne Mirowa - spacer po Woli
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:8660544fb06bdc95@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -5764,7 +5183,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinne Warsztaty Pszczelarskie [godz. 10:00\, 11:30 lub 13:00]
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:5c6edcf060fc6581@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -5775,7 +5194,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinny piknik z Kapitanem Warszawa na Białołęce
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3737676a8ab8156c@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,warsztaty,inne
 LOCATION:Białołęka\, Warszawa
@@ -5787,7 +5206,7 @@ SUMMARY:Sierpień ze Związkiem Powstańców Warszawskich | 82. rocznica w
  ybuchu Powstania Warszawskiego | Spacer Powstanie Warszawskie na Mokotowie
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:762706d760098a44@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -5799,7 +5218,7 @@ BEGIN:VEVENT
 SUMMARY:Spacery "Śladami warszawskich sufrażystek" [g. 12.00 i 16:00]
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9b88360f2db98279@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5810,7 +5229,7 @@ BEGIN:VEVENT
 SUMMARY:Tańce nad Wisłą 2026: tańce polskie
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9d54aef7c8326ed2@waw-calendars
 CATEGORIES:impreza,koncert,warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -5822,7 +5241,7 @@ SUMMARY:Tu jest jakby luksusowo. Aleja Róż\, Aleja Przyjaciół\, Dolina
   Szwajcarska. Z wejściem do kamienicy
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:94312674c7c50383@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -5834,7 +5253,7 @@ SUMMARY:URSUS. SPACERY HISTORYCZNE | 50.ROCZNICA POWSTANIA KOR | Przemysł
  owym Szlakiem
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3befa68406c8b91d@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Ursus\, Warszawa
@@ -5845,7 +5264,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowska Potańcówka
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c8f6bad8599cdabd@waw-calendars
 CATEGORIES:dla dzieci,dla seniorów,impreza,inne
 LOCATION:Ursynów\, Warszawa
@@ -5855,7 +5274,7 @@ BEGIN:VEVENT
 SUMMARY:WYWCZAS: Queerowy Swing
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:44bfefb85ff33e53@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 LOCATION:Żoliborz\, Warszawa
@@ -5866,7 +5285,7 @@ SUMMARY:WYwczasy: spacer ornitologiczny - posłuchaj i zobacz miejskie pta
  ki
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3b4843cd3121b143@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Praga-Południe\, Warszawa
@@ -5877,7 +5296,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty gwary warszawskiej
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1a179132eed41773@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Wola\, Warszawa
@@ -5887,7 +5306,7 @@ BEGIN:VEVENT
 SUMMARY:Wawerska Linia Turystyczna - przejedź się Ogórkiem po dzielnicy
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6f320d1804cbe831@waw-calendars
 CATEGORIES:wykład,inne
 LOCATION:Wawer\, Warszawa
@@ -5898,7 +5317,7 @@ BEGIN:VEVENT
 SUMMARY:„RUCHOMY ZAMEK HAURU” / KINO POD GWIAZDAMI
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7966e983a336e021@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,film
 URL:https://waw4free.pl/wydarzenie-156308-ruchomy-zamek-hauru-kino-pod-gwi
@@ -5908,7 +5327,7 @@ BEGIN:VEVENT
 SUMMARY:#CHODŹPOTAŃCZYĆ BEZPŁATNE LEKCJE TAŃCA I POTAŃCÓWKA
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:038a650b0179c377@waw-calendars
 CATEGORIES:impreza,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -5919,7 +5338,7 @@ BEGIN:VEVENT
 SUMMARY:ANIMACJE DLA DZIECI: AKCJA - DOBRA ZABAWA!
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:7b1a1b1e0cc9aec6@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 LOCATION:Wola\, Warszawa
@@ -5931,7 +5350,7 @@ SUMMARY:APOGEUM \,\,BURZY” - Warszawa\, sierpień\, wrzesień 1944 - mal
  arstwo\, rzeźba\, grafika
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:e671d6f22748c7cc@waw-calendars
 CATEGORIES:wystawa
 LOCATION:Ursynów\, Warszawa
@@ -5942,7 +5361,7 @@ BEGIN:VEVENT
 SUMMARY:Bajki na Trawie 2026 | Uups!
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:418d4819cd6fc2a0@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Ursynów\, Warszawa
@@ -5952,7 +5371,7 @@ BEGIN:VEVENT
 SUMMARY:Bielańska Wyprzedaż Garażowa
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3ce4116fea3de42f@waw-calendars
 CATEGORIES:targi\, garażówka
 LOCATION:Bielany\, Warszawa
@@ -5963,7 +5382,7 @@ SUMMARY:Chodź potańczyć w koneserze! Bezpłatne lekcje tańca i potańc
  ówka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a724b2ac453a3e5a@waw-calendars
 CATEGORIES:impreza,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -5974,7 +5393,7 @@ BEGIN:VEVENT
 SUMMARY:GRUPA MOCARTA / KONCERT
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0d9b63b8c0828ed2@waw-calendars
 CATEGORIES:koncert,stand-up\, kabaret\, impro
 URL:https://waw4free.pl/wydarzenie-156309-grupa-mocarta-koncert
@@ -5984,7 +5403,7 @@ SUMMARY:Historia Bejt Chaim\, Bejt Olam - Domu Życia\, Domu Wieczności -
   Cmentarz Żydowski przy Okopowej
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:a710a83eb582cf87@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -5995,7 +5414,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz w Aninie. Ewa Uryga
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:fc1d9c25dcbbe58e@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wawer\, Warszawa
@@ -6005,7 +5424,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w parku – niedzielne południe z naturą
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:f9da1967f69a52dd@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Mokotów\, Warszawa
@@ -6016,7 +5435,7 @@ BEGIN:VEVENT
 SUMMARY:Klasycznie na trawie
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:c03151228c0671bc@waw-calendars
 CATEGORIES:koncert
 LOCATION:Mokotów\, Warszawa
@@ -6026,7 +5445,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Majki Jeżowskiej
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:361d550702078e3e@waw-calendars
 CATEGORIES:impreza,koncert
 LOCATION:Wawer\, Warszawa
@@ -6036,7 +5455,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Organowo-Kameralny na Pradze-Południe
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:493c35504415a29c@waw-calendars
 CATEGORIES:koncert
 LOCATION:Praga-Południe\, Warszawa
@@ -6047,7 +5466,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert VII edycji Międzynarodowego Festiwalu Organowe Brzmienia
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:23f787512384bcdf@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wawer\, Warszawa
@@ -6058,7 +5477,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert „Pałace Czarów” - Madrugada Ensemble
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:74d758c64a369427@waw-calendars
 CATEGORIES:koncert
 LOCATION:Wola\, Warszawa
@@ -6069,7 +5488,7 @@ BEGIN:VEVENT
 SUMMARY:Latający Teatr Sztuka Ciała | Spektakl plenerowy "UuuPS"
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0caaddc37043083f@waw-calendars
 CATEGORIES:dla dzieci,teatr
 LOCATION:Ursynów\, Warszawa
@@ -6080,7 +5499,7 @@ BEGIN:VEVENT
 SUMMARY:Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:113d7d41fb322ef4@waw-calendars
 CATEGORIES:dla dzieci,spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -6091,7 +5510,7 @@ BEGIN:VEVENT
 SUMMARY:Letnie Koncerty Promenadowe 2026 | Czeremszyna (folk)
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:368bac6f87d68118@waw-calendars
 CATEGORIES:koncert
 LOCATION:Mokotów\, Warszawa
@@ -6102,7 +5521,7 @@ BEGIN:VEVENT
 SUMMARY:Muzyczne Lato na Ursynowie 2026 | NOSTALGIA
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:89efc60f568eb40e@waw-calendars
 CATEGORIES:koncert
 LOCATION:Ursynów\, Warszawa
@@ -6114,7 +5533,7 @@ SUMMARY:Młoda Polska | kino plenerowe na Głębockiej 66 | "Najlepszy”
  (2017)
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:44d7a87e2f8a2f94@waw-calendars
 CATEGORIES:film
 LOCATION:Białołęka\, Warszawa
@@ -6125,7 +5544,7 @@ BEGIN:VEVENT
 SUMMARY:Młodzi - wydarzenie plenerowe
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:346392baa648f1f9@waw-calendars
 CATEGORIES:teatr
 LOCATION:Ochota\, Warszawa
@@ -6135,7 +5554,7 @@ BEGIN:VEVENT
 SUMMARY:PTAKI - LINORYT I ILUSTRACJA warsztaty dla młodzieży
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:98870969d4da126a@waw-calendars
 CATEGORIES:warsztaty
 LOCATION:Śródmieście\, Warszawa
@@ -6146,7 +5565,7 @@ BEGIN:VEVENT
 SUMMARY:Piknik Rodzinny z OSiR Wawer
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3079512c0bd3e8c4@waw-calendars
 CATEGORIES:dla dzieci,impreza,warsztaty
 LOCATION:Wawer\, Warszawa
@@ -6156,7 +5575,7 @@ BEGIN:VEVENT
 SUMMARY:Pożegnanie lata na Kamionku
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:b11ec807f5480c36@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,impreza,teatr,warsztaty
 LOCATION:Praga-Południe\, Warszawa
@@ -6166,7 +5585,7 @@ BEGIN:VEVENT
 SUMMARY:RODZINNA NIEDZIELA  | BACK TO SCHOOL - KREATYWNIE
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:580b0abf2039f37e@waw-calendars
 CATEGORIES:dla dzieci,impreza,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -6177,7 +5596,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinny piknik z Kapitanem Warszawa na Ursynowie
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:4a8e5c870137c44e@waw-calendars
 CATEGORIES:dla dzieci,impreza,sport,warsztaty,inne
 LOCATION:Ursynów\, Warszawa
@@ -6188,7 +5607,7 @@ BEGIN:VEVENT
 SUMMARY:Różnorodna Dolinka: Ważki / spacer przyrodniczy
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:ceaf5bd22ec89fbb@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Mokotów\, Warszawa
@@ -6199,7 +5618,7 @@ BEGIN:VEVENT
 SUMMARY:Scena Letnia | Małgorzata Ostrowska | KONCERT
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1a573a378c60c34c@waw-calendars
 CATEGORIES:koncert
 URL:https://waw4free.pl/wydarzenie-155039-scena-letnia-malgorzata-ostrowsk
@@ -6209,7 +5628,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer "Śladami warszawskich sufrażystek"
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:35f250973a9e043d@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -6220,7 +5639,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po absurdach PRL-u
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:585b5857f3da2565@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Śródmieście\, Warszawa
@@ -6231,7 +5650,7 @@ SUMMARY:Spotkajmy się nad Wisłą | Wieczorny gigong nad rzeką o zachodz
  ie słońca
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:0811eb1385d4beb2@waw-calendars
 CATEGORIES:sport,warsztaty
 LOCATION:Praga-Północ\, Warszawa
@@ -6243,7 +5662,7 @@ SUMMARY:Tajemnice Domu Wieczności (bejt olam). Spacer po Cmentarzu Żydow
  skim
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:3cfd32bbf3450f47@waw-calendars
 CATEGORIES:spacer lub rower
 LOCATION:Wola\, Warszawa
@@ -6254,7 +5673,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowska Wyprzedaż Garażowa
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:637e14945ce97eb9@waw-calendars
 CATEGORIES:targi\, garażówka
 LOCATION:Ursynów\, Warszawa
@@ -6264,7 +5683,7 @@ BEGIN:VEVENT
 SUMMARY:Warsaw 2.0 Comedy Show
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:1e53bef77e6b33dd@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,po angielsku
 LOCATION:Śródmieście\, Warszawa
@@ -6274,7 +5693,7 @@ BEGIN:VEVENT
 SUMMARY:Warszawskie Kocykowanie | Planeta\, Którą Tworzymy Razem
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:6c0e91a83f0d4411@waw-calendars
 CATEGORIES:dla dzieci,teatr,warsztaty
 LOCATION:Bemowo\, Warszawa
@@ -6285,7 +5704,7 @@ BEGIN:VEVENT
 SUMMARY:WarszeMuzik Koncert Finałowy
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:503848cdde3a3b05@waw-calendars
 CATEGORIES:koncert
 LOCATION:Śródmieście\, Warszawa
@@ -6295,7 +5714,7 @@ BEGIN:VEVENT
 SUMMARY:Wspomnienie o Mieczysławie Foggu
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:2709dfa3ba6db223@waw-calendars
 CATEGORIES:koncert,spotkanie
 LOCATION:Wesoła\, Warszawa
@@ -6305,7 +5724,7 @@ BEGIN:VEVENT
 SUMMARY:Wyprzedaż Garażowa na Zieleniaku
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:de21fd1bd4529292@waw-calendars
 CATEGORIES:targi\, garażówka
 LOCATION:Ochota\, Warszawa
@@ -6316,7 +5735,7 @@ SUMMARY:XX3 Festiwal Ensemble - Koncert Kameralny - Beethoven | Barber | S
  chumann
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:56603981f84fa2e0@waw-calendars
 CATEGORIES:koncert
 URL:https://waw4free.pl/wydarzenie-157232-xx3-festiwal-ensemble-koncert-ka
@@ -6327,11 +5746,43 @@ SUMMARY:Zapytaj przyrodnika. Spotkania przyrodnicze dla dzieci\, młodzie
  ży i dorosłych
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260817T160031Z
+DTSTAMP:20260817T220035Z
 UID:9568c4f8d5d96de2@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spotkanie,wykład,inne
 LOCATION:Śródmieście\, Warszawa
 URL:https://waw4free.pl/wydarzenie-156911-zapytaj-przyrodnika-spotkania-pr
  zyrodnicze-dla-dzieci-mlodziezy-i-doroslych
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuda-Wianki: etnobiżuteria
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260817T220035Z
+UID:1f8607a389e293b4@waw-calendars
+CATEGORIES:dla młodzieży,warsztaty
+LOCATION:Wola\, Warszawa
+URL:https://waw4free.pl/wydarzenie-156508-cuda-wianki-etnobizuteria
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LINORYT - ŚREDNIOWIECZNY BESTIARIUSZ warsztaty dla młodzieży
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260817T220035Z
+UID:015c91a6c9a6ea47@waw-calendars
+CATEGORIES:warsztaty
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-154930-linoryt-sredniowieczny-bestiariu
+ sz-warsztaty-dla-mlodziezy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyspy Pacyfiku - Tuvalu\, Samoa\, Tonga\, Fidżi
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260817T220035Z
+UID:6710c25134f5dad5@waw-calendars
+CATEGORIES:slajdowisko
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-157211-wyspy-pacyfiku-tuvalu-samoa-tong
+ a-fidzi
 END:VEVENT
 END:VCALENDAR
