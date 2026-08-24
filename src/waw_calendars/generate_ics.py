@@ -77,8 +77,18 @@ def to_ics_event(event: Event) -> IcsEvent:
         comp.add("location", event.location)
     if event.url:
         comp.add("url", event.url)
+
+    # Compose the description. Always append the source link as text — many
+    # calendar clients (e.g. Google Calendar) hide the iCal URL property, so
+    # putting the link in DESCRIPTION makes it visible/clickable.
+    description_parts: list[str] = []
     if event.description:
-        comp.add("description", event.description)
+        description_parts.append(event.description)
+    if event.url:
+        description_parts.append(f"Źródło: {event.url}")
+    if description_parts:
+        comp.add("description", "\n\n".join(description_parts))
+
     if event.categories:
         comp.add("categories", event.categories)
     return comp
