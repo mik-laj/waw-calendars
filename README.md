@@ -25,9 +25,19 @@ its schedule is disabled.
 
 | id         | source                              | how                                             |
 |------------|-------------------------------------|-------------------------------------------------|
-| `expoxxi`  | expoxxi.pl/events_pl                | JSON-LD (schema.org/Event) embedded in the page |
-| `waw4free` | waw4free.pl                         | HTML scrape, dated URLs over the next 14 days   |
-| `wola`     | wola.um.warszawa.pl (getRSS)        | Atom feed + per-event subpage for date/location |
+| `expoxxi`  | [expoxxi.pl/events_pl](https://expoxxi.pl/events_pl/) | JSON-LD (schema.org/Event) embedded in the page |
+| `waw4free` | [waw4free.pl](https://waw4free.pl/) | HTML scrape, dated URLs over the next 14 days   |
+| `wola`     | [wola.um.warszawa.pl](https://wola.um.warszawa.pl/) (getRSS) | Atom feed + per-event subpage for date/location |
+
+Exact source URLs (as used by the fetchers):
+
+- **expoxxi** — <https://expoxxi.pl/events_pl/>
+- **waw4free** — `https://waw4free.pl/warszawa-wydarzenia-YYYY-M-D` (iterated over the
+  next 14 days, e.g. <https://waw4free.pl/warszawa-wydarzenia-2026-8-9>)
+- **wola** — the Atom feed:
+  `https://wola.um.warszawa.pl/?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_jYdN6Vg9rRjn&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage`
+
+These are defined in [`config/sources.yaml`](config/sources.yaml).
 
 ## Generation criteria
 
