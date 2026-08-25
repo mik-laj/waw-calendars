@@ -1,5 +1,5 @@
 source: expoxxi
-count: 17
+count: 18
 events:
 - uid: 7fddf0c5a10e6ced@waw-calendars
   source: expoxxi
@@ -21,7 +21,7 @@ events:
     odwiedzaj…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.448689+00:00'
+  fetched_at: '2026-08-25T16:00:10.677393+00:00'
 - uid: 8760a1a28c0b3b51@waw-calendars
   source: expoxxi
   title: Kongres i Międzynarodowe Targi Kosmetyczno-Fryzjerskie BEAUTY FORUM &amp;amp; HAIR 2026
@@ -40,7 +40,7 @@ events:
     Podologia, Paznokcie i rzęsy, Fryzjerstwo, Barbering'
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.449158+00:00'
+  fetched_at: '2026-08-25T16:00:10.677830+00:00'
 - uid: e4733d75d64f14fd@waw-calendars
   source: expoxxi
   title: Festiwal Marketingu
@@ -60,7 +60,7 @@ events:
     STAR…'
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.449702+00:00'
+  fetched_at: '2026-08-25T16:00:10.678759+00:00'
 - uid: c28cd960a5d93e42@waw-calendars
   source: expoxxi
   title: Smart City Expo Poland
@@ -79,7 +79,26 @@ events:
     aglomeracji. Celem targów Smart City Expo Poland jest promowanie zrównoważonego rozwoju, poprawa …
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.450349+00:00'
+  fetched_at: '2026-08-25T16:00:10.679873+00:00'
+- uid: b91763c5c7e8b6f5@waw-calendars
+  source: expoxxi
+  title: TRŁ WWA
+  start: '2026-09-19'
+  end: '2026-09-20'
+  all_day: true
+  location: EXPO XXI Warszawa, ul. Prądzyńskiego 12/14, Warszawa
+  url: https://expoxxi.pl/events/trl-wwa/
+  description: TRŁ WWA! już 19-20 września. Targi Rzeczy Ładnych w Warszawie otwierają jesienny sezon
+    z polskim designem! EXPO XXI wypełni ponad 300 fantastycznych wystawców i marek z całej Polski. Na
+    odwiedzających czekają tysiące ładnych rzeczy, najlepsza selekcja produktów od twórców niezależnego
+    designu oraz niezwykły klimat. Po raz kolejny TRŁ WWA! zachwyci wystawcami z całej Polski a wielu
+    z nich można spotkać jedynie na TRŁ! MEBLE, CERAMIKA, PLAKATY, LAMPY, WELLNESS I EKO, TEKSTYLIA, BIŻUTERIA,
+    ROŚLINY. W sumie ponad 300 wystawców i 10 stref tematycznych, gdzie znajdziecie unikalne marki i projektantów.
+    Wybór będzie niespotykany! Targi otwierają się w sobotę punktualnie o godz. 11.00. Bilety na wydarzenie
+    można kupić online na Ebilet.pl lub w kasach przed wejściem. Świętujcie z nami polski design!…
+  categories:
+  - targi
+  fetched_at: '2026-08-25T16:00:10.680504+00:00'
 - uid: 363c63ebfd4d2a96@waw-calendars
   source: expoxxi
   title: HPCI CEE (Home and Personal Care Ingredients Central and Eastern Europe) - 15. Edycja
@@ -96,7 +115,7 @@ events:
     sesję naukową, seminaria techniczne, sesję posterową oraz warsztaty Safety Assessors.
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.450744+00:00'
+  fetched_at: '2026-08-25T16:00:10.681161+00:00'
 - uid: c292f10cb6419246@waw-calendars
   source: expoxxi
   title: Wieczór z Eckhartem Tolle – Warszawa
@@ -115,7 +134,7 @@ events:
     in the United States,” and Watkins Review named him “the most spiritually influential pers…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.451172+00:00'
+  fetched_at: '2026-08-25T16:00:10.681922+00:00'
 - uid: c7e88accf73150f9@waw-calendars
   source: expoxxi
   title: GOLDEXPO WARSZAWA 2026
@@ -134,7 +153,7 @@ events:
     złotniczo-jubilerskiej. Wierzymy, że GOLDEXPO WARSZAWA na stałe wpisane zostały w…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.451676+00:00'
+  fetched_at: '2026-08-25T16:00:10.682847+00:00'
 - uid: e9600c0525fc0314@waw-calendars
   source: expoxxi
   title: DCN Warsaw 2026
@@ -153,7 +172,7 @@ events:
     offers a unique opportunity to gain a comprehensive understanding of the market’s trajec…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.451948+00:00'
+  fetched_at: '2026-08-25T16:00:10.683110+00:00'
 - uid: e5ebfd57e934e008@waw-calendars
   source: expoxxi
   title: THIS IS OUR TIME 2026
@@ -168,7 +187,7 @@ events:
     i uwierzysz, że TO JEST NASZ CZAS.
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.452214+00:00'
+  fetched_at: '2026-08-25T16:00:10.683387+00:00'
 - uid: 6fcf2ada4902c259@waw-calendars
   source: expoxxi
   title: WSAVA Congress 2026
@@ -187,7 +206,7 @@ events:
     conference.
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.452822+00:00'
+  fetched_at: '2026-08-25T16:00:10.684014+00:00'
 - uid: a5545c978a198c13@waw-calendars
   source: expoxxi
   title: SIMPLE PLAN - BIGGER THAN YOU THINK!
@@ -207,7 +226,7 @@ events:
     rozdział w karierze …
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.456074+00:00'
+  fetched_at: '2026-08-25T16:00:10.687552+00:00'
 - uid: 0763c0bb46830105@waw-calendars
   source: expoxxi
   title: Targi Rzeczy Wyjątkowych
@@ -227,7 +246,7 @@ events:
     do …
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.455083+00:00'
+  fetched_at: '2026-08-25T16:00:10.686806+00:00'
 - uid: ef052812693151b2@waw-calendars
   source: expoxxi
   title: LiftExpo Poland
@@ -246,7 +265,7 @@ events:
     EXPO XXI Warszawa. To obowiązkowe wydarzenie dla firm i specjalistów związanych z transportem pionow…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.456340+00:00'
+  fetched_at: '2026-08-25T16:00:10.687829+00:00'
 - uid: 9925a06a0d735e8b@waw-calendars
   source: expoxxi
   title: TransLogistica Poland
@@ -265,7 +284,7 @@ events:
     efektywne zarządzanie w sektorze TSL.
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.456750+00:00'
+  fetched_at: '2026-08-25T16:00:10.688671+00:00'
 - uid: 7879e83cc92cae5f@waw-calendars
   source: expoxxi
   title: 'ReBuild Ukraine: Construction &amp;amp; Energy'
@@ -285,7 +304,7 @@ events:
     …'
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.457528+00:00'
+  fetched_at: '2026-08-25T16:00:10.689630+00:00'
 - uid: 0dae3c3d3cbf830c@waw-calendars
   source: expoxxi
   title: XV Międzynarodowe Targi Wyposażenia Sklepów RetailShow 2026
@@ -305,7 +324,7 @@ events:
     I…
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.457946+00:00'
+  fetched_at: '2026-08-25T16:00:10.690404+00:00'
 - uid: d7af16892743a26b@waw-calendars
   source: expoxxi
   title: WAWTech by DOU
@@ -321,4 +340,4 @@ events:
     tworzonych w tym regionie oraz wzmocnienie pozycji Warszawy jako dynamicznego centrum technologicznego.
   categories:
   - targi
-  fetched_at: '2026-08-25T10:00:07.458561+00:00'
+  fetched_at: '2026-08-25T16:00:10.691038+00:00'
