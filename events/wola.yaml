@@ -1,5 +1,5 @@
 source: wola
-count: 31
+count: 34
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -20,7 +20,7 @@ events:
     Wsp…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:18.631983+00:00'
+  fetched_at: '2026-08-28T16:00:21.645337+00:00'
 - uid: 97c80925f30ac87a@waw-calendars
   source: wola
   title: Koncert  „Pałace Czarów” - Raban Acoustic
@@ -294,7 +294,7 @@ events:
     d…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:17.918528+00:00'
+  fetched_at: '2026-08-28T16:00:21.087418+00:00'
 - uid: 7f4feb1b3106ee7c@waw-calendars
   source: wola
   title: Dzień Zabawy w parku Księcia Janusza
@@ -313,7 +313,7 @@ events:
     występy i animacje na scenie, mini live show z bohaterami serialu „Psi Patrol”, spotkania z ulubionym…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:19.806871+00:00'
+  fetched_at: '2026-08-28T16:00:22.724806+00:00'
 - uid: 45aea49bae6953bb@waw-calendars
   source: wola
   title: 'Spacer: Towarzystwo Przyjaciół Woli – 110 lat'
@@ -351,7 +351,7 @@ events:
     w wykonaniu Teatru Baza będą odbywały się w parku im. Edwarda Szymańskiego – od strony  przedszkola…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:19.364300+00:00'
+  fetched_at: '2026-08-28T16:00:22.325537+00:00'
 - uid: c116ff08e4e0d647@waw-calendars
   source: wola
   title: Wolskie Zakończenie Wakacji
@@ -371,7 +371,7 @@ events:
     tryb życi…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:20.258078+00:00'
+  fetched_at: '2026-08-28T16:00:23.293947+00:00'
 - uid: 6393e792c9ffcceb@waw-calendars
   source: wola
   title: Koncert pt. Chodź na kawę Warszawo
@@ -391,7 +391,7 @@ events:
     a sa…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:21.676889+00:00'
+  fetched_at: '2026-08-28T16:00:24.300337+00:00'
 - uid: 3be600a7477dbc28@waw-calendars
   source: wola
   title: 'Po Woli do woli: Teatr na Woli im. Tadeusza Łomnickiego'
@@ -411,7 +411,7 @@ events:
     dawneg…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:20.910534+00:00'
+  fetched_at: '2026-08-28T16:00:23.725940+00:00'
 - uid: ceffff6a475befa2@waw-calendars
   source: wola
   title: Koncert  „Pałace Czarów” - Madrugada Ensemble
@@ -430,7 +430,7 @@ events:
     wakacyjne z cyklu „ Pałace Czarów ” odbywają się w każdą niedzielę lipca i sierpnia 2026 roku o…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:22.199091+00:00'
+  fetched_at: '2026-08-28T16:00:24.806673+00:00'
 - uid: 40e571c31f0bdd5a@waw-calendars
   source: wola
   title: 'Spacer: Zaginione ulice Woli'
@@ -450,7 +450,7 @@ events:
     Zbiórk…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:22.586955+00:00'
+  fetched_at: '2026-08-28T16:00:25.203683+00:00'
 - uid: bf8bcc4912361357@waw-calendars
   source: wola
   title: Piknik Naukowy „Moje Miasto”
@@ -469,7 +469,7 @@ events:
     UD Wola Zapraszamy na Piknik Naukowy „Moje Miasto”. To niezwykła okazja, aby w ciekawy sposób dow…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:23.159369+00:00'
+  fetched_at: '2026-08-28T16:00:25.814279+00:00'
 - uid: 7d6efa42b8a713b5@waw-calendars
   source: wola
   title: 'Po Woli do woli: Warszawa Zachodnia wczoraj i dzisiaj'
@@ -489,7 +489,7 @@ events:
     Termin…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:23.679264+00:00'
+  fetched_at: '2026-08-28T16:00:26.411708+00:00'
 - uid: 043f359556a8af0f@waw-calendars
   source: wola
   title: Smocza jak żywa – spacer literacki
@@ -509,7 +509,46 @@ events:
     jej mie…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:24.189662+00:00'
+  fetched_at: '2026-08-28T16:00:26.851339+00:00'
+- uid: ce2df55e88f520c7@waw-calendars
+  source: wola
+  title: Cytrynowa impreza z okazji dnia otwartego w MAL „Kotłownia”
+  start: '2026-09-08T16:00:00+02:00'
+  end: '2026-09-08T19:00:00+02:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/cytrynowa-impreza-z-okazji-dnia-otwartego-w-mal-kotlowni-1
+  description: null Cytrynowa impreza z okazji dnia otwartego w MAL „Kotłownia” Pobierz jako plik PDF
+    Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w
+    nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj
+    do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej
+    karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics)
+    i dodaj do kalendarza - Link otwiera się w nowej karcie 08.09.2026 16:00 - 08.09.2026 19:00 Szukasz
+    planu na udane popołudnie w sąsiedztwie? Zapraszamy Cię na wyjątkowe, pełne energii i dobrej zabawy
+    spotkanie w Miejscu Aktywności Lokalnej „Kotłowania”, ul. Jana Olbrachta 7a. Już w najbliższy wtorek
+    8 września …
+  categories:
+  - Wola
+  fetched_at: '2026-08-28T16:00:27.272513+00:00'
+- uid: 91fcad9095e4e3f0@waw-calendars
+  source: wola
+  title: Zapraszamy do Miasteczka Pomocowo-Zdrowotnego na Kercelaku 2026
+  start: '2026-09-12T12:00:00+02:00'
+  end: '2026-09-12T16:00:00+02:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/zapraszamy-do-miasteczka-pomocowo-zdrowotnego-na-kercelaku-2026
+  description: null Zapraszamy do Miasteczka Pomocowo-Zdrowotnego na Kercelaku 2026 Pobierz jako plik
+    PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się
+    w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj
+    do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej
+    karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics)
+    i dodaj do kalendarza - Link otwiera się w nowej karcie 12.09.2026 12:00 - 12.09.2026 16:00 Mieszkanki
+    i mieszkańcy Woli, zaplanujcie wolny czas na dbanie o zdrowie i integrację! Już 12 września 2026 roku
+    (sobota) w godzinach 12:00–16:00 zapraszamy Was do odwiedzenia Miasteczka Pomocowo–Zdrowotnego. Widzimy…
+  categories:
+  - Wola
+  fetched_at: '2026-08-28T16:00:27.834745+00:00'
 - uid: 6e7561a25eaebe18@waw-calendars
   source: wola
   title: Biegaj po Woli – Bieg Nocny
@@ -529,7 +568,7 @@ events:
     Dla kogo : …'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:24.333829+00:00'
+  fetched_at: '2026-08-28T16:00:28.399608+00:00'
 - uid: cbc4f35301d5d48e@waw-calendars
   source: wola
   title: Potańcówka „Niedziela na Głównym”
@@ -549,7 +588,27 @@ events:
     epok p…
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:25.265481+00:00'
+  fetched_at: '2026-08-28T16:00:28.926450+00:00'
+- uid: 6cf9fdc337d5e2c6@waw-calendars
+  source: wola
+  title: Wspólnie dla rodzin osób w spektrum autyzmu - zapraszamy na konferencję
+  start: '2026-09-23T09:30:00+02:00'
+  end: '2026-09-23T15:00:00+02:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/wspolnie-dla-rodzin-osob-w-spektrum-autyzmu-zapraszamy-na-konferencje-1
+  description: null Wspólnie dla rodzin osób w spektrum autyzmu - zapraszamy na konferencję Pobierz jako
+    plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera
+    się w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie
+    Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się
+    w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia
+    (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 23.09.2026 09:30 - 23.09.2026 15:00
+    Już 23 września 2026 r. w godz. 9:00–15:30 zapraszamy na konferencję pn. „Wspólnie dla rodzin – kompleksowe
+    wsparcie opiekunów, rodziny i rodzeństwa osób w spektrum autyzmu. Perspektywa systemowa, kliniczna
+    i…
+  categories:
+  - Wola
+  fetched_at: '2026-08-28T16:00:29.614584+00:00'
 - uid: dc4643dc4ca9c352@waw-calendars
   source: wola
   title: Biegaj po Woli – XIX Bieg Papieski
@@ -569,7 +628,7 @@ events:
     Dorośli, …'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:25.701862+00:00'
+  fetched_at: '2026-08-28T16:00:30.048631+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -588,7 +647,7 @@ events:
     cyklu „Biegaj po Woli”. To doskonała okazja, aby zadbać o formę, aktywnie spędzić czas. Dla kogo…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:26.260721+00:00'
+  fetched_at: '2026-08-28T16:00:30.484389+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -608,4 +667,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-08-28T10:00:26.725247+00:00'
+  fetched_at: '2026-08-28T16:00:30.971152+00:00'
