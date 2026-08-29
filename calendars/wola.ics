@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Dawna kultura Warszawy na Woli – gwara i muzyka
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:c7ac99cc0246ce26@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Dawna kultura Warszawy na Woli – gwara i muzyka Pobierz
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Kino i potańcówka na Skwerze Gwary Warszawskiej
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:c0f67d2518033f07@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Kino i potańcówka na Skwerze Gwary Warszawskiej Pobierz
@@ -51,102 +51,10 @@ URL:https://wola.um.warszawa.pl/-/kino-i-potancowka-na-skwerze-gwary-warsz
  awskiej
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dzień Zabawy w parku Księcia Janusza
-DTSTART;TZID="UTC+02:00":20260829T120000
-DTEND;TZID="UTC+02:00":20260829T180000
-DTSTAMP:20260829T160035Z
-UID:7f4feb1b3106ee7c@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Dzień Zabawy w parku Księcia Janusza Pobierz jako plik 
- PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karc
- ie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w 
- nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza 
- - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwie
- ra się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w n
- owej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link ot
- wiera się w nowej karcie 29.08.2026 12:00 - 29.08.2026 18:00 Park Księci
- a Janusza Dzień Zabawy z Nickelodeon. Na uczestników i uczestniczki cze
- kają: zespołowe i zręcznościowe gry i konkursy z nagrodami\, występy 
- i animacje na scenie\, mini live show z bohaterami serialu „Psi Patrol
- ”\, spotkania z ulubionym…\n\nŹródło: https://wola.um.warszawa.pl/-
- /-dzien-zabawy-z-nickelodeon-na-woli-
-LOCATION:Park Księcia Janusza\, Warszawa
-URL:https://wola.um.warszawa.pl/-/-dzien-zabawy-z-nickelodeon-na-woli-
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer: Towarzystwo Przyjaciół Woli – 110 lat
-DTSTART;TZID="UTC+02:00":20260829T140000
-DTEND;TZID="UTC+02:00":20260829T160000
-DTSTAMP:20260829T160035Z
-UID:45aea49bae6953bb@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Spacer: Towarzystwo Przyjaciół Woli – 110 lat Pobierz
-  jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w
-  nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link otwi
- era się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do 
- kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google -
-  Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwie
- ra się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarz
- a - Link otwiera się w nowej karcie 29.08.2026 14:00 - 29.08.2026 16:00 p
- rzed kościołem św. Wawrzyńca\, ul. Wolska 140A spacery po woli spacery
-  z przewodnikiem spacery po warszawie Spacer wokół zabudowań dawnej gaz
- owni to podróż w czasie\, od przemysłowej potęgi do współczesnego m
- iasta. Termin : 29 sierpnia…\n\nŹródło: https://wola.um.warszawa.pl/-
- /spacer-110-lat-tpw
-LOCATION:przed kościołem św. Wawrzyńca\, Warszawa
-URL:https://wola.um.warszawa.pl/-/spacer-110-lat-tpw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teatr Baza - Bajkowa Wola: Baba Dżaga
-DTSTART;TZID="UTC+02:00":20260829T100000
-DTEND;TZID="UTC+02:00":20260829T113000
-DTSTAMP:20260829T160035Z
-UID:741c8562c6423335@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Teatr Baza - Bajkowa Wola: Baba Dżaga Pobierz jako plik 
- PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karc
- ie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w 
- nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza 
- - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwie
- ra się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w n
- owej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link ot
- wiera się w nowej karcie 29.08.2026 10:00 - 29.08.2026 11:30 Park Szymań
- skiego spektakl kultura teatr baza Rodzinne spektakle teatralne w plenerze
- \, skierowane do najmłodszych i ich rodzin. Przedstawienia w wykonaniu Te
- atru Baza będą odbywały się w parku im. Edwarda Szymańskiego – od 
- strony  przedszkola…\n\nŹródło: https://wola.um.warszawa.pl/-/teatr-
- baza-bajkowa-wola-baba-dzaga
-LOCATION:Park Szymańskiego\, Warszawa
-URL:https://wola.um.warszawa.pl/-/teatr-baza-bajkowa-wola-baba-dzaga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolskie Zakończenie Wakacji
-DTSTART;TZID="UTC+02:00":20260829T140000
-DTEND;TZID="UTC+02:00":20260829T210000
-DTSTAMP:20260829T160035Z
-UID:c116ff08e4e0d647@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Wolskie Zakończenie Wakacji Pobierz jako plik PDF Drukuj
-  Link otwiera się w nowej karcie Link otwiera się w nowej karcie Faceboo
- k Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karc
- ie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otw
- iera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w 
- nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karci
- e Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się
-  w nowej karcie 29.08.2026 14:00 - 29.08.2026 21:00 Park Sowińskiego W Pa
- rku Sowińskiego nadarzy się okazja\, aby pożegnać lato w iście sporto
- wym stylu. Odbędzie się tu impreza "Sportowe Pożegnanie Lata"\, skierow
- ana do najmłodszych oraz ich rodziców. Będzie to rodzinny pikniki promu
- jący aktywny tryb życi…\n\nŹródło: https://wola.um.warszawa.pl/-/sp
- ortowe-pozegnanie-lata-1
-LOCATION:Park Sowińskiego\, Warszawa
-URL:https://wola.um.warszawa.pl/-/sportowe-pozegnanie-lata-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koncert pt. Chodź na kawę Warszawo
 DTSTART;TZID="UTC+02:00":20260830T170000
 DTEND;TZID="UTC+02:00":20260830T183000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:6393e792c9ffcceb@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Koncert pt. Chodź na kawę Warszawo Pobierz jako plik PD
@@ -168,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Po Woli do woli: Teatr na Woli im. Tadeusza Łomnickiego
 DTSTART;TZID="UTC+02:00":20260830T120000
 DTEND;TZID="UTC+02:00":20260830T140000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:3be600a7477dbc28@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Po Woli do woli: Teatr na Woli im. Tadeusza Łomnickiego 
@@ -190,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert  „Pałace Czarów” - Madrugada Ensemble
 DTSTART;TZID="UTC+02:00":20260831T183000
 DTEND;TZID="UTC+02:00":20260831T193000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:ceffff6a475befa2@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Koncert „Pałace Czarów” - Madrugada Ensemble Pobier
@@ -213,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer: Zaginione ulice Woli
 DTSTART;TZID="UTC+02:00":20260902T140000
 DTEND;TZID="UTC+02:00":20260902T160000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:40e571c31f0bdd5a@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Spacer: Zaginione ulice Woli Pobierz jako plik PDF Drukuj
@@ -235,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Piknik Naukowy „Moje Miasto”
 DTSTART;TZID="UTC+02:00":20260905T120000
 DTEND;TZID="UTC+02:00":20260905T180000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:bf8bcc4912361357@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Piknik Naukowy „Moje Miasto” Pobierz jako plik PDF Dr
@@ -258,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Po Woli do woli: Warszawa Zachodnia wczoraj i dzisiaj
 DTSTART;TZID="UTC+02:00":20260905T120000
 DTEND;TZID="UTC+02:00":20260905T140000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:7d6efa42b8a713b5@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Po Woli do woli: Warszawa Zachodnia wczoraj i dzisiaj Pob
@@ -281,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Smocza jak żywa – spacer literacki
 DTSTART;TZID="UTC+02:00":20260905T140000
 DTEND;TZID="UTC+02:00":20260905T160000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:043f359556a8af0f@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Smocza jak żywa – spacer literacki Pobierz jako plik P
@@ -303,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Cytrynowa impreza z okazji dnia otwartego w MAL „Kotłownia”
 DTSTART;TZID="UTC+02:00":20260908T160000
 DTEND;TZID="UTC+02:00":20260908T190000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:ce2df55e88f520c7@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Cytrynowa impreza z okazji dnia otwartego w MAL „Kotło
@@ -326,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Zapraszamy do Miasteczka Pomocowo-Zdrowotnego na Kercelaku 2026
 DTSTART;TZID="UTC+02:00":20260912T120000
 DTEND;TZID="UTC+02:00":20260912T160000
-DTSTAMP:20260829T160035Z
+DTSTAMP:20260829T220034Z
 UID:91fcad9095e4e3f0@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Zapraszamy do Miasteczka Pomocowo-Zdrowotnego na Kercelak
