@@ -1,5 +1,5 @@
 source: wola
-count: 36
+count: 38
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -20,7 +20,7 @@ events:
     Wsp…
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:19.063568+00:00'
+  fetched_at: '2026-09-11T16:00:19.979515+00:00'
 - uid: 97c80925f30ac87a@waw-calendars
   source: wola
   title: Koncert  „Pałace Czarów” - Raban Acoustic
@@ -294,7 +294,7 @@ events:
     d…
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:20.728783+00:00'
+  fetched_at: '2026-09-11T16:00:20.433969+00:00'
 - uid: 7f4feb1b3106ee7c@waw-calendars
   source: wola
   title: Dzień Zabawy w parku Księcia Janusza
@@ -587,7 +587,7 @@ events:
     (sobota) w godzinach 12:00–16:00 zapraszamy Was do odwiedzenia Miasteczka Pomocowo–Zdrowotnego. Widzimy…
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:21.646891+00:00'
+  fetched_at: '2026-09-11T16:00:20.891237+00:00'
 - uid: 6e7561a25eaebe18@waw-calendars
   source: wola
   title: Biegaj po Woli – Bieg Nocny
@@ -607,7 +607,26 @@ events:
     Dla kogo : …'
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:22.174667+00:00'
+  fetched_at: '2026-09-11T16:00:22.336310+00:00'
+- uid: 14a44b24815f41d3@waw-calendars
+  source: wola
+  title: Chodźmy odkryć Ulrychów! - spacer sąsiedzki
+  start: '2026-09-19T13:00:00+02:00'
+  end: '2026-09-19T14:30:00+02:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/chodzmy-odkryc-ulrychow-spacer-sasiedzki
+  description: null Chodźmy odkryć Ulrychów! - spacer sąsiedzki Pobierz jako plik PDF Drukuj Link otwiera
+    się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn
+    Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link
+    otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza
+    Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link
+    otwiera się w nowej karcie 19.09.2026 13:00 - 19.09.2026 14:30 partnerstwo plum partnerstwo lokalne
+    ulrychów mieszkańców spacer sąsiedzki Zapraszamy na bezpłatny spacer śladami miejsc, ludzi, historii,
+    organizowany przez Partnerstwo Lokalne Ulrychów Mieszkańców. Spacer dobędzie się 19 września (sob…
+  categories:
+  - Wola
+  fetched_at: '2026-09-11T16:00:21.130575+00:00'
 - uid: cbc4f35301d5d48e@waw-calendars
   source: wola
   title: Potańcówka „Niedziela na Głównym”
@@ -627,7 +646,7 @@ events:
     epok p…
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:23.221952+00:00'
+  fetched_at: '2026-09-11T16:00:22.793356+00:00'
 - uid: 6cf9fdc337d5e2c6@waw-calendars
   source: wola
   title: Wspólnie dla rodzin osób w spektrum autyzmu - zapraszamy na konferencję
@@ -647,7 +666,26 @@ events:
     i…
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:23.754036+00:00'
+  fetched_at: '2026-09-11T16:00:23.263732+00:00'
+- uid: 9ab353c6dbe6e670@waw-calendars
+  source: wola
+  title: Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora
+  start: '2026-09-29T11:00:00+02:00'
+  end: '2026-09-29T12:30:00+02:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/spotkanie-z-krzysztofem-zanussim-wolska-akademia-seniora
+  description: null Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora Pobierz jako plik PDF Drukuj
+    Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w nowej
+    karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza
+    - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj
+    do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do
+    kalendarza - Link otwiera się w nowej karcie 29.09.2026 11:00 - 29.09.2026 12:30 ul. Zawiszy 5, Warszawa
+    wolska akademia seniora Burmistrz Krzysztof Strzałkowski wraz z Radą i Zarządem Dzielnicy Wola m.st.
+    Warszawy zapraszają na wyjątkowe wydarzenie w ramach Wolskiej Akademii Seniora. Tym razem goście…
+  categories:
+  - Wola
+  fetched_at: '2026-09-11T16:00:24.002352+00:00'
 - uid: dc4643dc4ca9c352@waw-calendars
   source: wola
   title: Biegaj po Woli – XIX Bieg Papieski
@@ -667,7 +705,7 @@ events:
     Dorośli, …'
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:24.428283+00:00'
+  fetched_at: '2026-09-11T16:00:24.372258+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -686,7 +724,7 @@ events:
     cyklu „Biegaj po Woli”. To doskonała okazja, aby zadbać o formę, aktywnie spędzić czas. Dla kogo…'
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:24.898155+00:00'
+  fetched_at: '2026-09-11T16:00:24.900804+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -706,4 +744,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-09-11T10:00:25.306731+00:00'
+  fetched_at: '2026-09-11T16:00:25.451255+00:00'
