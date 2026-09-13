@@ -1,5 +1,5 @@
 source: waw4free
-count: 2303
+count: 2323
 events:
 - uid: 22a45a72f99a1109@waw-calendars
   source: waw4free
@@ -817,7 +817,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:16.529008+00:00'
+  fetched_at: '2026-09-13T22:00:15.101599+00:00'
 - uid: f89a3c546609d044@waw-calendars
   source: waw4free
   title: Bezpłatne warsztaty krawieckie - Pracownia Taka Szpilka!
@@ -829,7 +829,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.529508+00:00'
+  fetched_at: '2026-09-13T22:00:15.102118+00:00'
 - uid: fef1b111a3f73d1e@waw-calendars
   source: waw4free
   title: OnEarth | Pokazy Finałowe 2026
@@ -906,7 +906,7 @@ events:
   - dla dzieci
   - sport
   - inne
-  fetched_at: '2026-09-13T16:00:16.530369+00:00'
+  fetched_at: '2026-09-13T22:00:15.102946+00:00'
 - uid: 154736c434013ac3@waw-calendars
   source: waw4free
   title: 'United by Rivers: Flow, Friction, Future | Zjednoczeni przez Rzeki'
@@ -946,7 +946,7 @@ events:
   categories:
   - warsztaty
   - wystawa
-  fetched_at: '2026-09-13T16:00:16.530912+00:00'
+  fetched_at: '2026-09-13T22:00:14.764093+00:00'
 - uid: 1dc046af4d0730b8@waw-calendars
   source: waw4free
   title: Bezpłatne warsztaty elektroniczne - Pracownia Oto Dioda!
@@ -960,7 +960,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.531447+00:00'
+  fetched_at: '2026-09-13T22:00:15.103553+00:00'
 - uid: 3edab9f6a8ca568e@waw-calendars
   source: waw4free
   title: Darmowe bilety na Comedy x Music Festival
@@ -1744,72 +1744,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:16.532298+00:00'
-- uid: 64b7575e21ef469f@waw-calendars
-  source: waw4free
-  title: Bezpłatna Zumba w Jabłonnie
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: null
-  url: https://waw4free.pl/wydarzenie-84528-bezplatna-zumba-w-jablonnie
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.709104+00:00'
-- uid: 518b147335ecf30c@waw-calendars
-  source: waw4free
-  title: Bezpłatne aikido dla dorosłych
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Praga-Północ, Warszawa
-  url: https://waw4free.pl/wydarzenie-147215-bezplatne-aikido-dla-doroslych
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.713259+00:00'
-- uid: f9d9f85319a9d1bc@waw-calendars
-  source: waw4free
-  title: Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bemowo, Warszawa
-  url: https://waw4free.pl/wydarzenie-149774-bezplatne-zajecia-taneczne-dla-dzieci-4-8-lat-z-niepelnosprawnosciami
-  description: null
-  categories:
-  - dla dzieci
-  - sport
-  fetched_at: '2026-09-13T16:00:08.699017+00:00'
-- uid: 3b405cae19205f6b@waw-calendars
-  source: waw4free
-  title: Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bemowo, Warszawa
-  url: https://waw4free.pl/wydarzenie-149780-bezplatne-zajecia-taneczne-dla-rodzicow-z-dziecmi-3-8-lat-z-niepelnosprawnosciami
-  description: null
-  categories:
-  - dla dzieci
-  - sport
-  fetched_at: '2026-09-13T16:00:08.703574+00:00'
-- uid: 9d6015bced1572be@waw-calendars
-  source: waw4free
-  title: Bezpłatny cross training w Jabłonnie
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: null
-  url: https://waw4free.pl/wydarzenie-115547-bezplatny-cross-training-w-jablonnie
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.712738+00:00'
+  fetched_at: '2026-09-13T22:00:14.765157+00:00'
 - uid: 0af4ce50f1a3945e@waw-calendars
   source: waw4free
   title: Chopin był z UW! X jubileuszowa edycja Festiwalu
@@ -1821,175 +1756,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.800932+00:00'
-- uid: f3ca217d927c1e55@waw-calendars
-  source: waw4free
-  title: 'CINEMONDAY: Let’s talk about cinema'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Ochota, Warszawa
-  url: https://waw4free.pl/wydarzenie-158566-cinemonday-let-s-talk-about-cinema
-  description: null
-  categories:
-  - spotkanie
-  - po angielsku
-  fetched_at: '2026-09-13T16:00:08.712255+00:00'
-- uid: 2d2ebd0b11b5489b@waw-calendars
-  source: waw4free
-  title: 'CRASH Mondays № 52: AI w planowaniu contentu'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158200-crash-mondays-52-ai-w-planowaniu-contentu
-  description: null
-  categories:
-  - wykład
-  fetched_at: '2026-09-13T16:00:08.705932+00:00'
-- uid: 1d96c2d50a9cfbee@waw-calendars
-  source: waw4free
-  title: Cykl „Gry matematyczne” – rodzinne zajęcia dla dzieci 5-6 lat
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-158508-cykl-gry-matematyczne-rodzinne-zajecia-dla-dzieci-5-6-lat
-  description: null
-  categories:
-  - dla dzieci
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.701769+00:00'
-- uid: 1f3439d0c614f0b3@waw-calendars
-  source: waw4free
-  title: DOBRE KINO NA SADACH by Filmweb
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Żoliborz, Warszawa
-  url: https://waw4free.pl/wydarzenie-152914-dobre-kino-na-sadach-by-filmweb
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-09-13T16:00:08.713701+00:00'
-- uid: 736c15449a8746df@waw-calendars
-  source: waw4free
-  title: FITNESS dla osób 60+ [godz. 10:00 i 11:00]
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-157561-fitness-dla-osob-60-godz-10-00-i-11-00
-  description: null
-  categories:
-  - dla seniorów
-  - sport
-  fetched_at: '2026-09-13T16:00:08.695218+00:00'
-- uid: 6f49c73607533578@waw-calendars
-  source: waw4free
-  title: Frisbee na Bielanach - otwarte granie dla każdego
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bielany, Warszawa
-  url: https://waw4free.pl/wydarzenie-152498-frisbee-na-bielanach-otwarte-granie-dla-kazdego
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.704045+00:00'
-- uid: e358a73eced9df7b@waw-calendars
-  source: waw4free
-  title: Kamil Galus "Skity" - spotkanie poetyckie Środek Wyrazu
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Ursynów, Warszawa
-  url: https://waw4free.pl/wydarzenie-158097-kamil-galus-skity-spotkanie-poetyckie-srodek-wyrazu
-  description: null
-  categories:
-  - spotkanie
-  - inne
-  fetched_at: '2026-09-13T16:00:08.707691+00:00'
-- uid: f0a4dc378a534220@waw-calendars
-  source: waw4free
-  title: 'Kino znów na Ursynowie: „Zaproszenie”'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Ursynów, Warszawa
-  url: https://waw4free.pl/wydarzenie-158161-kino-znow-na-ursynowie-zaproszenie
-  description: null
-  categories:
-  - film
-  fetched_at: '2026-09-13T16:00:08.708132+00:00'
-- uid: 0b8d2586100cceab@waw-calendars
-  source: waw4free
-  title: Klub Gier Planszowych
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bielany, Warszawa
-  url: https://waw4free.pl/wydarzenie-158596-klub-gier-planszowych
-  description: null
-  categories:
-  - dla młodzieży
-  - inne
-  fetched_at: '2026-09-13T16:00:08.703114+00:00'
-- uid: cc2b07b781e7f475@waw-calendars
-  source: waw4free
-  title: 'Kolażowa Antologia Poezji: Maria Grossek-Korycka'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-156949-kolazowa-antologia-poezji-maria-grossek-korycka
-  description: null
-  categories:
-  - dla seniorów
-  - spotkanie
-  - warsztaty
-  - inne
-  fetched_at: '2026-09-13T16:00:08.699537+00:00'
-- uid: 858b4e09b766e87d@waw-calendars
-  source: waw4free
-  title: Lato w Pałacu | Soft Sculpture. Warsztaty z filcowania na sucho
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158080-lato-w-palacu-soft-sculpture-warsztaty-z-filcowania-na-sucho
-  description: null
-  categories:
-  - dla młodzieży
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.700438+00:00'
-- uid: 1416e2c485fa0a73@waw-calendars
-  source: waw4free
-  title: 'Meet & Speak Monday: English'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158339-meet-speak-monday-english
-  description: null
-  categories:
-  - spotkanie
-  - inne
-  - po angielsku
-  fetched_at: '2026-09-13T16:00:08.711050+00:00'
-- uid: 2aea090530d81003@waw-calendars
-  source: waw4free
-  title: 'Nowa książka: Atlantyk-trans Tomasz Szerszeń'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-157808-nowa-ksiazka-atlantyk-trans-tomasz-szerszen
-  description: null
-  categories:
-  - spotkanie
-  fetched_at: '2026-09-13T16:00:08.709998+00:00'
+  fetched_at: '2026-09-13T22:00:11.385433+00:00'
 - uid: 8c4f9f5007e12f52@waw-calendars
   source: waw4free
   title: 'Ogólnopolski Tydzień Edukacji STOP Znieczulicy: Wyloguj Obojętność'
@@ -2002,258 +1769,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:11.800409+00:00'
-- uid: ff2a793d8dd3ef8e@waw-calendars
-  source: waw4free
-  title: OM Chanting
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-92592-om-chanting
-  description: null
-  categories:
-  - inne
-  fetched_at: '2026-09-13T16:00:08.707227+00:00'
-- uid: ea4975fe854340a8@waw-calendars
-  source: waw4free
-  title: Omatulenie - spotkania dla kobiet po stracie Mamy
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-157769-omatulenie-spotkania-dla-kobiet-po-stracie-mamy
-  description: null
-  categories:
-  - spotkanie
-  - warsztaty
-  - inne
-  fetched_at: '2026-09-13T16:00:08.705484+00:00'
-- uid: 925c74cac88ffdeb@waw-calendars
-  source: waw4free
-  title: Otwarta bezpłatna pracownia krawiecka - Taka Szpilka!
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Ursynów, Warszawa
-  url: https://waw4free.pl/wydarzenie-157819-otwarta-bezplatna-pracownia-krawiecka-taka-szpilka
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.696204+00:00'
-- uid: 8eda69b6c66cd45e@waw-calendars
-  source: waw4free
-  title: Otwarta pracownia haftu | haft ozdobny na chusteczce
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158640-otwarta-pracownia-haftu-haft-ozdobny-na-chusteczce
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.697602+00:00'
-- uid: fbc57e8c08a95f01@waw-calendars
-  source: waw4free
-  title: OTWARTA PRACOWNIA MALARSKA - akwarele dla poczatkujących
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158641-otwarta-pracownia-malarska-akwarele-dla-poczatkujacych
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.706356+00:00'
-- uid: d8ede7327ad0ea79@waw-calendars
-  source: waw4free
-  title: Poniedziałkowe granie z WGP
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Wola, Warszawa
-  url: https://waw4free.pl/wydarzenie-125219-poniedzialkowe-granie-z-wgp
-  description: null
-  categories:
-  - spotkanie
-  - inne
-  fetched_at: '2026-09-13T16:00:08.698543+00:00'
-- uid: c48f081c9befb408@waw-calendars
-  source: waw4free
-  title: Poniedziałkowe zajęcia jogi w plenerze na Osiedlu "Przyjaźń"
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bemowo, Warszawa
-  url: https://waw4free.pl/wydarzenie-154172-poniedzialkowe-zajecia-jogi-w-plenerze-na-osiedlu-przyjazn
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.704510+00:00'
-- uid: 0c695d27140409be@waw-calendars
-  source: waw4free
-  title: POSKIE OKRĘTY PODWODNE 1939
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158214-poskie-okrety-podwodne-1939
-  description: null
-  categories:
-  - film
-  - spotkanie
-  - wykład
-  fetched_at: '2026-09-13T16:00:08.708632+00:00'
-- uid: 9ce3add32490dae6@waw-calendars
-  source: waw4free
-  title: Semestralne warsztaty rysunkowe dla dzieci
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158182-semestralne-warsztaty-rysunkowe-dla-dzieci
-  description: null
-  categories:
-  - dla dzieci
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.698079+00:00'
-- uid: 7958328e1a57d82e@waw-calendars
-  source: waw4free
-  title: Skuterem przez Wietnam i Kambodżę
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-157173-skuterem-przez-wietnam-i-kambodze
-  description: null
-  categories:
-  - slajdowisko
-  fetched_at: '2026-09-13T16:00:08.709550+00:00'
-- uid: b3aa29da6c0b80dc@waw-calendars
-  source: waw4free
-  title: Slavic Language Exchange
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158381-slavic-language-exchange
-  description: null
-  categories:
-  - spotkanie
-  - inne
-  fetched_at: '2026-09-13T16:00:08.711534+00:00'
-- uid: ab4f173b04b4452e@waw-calendars
-  source: waw4free
-  title: Spacer szlakiem romansów
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-157565-spacer-szlakiem-romansow
-  description: null
-  categories:
-  - spacer lub rower
-  fetched_at: '2026-09-13T16:00:08.702648+00:00'
-- uid: 951f15d382f7543e@waw-calendars
-  source: waw4free
-  title: Spotkajmy się na Twardej - Kartka  dla nauczyciela
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-158132-spotkajmy-sie-na-twardej-kartka-dla-nauczyciela
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.700883+00:00'
-- uid: a9caefb0f0c757ba@waw-calendars
-  source: waw4free
-  title: Spotkanie autorskie z Moniką Ksieniewicz-Mil
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Bielany, Warszawa
-  url: https://waw4free.pl/wydarzenie-157479-spotkanie-autorskie-z-monika-ksieniewicz-mil
-  description: null
-  categories:
-  - spotkanie
-  fetched_at: '2026-09-13T16:00:08.702209+00:00'
-- uid: 839884a340a3b276@waw-calendars
-  source: waw4free
-  title: Spotkanie treningowo-terapeutyczne dla osób współuzależnionych
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Śródmieście, Warszawa
-  url: https://waw4free.pl/wydarzenie-157643-spotkanie-treningowo-terapeutyczne-dla-osob-wspoluzaleznionych
-  description: null
-  categories:
-  - film
-  - spotkanie
-  - warsztaty
-  - inne
-  fetched_at: '2026-09-13T16:00:08.695752+00:00'
-- uid: 2f771c3abd65394f@waw-calendars
-  source: waw4free
-  title: Spotkanie z pisarką i filozofką Karoliną Lewestam, autorką książki „Szmaty”
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Praga-Północ, Warszawa
-  url: https://waw4free.pl/wydarzenie-157960-spotkanie-z-pisarka-i-filozofka-karolina-lewestam-autorka-ksiazki-szmaty
-  description: null
-  categories:
-  - spotkanie
-  fetched_at: '2026-09-13T16:00:08.710422+00:00'
-- uid: ad3b40a17561ef94@waw-calendars
-  source: waw4free
-  title: Szkocja z plecakiem – 154 km szlakiem West Highland Way
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Praga-Północ, Warszawa
-  url: https://waw4free.pl/wydarzenie-158439-szkocja-z-plecakiem-154-km-szlakiem-west-highland-way
-  description: null
-  categories:
-  - slajdowisko
-  fetched_at: '2026-09-13T16:00:08.701308+00:00'
-- uid: dadd9dd612e06c8f@waw-calendars
-  source: waw4free
-  title: Vistula Toastmasters Leaders - spotkanie hybrydowe
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Mokotów, Warszawa
-  url: https://waw4free.pl/wydarzenie-157607-vistula-toastmasters-leaders-spotkanie-hybrydowe
-  description: null
-  categories:
-  - spotkanie
-  fetched_at: '2026-09-13T16:00:08.706802+00:00'
-- uid: fe8fb82539ed2988@waw-calendars
-  source: waw4free
-  title: 'WARSZTATY: MELODIA WARSZAWSKIEJ GWARY'
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Białołęka, Warszawa
-  url: https://waw4free.pl/wydarzenie-158471-warsztaty-melodia-warszawskiej-gwary
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.697159+00:00'
-- uid: 89b98b943731b95c@waw-calendars
-  source: waw4free
-  title: Wydziergaj chustę! - warsztaty MAL
-  start: '2026-09-14'
-  end: '2026-09-14'
-  all_day: true
-  location: Praga-Południe, Warszawa
-  url: https://waw4free.pl/wydarzenie-157177-wydziergaj-chuste-warsztaty-mal
-  description: null
-  categories:
-  - warsztaty
-  fetched_at: '2026-09-13T16:00:08.699986+00:00'
+  fetched_at: '2026-09-13T22:00:11.384933+00:00'
 - uid: fdeb7bd4ba487860@waw-calendars
   source: waw4free
   title: '"Oddech od smartfona" – Piękny start roku szkolnego'
@@ -2267,7 +1783,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.205612+00:00'
+  fetched_at: '2026-09-13T22:00:08.273220+00:00'
 - uid: 55e72bffdaa1c52f@waw-calendars
   source: waw4free
   title: BEZPŁATNE TRENINGI SIATKÓWKI ORAZ ZAJĘCIA RODZINNE
@@ -2281,7 +1797,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - sport
-  fetched_at: '2026-09-13T16:00:11.503851+00:00'
+  fetched_at: '2026-09-13T22:00:10.655807+00:00'
 - uid: 0bd6f85b7655babd@waw-calendars
   source: waw4free
   title: Być rodzicem nastolatka – cykl pięciu spotkań o relacji, granicach i komunikacji
@@ -2293,7 +1809,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.215536+00:00'
+  fetched_at: '2026-09-13T22:00:08.283589+00:00'
 - uid: 74f2d8d6b6121088@waw-calendars
   source: waw4free
   title: Czytelnia Klimatyczna Wolnego Jazdowa x Wspólny Pokój
@@ -2305,7 +1821,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:09.211413+00:00'
+  fetched_at: '2026-09-13T22:00:08.279426+00:00'
 - uid: e07bac666d5edf7a@waw-calendars
   source: waw4free
   title: Dramą przez Mokotów — warsztaty integracyjne dla dorosłych
@@ -2317,7 +1833,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.201353+00:00'
+  fetched_at: '2026-09-13T22:00:08.268987+00:00'
 - uid: 92158d48f8f8f380@waw-calendars
   source: waw4free
   title: EKO warsztaty
@@ -2329,7 +1845,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.207447+00:00'
+  fetched_at: '2026-09-13T22:00:08.275177+00:00'
 - uid: bde58c0b8a7f80a7@waw-calendars
   source: waw4free
   title: Finisaż wystawy pokonkursowej "Czułość papieru - biżuteria artystyczna z recyklingu" + warsztaty
@@ -2342,7 +1858,7 @@ events:
   categories:
   - warsztaty
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.211892+00:00'
+  fetched_at: '2026-09-13T22:00:08.279906+00:00'
 - uid: 7c6dfae26bac4226@waw-calendars
   source: waw4free
   title: Handpanowe wtorki w Restauracji Bliski Wschód!
@@ -2354,7 +1870,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:09.207026+00:00'
+  fetched_at: '2026-09-13T22:00:08.274633+00:00'
 - uid: 582b99393183afc2@waw-calendars
   source: waw4free
   title: Horyzonty. Patrycja Szmyt i Jean-Claude Plewniak
@@ -2380,7 +1896,7 @@ events:
   - spotkanie
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:09.203307+00:00'
+  fetched_at: '2026-09-13T22:00:08.270939+00:00'
 - uid: 3454dc30c2bbb3b3@waw-calendars
   source: waw4free
   title: Joga w Parku Skaryszewskim - sezon.3
@@ -2393,7 +1909,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.206086+00:00'
+  fetched_at: '2026-09-13T22:00:08.273698+00:00'
 - uid: 938bcc48ad64fb71@waw-calendars
   source: waw4free
   title: Kabaddi - Treningi otwarte
@@ -2406,7 +1922,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.214177+00:00'
+  fetched_at: '2026-09-13T22:00:08.282222+00:00'
 - uid: 59d07137d8fa62ad@waw-calendars
   source: waw4free
   title: KINO PLENEROWE w Parku Pięciu Sióstr
@@ -2418,7 +1934,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.195620+00:00'
+  fetched_at: '2026-09-13T22:00:08.263253+00:00'
 - uid: 2ed580b8117dc3dc@waw-calendars
   source: waw4free
   title: Klub Dyskusyjny – męskie rozmowy na poziomie
@@ -2431,7 +1947,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:09.212344+00:00'
+  fetched_at: '2026-09-13T22:00:08.280359+00:00'
 - uid: e14c1c5749852f47@waw-calendars
   source: waw4free
   title: Kultura Komiksu 7 - Łukasz Godlewski
@@ -2443,7 +1959,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.213710+00:00'
+  fetched_at: '2026-09-13T22:00:08.281733+00:00'
 - uid: 5d04b70cf1d7433d@waw-calendars
   source: waw4free
   title: Kwietnik ze sznurka – warsztaty makramy i wymiana roślin
@@ -2455,7 +1971,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.205114+00:00'
+  fetched_at: '2026-09-13T22:00:08.272712+00:00'
 - uid: e069396ebbd6fd28@waw-calendars
   source: waw4free
   title: MCSC Hospital Innovation Summit 2026
@@ -2468,7 +1984,7 @@ events:
   categories:
   - wykład
   - inne
-  fetched_at: '2026-09-13T16:00:09.200465+00:00'
+  fetched_at: '2026-09-13T22:00:08.268089+00:00'
 - uid: 88d60c386faae8bf@waw-calendars
   source: waw4free
   title: Mindfulness - praktyka uważności w codziennym życiu
@@ -2480,7 +1996,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.209229+00:00'
+  fetched_at: '2026-09-13T22:00:08.277059+00:00'
 - uid: 357fc644da064e5f@waw-calendars
   source: waw4free
   title: Motywy i wzornictwo w tradycyjnej sztuce ceramiki tureckiej oraz jej zastosowanie | Wykład
@@ -2492,7 +2008,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:09.209670+00:00'
+  fetched_at: '2026-09-13T22:00:08.277486+00:00'
 - uid: aed73fd6c27755a1@waw-calendars
   source: waw4free
   title: Nordic Walking w Parku Praskim
@@ -2505,7 +2021,7 @@ events:
   categories:
   - spacer lub rower
   - sport
-  fetched_at: '2026-09-13T16:00:09.208346+00:00'
+  fetched_at: '2026-09-13T22:00:08.276153+00:00'
 - uid: 5fa9191395618b3b@waw-calendars
   source: waw4free
   title: 'Okiem Fotografa: Marek Zürn "Dzieci PRL-u"'
@@ -2518,7 +2034,7 @@ events:
   categories:
   - spotkanie
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.215103+00:00'
+  fetched_at: '2026-09-13T22:00:08.283157+00:00'
 - uid: 555ff98bf3719ad9@waw-calendars
   source: waw4free
   title: Orbita Literacka Reading Party w Elektrze
@@ -2532,7 +2048,7 @@ events:
   - impreza
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:09.213274+00:00'
+  fetched_at: '2026-09-13T22:00:08.281298+00:00'
 - uid: bf65989c8835cf55@waw-calendars
   source: waw4free
   title: Plac w ruchu | Korfball
@@ -2545,7 +2061,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.204222+00:00'
+  fetched_at: '2026-09-13T22:00:08.271854+00:00'
 - uid: c1f50983efde94fa@waw-calendars
   source: waw4free
   title: Planszówki w RTV
@@ -2557,7 +2073,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:09.210540+00:00'
+  fetched_at: '2026-09-13T22:00:08.278383+00:00'
 - uid: aa540c26cfab2c05@waw-calendars
   source: waw4free
   title: Pokaz dzieł Olgi Boznańskiej  w MNW
@@ -2569,7 +2085,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.200918+00:00'
+  fetched_at: '2026-09-13T22:00:08.268538+00:00'
 - uid: 8fe504ce42bc475b@waw-calendars
   source: waw4free
   title: PROJEKCJA FILMU | Spuścizna fotografa XIX wieku. Wieczór z Józefem Czechowiczem
@@ -2581,7 +2097,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.212786+00:00'
+  fetched_at: '2026-09-13T22:00:08.280809+00:00'
 - uid: 9c3d5d15ae1e9678@waw-calendars
   source: waw4free
   title: Projekt „Kuchnia OdNowa” - Korzenie i Łodygi
@@ -2593,7 +2109,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.204661+00:00'
+  fetched_at: '2026-09-13T22:00:08.272280+00:00'
 - uid: 666ec5d5fa477d9f@waw-calendars
   source: waw4free
   title: Public Speaking practice at Poland’s First Toastmasters
@@ -2607,7 +2123,7 @@ events:
   - spotkanie
   - warsztaty
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.206589+00:00'
+  fetched_at: '2026-09-13T22:00:08.274198+00:00'
 - uid: 0d218cbef2548968@waw-calendars
   source: waw4free
   title: Skarby Muzeum Narodowego w Warszawie cz. 2
@@ -2620,7 +2136,7 @@ events:
   categories:
   - spacer lub rower
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.202821+00:00'
+  fetched_at: '2026-09-13T22:00:08.270425+00:00'
 - uid: 6c6e3934162d242d@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Woreczek na podarunek
@@ -2632,7 +2148,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.203744+00:00'
+  fetched_at: '2026-09-13T22:00:08.271379+00:00'
 - uid: 1f0072fb4d09ebbc@waw-calendars
   source: waw4free
   title: Spotkanie autorskie i premiera książki "Sukces Kobiety" Marleny Babickiej
@@ -2644,7 +2160,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.210977+00:00'
+  fetched_at: '2026-09-13T22:00:08.278990+00:00'
 - uid: 948335283110c41d@waw-calendars
   source: waw4free
   title: SPOTKANIE AUTORSKIE | Natalia Muniowska
@@ -2656,7 +2172,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.210108+00:00'
+  fetched_at: '2026-09-13T22:00:08.277954+00:00'
 - uid: 3473c46e2922743a@waw-calendars
   source: waw4free
   title: Spotlight Tuesday / Chelsea Alphy Band
@@ -2669,7 +2185,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.215999+00:00'
+  fetched_at: '2026-09-13T22:00:08.284055+00:00'
 - uid: da2e47cd89867f56@waw-calendars
   source: waw4free
   title: Wtorki z jogą na PGE Narodowym
@@ -2682,7 +2198,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.214639+00:00'
+  fetched_at: '2026-09-13T22:00:08.282689+00:00'
 - uid: 5928b4d5de304044@waw-calendars
   source: waw4free
   title: WYKŁAD. CZAS NA SZTUKĘ! | Élisabeth Vigée Le Brun - malarstwo, moda i rewolucja
@@ -2694,7 +2210,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:09.201808+00:00'
+  fetched_at: '2026-09-13T22:00:08.269416+00:00'
 - uid: 025ddacd92accd08@waw-calendars
   source: waw4free
   title: Śródmiejskie bieganie dla każdego
@@ -2706,7 +2222,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-09-13T16:00:09.207894+00:00'
+  fetched_at: '2026-09-13T22:00:08.275618+00:00'
 - uid: 52a43ee10dcca6b3@waw-calendars
   source: waw4free
   title: „Młócka. Reportaże o pracy przyszłości” – spotkanie autorskie z Markiem Szymaniakiem
@@ -2718,7 +2234,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.208799+00:00'
+  fetched_at: '2026-09-13T22:00:08.276613+00:00'
 - uid: a08e2e780ae76dfd@waw-calendars
   source: waw4free
   title: '"Drezyną do Lizbony" spotkanie autorskie z Jackiem Pacochą'
@@ -2730,7 +2246,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.606156+00:00'
+  fetched_at: '2026-09-13T22:00:08.801109+00:00'
 - uid: 14e63ff141c74d74@waw-calendars
   source: waw4free
   title: Bezpłatny program wsparcia dla przedsiębiorców | Znajdź swoją przewagę! Jak stworzyć unikalną
@@ -2743,7 +2259,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.607033+00:00'
+  fetched_at: '2026-09-13T22:00:08.802015+00:00'
 - uid: 88428d2a3f4e344c@waw-calendars
   source: waw4free
   title: Darmowa Zumba® na Bielanach
@@ -2756,7 +2272,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.614896+00:00'
+  fetched_at: '2026-09-13T22:00:08.809751+00:00'
 - uid: 12f5339a2c2ac973@waw-calendars
   source: waw4free
   title: DEBATA W MUZEUM | Cenzura w PRL.
@@ -2768,7 +2284,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:09.608993+00:00'
+  fetched_at: '2026-09-13T22:00:08.803849+00:00'
 - uid: b6ba69813fe54f78@waw-calendars
   source: waw4free
   title: Drezyną do Lizbony - spotkanie autorskie z Jackiem Pacochą
@@ -2780,7 +2296,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.606594+00:00'
+  fetched_at: '2026-09-13T22:00:08.801543+00:00'
 - uid: f88816296c03563c@waw-calendars
   source: waw4free
   title: Frisbee na Mokotowie - otwarte granie dla każdego
@@ -2792,7 +2308,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-09-13T16:00:09.604395+00:00'
+  fetched_at: '2026-09-13T22:00:08.799339+00:00'
 - uid: 0099680122a66acc@waw-calendars
   source: waw4free
   title: Janusz Walczuk i Prezentacja Koszykarskiej Legii Warszawa na Bemowie!
@@ -2806,7 +2322,7 @@ events:
   - koncert
   - sport
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.613990+00:00'
+  fetched_at: '2026-09-13T22:00:08.808863+00:00'
 - uid: c83491279d87b849@waw-calendars
   source: waw4free
   title: Karaoke dla ludzi bez wstydu i granic CO ŚRODĘ W Oparach Absurdu
@@ -2819,7 +2335,7 @@ events:
   categories:
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:09.616731+00:00'
+  fetched_at: '2026-09-13T22:00:08.811634+00:00'
 - uid: 06a96f85246adc87@waw-calendars
   source: waw4free
   title: 'Kino na patio: Klątwa Doliny Węży z autorską narracją Łony'
@@ -2831,7 +2347,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.612055+00:00'
+  fetched_at: '2026-09-13T22:00:08.806913+00:00'
 - uid: a9a0aebbe5f7149a@waw-calendars
   source: waw4free
   title: 'Klub Podróżników: Suwalszczyzna'
@@ -2843,7 +2359,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.611613+00:00'
+  fetched_at: '2026-09-13T22:00:08.806451+00:00'
 - uid: f8ce66fdf0e61a3b@waw-calendars
   source: waw4free
   title: LIVE JAZZ W SAMO CENTRUM
@@ -2855,7 +2371,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:09.616265+00:00'
+  fetched_at: '2026-09-13T22:00:08.811163+00:00'
 - uid: 8d0f87c60f9084c2@waw-calendars
   source: waw4free
   title: Moc empatycznego słuchania // Warsztat 2/4 z cyklu ’Szanuję siebie’
@@ -2867,7 +2383,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.605273+00:00'
+  fetched_at: '2026-09-13T22:00:08.800230+00:00'
 - uid: efa72c1ba47fe168@waw-calendars
   source: waw4free
   title: NIE WYRZUCAJ - PRZERÓB |  warsztaty recyklingowe - magia przeplatanych dżinsów
@@ -2879,7 +2395,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.603530+00:00'
+  fetched_at: '2026-09-13T22:00:08.798442+00:00'
 - uid: 4072f0727d82306c@waw-calendars
   source: waw4free
   title: NORDIC WALKING dla osób 60+
@@ -2893,7 +2409,7 @@ events:
   - dla seniorów
   - spacer lub rower
   - sport
-  fetched_at: '2026-09-13T16:00:09.601152+00:00'
+  fetched_at: '2026-09-13T22:00:08.795876+00:00'
 - uid: e0d4310c9e1113f6@waw-calendars
   source: waw4free
   title: Pokaz Kina Plenerowego |  „ABAKAMANIA. Magdalena Abakanowicz Artystka Osobna”
@@ -2905,7 +2421,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.614417+00:00'
+  fetched_at: '2026-09-13T22:00:08.809288+00:00'
 - uid: 8087751fe197ed6c@waw-calendars
   source: waw4free
   title: QIGONG W MUZEUM | prozdrowotne ćwiczenia dla każdego
@@ -2919,7 +2435,7 @@ events:
   - dla seniorów
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.601652+00:00'
+  fetched_at: '2026-09-13T22:00:08.796414+00:00'
 - uid: b966acdfded8b0b2@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Malujemy kredkami akwarelowymi
@@ -2931,7 +2447,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.605716+00:00'
+  fetched_at: '2026-09-13T22:00:08.800661+00:00'
 - uid: 73dd2d5aa27f8950@waw-calendars
   source: waw4free
   title: SPOTKANIA AUTORSKIE | Katarzyna Gacek
@@ -2943,7 +2459,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.610736+00:00'
+  fetched_at: '2026-09-13T22:00:08.805581+00:00'
 - uid: 3bccc87e4a397509@waw-calendars
   source: waw4free
   title: Spotkanie autorskie z Marcinem Mellerem w Bibliotece w Wesołej
@@ -2955,7 +2471,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.603968+00:00'
+  fetched_at: '2026-09-13T22:00:08.798909+00:00'
 - uid: c29db423d1540b10@waw-calendars
   source: waw4free
   title: Spotkanie z Krzysztofem Wielickim
@@ -2967,7 +2483,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.609873+00:00'
+  fetched_at: '2026-09-13T22:00:08.804714+00:00'
 - uid: ed68d7f7e6b9d82f@waw-calendars
   source: waw4free
   title: Stare Miasto od podstaw. Spacer z przewodniczką
@@ -2979,7 +2495,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:09.608028+00:00'
+  fetched_at: '2026-09-13T22:00:08.802940+00:00'
 - uid: c3463986bb2405b9@waw-calendars
   source: waw4free
   title: Sąsiedzka herbatka dla seniora - poznajmy się bliżej!
@@ -2992,7 +2508,7 @@ events:
   categories:
   - dla seniorów
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.602649+00:00'
+  fetched_at: '2026-09-13T22:00:08.797526+00:00'
 - uid: 8e8e9742b7d0e073@waw-calendars
   source: waw4free
   title: Taraska | Jam Session "Scena Młodych"
@@ -3005,7 +2521,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.615835+00:00'
+  fetched_at: '2026-09-13T22:00:08.810707+00:00'
 - uid: 8124cccafcbc2096@waw-calendars
   source: waw4free
   title: Trening umysłu dla seniorów
@@ -3031,7 +2547,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.612525+00:00'
+  fetched_at: '2026-09-13T22:00:08.807370+00:00'
 - uid: d31599b88e69534d@waw-calendars
   source: waw4free
   title: Ursynowski Nordic Walking 2026 | Grupy środowe
@@ -3046,7 +2562,7 @@ events:
   - spacer lub rower
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.602180+00:00'
+  fetched_at: '2026-09-13T22:00:08.797000+00:00'
 - uid: 8679dcf4acc436b7@waw-calendars
   source: waw4free
   title: Warsztaty naukowe z eksperymentami - cykl 5 spotkań dla dzieci w wieku 6-10 lat z opiekunami
@@ -3059,7 +2575,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.608545+00:00'
+  fetched_at: '2026-09-13T22:00:08.803399+00:00'
 - uid: dfe0c196a7ced0bb@waw-calendars
   source: waw4free
   title: Warsztaty wycinankowe
@@ -3071,7 +2587,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.611174+00:00'
+  fetched_at: '2026-09-13T22:00:08.806024+00:00'
 - uid: f76a5674558e16e7@waw-calendars
   source: waw4free
   title: WERNISAŻ WYSTAWY FOTOGRAFII WALERII GUŚCIORY „JEDNO MIASTO, WIELE MIEJSC”
@@ -3083,7 +2599,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.610296+00:00'
+  fetched_at: '2026-09-13T22:00:08.805150+00:00'
 - uid: 7476f08950b24919@waw-calendars
   source: waw4free
   title: Wisła - rzeka kontrastów. Historia i architektura
@@ -3095,7 +2611,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:09.595682+00:00'
+  fetched_at: '2026-09-13T22:00:08.789379+00:00'
 - uid: a70cd96848b357a3@waw-calendars
   source: waw4free
   title: World Pub Quiz + Social Meetup
@@ -3109,7 +2625,7 @@ events:
   - spotkanie
   - inne
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.613494+00:00'
+  fetched_at: '2026-09-13T22:00:08.808361+00:00'
 - uid: 45efcce3c9d886e5@waw-calendars
   source: waw4free
   title: Wykłady do wystawy "Nabiści. Prorocy nowej sztuki" | "Artyści polscy wobec ruchu nabi - przyjaźnie
@@ -3122,7 +2638,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:09.604846+00:00'
+  fetched_at: '2026-09-13T22:00:08.799799+00:00'
 - uid: 29afd92b383ead34@waw-calendars
   source: waw4free
   title: Zajęcia jogi w plenerze w Parku Górczewska [godz. 17:30 i 18:40]
@@ -3135,7 +2651,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.607560+00:00'
+  fetched_at: '2026-09-13T22:00:08.802473+00:00'
 - uid: 32f3b31bfb4acd14@waw-calendars
   source: waw4free
   title: Zajęcia z futbolu australijskiego
@@ -3148,7 +2664,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.615356+00:00'
+  fetched_at: '2026-09-13T22:00:08.810219+00:00'
 - uid: 159bfa5abfe2c074@waw-calendars
   source: waw4free
   title: Zumba w OSiR Polna
@@ -3161,7 +2677,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.613000+00:00'
+  fetched_at: '2026-09-13T22:00:08.807848+00:00'
 - uid: 8a5651e134f26670@waw-calendars
   source: waw4free
   title: „Kim jest ona, gdy mnie nie ma”. Spotkanie z Aldona Kopkiewicz
@@ -3173,7 +2689,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.609421+00:00'
+  fetched_at: '2026-09-13T22:00:08.804277+00:00'
 - uid: 3d6864726f5a3a9b@waw-calendars
   source: waw4free
   title: '„Spotkania z Muzyką” | „Tajemnice kameralistyki: kwintet dęty blaszany”'
@@ -3185,7 +2701,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:09.603089+00:00'
+  fetched_at: '2026-09-13T22:00:08.798002+00:00'
 - uid: f72b876bb99b6a6e@waw-calendars
   source: waw4free
   title: ABC sztuki przetrwania – warsztaty z budowania schronień
@@ -3197,7 +2713,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.856079+00:00'
+  fetched_at: '2026-09-13T22:00:10.008580+00:00'
 - uid: 67ecdc6503b2a701@waw-calendars
   source: waw4free
   title: 'Apteka Zabytków - Dziedzictwo w zagrożeniu: architektura drewniana'
@@ -3209,7 +2725,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.858862+00:00'
+  fetched_at: '2026-09-13T22:00:10.011308+00:00'
 - uid: f35c9f08127db947@waw-calendars
   source: waw4free
   title: Bardzo Kulturalny Czwartek Koncert zespołu BABY pt. „Babie lato”
@@ -3221,7 +2737,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:09.868537+00:00'
+  fetched_at: '2026-09-13T22:00:10.021005+00:00'
 - uid: 38a2ad0578fdd2f0@waw-calendars
   source: waw4free
   title: Bezpłatna gimnastyka usprawniająca dla osób z niepełnosprawnościami
@@ -3234,7 +2750,7 @@ events:
   categories:
   - sport
   - dla seniorów
-  fetched_at: '2026-09-13T16:00:09.853960+00:00'
+  fetched_at: '2026-09-13T22:00:10.006615+00:00'
 - uid: e2e8da4954bd8547@waw-calendars
   source: waw4free
   title: Bezpłatne porady prawne dla rodzin osób z demencją
@@ -3246,7 +2762,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:09.849189+00:00'
+  fetched_at: '2026-09-13T22:00:10.001920+00:00'
 - uid: 6ec96de2bc766ce8@waw-calendars
   source: waw4free
   title: Bezpłatne treningi „Trenuj ze stołecznymi policjantami”
@@ -3259,7 +2775,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.854448+00:00'
+  fetched_at: '2026-09-13T22:00:10.007112+00:00'
 - uid: 8fe1a94baa141b0c@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia latino solo dla osób z niepełnosprawnościami
@@ -3272,7 +2788,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-09-13T16:00:09.852081+00:00'
+  fetched_at: '2026-09-13T22:00:10.004768+00:00'
 - uid: 72b0aaf26ba03537@waw-calendars
   source: waw4free
   title: Blisko | Spotkanie z Michaliną Sablik na wystawie „Jura Shust. Żywica* Splot Słoneczny”
@@ -3285,7 +2801,7 @@ events:
   categories:
   - spotkanie
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.858413+00:00'
+  fetched_at: '2026-09-13T22:00:10.010884+00:00'
 - uid: e5706e32ce6ca447@waw-calendars
   source: waw4free
   title: Czego oczy [na ogół] nie widzą. Spacer po Krakowskim Przedmieściu
@@ -3297,7 +2813,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:09.862644+00:00'
+  fetched_at: '2026-09-13T22:00:10.015071+00:00'
 - uid: 211de37173792267@waw-calendars
   source: waw4free
   title: Czwartkowe oprowadzania po aktualnych wystawach Zachęty
@@ -3309,7 +2825,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.853489+00:00'
+  fetched_at: '2026-09-13T22:00:10.006146+00:00'
 - uid: e574563f1850df42@waw-calendars
   source: waw4free
   title: Fałszywy obraz „wyzwolenia”. Debata o sowieckiej dezinformacji wokół 17 września 1939 roku
@@ -3322,7 +2838,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:09.866289+00:00'
+  fetched_at: '2026-09-13T22:00:10.018758+00:00'
 - uid: 2706ee6bdddef188@waw-calendars
   source: waw4free
   title: Gimnastyka usprawniająca stawy i kręgosłup, rozciągająca, modelująca sylwetkę
@@ -3335,7 +2851,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-09-13T16:00:09.852561+00:00'
+  fetched_at: '2026-09-13T22:00:10.005233+00:00'
 - uid: 71ba94f2664384e4@waw-calendars
   source: waw4free
   title: Haloxylon * Edyta Hul
@@ -3347,7 +2863,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.853046+00:00'
+  fetched_at: '2026-09-13T22:00:10.005705+00:00'
 - uid: e4b0af480da2aa87@waw-calendars
   source: waw4free
   title: IMPREZOWE CZWARTKI Z DJ-EM
@@ -3359,7 +2875,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-09-13T16:00:09.870360+00:00'
+  fetched_at: '2026-09-13T22:00:10.022841+00:00'
 - uid: 754ac402a270c322@waw-calendars
   source: waw4free
   title: Jazz w Lesie Bielańskim – Monika Borzym
@@ -3371,7 +2887,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:09.868097+00:00'
+  fetched_at: '2026-09-13T22:00:10.020542+00:00'
 - uid: 6fe10275914d1080@waw-calendars
   source: waw4free
   title: Joga w Parku Skaryszewskim - sezon.3
@@ -3384,7 +2900,7 @@ events:
   categories:
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.860296+00:00'
+  fetched_at: '2026-09-13T22:00:10.012749+00:00'
 - uid: e11749080f51a6bb@waw-calendars
   source: waw4free
   title: Kid Book Club (for ages 9-13)
@@ -3399,7 +2915,7 @@ events:
   - dla młodzieży
   - spotkanie
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.859375+00:00'
+  fetched_at: '2026-09-13T22:00:10.011853+00:00'
 - uid: e0ddbe3f60f24923@waw-calendars
   source: waw4free
   title: 'Kino w Pałacyku: "Łobuz" (2025)'
@@ -3411,7 +2927,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.868980+00:00'
+  fetched_at: '2026-09-13T22:00:10.021427+00:00'
 - uid: 515a915f22e92faf@waw-calendars
   source: waw4free
   title: Kongres Zdrowe Miasta
@@ -3424,7 +2940,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:09.850141+00:00'
+  fetched_at: '2026-09-13T22:00:10.002908+00:00'
 - uid: 1948c8992cee7577@waw-calendars
   source: waw4free
   title: Lato w Pałacu | Warsztaty malarskie “Pejzaż”
@@ -3436,7 +2952,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.856977+00:00'
+  fetched_at: '2026-09-13T22:00:10.009440+00:00'
 - uid: 732a037c0bef55e9@waw-calendars
   source: waw4free
   title: Live Juke Box - piosenki na życzenie w Arcade Bee Hala Koszyki
@@ -3449,7 +2965,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-09-13T16:00:09.867216+00:00'
+  fetched_at: '2026-09-13T22:00:10.019678+00:00'
 - uid: 0c4b5105b26228cf@waw-calendars
   source: waw4free
   title: Malowanie w Pałacyku
@@ -3461,7 +2977,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.864922+00:00'
+  fetched_at: '2026-09-13T22:00:10.017375+00:00'
 - uid: bb36996fe0d5a9f4@waw-calendars
   source: waw4free
   title: MIASTO W KINIE. KINO W MIEŚCIE - filmowa podróż przez Warszawę i dzieje kina | "Między ciszą
@@ -3475,7 +2991,7 @@ events:
   categories:
   - film
   - wykład
-  fetched_at: '2026-09-13T16:00:09.861203+00:00'
+  fetched_at: '2026-09-13T22:00:10.013669+00:00'
 - uid: d806a8a61878a482@waw-calendars
   source: waw4free
   title: Moje konie. Sławomir Szereda
@@ -3487,7 +3003,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:09.869927+00:00'
+  fetched_at: '2026-09-13T22:00:10.022391+00:00'
 - uid: dfc83a5e98847b7a@waw-calendars
   source: waw4free
   title: Niezwykłe losy Ignacego Matuszewskiego. Prelekcja historyczna Roberta Radzika
@@ -3499,7 +3015,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:09.866740+00:00'
+  fetched_at: '2026-09-13T22:00:10.019213+00:00'
 - uid: 2022f81758c121ed@waw-calendars
   source: waw4free
   title: Nordic Walking w Parku Praskim
@@ -3512,7 +3028,7 @@ events:
   categories:
   - spacer lub rower
   - sport
-  fetched_at: '2026-09-13T16:00:09.861674+00:00'
+  fetched_at: '2026-09-13T22:00:10.014134+00:00'
 - uid: c45e62c31c94d110@waw-calendars
   source: waw4free
   title: Oddychalnia wystawa
@@ -3536,7 +3052,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.865353+00:00'
+  fetched_at: '2026-09-13T22:00:10.017820+00:00'
 - uid: 10e2038172b4b296@waw-calendars
   source: waw4free
   title: Pokaz dostępny filmu „Wielka Warszawska” + spotkanie z twórcami
@@ -3549,7 +3065,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.865835+00:00'
+  fetched_at: '2026-09-13T22:00:10.018274+00:00'
 - uid: bbb4c2eba8a667e3@waw-calendars
   source: waw4free
   title: POZA RAMAMI – Historie, które inspirują. Spotkanie i koncert
@@ -3562,7 +3078,7 @@ events:
   categories:
   - koncert
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.854933+00:00'
+  fetched_at: '2026-09-13T22:00:10.007637+00:00'
 - uid: 0199ffd7cbf01c24@waw-calendars
   source: waw4free
   title: 'Rodzic w pracy: prawa i możliwości zawodowe – warsztat dla rodziców'
@@ -3574,7 +3090,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.851117+00:00'
+  fetched_at: '2026-09-13T22:00:10.003839+00:00'
 - uid: 8f50da167bbafaa8@waw-calendars
   source: waw4free
   title: Salonik Historyczny— Wojenne historie mojej rodziny
@@ -3588,7 +3104,7 @@ events:
   - dla seniorów
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:09.862190+00:00'
+  fetched_at: '2026-09-13T22:00:10.014622+00:00'
 - uid: 1c6b585a7bf447d5@waw-calendars
   source: waw4free
   title: SAMOTNOŚC W DUZYM MIEŚCIE jak rozpoznawać swoje potrzeby... warsztat a elementami NVC
@@ -3601,7 +3117,7 @@ events:
   categories:
   - dla seniorów
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.849661+00:00'
+  fetched_at: '2026-09-13T22:00:10.002381+00:00'
 - uid: 493df3e0b8761261@waw-calendars
   source: waw4free
   title: Spektakl „Zapiski oficera Armii Czerwonej”
@@ -3613,7 +3129,7 @@ events:
   description: null
   categories:
   - teatr
-  fetched_at: '2026-09-13T16:00:09.863094+00:00'
+  fetched_at: '2026-09-13T22:00:10.015592+00:00'
 - uid: b1bba1bf7b21e9c3@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Jesienna bransoletka
@@ -3625,7 +3141,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.857407+00:00'
+  fetched_at: '2026-09-13T22:00:10.009890+00:00'
 - uid: 24a08ecc5b4bd25f@waw-calendars
   source: waw4free
   title: Spotkanie z dr. hab. Pawłem Wawrzyńskim
@@ -3637,7 +3153,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:09.864478+00:00'
+  fetched_at: '2026-09-13T22:00:10.016949+00:00'
 - uid: 440f716ccb1ffc24@waw-calendars
   source: waw4free
   title: Strefa Chillout – czwartki bez spiny
@@ -3650,7 +3166,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:09.855397+00:00'
+  fetched_at: '2026-09-13T22:00:10.008129+00:00'
 - uid: 694ffaf7da7fceb9@waw-calendars
   source: waw4free
   title: Sąsiedzkie planszówki. Spotkania dla miłośników gier
@@ -3663,7 +3179,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:09.864040+00:00'
+  fetched_at: '2026-09-13T22:00:10.016507+00:00'
 - uid: 2ba1b81ef73f5f8e@waw-calendars
   source: waw4free
   title: Thursday Oldie Goldie / Rockin’ Rabbit
@@ -3676,7 +3192,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:09.870840+00:00'
+  fetched_at: '2026-09-13T22:00:10.023344+00:00'
 - uid: f01ab3246e967fe8@waw-calendars
   source: waw4free
   title: Towarzyski Quiz Podróżniczy
@@ -3689,7 +3205,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:09.869439+00:00'
+  fetched_at: '2026-09-13T22:00:10.021921+00:00'
 - uid: a890181f9b095e4d@waw-calendars
   source: waw4free
   title: Ultimate frisbee dla początkujących
@@ -3704,7 +3220,7 @@ events:
   - dla młodzieży
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.857951+00:00'
+  fetched_at: '2026-09-13T22:00:10.010402+00:00'
 - uid: cf30b9c256be1d63@waw-calendars
   source: waw4free
   title: Warsaw Short Framing | Film krótkometrażowy (13+)
@@ -3716,7 +3232,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:09.867658+00:00'
+  fetched_at: '2026-09-13T22:00:10.020113+00:00'
 - uid: e177f54474ba1531@waw-calendars
   source: waw4free
   title: Warsztaty Rękodzielnicze w Pół na Puł
@@ -3728,7 +3244,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.860735+00:00'
+  fetched_at: '2026-09-13T22:00:10.013201+00:00'
 - uid: 08a5fef3eb0d677f@waw-calendars
   source: waw4free
   title: Warsztaty Szydełkowania w Forge vol. 3
@@ -3740,7 +3256,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.856527+00:00'
+  fetched_at: '2026-09-13T22:00:10.009017+00:00'
 - uid: 5527ee1899458fa2@waw-calendars
   source: waw4free
   title: Warsztaty twórczego pisania w Teatrze BAZA
@@ -3752,7 +3268,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:09.859825+00:00'
+  fetched_at: '2026-09-13T22:00:10.012280+00:00'
 - uid: e19383cd192d738e@waw-calendars
   source: waw4free
   title: Wizjoner z Warszawy i Czarodziej z Łysej Góry. Spotkanie mistrzów
@@ -3765,7 +3281,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:09.863566+00:00'
+  fetched_at: '2026-09-13T22:00:10.016059+00:00'
 - uid: 387dd0814b57db0a@waw-calendars
   source: waw4free
   title: Wykład ABS – nowe spojrzenie na agresję sowiecką 1939 roku [godz. 11:00 i 13:00]
@@ -3778,7 +3294,7 @@ events:
   categories:
   - dla seniorów
   - wykład
-  fetched_at: '2026-09-13T16:00:09.851604+00:00'
+  fetched_at: '2026-09-13T22:00:10.004300+00:00'
 - uid: 995f8d63ae20bd14@waw-calendars
   source: waw4free
   title: ZUMBA dla osób 60+ [godz. 10:00 i 11:00]
@@ -3791,7 +3307,7 @@ events:
   categories:
   - dla seniorów
   - sport
-  fetched_at: '2026-09-13T16:00:09.850615+00:00'
+  fetched_at: '2026-09-13T22:00:10.003372+00:00'
 - uid: a6919f0ff280195a@waw-calendars
   source: waw4free
   title: „Proces powinien toczyć się dalej” z muzyką na żywo | Niema gorączka
@@ -3805,7 +3321,7 @@ events:
   - film
   - koncert
   - inne
-  fetched_at: '2026-09-13T16:00:09.871330+00:00'
+  fetched_at: '2026-09-13T22:00:10.023902+00:00'
 - uid: 70250118e7e4a2e5@waw-calendars
   source: waw4free
   title: '"Marzenia spod lady, cukrowa wata i księżyca poświata" - Butoh jest wszędzie!'
@@ -3817,7 +3333,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:10.702423+00:00'
+  fetched_at: '2026-09-13T22:00:10.471968+00:00'
 - uid: b0e616cd46885bfa@waw-calendars
   source: waw4free
   title: 30. Festiwal Nauki w Warszawie
@@ -3833,7 +3349,7 @@ events:
   - spotkanie
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:16.533195+00:00'
+  fetched_at: '2026-09-13T22:00:15.104161+00:00'
 - uid: e7cf11e14a4a3229@waw-calendars
   source: waw4free
   title: Agata Tuszyńska „Arytmia pamięci” spotkanie autorskie
@@ -3845,7 +3361,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:10.705868+00:00'
+  fetched_at: '2026-09-13T22:00:10.475232+00:00'
 - uid: 513352c4540dbbf9@waw-calendars
   source: waw4free
   title: BYE BYE SUMMER
@@ -3857,7 +3373,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-09-13T16:00:10.707842+00:00'
+  fetched_at: '2026-09-13T22:00:10.476990+00:00'
 - uid: 5aa5839ef99b0829@waw-calendars
   source: waw4free
   title: Chodź! Pokażę Ci Powiśle! Trasa spacerowa nr 1
@@ -3869,7 +3385,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:10.697868+00:00'
+  fetched_at: '2026-09-13T22:00:10.467794+00:00'
 - uid: 37960b3dc162b48c@waw-calendars
   source: waw4free
   title: Comfy Karaoke
@@ -3883,7 +3399,7 @@ events:
   - impreza
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:10.702939+00:00'
+  fetched_at: '2026-09-13T22:00:10.472458+00:00'
 - uid: 97a57aad8372eec1@waw-calendars
   source: waw4free
   title: Cztery Pory Roku z Teatrem Obrzędowym
@@ -3895,7 +3411,7 @@ events:
   description: null
   categories:
   - teatr
-  fetched_at: '2026-09-13T16:00:10.700281+00:00'
+  fetched_at: '2026-09-13T22:00:10.470026+00:00'
 - uid: 5444c29e90d1f7ed@waw-calendars
   source: waw4free
   title: House Band / Syreny Miasta feat. Dryllka & Lina Silva / LayDJ
@@ -3908,7 +3424,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:10.704460+00:00'
+  fetched_at: '2026-09-13T22:00:10.473844+00:00'
 - uid: d4fb70fa5965884f@waw-calendars
   source: waw4free
   title: Kino i Muzyka na Woli - pokaz filmu Dreams
@@ -3920,7 +3436,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:10.707385+00:00'
+  fetched_at: '2026-09-13T22:00:10.476542+00:00'
 - uid: 32ccba78b427cbbe@waw-calendars
   source: waw4free
   title: 'Koncert: Yellow Horse'
@@ -3932,7 +3448,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:10.706956+00:00'
+  fetched_at: '2026-09-13T22:00:10.476105+00:00'
 - uid: ddac12106e452e7a@waw-calendars
   source: waw4free
   title: Kreatywny piątek | Robimy breloki!
@@ -3945,7 +3461,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:10.694630+00:00'
+  fetched_at: '2026-09-13T22:00:10.464710+00:00'
 - uid: d86dfae66ff053bc@waw-calendars
   source: waw4free
   title: Mama i Bobas w Murowance - spotkania dla mam z dziećmi do 16 m.ż.
@@ -3959,7 +3475,7 @@ events:
   - dla dzieci
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:10.692854+00:00'
+  fetched_at: '2026-09-13T22:00:10.463274+00:00'
 - uid: 2cddf1b9c5379eb9@waw-calendars
   source: waw4free
   title: Meduzy, dryndy, cekiny - spotkanie z gwarą warszawską w Domu w Alejach
@@ -3972,7 +3488,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:10.701535+00:00'
+  fetched_at: '2026-09-13T22:00:10.471081+00:00'
 - uid: 9b7555e7eb13bc18@waw-calendars
   source: waw4free
   title: Na tropie tajemnic Starego Miasta
@@ -3984,7 +3500,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:10.697409+00:00'
+  fetched_at: '2026-09-13T22:00:10.467337+00:00'
 - uid: 4130b0162553bcfc@waw-calendars
   source: waw4free
   title: Od Safari po walkę o lepsze jutro
@@ -3996,7 +3512,7 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-09-13T16:00:10.703369+00:00'
+  fetched_at: '2026-09-13T22:00:10.472909+00:00'
 - uid: 5d607ead970d21d0@waw-calendars
   source: waw4free
   title: OPEN STAGE – 2. KONCERT
@@ -4008,7 +3524,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:10.698936+00:00'
+  fetched_at: '2026-09-13T22:00:10.468664+00:00'
 - uid: 9d70b5fb454687f2@waw-calendars
   source: waw4free
   title: Otwarte spotkanie planszówkowe | Gramy w Catan
@@ -4022,7 +3538,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - inne
-  fetched_at: '2026-09-13T16:00:10.695816+00:00'
+  fetched_at: '2026-09-13T22:00:10.465739+00:00'
 - uid: 40e8a50ae96d4ec4@waw-calendars
   source: waw4free
   title: Piątek z Offem – Z czym wiąże się młodość?
@@ -4035,7 +3551,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-09-13T16:00:10.704950+00:00'
+  fetched_at: '2026-09-13T22:00:10.474315+00:00'
 - uid: caa29b5bce0e1482@waw-calendars
   source: waw4free
   title: Planszownia
@@ -4047,7 +3563,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:10.699847+00:00'
+  fetched_at: '2026-09-13T22:00:10.469583+00:00'
 - uid: 53070a2c32b4fafd@waw-calendars
   source: waw4free
   title: Potańcówka z zespołem Wowakin
@@ -4060,7 +3576,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-09-13T16:00:10.703993+00:00'
+  fetched_at: '2026-09-13T22:00:10.473370+00:00'
 - uid: 0652add2379e1e7b@waw-calendars
   source: waw4free
   title: Quiz o filmach
@@ -4072,7 +3588,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:10.706491+00:00'
+  fetched_at: '2026-09-13T22:00:10.475665+00:00'
 - uid: 668897984c8de801@waw-calendars
   source: waw4free
   title: Sinfonia Varsovia – Nowe Otwarcie / Drugi weekend
@@ -4091,7 +3607,7 @@ events:
   - warsztaty
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.802791+00:00'
+  fetched_at: '2026-09-13T22:00:11.387291+00:00'
 - uid: 64b1ac412a1c2804@waw-calendars
   source: waw4free
   title: Spacer po Kopcu Powstania Warszawskiego
@@ -4103,7 +3619,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:10.701990+00:00'
+  fetched_at: '2026-09-13T22:00:10.471511+00:00'
 - uid: 1b95225932407b62@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Sztuka pakowania prezentów
@@ -4115,7 +3631,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:10.696966+00:00'
+  fetched_at: '2026-09-13T22:00:10.466882+00:00'
 - uid: c2cc548074bb2fd6@waw-calendars
   source: waw4free
   title: 'Spotkanie w Izbie: Wieczór gier'
@@ -4130,7 +3646,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:10.695163+00:00'
+  fetched_at: '2026-09-13T22:00:10.465236+00:00'
 - uid: eacd947be9af9e48@waw-calendars
   source: waw4free
   title: Summer Evening Concerts 2026 | Stefan Schmidt
@@ -4142,7 +3658,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-09-13T16:00:10.698461+00:00'
+  fetched_at: '2026-09-13T22:00:10.468225+00:00'
 - uid: c4eda55892245c25@waw-calendars
   source: waw4free
   title: Sztuka Czasu Wolnego. Spotkania wokół wybranych dzieł w Białym Domu dla dorosłych
@@ -4155,7 +3671,7 @@ events:
   categories:
   - wykład
   - wystawa
-  fetched_at: '2026-09-13T16:00:10.694148+00:00'
+  fetched_at: '2026-09-13T22:00:10.464238+00:00'
 - uid: ad93a4f4f43b95ee@waw-calendars
   source: waw4free
   title: Warsaw Gallery Weekend 2026
@@ -4168,7 +3684,7 @@ events:
   categories:
   - spotkanie
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.801444+00:00'
+  fetched_at: '2026-09-13T22:00:11.385969+00:00'
 - uid: ded0288a54d75154@waw-calendars
   source: waw4free
   title: Warszawskie Dni Rewitalizacji
@@ -4193,7 +3709,7 @@ events:
   - wykład
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.507006+00:00'
+  fetched_at: '2026-09-13T22:00:10.657781+00:00'
 - uid: e91d9920ff726b6d@waw-calendars
   source: waw4free
   title: Warszawskie Dni Rodzinne - bezpłatne atrakcje w całej Warszawie i piknik rodzinny
@@ -4209,7 +3725,7 @@ events:
   - sport
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:11.802083+00:00'
+  fetched_at: '2026-09-13T22:00:11.386570+00:00'
 - uid: 287c2d5c21714057@waw-calendars
   source: waw4free
   title: Wieczorek autorski - "Miasta, romans wszech czasów"
@@ -4222,7 +3738,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:10.705412+00:00'
+  fetched_at: '2026-09-13T22:00:10.474788+00:00'
 - uid: fc50e3e9edec4e4d@waw-calendars
   source: waw4free
   title: Wieczór Literacki Andrzeja Wróblewskiego w Murowance
@@ -4235,7 +3751,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-09-13T16:00:10.699394+00:00'
+  fetched_at: '2026-09-13T22:00:10.469140+00:00'
 - uid: 350674f0cfb1a6d8@waw-calendars
   source: waw4free
   title: Wystawa "Kosmiczna geometria"
@@ -4247,7 +3763,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:10.693503+00:00'
+  fetched_at: '2026-09-13T22:00:10.463759+00:00'
 - uid: 9d12ccbfa235f50c@waw-calendars
   source: waw4free
   title: XXIV Bemowski Festiwal Streetfoodu
@@ -4260,7 +3776,7 @@ events:
   categories:
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:11.787519+00:00'
+  fetched_at: '2026-09-13T22:00:11.380188+00:00'
 - uid: befb1b7681d9cd86@waw-calendars
   source: waw4free
   title: „Statystyka publiczna bez tajemnic – jak wykorzystywać dane w rozwoju firmy”
@@ -4273,7 +3789,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:10.691727+00:00'
+  fetched_at: '2026-09-13T22:00:10.462786+00:00'
 - uid: 01c464888779122b@waw-calendars
   source: waw4free
   title: '"W poszukiwaniu jadalnych i leczniczych roślin dziko rosnących” - Rodzinny spacer i degustacja
@@ -4291,7 +3807,7 @@ events:
   - spacer lub rower
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.542727+00:00'
+  fetched_at: '2026-09-13T22:00:10.684889+00:00'
 - uid: f8d6c3e4d2b70344@waw-calendars
   source: waw4free
   title: 12. urodziny 3 pokoi z kuchnią Świętujmy razem kolejny rok!
@@ -4304,7 +3820,7 @@ events:
   categories:
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:11.526115+00:00'
+  fetched_at: '2026-09-13T22:00:10.673643+00:00'
 - uid: 561967b84273b0d5@waw-calendars
   source: waw4free
   title: 5. Urodziny Fabryki Norblina
@@ -4322,7 +3838,7 @@ events:
   - warsztaty
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.806428+00:00'
+  fetched_at: '2026-09-13T22:00:11.391290+00:00'
 - uid: 88b273b067c167d4@waw-calendars
   source: waw4free
   title: 82. Rocznica Powstania Warszawskiego
@@ -4335,7 +3851,7 @@ events:
   categories:
   - film
   - inne
-  fetched_at: '2026-09-13T16:00:11.550481+00:00'
+  fetched_at: '2026-09-13T22:00:10.690130+00:00'
 - uid: 5c65b549f44a30b7@waw-calendars
   source: waw4free
   title: Absolute Cinema – warsztaty filmowe
@@ -4348,7 +3864,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.537029+00:00'
+  fetched_at: '2026-09-13T22:00:10.681217+00:00'
 - uid: fca874372c9fb643@waw-calendars
   source: waw4free
   title: 'Bezpłatny spacer: Warszawa, której nie znamy - śladami przedwojennego Śródmieścia'
@@ -4360,7 +3876,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.521080+00:00'
+  fetched_at: '2026-09-13T22:00:10.668927+00:00'
 - uid: 2096997f5f6651ca@waw-calendars
   source: waw4free
   title: CYRKOWARSZAWA. I festiwal miejskiej magii i ściemy na Targówku.
@@ -4378,7 +3894,7 @@ events:
   - teatr
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.514418+00:00'
+  fetched_at: '2026-09-13T22:00:10.663624+00:00'
 - uid: 86b4b291abf343f7@waw-calendars
   source: waw4free
   title: Eko jednorożce na patyku - darmowy warsztat [godz. 10:00, 12:00, 14:00]
@@ -4390,7 +3906,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.513717+00:00'
+  fetched_at: '2026-09-13T22:00:10.662985+00:00'
 - uid: 74045ea0cfd90293@waw-calendars
   source: waw4free
   title: Eko Sobótki "Łazienki Królewskie jesienią"
@@ -4402,7 +3918,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.518270+00:00'
+  fetched_at: '2026-09-13T22:00:10.666534+00:00'
 - uid: 1f72a40d2e8241fa@waw-calendars
   source: waw4free
   title: Eko warsztaty z kreatywnego przerabiania ubrań [godz. 10:00, 12:00, 14:00]
@@ -4414,7 +3930,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.513197+00:00'
+  fetched_at: '2026-09-13T22:00:10.662536+00:00'
 - uid: 26eedea9996762fe@waw-calendars
   source: waw4free
   title: Europejskie Dni Dziedzictwa w MHP – jak wykorzystać historię mówioną?
@@ -4432,7 +3948,7 @@ events:
   - warsztaty
   - wykład
   - inne
-  fetched_at: '2026-09-13T16:00:11.527179+00:00'
+  fetched_at: '2026-09-13T22:00:10.674684+00:00'
 - uid: 4cf0eb1626c52669@waw-calendars
   source: waw4free
   title: Europejskie Mistrzostwa Motorniczych TRAM-EM 2026
@@ -4445,7 +3961,7 @@ events:
   categories:
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:11.519452+00:00'
+  fetched_at: '2026-09-13T22:00:10.667525+00:00'
 - uid: f1910863b85619f1@waw-calendars
   source: waw4free
   title: Festiwal Drewna 2026
@@ -4461,7 +3977,7 @@ events:
   - warsztaty
   - wykład
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.804002+00:00'
+  fetched_at: '2026-09-13T22:00:11.388852+00:00'
 - uid: bbfb7f266efffa44@waw-calendars
   source: waw4free
   title: Festiwal Plaż x Dzielnica Wisła | Tomek Torres | Bartek Grzanek | Kwiat Betonu
@@ -4474,7 +3990,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-09-13T16:00:11.545133+00:00'
+  fetched_at: '2026-09-13T22:00:10.686797+00:00'
 - uid: 77076659629760e3@waw-calendars
   source: waw4free
   title: Festiwal Światła i Dźwięku
@@ -4491,7 +4007,7 @@ events:
   - koncert
   - teatr
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.541332+00:00'
+  fetched_at: '2026-09-13T22:00:10.683800+00:00'
 - uid: b061363dbfa92368@waw-calendars
   source: waw4free
   title: Fotogeniczna Wesoła | Spacer fotograficzny śladem wesołowskich odpadów z Iwoną Bal
@@ -4503,7 +4019,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.526564+00:00'
+  fetched_at: '2026-09-13T22:00:10.674082+00:00'
 - uid: a40196cbcb21cd00@waw-calendars
   source: waw4free
   title: JAK REAGOWAĆ NA NAGŁE POGORSZENIE ZDROWIA OSOBY STARSZEJ - szkolenie z ratownikiem medycznym
@@ -4516,7 +4032,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:11.512754+00:00'
+  fetched_at: '2026-09-13T22:00:10.662093+00:00'
 - uid: 8a933fc083d834a6@waw-calendars
   source: waw4free
   title: Jazz dla dzieci | Sześć strun jazzu | GITARA
@@ -4530,7 +4046,7 @@ events:
   - dla dzieci
   - koncert
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.522089+00:00'
+  fetched_at: '2026-09-13T22:00:10.669890+00:00'
 - uid: 41256c3c619a2938@waw-calendars
   source: waw4free
   title: Jazzpospolita - Jazzowa antresola
@@ -4543,7 +4059,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:11.560190+00:00'
+  fetched_at: '2026-09-13T22:00:10.694917+00:00'
 - uid: 55fe30bc3ada48d5@waw-calendars
   source: waw4free
   title: Jesienny las - warsztaty dla dzieci w Centrum Lokalnym Kamionek
@@ -4556,7 +4072,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.519943+00:00'
+  fetched_at: '2026-09-13T22:00:10.667995+00:00'
 - uid: df1c2e42ae74cf95@waw-calendars
   source: waw4free
   title: Kamionek | Łapiemy przemianę | spacer fotograficzny | Warszawskie Dni Rewitalizacji
@@ -4569,7 +4085,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:11.528839+00:00'
+  fetched_at: '2026-09-13T22:00:10.676197+00:00'
 - uid: 62cf02a96a9533b9@waw-calendars
   source: waw4free
   title: Koncert Chóru LXXV Liceum Ogólnokształcącego im. Jana III Sobieskiego w Warszawie towarzyszący
@@ -4594,7 +4110,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.548420+00:00'
+  fetched_at: '2026-09-13T22:00:10.689178+00:00'
 - uid: ed43895749de91fb@waw-calendars
   source: waw4free
   title: KUBA SIENKIEWICZ w Chacie Trapera
@@ -4606,7 +4122,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.558808+00:00'
+  fetched_at: '2026-09-13T22:00:10.693913+00:00'
 - uid: d1fcfb4ef7a9e814@waw-calendars
   source: waw4free
   title: Late Night Show with Moira Adomaite and Nezar Al-Ott
@@ -4619,7 +4135,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - po angielsku
-  fetched_at: '2026-09-13T16:00:11.559605+00:00'
+  fetched_at: '2026-09-13T22:00:10.694376+00:00'
 - uid: b09d41e499b5d782@waw-calendars
   source: waw4free
   title: Legendy Olszynki
@@ -4632,7 +4148,7 @@ events:
   categories:
   - spacer lub rower
   - teatr
-  fetched_at: '2026-09-13T16:00:11.552286+00:00'
+  fetched_at: '2026-09-13T22:00:10.691109+00:00'
 - uid: 9383dd4766b12710@waw-calendars
   source: waw4free
   title: Mecz Polonia Warszawa – Chrobry Głogów
@@ -4644,7 +4160,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-09-13T16:00:11.498485+00:00'
+  fetched_at: '2026-09-13T22:00:10.650931+00:00'
 - uid: 6809af1aeb3f9b56@waw-calendars
   source: waw4free
   title: Moje neuroróżnorodne dziecko - warsztat dla rodziców
@@ -4656,7 +4172,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.511730+00:00'
+  fetched_at: '2026-09-13T22:00:10.661073+00:00'
 - uid: c6a905219e131595@waw-calendars
   source: waw4free
   title: MOKOTÓW / Rodzinne warsztaty muzyczne OPOWIEDZ MI BAJKĘ
@@ -4669,7 +4185,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.525050+00:00'
+  fetched_at: '2026-09-13T22:00:10.672716+00:00'
 - uid: f8cd606f2b912387@waw-calendars
   source: waw4free
   title: NAWZAJEM! - Elektroprzygoda
@@ -4682,7 +4198,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.521577+00:00'
+  fetched_at: '2026-09-13T22:00:10.669380+00:00'
 - uid: 4da2bc8213100aad@waw-calendars
   source: waw4free
   title: Ochota na Historię – Samodzielna Brygada Spadochronowa - Operacja Market Garden
@@ -4698,7 +4214,7 @@ events:
   - impreza
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.528344+00:00'
+  fetched_at: '2026-09-13T22:00:10.675676+00:00'
 - uid: a2539f9925bf804c@waw-calendars
   source: waw4free
   title: Od zmierzchu do świtu - tworzymy zina
@@ -4711,7 +4227,7 @@ events:
   categories:
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.554373+00:00'
+  fetched_at: '2026-09-13T22:00:10.692017+00:00'
 - uid: b268aea37fd18ec1@waw-calendars
   source: waw4free
   title: Otul swoją książkę – warsztaty krawieckie
@@ -4723,7 +4239,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.533507+00:00'
+  fetched_at: '2026-09-13T22:00:10.678301+00:00'
 - uid: 2b9b8f97b8500cea@waw-calendars
   source: waw4free
   title: Otwarcie pracowni Franciszka Masiaka
@@ -4736,7 +4252,7 @@ events:
   categories:
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.806965+00:00'
+  fetched_at: '2026-09-13T22:00:11.391818+00:00'
 - uid: 087714084acede5c@waw-calendars
   source: waw4free
   title: PIKNIK ZIELONEGO URSYNOWA
@@ -4754,7 +4270,7 @@ events:
   - koncert
   - targi, garażówka
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.534135+00:00'
+  fetched_at: '2026-09-13T22:00:10.678924+00:00'
 - uid: 2855cad31d3bc8a5@waw-calendars
   source: waw4free
   title: Polish Eagle Education Awards
@@ -4767,7 +4283,7 @@ events:
   categories:
   - inne
   - po angielsku
-  fetched_at: '2026-09-13T16:00:11.547339+00:00'
+  fetched_at: '2026-09-13T22:00:10.688208+00:00'
 - uid: 075d3d6eb6545ad5@waw-calendars
   source: waw4free
   title: Próba Kwiatu / Study Of A Flower – wystawa w Fundacji Edwarda Dwurnika
@@ -4779,7 +4295,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.543726+00:00'
+  fetched_at: '2026-09-13T22:00:10.685847+00:00'
 - uid: 3c50a8a30ab4caf0@waw-calendars
   source: waw4free
   title: Quiz wiedzy ogólnej
@@ -4791,7 +4307,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:11.558159+00:00'
+  fetched_at: '2026-09-13T22:00:10.693436+00:00'
 - uid: da17620b35bf6666@waw-calendars
   source: waw4free
   title: RADIO Z WIDOKIEM - reportaże dźwiękowe pod gołym niebem vol. 3
@@ -4803,7 +4319,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:11.546457+00:00'
+  fetched_at: '2026-09-13T22:00:10.687741+00:00'
 - uid: 6822765d6a8fa009@waw-calendars
   source: waw4free
   title: Retro Potańcówka u Hipolita
@@ -4815,7 +4331,7 @@ events:
   description: null
   categories:
   - impreza
-  fetched_at: '2026-09-13T16:00:11.553196+00:00'
+  fetched_at: '2026-09-13T22:00:10.691544+00:00'
 - uid: 2343f340d5c83418@waw-calendars
   source: waw4free
   title: RODZINNE WARSZTATY EKOLOGICZNE - jesienny wieniec
@@ -4829,7 +4345,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.524101+00:00'
+  fetched_at: '2026-09-13T22:00:10.671755+00:00'
 - uid: d6e5bb776ee0d587@waw-calendars
   source: waw4free
   title: Silent dating / Choir edition. Koncert w ramach MFMW „Warszawska Jesień”
@@ -4841,7 +4357,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.557094+00:00'
+  fetched_at: '2026-09-13T22:00:10.692944+00:00'
 - uid: 6fbe2a691a6e47a1@waw-calendars
   source: waw4free
   title: Sobieski i jego Marysieńka. Spacer warszawskim szlakiem legendarnej pary
@@ -4853,7 +4369,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.527624+00:00'
+  fetched_at: '2026-09-13T22:00:10.675129+00:00'
 - uid: c7511ed85b76c0dd@waw-calendars
   source: waw4free
   title: Spacer śladami Powstania Warszawskiego
@@ -4866,7 +4382,7 @@ events:
   categories:
   - spacer lub rower
   - wykład
-  fetched_at: '2026-09-13T16:00:11.544223+00:00'
+  fetched_at: '2026-09-13T22:00:10.686313+00:00'
 - uid: 7ef4ca856fe76d62@waw-calendars
   source: waw4free
   title: Spotkajmy się, pograjmy
@@ -4881,7 +4397,7 @@ events:
   - dla młodzieży
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:11.515393+00:00'
+  fetched_at: '2026-09-13T22:00:10.664584+00:00'
 - uid: 44eff822c424d558@waw-calendars
   source: waw4free
   title: Spotkanie autorskie z Dariuszem Gizakiem i książką "Wolta" w Książnicy Pruszkowskiej
@@ -4895,7 +4411,7 @@ events:
   - spotkanie
   - wykład
   - inne
-  fetched_at: '2026-09-13T16:00:11.549345+00:00'
+  fetched_at: '2026-09-13T22:00:10.689663+00:00'
 - uid: 411afbb9f0a2e76a@waw-calendars
   source: waw4free
   title: Spotkanie ogródkowe
@@ -4908,7 +4424,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.530027+00:00'
+  fetched_at: '2026-09-13T22:00:10.677368+00:00'
 - uid: a2163371ff1f153d@waw-calendars
   source: waw4free
   title: 'STOP Znieczulicy: Wyloguj Obojętność – bezpłatny weekend edukacyjny w PKiN'
@@ -4922,7 +4438,7 @@ events:
   - spotkanie
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:11.804549+00:00'
+  fetched_at: '2026-09-13T22:00:11.389410+00:00'
 - uid: 66507ea3bb8445fa@waw-calendars
   source: waw4free
   title: Szmulki | Łapiemy przemianę | spacer fotograficzny | Warszawskie Dni Rewitalizacji
@@ -4935,7 +4451,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:11.539382+00:00'
+  fetched_at: '2026-09-13T22:00:10.682203+00:00'
 - uid: a185dc2f1079780f@waw-calendars
   source: waw4free
   title: Sąsiedzka sobota - Speed Friending!
@@ -4948,7 +4464,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:11.538072+00:00'
+  fetched_at: '2026-09-13T22:00:10.681719+00:00'
 - uid: 58eac2b17ce43105@waw-calendars
   source: waw4free
   title: Sąsiedzka wymiana bylin
@@ -4960,7 +4476,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.536411+00:00'
+  fetched_at: '2026-09-13T22:00:10.680585+00:00'
 - uid: c6c06c180a86602a@waw-calendars
   source: waw4free
   title: Taichi w Parku Dreszera
@@ -4974,7 +4490,7 @@ events:
   - dla seniorów
   - sport
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.533018+00:00'
+  fetched_at: '2026-09-13T22:00:10.677877+00:00'
 - uid: fd82b343dec132d3@waw-calendars
   source: waw4free
   title: 'Targi Jestem Vintage #31'
@@ -4986,7 +4502,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.805039+00:00'
+  fetched_at: '2026-09-13T22:00:11.389919+00:00'
 - uid: 5db2b531277740fa@waw-calendars
   source: waw4free
   title: Targówek Fabryczny | Łapiemy przemianę | spacer fotograficzny | Warszawskie Dni Rewitalizacji
@@ -4999,7 +4515,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:11.543238+00:00'
+  fetched_at: '2026-09-13T22:00:10.685356+00:00'
 - uid: c8f6bad8599cdabd@waw-calendars
   source: waw4free
   title: Ursynowska Potańcówka
@@ -5014,7 +4530,7 @@ events:
   - dla seniorów
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:11.547969+00:00'
+  fetched_at: '2026-09-13T22:00:10.688738+00:00'
 - uid: 9efe679f967e3598@waw-calendars
   source: waw4free
   title: W praskiej kamienicy | warsztaty dla rodzin z dziećmi 6-12 lat | Warszawskie Dni Rewitalizacji
@@ -5027,7 +4543,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.522964+00:00'
+  fetched_at: '2026-09-13T22:00:10.670745+00:00'
 - uid: e2fadad5b3f2f635@waw-calendars
   source: waw4free
   title: Warszawskie Dni Rewitalizacji i 5. urodziny Pałacyku Konopackiego
@@ -5043,7 +4559,7 @@ events:
   - wykład
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.534702+00:00'
+  fetched_at: '2026-09-13T22:00:10.679461+00:00'
 - uid: 2adcc96559f6c35d@waw-calendars
   source: waw4free
   title: Warsztaty medialne "Warszawa nasze miejsce. Miasto oczami młodych mieszkańców"
@@ -5057,7 +4573,7 @@ events:
   - dla młodzieży
   - spacer lub rower
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.546010+00:00'
+  fetched_at: '2026-09-13T22:00:10.687291+00:00'
 - uid: 2fd28e2170d3c993@waw-calendars
   source: waw4free
   title: Warsztaty modelarskie dla dzieci i młodzieży 10+
@@ -5071,7 +4587,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.510040+00:00'
+  fetched_at: '2026-09-13T22:00:10.659572+00:00'
 - uid: 8d519a77577c1f6c@waw-calendars
   source: waw4free
   title: Warsztaty muzyki z Burkiny Faso // Burkina Faso music workshop with Noums Dembele
@@ -5084,7 +4600,7 @@ events:
   categories:
   - warsztaty
   - po angielsku
-  fetched_at: '2026-09-13T16:00:11.541824+00:00'
+  fetched_at: '2026-09-13T22:00:10.684276+00:00'
 - uid: f44255955b821e5c@waw-calendars
   source: waw4free
   title: Warsztaty Robimy biohumus
@@ -5096,7 +4612,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.514879+00:00'
+  fetched_at: '2026-09-13T22:00:10.664065+00:00'
 - uid: 5173686e424364fc@waw-calendars
   source: waw4free
   title: Warsztaty teatralne
@@ -5108,7 +4624,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.523584+00:00'
+  fetched_at: '2026-09-13T22:00:10.671183+00:00'
 - uid: ad43fa1d26b8628a@waw-calendars
   source: waw4free
   title: Wielka Parada Lalek i spektakl „Hokus Pokus, Czary Mary...  i Król"
@@ -5122,7 +4638,7 @@ events:
   - dla dzieci
   - teatr
   - inne
-  fetched_at: '2026-09-13T16:00:11.520437+00:00'
+  fetched_at: '2026-09-13T22:00:10.668478+00:00'
 - uid: c271de9f652d2058@waw-calendars
   source: waw4free
   title: Wielki festyn międzypokoleniowy POŁUDNIOWO PRASKIE SENIORALIA
@@ -5140,7 +4656,7 @@ events:
   - koncert
   - targi, garażówka
   - inne
-  fetched_at: '2026-09-13T16:00:11.540724+00:00'
+  fetched_at: '2026-09-13T22:00:10.682832+00:00'
 - uid: f1553de5da886a42@waw-calendars
   source: waw4free
   title: XXIV Festiwal "Nauka z Pałacem w tle"
@@ -5160,7 +4676,7 @@ events:
   - wykład
   - wystawa
   - inne
-  fetched_at: '2026-09-13T16:00:11.805759+00:00'
+  fetched_at: '2026-09-13T22:00:11.390633+00:00'
 - uid: b034f3d8541a0e92@waw-calendars
   source: waw4free
   title: Zamknięte przestrzenie – ukryte mechanizmy. BG WAT od kulis
@@ -5173,7 +4689,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:11.517131+00:00'
+  fetched_at: '2026-09-13T22:00:10.665594+00:00'
 - uid: c62b28cfde8888c7@waw-calendars
   source: waw4free
   title: Zwróć uwagę i spójrz w bok. Spacer po niewidocznych detalach Starego i Nowego Miasta
@@ -5185,7 +4701,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.525607+00:00'
+  fetched_at: '2026-09-13T22:00:10.673169+00:00'
 - uid: 690d658b95562e20@waw-calendars
   source: waw4free
   title: Złość rodzica - warsztat
@@ -5197,7 +4713,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.510485+00:00'
+  fetched_at: '2026-09-13T22:00:10.660027+00:00'
 - uid: 3af0c7e178b4f483@waw-calendars
   source: waw4free
   title: Światowy Dzień Przędzenia w miejscach publicznych w DK Kadr
@@ -5212,7 +4728,7 @@ events:
   - warsztaty
   - wykład
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.512279+00:00'
+  fetched_at: '2026-09-13T22:00:10.661604+00:00'
 - uid: 924f6e09b223e12c@waw-calendars
   source: waw4free
   title: „DZIEDZICTWO I NATURA” / EUROPEJSKIE DNI DZIEDZICTWA „PRZYSZŁOŚĆ PRZESZŁOŚCI. DZIEDZICTWO W ZAGROŻENIU”
@@ -5228,7 +4744,7 @@ events:
   - spotkanie
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:11.515988+00:00'
+  fetched_at: '2026-09-13T22:00:10.665130+00:00'
 - uid: f5f11b6d0f82b41c@waw-calendars
   source: waw4free
   title: „Prosto z serca” w G City Reduta. Oddaj krew i poznaj kulturę Wietnamu
@@ -5242,7 +4758,7 @@ events:
   - impreza
   - koncert
   - inne
-  fetched_at: '2026-09-13T16:00:11.517832+00:00'
+  fetched_at: '2026-09-13T22:00:10.666100+00:00'
 - uid: 87995271bf0d9ab6@waw-calendars
   source: waw4free
   title: 13 niezwykłych historii. Spacer po Saskiej Kępie
@@ -5254,7 +4770,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.815891+00:00'
+  fetched_at: '2026-09-13T22:00:11.400711+00:00'
 - uid: 1cacd7fb7e5a2292@waw-calendars
   source: waw4free
   title: 29. Urodziny dinozaura Dyzia w Muzeum Geologicznym PIG-PIB
@@ -5267,7 +4783,7 @@ events:
   categories:
   - impreza
   - inne
-  fetched_at: '2026-09-13T16:00:11.809249+00:00'
+  fetched_at: '2026-09-13T22:00:11.394103+00:00'
 - uid: df2dad781423271f@waw-calendars
   source: waw4free
   title: Bemowskie Święto Ringo
@@ -5280,7 +4796,7 @@ events:
   categories:
   - dla dzieci
   - sport
-  fetched_at: '2026-09-13T16:00:11.810169+00:00'
+  fetched_at: '2026-09-13T22:00:11.395009+00:00'
 - uid: d360343386e5ca7e@waw-calendars
   source: waw4free
   title: Bezpłatny warsztat bezpieczeństwa osobistego i podstaw samoobrony dla kobiet - MAL
@@ -5292,7 +4808,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.808789+00:00'
+  fetched_at: '2026-09-13T22:00:11.393631+00:00'
 - uid: 2d051ca3ac1354c1@waw-calendars
   source: waw4free
   title: 'Drugie Życie Tkanin: warsztaty kreatywnego upcyklingu #myślęniemarnuję'
@@ -5304,7 +4820,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.808332+00:00'
+  fetched_at: '2026-09-13T22:00:11.393186+00:00'
 - uid: 34ccd1bb4874c185@waw-calendars
   source: waw4free
   title: Dźwięki, które leczą
@@ -5316,7 +4832,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.813587+00:00'
+  fetched_at: '2026-09-13T22:00:11.398426+00:00'
 - uid: e905886febcac540@waw-calendars
   source: waw4free
   title: ELLIOTT ERWITT. RETROSPEKTYWA | oprowadzanie kuratorskie
@@ -5329,7 +4845,7 @@ events:
   categories:
   - wykład
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.817319+00:00'
+  fetched_at: '2026-09-13T22:00:11.402147+00:00'
 - uid: 2fde242592286f37@waw-calendars
   source: waw4free
   title: Historanki ze Smokiem Barnabą
@@ -5343,7 +4859,7 @@ events:
   - dla dzieci
   - film
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.812643+00:00'
+  fetched_at: '2026-09-13T22:00:11.397463+00:00'
 - uid: 075e79f1879e3fed@waw-calendars
   source: waw4free
   title: Jesienne róże - Śródmieście świętuje 125. urodziny Mieczysława Fogga
@@ -5355,7 +4871,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.821523+00:00'
+  fetched_at: '2026-09-13T22:00:11.406344+00:00'
 - uid: 8717b830ca661c60@waw-calendars
   source: waw4free
   title: Klub Fotograficzny
@@ -5367,7 +4883,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.823011+00:00'
+  fetched_at: '2026-09-13T22:00:11.407869+00:00'
 - uid: d90399a6cd500f76@waw-calendars
   source: waw4free
   title: Koncert "Jazz Party" - P.G.R.
@@ -5379,7 +4895,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.823435+00:00'
+  fetched_at: '2026-09-13T22:00:11.408294+00:00'
 - uid: c4513c45918729ea@waw-calendars
   source: waw4free
   title: Koncert kameralny - Roman Tkaczyk
@@ -5391,7 +4907,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:11.821087+00:00'
+  fetched_at: '2026-09-13T22:00:11.405917+00:00'
 - uid: 5b4f604f61199caf@waw-calendars
   source: waw4free
   title: Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
@@ -5404,7 +4920,7 @@ events:
   categories:
   - dla dzieci
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.816353+00:00'
+  fetched_at: '2026-09-13T22:00:11.401186+00:00'
 - uid: 0698547eec611cc8@waw-calendars
   source: waw4free
   title: Międzynarodowy Dzień Pokoju 2026
@@ -5418,7 +4934,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.813143+00:00'
+  fetched_at: '2026-09-13T22:00:11.397990+00:00'
 - uid: ab44c557f550c50b@waw-calendars
   source: waw4free
   title: Na XVI-wiecznym targu
@@ -5430,7 +4946,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.809699+00:00'
+  fetched_at: '2026-09-13T22:00:11.394539+00:00'
 - uid: f649048177d6830b@waw-calendars
   source: waw4free
   title: Odkryjmy sekrety Powiśla. Trasa spacerowa nr 2.
@@ -5443,7 +4959,7 @@ events:
   categories:
   - dla dzieci
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.811690+00:00'
+  fetched_at: '2026-09-13T22:00:11.396494+00:00'
 - uid: cc934b4921a42c7a@waw-calendars
   source: waw4free
   title: PIKNIK NAUKOWY NA BEMOWIE - NAUKA, KTÓREJ MOŻNA DOTKNĄĆ!
@@ -5457,7 +4973,7 @@ events:
   - dla dzieci
   - impreza
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.816857+00:00'
+  fetched_at: '2026-09-13T22:00:11.401677+00:00'
 - uid: 2adf80a7341cc7d5@waw-calendars
   source: waw4free
   title: Piknik Rodzinny „Grochów – 110 lat wspólnej historii”
@@ -5473,7 +4989,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.818847+00:00'
+  fetched_at: '2026-09-13T22:00:11.403665+00:00'
 - uid: 86b8156621ad11c9@waw-calendars
   source: waw4free
   title: Poranek dla dzieci - Jazz w kreskówkach
@@ -5486,7 +5002,7 @@ events:
   categories:
   - dla dzieci
   - film
-  fetched_at: '2026-09-13T16:00:11.814053+00:00'
+  fetched_at: '2026-09-13T22:00:11.398907+00:00'
 - uid: b1a88f528ff46f67@waw-calendars
   source: waw4free
   title: Radek Jaworski. Wystawa fotografii „Miasto | Natura”.
@@ -5512,7 +5028,7 @@ events:
   - dla dzieci
   - impreza
   - teatr
-  fetched_at: '2026-09-13T16:00:11.815001+00:00'
+  fetched_at: '2026-09-13T22:00:11.399846+00:00'
 - uid: 54a6f418b843594b@waw-calendars
   source: waw4free
   title: Rozpoczynamy nowy sezon! Piknik sąsiedzki
@@ -5527,7 +5043,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.817853+00:00'
+  fetched_at: '2026-09-13T22:00:11.402668+00:00'
 - uid: 6cb0f3c7f5cec11f@waw-calendars
   source: waw4free
   title: Rummikub Stars w FOOD TOWN / Pojedynek Mistrzów
@@ -5539,7 +5055,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:11.810608+00:00'
+  fetched_at: '2026-09-13T22:00:11.395438+00:00'
 - uid: 1af38878fd9523e8@waw-calendars
   source: waw4free
   title: RÓWNONOC nad Wisłą
@@ -5555,7 +5071,7 @@ events:
   - impreza
   - koncert
   - warsztaty
-  fetched_at: '2026-09-13T16:00:11.822075+00:00'
+  fetched_at: '2026-09-13T22:00:11.406907+00:00'
 - uid: 307c6a7208b8c9c1@waw-calendars
   source: waw4free
   title: Spacer - WSTĘP WZBRONIONY.  Stara Warszawa w czasach zarazy
@@ -5567,7 +5083,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.812136+00:00'
+  fetched_at: '2026-09-13T22:00:11.396944+00:00'
 - uid: e239923d5f5c0925@waw-calendars
   source: waw4free
   title: Spacer architektoniczny po Osiedlu Prototypów | prowadzi Grzegorz Mika
@@ -5579,7 +5095,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.819724+00:00'
+  fetched_at: '2026-09-13T22:00:11.404549+00:00'
 - uid: e847aa598ea102de@waw-calendars
   source: waw4free
   title: Spacer po absurdach PRL-u
@@ -5591,7 +5107,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.819281+00:00'
+  fetched_at: '2026-09-13T22:00:11.404114+00:00'
 - uid: e77a523c6969a5dc@waw-calendars
   source: waw4free
   title: Stare Bielany - zielona osada na carskim poligonie
@@ -5603,7 +5119,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.814497+00:00'
+  fetched_at: '2026-09-13T22:00:11.399339+00:00'
 - uid: f09d47e4ba7f5f28@waw-calendars
   source: waw4free
   title: Ujęcia. Podróż w czasie - ZAPISY na projekt artystyczny dla osób 15-20 lat
@@ -5618,7 +5134,7 @@ events:
   - teatr
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.788696+00:00'
+  fetched_at: '2026-09-13T22:00:11.380967+00:00'
 - uid: ace70c90aee4ba60@waw-calendars
   source: waw4free
   title: VI Jesienny Festiwal Dziecięcej Książki Geologicznej
@@ -5631,7 +5147,7 @@ events:
   categories:
   - dla dzieci
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.807896+00:00'
+  fetched_at: '2026-09-13T22:00:11.392732+00:00'
 - uid: e56166cc3e5e590a@waw-calendars
   source: waw4free
   title: Warsaw 2.0 Comedy Show
@@ -5644,7 +5160,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - po angielsku
-  fetched_at: '2026-09-13T16:00:11.824370+00:00'
+  fetched_at: '2026-09-13T22:00:11.409229+00:00'
 - uid: efb7117d862e6f63@waw-calendars
   source: waw4free
   title: Wawerska Garażówka
@@ -5656,7 +5172,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.807403+00:00'
+  fetched_at: '2026-09-13T22:00:11.392258+00:00'
 - uid: 8d8a5f15ec01cd6b@waw-calendars
   source: waw4free
   title: Wernisaż oraz premiera albumu OBRAZ i DŹWIĘK
@@ -5670,7 +5186,7 @@ events:
   - koncert
   - spotkanie
   - wystawa
-  fetched_at: '2026-09-13T16:00:11.822571+00:00'
+  fetched_at: '2026-09-13T22:00:11.407414+00:00'
 - uid: 281def78d9ec4744@waw-calendars
   source: waw4free
   title: WIELKI PIKNIK SPORTOWY z okazji Narodowego Dnia Sportu 2026
@@ -5687,7 +5203,7 @@ events:
   - sport
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:11.811203+00:00'
+  fetched_at: '2026-09-13T22:00:11.396030+00:00'
 - uid: e34e509b84e9d0f6@waw-calendars
   source: waw4free
   title: Wyprzedaż Garażowa w Galerii Północnej
@@ -5699,7 +5215,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:11.815431+00:00'
+  fetched_at: '2026-09-13T22:00:11.400268+00:00'
 - uid: 6a8149943e4b2a5e@waw-calendars
   source: waw4free
   title: XVII International Ochota Blues Festival
@@ -5712,7 +5228,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-09-13T16:00:11.823909+00:00'
+  fetched_at: '2026-09-13T22:00:11.408757+00:00'
 - uid: 772e6a6faf2807db@waw-calendars
   source: waw4free
   title: Łazienki Królewskie - rezydencja ostatniego króla Polski.
@@ -5724,7 +5240,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:11.818287+00:00'
+  fetched_at: '2026-09-13T22:00:11.403115+00:00'
 - uid: 0cd1edddd2d79c8e@waw-calendars
   source: waw4free
   title: „Powiedz mi, co czujesz” – pokaz filmu i spotkanie z reżyserem
@@ -5737,7 +5253,7 @@ events:
   categories:
   - film
   - spotkanie
-  fetched_at: '2026-09-13T16:00:11.820201+00:00'
+  fetched_at: '2026-09-13T22:00:11.405027+00:00'
 - uid: 581b06527a8b8473@waw-calendars
   source: waw4free
   title: „Z plecakiem przez 5 kontynentów" - spotkanie autorskie z Agnieszką Wasztyl
@@ -5749,7 +5265,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:11.820638+00:00'
+  fetched_at: '2026-09-13T22:00:11.405465+00:00'
 - uid: f7067a34d88ffccc@waw-calendars
   source: waw4free
   title: 'Bezpłatny pokaz filmu Montagskino bei Goethe: 22 Bahnen'
@@ -5761,7 +5277,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:12.814033+00:00'
+  fetched_at: '2026-09-13T22:00:12.231175+00:00'
 - uid: 7927df1d64b6c803@waw-calendars
   source: waw4free
   title: Codzienność kobiet w PRL. Spotkanie z Błażejem Brzostkiem, laureatem Nagrody Znaczenia 2026
@@ -5773,7 +5289,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:12.817067+00:00'
+  fetched_at: '2026-09-13T22:00:12.234230+00:00'
 - uid: 7f99f5cfa9e08da5@waw-calendars
   source: waw4free
   title: Lekcje brydża
@@ -5787,7 +5303,7 @@ events:
   - dla seniorów
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:12.811688+00:00'
+  fetched_at: '2026-09-13T22:00:12.228847+00:00'
 - uid: f6c2ebb2de5c6673@waw-calendars
   source: waw4free
   title: Napiszmy coś – warsztaty pisania
@@ -5799,7 +5315,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:12.814916+00:00'
+  fetched_at: '2026-09-13T22:00:12.232074+00:00'
 - uid: 4b1729e3823eb7e7@waw-calendars
   source: waw4free
   title: OFF Polska | "Wojna na słowa"
@@ -5811,7 +5327,7 @@ events:
   description: null
   categories:
   - teatr
-  fetched_at: '2026-09-13T16:00:12.816628+00:00'
+  fetched_at: '2026-09-13T22:00:12.233806+00:00'
 - uid: 75cd00ca1b190ace@waw-calendars
   source: waw4free
   title: Poznaj Naukowca Wojskowej Akademii Technicznej. Spotkanie z prof. dr. hab. inż. Januszem Zmywaczykiem
@@ -5824,7 +5340,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:12.811170+00:00'
+  fetched_at: '2026-09-13T22:00:12.228155+00:00'
 - uid: 3a969e6306ed35c4@waw-calendars
   source: waw4free
   title: Projekcja filmu "Punkt Odniesienia" w ramach Społecznego Archiwum Osiedla Jazdów
@@ -5836,7 +5352,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:12.815347+00:00'
+  fetched_at: '2026-09-13T22:00:12.232508+00:00'
 - uid: 9568cd978db3f77b@waw-calendars
   source: waw4free
   title: Spacer po Łazienkach Królewskich
@@ -5848,7 +5364,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:12.813588+00:00'
+  fetched_at: '2026-09-13T22:00:12.230725+00:00'
 - uid: 4e2f04409d0ff86d@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Gobelin cz.1
@@ -5860,7 +5376,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:12.812591+00:00'
+  fetched_at: '2026-09-13T22:00:12.229803+00:00'
 - uid: f8e7067859ba7098@waw-calendars
   source: waw4free
   title: Stand Up Open Mic w Arcade Bee Hala Koszyki x Wydarzenia Komediowe
@@ -5872,7 +5388,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-09-13T16:00:12.816193+00:00'
+  fetched_at: '2026-09-13T22:00:12.233360+00:00'
 - uid: 2e442c4f05c1e7d8@waw-calendars
   source: waw4free
   title: Uszyj torbę! - warsztaty MAL
@@ -5884,7 +5400,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:12.812142+00:00'
+  fetched_at: '2026-09-13T22:00:12.229291+00:00'
 - uid: dc92fbcfa7a4f62a@waw-calendars
   source: waw4free
   title: Zrób z nami wegańskie kanapki dla Fundacji Daj Herbatę!
@@ -5897,7 +5413,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:12.813117+00:00'
+  fetched_at: '2026-09-13T22:00:12.230262+00:00'
 - uid: 97b24cc603e29e5b@waw-calendars
   source: waw4free
   title: '„ARCHITEKTURA XXI WIEKU: CZY NADAL JEST TRWAŁA, UŻYTECZNA I PIĘKNA?” / EUROPEJSKIE DNI DZIEDZICTWA
@@ -5910,7 +5426,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:12.814459+00:00'
+  fetched_at: '2026-09-13T22:00:12.231610+00:00'
 - uid: c4f26659386ff371@waw-calendars
   source: waw4free
   title: Ciekłe kryształy i monitory LCD - wykład dr hab. inż. Pawła Perkowskiego
@@ -5922,7 +5438,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:13.600489+00:00'
+  fetched_at: '2026-09-13T22:00:12.920191+00:00'
 - uid: 9cc599e32aabe8d3@waw-calendars
   source: waw4free
   title: Midnight Concert | Klasyka na Koszykach | TONY południa
@@ -5935,7 +5451,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:13.608439+00:00'
+  fetched_at: '2026-09-13T22:00:12.926653+00:00'
 - uid: 09dc9bc0fa27f916@waw-calendars
   source: waw4free
   title: Myśli, które ważą
@@ -5947,7 +5463,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:13.601879+00:00'
+  fetched_at: '2026-09-13T22:00:12.921575+00:00'
 - uid: 4fae299eb59269bd@waw-calendars
   source: waw4free
   title: NAREKATSI | Նարեկացի – historia, która wciąż przemawia. Projekcja filmu dokumentalnego
@@ -5959,7 +5475,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:13.607502+00:00'
+  fetched_at: '2026-09-13T22:00:12.925699+00:00'
 - uid: 9ca1864f8f872f20@waw-calendars
   source: waw4free
   title: NAWZAJEM! - Kawiarenka Naprawcza
@@ -5973,7 +5489,7 @@ events:
   - warsztaty
   - inne
   - po angielsku
-  fetched_at: '2026-09-13T16:00:13.601420+00:00'
+  fetched_at: '2026-09-13T22:00:12.921131+00:00'
 - uid: 66451f5d9a53f6b7@waw-calendars
   source: waw4free
   title: Nie każdy wypala się tak samo – stres i przeciążenia w pracy okiem Gallupa. Spotkanie rozwojowe
@@ -5986,7 +5502,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-09-13T16:00:13.604670+00:00'
+  fetched_at: '2026-09-13T22:00:12.923935+00:00'
 - uid: 40ab636e5b2b910e@waw-calendars
   source: waw4free
   title: Projekcja filmu „ŚWIĘTO OGNIA”
@@ -5998,7 +5514,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:13.599103+00:00'
+  fetched_at: '2026-09-13T22:00:12.918807+00:00'
 - uid: bf15d14e77683e4d@waw-calendars
   source: waw4free
   title: Sekrety Nowego Miasta. Spacer z przewodniczką
@@ -6010,7 +5526,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:13.603286+00:00'
+  fetched_at: '2026-09-13T22:00:12.922956+00:00'
 - uid: 98397e267626db7e@waw-calendars
   source: waw4free
   title: Siomga. Dyskusja wokół debiutanckiej powieści Sofii Andruchowycz
@@ -6022,7 +5538,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:13.607062+00:00'
+  fetched_at: '2026-09-13T22:00:12.925241+00:00'
 - uid: 14a71341c9128c18@waw-calendars
   source: waw4free
   title: Skarby Muzeum Narodowego w Warszawie cz. 1
@@ -6035,7 +5551,7 @@ events:
   categories:
   - spacer lub rower
   - wystawa
-  fetched_at: '2026-09-13T16:00:13.600042+00:00'
+  fetched_at: '2026-09-13T22:00:12.919745+00:00'
 - uid: 280e78d1505daa0f@waw-calendars
   source: waw4free
   title: Spotkania grupy warszawskich dziewiarek
@@ -6048,7 +5564,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:13.602337+00:00'
+  fetched_at: '2026-09-13T22:00:12.922044+00:00'
 - uid: 826a2234748ed693@waw-calendars
   source: waw4free
   title: Tadeusz DROZDA vs Krzysztof SKIBA czyli KABARET kontra STAND UP
@@ -6060,7 +5576,7 @@ events:
   description: null
   categories:
   - stand-up, kabaret, impro
-  fetched_at: '2026-09-13T16:00:13.606608+00:00'
+  fetched_at: '2026-09-13T22:00:12.924812+00:00'
 - uid: 93fd896c2e00cfa8@waw-calendars
   source: waw4free
   title: 'Teresa Drozda przypomina: Mieczysław Czechowicz'
@@ -6073,7 +5589,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:13.607980+00:00'
+  fetched_at: '2026-09-13T22:00:12.926170+00:00'
 - uid: 3e5b0a9948a24979@waw-calendars
   source: waw4free
   title: Tureckie słodycze - kulinarne warsztaty dla dzieci
@@ -6086,7 +5602,7 @@ events:
   categories:
   - dla dzieci
   - warsztaty
-  fetched_at: '2026-09-13T16:00:13.602845+00:00'
+  fetched_at: '2026-09-13T22:00:12.922502+00:00'
 - uid: 4b8321f80a735cc0@waw-calendars
   source: waw4free
   title: Warszawa Canaletta wczoraj i dziś. Co zostało z dawnych widoków Zamku i Warszawy?
@@ -6099,7 +5615,7 @@ events:
   categories:
   - spacer lub rower
   - wykład
-  fetched_at: '2026-09-13T16:00:13.604035+00:00'
+  fetched_at: '2026-09-13T22:00:12.923431+00:00'
 - uid: c8e1f99f00757623@waw-calendars
   source: waw4free
   title: Wodniackie porządki w Dzielnicy Wisła 2026
@@ -6111,7 +5627,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:13.599553+00:00'
+  fetched_at: '2026-09-13T22:00:12.919243+00:00'
 - uid: 243e493146620a92@waw-calendars
   source: waw4free
   title: Wykłady do wystawy "Nabiści. Prorocy nowej sztuki" | "Félix Vallotton. Poza nabizm"
@@ -6123,7 +5639,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:13.600935+00:00'
+  fetched_at: '2026-09-13T22:00:12.920632+00:00'
 - uid: 48d3180911451c21@waw-calendars
   source: waw4free
   title: „Jak zostałem pisarzem”. Spotkanie autorskie z Leonem Durką
@@ -6135,7 +5651,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:13.605740+00:00'
+  fetched_at: '2026-09-13T22:00:12.924365+00:00'
 - uid: 4bf6fa6253892727@waw-calendars
   source: waw4free
   title: '"Jak żyć pełnią życia w spektrum autyzmu". Spotkanie autorskie z Ewą Furgał'
@@ -6147,7 +5663,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:14.248058+00:00'
+  fetched_at: '2026-09-13T22:00:13.078843+00:00'
 - uid: 5dbba080fbafa623@waw-calendars
   source: waw4free
   title: Ciekłe kryształy i monitory LCD - wykład dr hab. inż. Pawła Perkowskiego
@@ -6159,7 +5675,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:14.243405+00:00'
+  fetched_at: '2026-09-13T22:00:13.075339+00:00'
 - uid: e8489ba903face3d@waw-calendars
   source: waw4free
   title: 'Dyskusyjny Klub Książki: Kazuo Ishiguro - „Okruchy dnia"'
@@ -6173,7 +5689,7 @@ events:
   - dla seniorów
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:14.243966+00:00'
+  fetched_at: '2026-09-13T22:00:13.075857+00:00'
 - uid: 95602adc126a6409@waw-calendars
   source: waw4free
   title: Inny wymiar słuchania – o muzyce i z muzyką / Wojciech Niedziółka
@@ -6186,7 +5702,7 @@ events:
   categories:
   - koncert
   - spotkanie
-  fetched_at: '2026-09-13T16:00:14.250421+00:00'
+  fetched_at: '2026-09-13T22:00:13.081301+00:00'
 - uid: 6cc5cf58132e104f@waw-calendars
   source: waw4free
   title: Jak reagować, gdy widzisz krzywdę // Warsztat 4/6 z cyklu SENSytywne rozmowy
@@ -6198,7 +5714,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:14.247160+00:00'
+  fetched_at: '2026-09-13T22:00:13.077624+00:00'
 - uid: 14706d6d9d535665@waw-calendars
   source: waw4free
   title: Koncert Niny Nowak
@@ -6210,7 +5726,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:14.246594+00:00'
+  fetched_at: '2026-09-13T22:00:13.077181+00:00'
 - uid: 5d08bfd73db1ca9d@waw-calendars
   source: waw4free
   title: Opowieści o wodzie. Wykłady z Przemysławem Nawrockim | Gatunki obce i rodzime
@@ -6222,7 +5738,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:14.244950+00:00'
+  fetched_at: '2026-09-13T22:00:13.076291+00:00'
 - uid: 713e4df40a55870b@waw-calendars
   source: waw4free
   title: Otwarte Spotkanie Fotograficzne
@@ -6234,7 +5750,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:14.249941+00:00'
+  fetched_at: '2026-09-13T22:00:13.080843+00:00'
 - uid: eea9310c029a5996@waw-calendars
   source: waw4free
   title: Paryż bez filtra. Spacer po paryskiej mapie "Błogostanu". Spotkanie autorskie z Martyną Gabałą
@@ -6247,7 +5763,7 @@ events:
   categories:
   - slajdowisko
   - spotkanie
-  fetched_at: '2026-09-13T16:00:14.249478+00:00'
+  fetched_at: '2026-09-13T22:00:13.080390+00:00'
 - uid: 5297929c20fc10ca@waw-calendars
   source: waw4free
   title: Poznajmy Stare Powązki - od Bramy II do IV
@@ -6259,7 +5775,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:14.242391+00:00'
+  fetched_at: '2026-09-13T22:00:13.074390+00:00'
 - uid: 44912b348579ad59@waw-calendars
   source: waw4free
   title: Pożegnanie lata 2026 na Dziedzińcu MKiDN
@@ -6273,7 +5789,7 @@ events:
   - koncert
   - targi, garażówka
   - warsztaty
-  fetched_at: '2026-09-13T16:00:14.242964+00:00'
+  fetched_at: '2026-09-13T22:00:13.074906+00:00'
 - uid: f39cd33675780012@waw-calendars
   source: waw4free
   title: Spacer po trzech Placach w centrum Warszawy
@@ -6285,7 +5801,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:14.247613+00:00'
+  fetched_at: '2026-09-13T22:00:13.078071+00:00'
 - uid: 86e1057cc52f2444@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Mandala kropkowana
@@ -6297,7 +5813,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:14.246073+00:00'
+  fetched_at: '2026-09-13T22:00:13.076735+00:00'
 - uid: dba5aa80370764d5@waw-calendars
   source: waw4free
   title: Spotkanie z Agnieszką Piwowarską
@@ -6309,7 +5825,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:14.248987+00:00'
+  fetched_at: '2026-09-13T22:00:13.079927+00:00'
 - uid: 50d387b7a57875ce@waw-calendars
   source: waw4free
   title: Wyszywamy i Tańczymy Urzecze - warsztaty haftu (wyszywana biżuteria)
@@ -6321,7 +5837,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:14.248524+00:00'
+  fetched_at: '2026-09-13T22:00:13.079294+00:00'
 - uid: a26bcddfd0e7b3d2@waw-calendars
   source: waw4free
   title: '"Czas na upgrade" | AI: od rewolucji technologicznej do projektowania przyszłości'
@@ -6333,7 +5849,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:15.127657+00:00'
+  fetched_at: '2026-09-13T22:00:13.559150+00:00'
 - uid: c4aeb81d79046df0@waw-calendars
   source: waw4free
   title: Big Book Festival 2026 I Duży Międzynarodowy Festiwal Czytania I Kiedyś było lepiej
@@ -6347,7 +5863,7 @@ events:
   - spotkanie
   - wykład
   - inne
-  fetched_at: '2026-09-13T16:00:16.533764+00:00'
+  fetched_at: '2026-09-13T22:00:15.104728+00:00'
 - uid: f8c7ec161b5a298c@waw-calendars
   source: waw4free
   title: Czwartek poetycko-muzyczny
@@ -6359,7 +5875,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:15.129396+00:00'
+  fetched_at: '2026-09-13T22:00:13.561250+00:00'
 - uid: 6c3f1e8722abded4@waw-calendars
   source: waw4free
   title: Czytamy „Wiecha” w Murowance
@@ -6372,7 +5888,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:15.125430+00:00'
+  fetched_at: '2026-09-13T22:00:13.556796+00:00'
 - uid: 0f464e6c7f7050a6@waw-calendars
   source: waw4free
   title: Czytelnia. Rozmowy o książkach | „Sześć Ruchów. Od »Pracowni« olsztyńskiej do metodologii twórczo-ba
@@ -6384,7 +5900,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.128101+00:00'
+  fetched_at: '2026-09-13T22:00:13.559626+00:00'
 - uid: 95808e7b2049360c@waw-calendars
   source: waw4free
   title: Dostarczyć żaglowiec do Wietnamu – co mogło pójść nie tak?
@@ -6396,7 +5912,7 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-09-13T16:00:15.126800+00:00'
+  fetched_at: '2026-09-13T22:00:13.558187+00:00'
 - uid: eba611edbc49d7b8@waw-calendars
   source: waw4free
   title: 'Heniek Małolepszy przedstawia: Czytamy Wiecha!'
@@ -6409,7 +5925,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:15.125907+00:00'
+  fetched_at: '2026-09-13T22:00:13.557276+00:00'
 - uid: 79dd90e9028b6753@waw-calendars
   source: waw4free
   title: Hiszpania - życie jak w Madrycie
@@ -6421,7 +5937,7 @@ events:
   description: null
   categories:
   - slajdowisko
-  fetched_at: '2026-09-13T16:00:15.127226+00:00'
+  fetched_at: '2026-09-13T22:00:13.558635+00:00'
 - uid: 9e7ef17c6c33de23@waw-calendars
   source: waw4free
   title: Jaskinia Kasprowa Niżnia. Od Gniazda Złotej Kaczki do Syfonu Kociego
@@ -6433,7 +5949,7 @@ events:
   description: null
   categories:
   - wykład
-  fetched_at: '2026-09-13T16:00:15.131195+00:00'
+  fetched_at: '2026-09-13T22:00:13.564154+00:00'
 - uid: 851a80b6ce0c3216@waw-calendars
   source: waw4free
   title: 'Kino w Pałacyku: Klasyka filmu'
@@ -6445,7 +5961,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:15.132635+00:00'
+  fetched_at: '2026-09-13T22:00:13.565614+00:00'
 - uid: 0d1bd38310b3c4f3@waw-calendars
   source: waw4free
   title: Przemiany. Dawna i nowa fotografia ze zbiorów Muzeum Azji i Pacyfiku
@@ -6457,7 +5973,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:15.129882+00:00'
+  fetched_at: '2026-09-13T22:00:13.561806+00:00'
 - uid: 891cb18b8328ff08@waw-calendars
   source: waw4free
   title: Rodzicielstwo i rozwój zawodowy – warsztat dla mam
@@ -6469,7 +5985,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.122701+00:00'
+  fetched_at: '2026-09-13T22:00:13.554031+00:00'
 - uid: ba6d4dbce75bf346@waw-calendars
   source: waw4free
   title: Samoregulacja i rozwój emocjonalny nastolatka – warsztaty dla rodziców
@@ -6481,7 +5997,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.123646+00:00'
+  fetched_at: '2026-09-13T22:00:13.554969+00:00'
 - uid: d4dbaa3a0cb65a02@waw-calendars
   source: waw4free
   title: Spacer z przewodnikiem po Torze Wyścigów Konnych na Służewcu
@@ -6493,7 +6009,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:15.128976+00:00'
+  fetched_at: '2026-09-13T22:00:13.560818+00:00'
 - uid: f2119297269e0f44@waw-calendars
   source: waw4free
   title: 'Spacer: Święci i grzesznicy dawnej Warszawy'
@@ -6505,7 +6021,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:15.124976+00:00'
+  fetched_at: '2026-09-13T22:00:13.556322+00:00'
 - uid: 43e73d0ecf052dfa@waw-calendars
   source: waw4free
   title: Spotkajmy się  na Twardej - Torba na jesień
@@ -6517,7 +6033,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.124087+00:00'
+  fetched_at: '2026-09-13T22:00:13.555421+00:00'
 - uid: bbea46e09f09a6fc@waw-calendars
   source: waw4free
   title: Spotkania pasjonatów szydełka i drutów - MAL
@@ -6529,7 +6045,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.124526+00:00'
+  fetched_at: '2026-09-13T22:00:13.555882+00:00'
 - uid: 69607ba498945c09@waw-calendars
   source: waw4free
   title: Spotkanie autorskie w Wypożyczalni nr 69 - „Pospieszalscy. Rodzina”
@@ -6541,7 +6057,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.130304+00:00'
+  fetched_at: '2026-09-13T22:00:13.563206+00:00'
 - uid: 554de7c5a4b85b41@waw-calendars
   source: waw4free
   title: Spotkanie z Kronkel DOM w Przystanku Książka!
@@ -6553,7 +6069,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.130736+00:00'
+  fetched_at: '2026-09-13T22:00:13.563707+00:00'
 - uid: 50f5f9080cb7b77f@waw-calendars
   source: waw4free
   title: Targi Zagranicznych Uniwersytetów
@@ -6567,7 +6083,7 @@ events:
   - dla młodzieży
   - targi, garażówka
   - inne
-  fetched_at: '2026-09-13T16:00:15.122234+00:00'
+  fetched_at: '2026-09-13T22:00:13.553539+00:00'
 - uid: 538121eb510725e9@waw-calendars
   source: waw4free
   title: Thursday Oldie Goldie / Jukebox
@@ -6580,7 +6096,7 @@ events:
   categories:
   - impreza
   - po angielsku
-  fetched_at: '2026-09-13T16:00:15.133121+00:00'
+  fetched_at: '2026-09-13T22:00:13.566111+00:00'
 - uid: 27a60668217306f5@waw-calendars
   source: waw4free
   title: Warsztaty szydełkowania - KOSMETYCZKA
@@ -6592,7 +6108,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.128539+00:00'
+  fetched_at: '2026-09-13T22:00:13.560338+00:00'
 - uid: be6774dbdffffea9@waw-calendars
   source: waw4free
   title: „Iłowajsk. Opowieści o prawdziwych ludziach” – spotkanie autorskie i prezentacja książki Jewhena
@@ -6605,7 +6121,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.131630+00:00'
+  fetched_at: '2026-09-13T22:00:13.564593+00:00'
 - uid: e02e9a52aa14b800@waw-calendars
   source: waw4free
   title: „Ostatni biały kraj”. Spotkanie autorskie z Iloną Wiśniewską
@@ -6617,7 +6133,7 @@ events:
   description: null
   categories:
   - spotkanie
-  fetched_at: '2026-09-13T16:00:15.126335+00:00'
+  fetched_at: '2026-09-13T22:00:13.557736+00:00'
 - uid: 89bac58a87940379@waw-calendars
   source: waw4free
   title: „Wsparcie pożyczkowe na start i rozwój firmy”
@@ -6630,7 +6146,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:15.123188+00:00'
+  fetched_at: '2026-09-13T22:00:13.554496+00:00'
 - uid: dfde8e7f9f8b5199@waw-calendars
   source: waw4free
   title: Formacja - koncert Otwarta scena
@@ -6642,7 +6158,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:15.869069+00:00'
+  fetched_at: '2026-09-13T22:00:14.246893+00:00'
 - uid: e21b01d4f8bb16a9@waw-calendars
   source: waw4free
   title: GIMLET live / Carol Markovsky / DJ Victor Rayo
@@ -6655,7 +6171,7 @@ events:
   categories:
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:15.867744+00:00'
+  fetched_at: '2026-09-13T22:00:14.245450+00:00'
 - uid: 46a22736b08cb105@waw-calendars
   source: waw4free
   title: 'Koncert: Czarny Lud'
@@ -6667,7 +6183,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:15.869578+00:00'
+  fetched_at: '2026-09-13T22:00:14.247352+00:00'
 - uid: 11987cf5fcf73601@waw-calendars
   source: waw4free
   title: Kreatywne warsztaty. Nauka robienia profesjonalnych zdjęć i rolek
@@ -6679,7 +6195,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.863131+00:00'
+  fetched_at: '2026-09-13T22:00:14.240033+00:00'
 - uid: 377474e21636ffed@waw-calendars
   source: waw4free
   title: Kreatywny piątek | Gliniane stojaki na biżuterię!
@@ -6692,7 +6208,7 @@ events:
   categories:
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.866856+00:00'
+  fetched_at: '2026-09-13T22:00:14.244117+00:00'
 - uid: f89b54eef27aa9f8@waw-calendars
   source: waw4free
   title: Muranów - osiedle na gruzach getta. Spacer z przewodnikiem
@@ -6704,7 +6220,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:15.865502+00:00'
+  fetched_at: '2026-09-13T22:00:14.242732+00:00'
 - uid: 8e288c038d7bc28d@waw-calendars
   source: waw4free
   title: Parzyste / Nieparzyste
@@ -6716,7 +6232,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.865058+00:00'
+  fetched_at: '2026-09-13T22:00:14.242283+00:00'
 - uid: 828a435ece6bf2a4@waw-calendars
   source: waw4free
   title: Powstańczy Piątek w Filii nr 2 w Zielonej
@@ -6731,7 +6247,7 @@ events:
   - warsztaty
   - wykład
   - inne
-  fetched_at: '2026-09-13T16:00:15.862528+00:00'
+  fetched_at: '2026-09-13T22:00:14.239545+00:00'
 - uid: c89d5f9c1f8c2d00@waw-calendars
   source: waw4free
   title: Przegra | Spektakl (18+)
@@ -6743,7 +6259,7 @@ events:
   description: null
   categories:
   - teatr
-  fetched_at: '2026-09-13T16:00:15.867284+00:00'
+  fetched_at: '2026-09-13T22:00:14.244552+00:00'
 - uid: a1d0e5085c6bdbc3@waw-calendars
   source: waw4free
   title: Przybysz z ciemności | pokaz filmowy w ramach Dyskusyjnego Klubu Filmowego Faktor Berliński
@@ -6755,7 +6271,7 @@ events:
   description: null
   categories:
   - film
-  fetched_at: '2026-09-13T16:00:15.868180+00:00'
+  fetched_at: '2026-09-13T22:00:14.245985+00:00'
 - uid: 1e0b102d23a6e947@waw-calendars
   source: waw4free
   title: 'Spotkanie w Izbie: Podróżnicy w czasie'
@@ -6770,7 +6286,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:15.864159+00:00'
+  fetched_at: '2026-09-13T22:00:14.241354+00:00'
 - uid: aa82b111233f5a65@waw-calendars
   source: waw4free
   title: Sztuka Czasu Wolnego. Spotkania wokół wybranych dzieł w Białym Domu dla dorosłych
@@ -6783,7 +6299,7 @@ events:
   categories:
   - wykład
   - wystawa
-  fetched_at: '2026-09-13T16:00:15.863627+00:00'
+  fetched_at: '2026-09-13T22:00:14.240827+00:00'
 - uid: bcac749339f32fcf@waw-calendars
   source: waw4free
   title: Warsztaty kreatywnego pisania Loesje w Kadrze
@@ -6796,7 +6312,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-09-13T16:00:15.865968+00:00'
+  fetched_at: '2026-09-13T22:00:14.243200+00:00'
 - uid: 39f60f3f0d55f8bc@waw-calendars
   source: waw4free
   title: Wieczorny spacer po Starówce z gawędziarzem warszawskiem
@@ -6808,7 +6324,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:15.868623+00:00'
+  fetched_at: '2026-09-13T22:00:14.246432+00:00'
 - uid: 090b8be13f3c03ed@waw-calendars
   source: waw4free
   title: Zwróć uwagę i spójrz w bok. Spacer po niewidocznych detalach Starego i Nowego Miasta
@@ -6820,7 +6336,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:15.864614+00:00'
+  fetched_at: '2026-09-13T22:00:14.241822+00:00'
 - uid: 4832371edee70c3b@waw-calendars
   source: waw4free
   title: „Budowanie wizerunku przedsiębiorstwa za pomocą własności intelektualnej”
@@ -6833,7 +6349,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:15.861969+00:00'
+  fetched_at: '2026-09-13T22:00:14.239017+00:00'
 - uid: f2294d1fd22bf769@waw-calendars
   source: waw4free
   title: 125. Turniej Szachowy w Czytelni Naukowej nr 1 im. Janiny Englert
@@ -6846,7 +6362,7 @@ events:
   categories:
   - sport
   - inne
-  fetched_at: '2026-09-13T16:00:16.535696+00:00'
+  fetched_at: '2026-09-13T22:00:14.768564+00:00'
 - uid: 10ca7934dd63feb2@waw-calendars
   source: waw4free
   title: '5. urodziny Pałacyku: Miejsce Aktywności Lokalnej'
@@ -6859,7 +6375,7 @@ events:
   categories:
   - spotkanie
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.542341+00:00'
+  fetched_at: '2026-09-13T22:00:14.775219+00:00'
 - uid: 73ccbabb5b823b5f@waw-calendars
   source: waw4free
   title: Casting do projektu Warsztaty MusicaLOVE
@@ -6873,7 +6389,7 @@ events:
   - dla dzieci
   - dla młodzieży
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.534723+00:00'
+  fetched_at: '2026-09-13T22:00:14.767585+00:00'
 - uid: a7211d8167edf538@waw-calendars
   source: waw4free
   title: Chodź! Pokażę Ci Powiśle! Trasa spacerowa nr 1
@@ -6885,7 +6401,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.538511+00:00'
+  fetched_at: '2026-09-13T22:00:14.771389+00:00'
 - uid: d34f0243c9ab950d@waw-calendars
   source: waw4free
   title: Czym jest Otwarta Nauka? - spotkanie prowadzi mgr Ewa Kasperska
@@ -6898,7 +6414,7 @@ events:
   categories:
   - spotkanie
   - wykład
-  fetched_at: '2026-09-13T16:00:16.537600+00:00'
+  fetched_at: '2026-09-13T22:00:14.770473+00:00'
 - uid: cd84ecdf230824b4@waw-calendars
   source: waw4free
   title: Dlaczego MÓJ NASTOLATEK mnie nie słucha? - warsztat dla rodziców nastolatków z Warszawy
@@ -6911,7 +6427,7 @@ events:
   categories:
   - warsztaty
   - wykład
-  fetched_at: '2026-09-13T16:00:16.535215+00:00'
+  fetched_at: '2026-09-13T22:00:14.768072+00:00'
 - uid: 395c2a33f73738cc@waw-calendars
   source: waw4free
   title: Dzień Kolekcjonera. Oprowadzanie po wystawie
@@ -6923,7 +6439,7 @@ events:
   description: null
   categories:
   - wystawa
-  fetched_at: '2026-09-13T16:00:16.541417+00:00'
+  fetched_at: '2026-09-13T22:00:14.774281+00:00'
 - uid: 8daeedc95992c972@waw-calendars
   source: waw4free
   title: Festiwal Muzyki Kameralnej na Bielanach | EMOCyJA | “Kwintet Żywioły”
@@ -6935,7 +6451,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:16.551519+00:00'
+  fetched_at: '2026-09-13T22:00:14.784571+00:00'
 - uid: 9221815a168cdf5a@waw-calendars
   source: waw4free
   title: GIMLET live band / Rey Ceballo & Tripulacion Cubana
@@ -6949,7 +6465,7 @@ events:
   - impreza
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:16.552972+00:00'
+  fetched_at: '2026-09-13T22:00:14.786410+00:00'
 - uid: ec0dfd89b96e079d@waw-calendars
   source: waw4free
   title: JAPONIA NA PRADZE - POP-UP JAPOŃSKI 4 edycja
@@ -6962,7 +6478,7 @@ events:
   categories:
   - targi, garażówka
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.528410+00:00'
+  fetched_at: '2026-09-13T22:00:15.101083+00:00'
 - uid: 9861ab3055e03f12@waw-calendars
   source: waw4free
   title: Kiedyś to było - komedia improwizowana o Twoim dzieciństwie
@@ -6975,7 +6491,7 @@ events:
   categories:
   - stand-up, kabaret, impro
   - teatr
-  fetched_at: '2026-09-13T16:00:16.550130+00:00'
+  fetched_at: '2026-09-13T22:00:14.783162+00:00'
 - uid: 54719ff83f492f93@waw-calendars
   source: waw4free
   title: Koncert i potańcówka z WoWaKin-em
@@ -6988,7 +6504,7 @@ events:
   categories:
   - impreza
   - koncert
-  fetched_at: '2026-09-13T16:00:16.553876+00:00'
+  fetched_at: '2026-09-13T22:00:14.787332+00:00'
 - uid: 0c3179f4426121c1@waw-calendars
   source: waw4free
   title: KONCERT W DWÓCH JĘZYKACH POLSKICH. MUZYKA CIAŁ. RYTM | Olsztyński Teatr Głuchych
@@ -7000,7 +6516,7 @@ events:
   description: null
   categories:
   - koncert
-  fetched_at: '2026-09-13T16:00:16.553398+00:00'
+  fetched_at: '2026-09-13T22:00:14.786873+00:00'
 - uid: 2b7ecfc667b460a7@waw-calendars
   source: waw4free
   title: Latający Teatr Sztuka Ciała | Spacer Przyrodniczo‐Teatralny
@@ -7014,7 +6530,7 @@ events:
   - dla dzieci
   - spacer lub rower
   - teatr
-  fetched_at: '2026-09-13T16:00:16.543362+00:00'
+  fetched_at: '2026-09-13T22:00:14.776191+00:00'
 - uid: 7263fabd4951c2b6@waw-calendars
   source: waw4free
   title: LEŚNE SPOTKANAI RODZINNE - URSYNÓW
@@ -7031,7 +6547,7 @@ events:
   - spacer lub rower
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:16.548216+00:00'
+  fetched_at: '2026-09-13T22:00:14.781220+00:00'
 - uid: 883b45aee360c436@waw-calendars
   source: waw4free
   title: MARATON PUZZLOWY – JÓZEFÓW SIĘ UKŁADA
@@ -7044,7 +6560,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:16.545785+00:00'
+  fetched_at: '2026-09-13T22:00:14.778574+00:00'
 - uid: f703af3f42960a43@waw-calendars
   source: waw4free
   title: Miautystyczne - performans
@@ -7057,7 +6573,7 @@ events:
   categories:
   - teatr
   - inne
-  fetched_at: '2026-09-13T16:00:16.546756+00:00'
+  fetched_at: '2026-09-13T22:00:14.779482+00:00'
 - uid: c500a0b4eb5ae57e@waw-calendars
   source: waw4free
   title: Mokotów walczy! Mokotów krwawi! Mokotów cierpi! Spacer powstańczy z przewodnikiem PTTK
@@ -7069,7 +6585,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.544330+00:00'
+  fetched_at: '2026-09-13T22:00:14.777203+00:00'
 - uid: 95976ba3319c13e1@waw-calendars
   source: waw4free
   title: Nightskating Warszawa - Zakończenie sezonu, poziom 1
@@ -7081,7 +6597,7 @@ events:
   description: null
   categories:
   - sport
-  fetched_at: '2026-09-13T16:00:16.554307+00:00'
+  fetched_at: '2026-09-13T22:00:14.787780+00:00'
 - uid: 6a5ff723545d0df7@waw-calendars
   source: waw4free
   title: Obchody Dnia Pamięci Więźniów Obozu Dulag 121 i Niosących Im Pomoc 2026
@@ -7093,7 +6609,7 @@ events:
   description: null
   categories:
   - inne
-  fetched_at: '2026-09-13T16:00:16.546282+00:00'
+  fetched_at: '2026-09-13T22:00:14.779024+00:00'
 - uid: f55f94adcf076521@waw-calendars
   source: waw4free
   title: OCHOTA x HIP-HOP BLOKI STARTOWE 2026
@@ -7107,7 +6623,7 @@ events:
   - impreza
   - koncert
   - po angielsku
-  fetched_at: '2026-09-13T16:00:16.551082+00:00'
+  fetched_at: '2026-09-13T22:00:14.784125+00:00'
 - uid: dcbcc26c57966169@waw-calendars
   source: waw4free
   title: Parzyste + Nieparzyste
@@ -7119,7 +6635,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.539407+00:00'
+  fetched_at: '2026-09-13T22:00:14.772420+00:00'
 - uid: 842ff4be11f292e6@waw-calendars
   source: waw4free
   title: POL-ENG Super Quiz Warsaw vol. 8 (PUB QUIZ)
@@ -7132,7 +6648,7 @@ events:
   categories:
   - inne
   - po angielsku
-  fetched_at: '2026-09-13T16:00:16.552000+00:00'
+  fetched_at: '2026-09-13T22:00:14.785369+00:00'
 - uid: fee219b71e8fc136@waw-calendars
   source: waw4free
   title: Przedstawienie "Krew ziemi i cisza pól" – opowieści jesiennej równonocy
@@ -7145,7 +6661,7 @@ events:
   categories:
   - teatr
   - inne
-  fetched_at: '2026-09-13T16:00:16.552458+00:00'
+  fetched_at: '2026-09-13T22:00:14.785921+00:00'
 - uid: b6d8b0b62eef36a2@waw-calendars
   source: waw4free
   title: Rowerowa Wesoła | Rajd rowerowy z Tadeuszem Baranowskim
@@ -7158,7 +6674,7 @@ events:
   categories:
   - spacer lub rower
   - sport
-  fetched_at: '2026-09-13T16:00:16.538983+00:00'
+  fetched_at: '2026-09-13T22:00:14.771981+00:00'
 - uid: ec249df28636d26a@waw-calendars
   source: waw4free
   title: Spacer "Dzielnice filmowe Warszawy. Poprzez Nowe i Stare Miasto po Śródmieście"
@@ -7170,7 +6686,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.550573+00:00'
+  fetched_at: '2026-09-13T22:00:14.783603+00:00'
 - uid: a565ba4fa0c11c3c@waw-calendars
   source: waw4free
   title: 'Spacer edukacyjny w 82. rocznicę kapitulacji Powstania Warszawskiego (prowadzenie: Aldona Szpejn)'
@@ -7183,7 +6699,7 @@ events:
   categories:
   - dla seniorów
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.536179+00:00'
+  fetched_at: '2026-09-13T22:00:14.769069+00:00'
 - uid: 4e7d7ad5c9668e3a@waw-calendars
   source: waw4free
   title: Spacer szlakiem zniszczeń i odbudowy po Starym Mieście
@@ -7195,7 +6711,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.540500+00:00'
+  fetched_at: '2026-09-13T22:00:14.773370+00:00'
 - uid: 2ae1bf4c3fbd3308@waw-calendars
   source: waw4free
   title: SPICHLERZ | Społeczne Święto Obfitości, Wdzięczności i Wspólnoty
@@ -7210,7 +6726,7 @@ events:
   - spotkanie
   - warsztaty
   - inne
-  fetched_at: '2026-09-13T16:00:16.549651+00:00'
+  fetched_at: '2026-09-13T22:00:14.782684+00:00'
 - uid: 017404d067ecfce4@waw-calendars
   source: waw4free
   title: Spotkanie autorskie z Mateuszem Połuszańczykiem w Książnicy Pruszkowskiej
@@ -7223,7 +6739,7 @@ events:
   categories:
   - spotkanie
   - inne
-  fetched_at: '2026-09-13T16:00:16.548682+00:00'
+  fetched_at: '2026-09-13T22:00:14.781692+00:00'
 - uid: e1b09f73d47d890d@waw-calendars
   source: waw4free
   title: Targi Rękodzieła - Handmade Market
@@ -7235,7 +6751,7 @@ events:
   description: null
   categories:
   - targi, garażówka
-  fetched_at: '2026-09-13T16:00:16.547198+00:00'
+  fetched_at: '2026-09-13T22:00:14.780121+00:00'
 - uid: bc3cd5fd059c4e57@waw-calendars
   source: waw4free
   title: Teatr Naj „Jesień” – spektakl dla dzieci do 4 lat
@@ -7248,7 +6764,7 @@ events:
   categories:
   - dla dzieci
   - teatr
-  fetched_at: '2026-09-13T16:00:16.536651+00:00'
+  fetched_at: '2026-09-13T22:00:14.769544+00:00'
 - uid: 80bb1bf928eb3ada@waw-calendars
   source: waw4free
   title: 'Teatralna Szkoła Gotowania: pączki'
@@ -7260,7 +6776,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.547640+00:00'
+  fetched_at: '2026-09-13T22:00:14.780623+00:00'
 - uid: ee25fe3aa7405b10@waw-calendars
   source: waw4free
   title: Warszawski Wielki Spacer Chartów // Great Global Greyhound Walk
@@ -7273,7 +6789,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:16.542876+00:00'
+  fetched_at: '2026-09-13T22:00:14.775697+00:00'
 - uid: a6150e9f5b558239@waw-calendars
   source: waw4free
   title: Warsztaty dla rodziców maluszków - FIZJOTERAPIA
@@ -7285,7 +6801,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.541875+00:00'
+  fetched_at: '2026-09-13T22:00:14.774747+00:00'
 - uid: cb59a2ee7cdf9668@waw-calendars
   source: waw4free
   title: Warsztaty teatralne z Olsztyńskim Teatrem Głuchych | poezja migowa i Visual Vernacular
@@ -7298,7 +6814,7 @@ events:
   categories:
   - teatr
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.537125+00:00'
+  fetched_at: '2026-09-13T22:00:14.770020+00:00'
 - uid: 307cdd8af52e73e1@waw-calendars
   source: waw4free
   title: Warsztaty z przetwarzania owoców na zdrowe przekąski [godz. 12:00, 14:00]
@@ -7310,7 +6826,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.545288+00:00'
+  fetched_at: '2026-09-13T22:00:14.778092+00:00'
 - uid: e4504106e5140ff1@waw-calendars
   source: waw4free
   title: Wieś w Mieście - Festyn Zdrowego Życia
@@ -7324,7 +6840,7 @@ events:
   - impreza
   - targi, garażówka
   - inne
-  fetched_at: '2026-09-13T16:00:16.543890+00:00'
+  fetched_at: '2026-09-13T22:00:14.776729+00:00'
 - uid: 8511d149f12fc651@waw-calendars
   source: waw4free
   title: Wystawa malarstwa | CAŁOŚĆ | Dorota Nowicka Kokka
@@ -7348,7 +6864,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.549123+00:00'
+  fetched_at: '2026-09-13T22:00:14.782153+00:00'
 - uid: 07e60a71483a2de2@waw-calendars
   source: waw4free
   title: Zamknięte przestrzenie – ukryte mechanizmy. BG WAT od kulis
@@ -7361,7 +6877,7 @@ events:
   categories:
   - spacer lub rower
   - inne
-  fetched_at: '2026-09-13T16:00:16.539905+00:00'
+  fetched_at: '2026-09-13T22:00:14.772933+00:00'
 - uid: 21d856653dc9b17b@waw-calendars
   source: waw4free
   title: Zapachy lasu i natury – warsztaty aromaterapii i relaksacji
@@ -7373,7 +6889,7 @@ events:
   description: null
   categories:
   - warsztaty
-  fetched_at: '2026-09-13T16:00:16.544839+00:00'
+  fetched_at: '2026-09-13T22:00:14.777647+00:00'
 - uid: 99a28e9bb4598a49@waw-calendars
   source: waw4free
   title: Śladami Pani Stefy - Stefanii Wilczyńskiej i Janusza Korczaka - Henryka Goldszmita
@@ -7385,7 +6901,7 @@ events:
   description: null
   categories:
   - spacer lub rower
-  fetched_at: '2026-09-13T16:00:16.538059+00:00'
+  fetched_at: '2026-09-13T22:00:14.770948+00:00'
 - uid: dcd5d4c269b87335@waw-calendars
   source: waw4free
   title: Україномовний книжковий клуб «Мережа» | «Мій прапор запісяв котик» Лєни Лягушонкової
@@ -7398,7 +6914,288 @@ events:
   categories:
   - spotkanie
   - po ukraińsku
-  fetched_at: '2026-09-13T16:00:16.540980+00:00'
+  fetched_at: '2026-09-13T22:00:14.773851+00:00'
+- uid: ee16080fde59de34@waw-calendars
+  source: waw4free
+  title: Bajeczna Fiesta - spektakl dla dzieci Teatru Kultureska
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-158154-bajeczna-fiesta-spektakl-dla-dzieci-teatru-kultureska
+  description: null
+  categories:
+  - dla dzieci
+  - teatr
+  fetched_at: '2026-09-13T22:00:15.107428+00:00'
+- uid: 9bde3b338d5460b6@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia zumby na Wilanowie
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-158231-bezplatne-zajecia-zumby-na-wilanowie
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:15.115384+00:00'
+- uid: 3ce4116fea3de42f@waw-calendars
+  source: waw4free
+  title: Bielańska Wyprzedaż Garażowa
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-154591-bielanska-wyprzedaz-garazowa
+  description: null
+  categories:
+  - targi, garażówka
+  fetched_at: '2026-09-13T22:00:15.108749+00:00'
+- uid: bf412f80edc938f8@waw-calendars
+  source: waw4free
+  title: Dawne Leszno. Spacer śladami zaginionego świata.
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-158307-dawne-leszno-spacer-sladami-zaginionego-swiata
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.110224+00:00'
+- uid: e466240109417a17@waw-calendars
+  source: waw4free
+  title: 'Drugie Życie Tkanin: szyjemy kosmetyczkę #myślęniemarnuję'
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-156811-drugie-zycie-tkanin-szyjemy-kosmetyczke-mysleniemarnuje
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:15.106498+00:00'
+- uid: fcefee16be5c7bc1@waw-calendars
+  source: waw4free
+  title: Kolory Dzielnicy Praga-Południe
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-158544-kolory-dzielnicy-praga-poludnie
+  description: null
+  categories:
+  - dla młodzieży
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:15.111187+00:00'
+- uid: 1e395bf815bc4c79@waw-calendars
+  source: waw4free
+  title: Koncert “Ty masz dla mnie coś”
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-157917-koncert-ty-masz-dla-mnie-cos
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-09-13T22:00:15.114935+00:00'
+- uid: 12049e7fe128a7cb@waw-calendars
+  source: waw4free
+  title: LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO. LAS REMBERTOWSKI
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Rembertów, Warszawa
+  url: https://waw4free.pl/wydarzenie-158429-lesne-spotkania-rodzinne-spacer-i-ognisko-las-rembertowski
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - impreza
+  - spacer lub rower
+  - warsztaty
+  - inne
+  fetched_at: '2026-09-13T22:00:15.112211+00:00'
+- uid: 82e589c8254d64d5@waw-calendars
+  source: waw4free
+  title: Miautystyczne - performans
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-157679-miautystyczne-performans
+  description: null
+  categories:
+  - teatr
+  fetched_at: '2026-09-13T22:00:15.113982+00:00'
+- uid: bceb9296b54baada@waw-calendars
+  source: waw4free
+  title: Między Nowym Światem a Skarpą. Historie z Foksal, Smolnej i kilku innych wyjątkowych miejsc
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158564-miedzy-nowym-swiatem-a-skarpa-historie-z-foksal-smolnej-i-kilku-innych-wyjatkowych-miejsc
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.112651+00:00'
+- uid: da2e5e285b58b1c4@waw-calendars
+  source: waw4free
+  title: Między Raz-Dwa a Raz-Dwa-Trzy Happening uliczny
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-158020-miedzy-raz-dwa-a-raz-dwa-trzy-happening-uliczny
+  description: null
+  categories:
+  - spacer lub rower
+  - inne
+  fetched_at: '2026-09-13T22:00:15.106972+00:00'
+- uid: e9281874acc82636@waw-calendars
+  source: waw4free
+  title: Między Zygmuntem a Mikołajem. Spacer z przewodnikiem po Krakowskim Przedmieściu
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-158281-miedzy-zygmuntem-a-mikolajem-spacer-z-przewodnikiem-po-krakowskim-przedmiesciu
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.108313+00:00'
+- uid: 72c58d55387f6105@waw-calendars
+  source: waw4free
+  title: Pieśni Powstania Warszawskiego| Muzyczno-filmowa opowieść na Mokotowie
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157596-piesni-powstania-warszawskiego-muzyczno-filmowa-opowiesc-na-mokotowie
+  description: null
+  categories:
+  - koncert
+  fetched_at: '2026-09-13T22:00:15.113541+00:00'
+- uid: 729806d5a706cf72@waw-calendars
+  source: waw4free
+  title: Powstańczy Mokotów. Śladami niemieckich zbrodni na ludności cywilnej
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157256-powstanczy-mokotow-sladami-niemieckich-zbrodni-na-ludnosci-cywilnej
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.109204+00:00'
+- uid: ec7ce4a6dec20944@waw-calendars
+  source: waw4free
+  title: Spacer po Łazienkach Królewskich. Po nim koncert chopinowski
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158042-spacer-po-lazienkach-krolewskich-po-nim-koncert-chopinowski
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.111630+00:00'
+- uid: 2aa438adb3cb9efb@waw-calendars
+  source: waw4free
+  title: Spotkanie z Niną Patalon
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Wilanów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157729-spotkanie-z-nina-patalon
+  description: null
+  categories:
+  - dla młodzieży
+  - sport
+  - spotkanie
+  fetched_at: '2026-09-13T22:00:15.114488+00:00'
+- uid: e2819464e8da062d@waw-calendars
+  source: waw4free
+  title: Sąsiedzka wymianka | ciuchy, dom, relaks
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Targówek, Warszawa
+  url: https://waw4free.pl/wydarzenie-158091-sasiedzka-wymianka-ciuchy-dom-relaks
+  description: null
+  categories:
+  - targi, garażówka
+  fetched_at: '2026-09-13T22:00:15.107878+00:00'
+- uid: 0d326b13cf6ba4de@waw-calendars
+  source: waw4free
+  title: Warszawskie dworce - Podziemne miasto [100 lat PKP, spacer z przewodnikiem]
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158561-warszawskie-dworce-podziemne-miasto-100-lat-pkp-spacer-z-przewodnikiem
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:15.113102+00:00'
+- uid: 6dda347f4b9fe72c@waw-calendars
+  source: waw4free
+  title: Warsztaty antystresowe | Stowarzyszenie Wspólne Podwórko
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-157063-warsztaty-antystresowe-stowarzyszenie-wspolne-podworko
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:15.105599+00:00'
+- uid: de21fd1bd4529292@waw-calendars
+  source: waw4free
+  title: Wyprzedaż Garażowa na Zieleniaku
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-150814-wyprzedaz-garazowa-na-zieleniaku
+  description: null
+  categories:
+  - targi, garażówka
+  fetched_at: '2026-09-13T22:00:15.106068+00:00'
+- uid: 419cd7fafa192b00@waw-calendars
+  source: waw4free
+  title: XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-158121-xxii-rodzinny-piknik-integracyjny-szczesliwice-2026
+  description: null
+  categories:
+  - dla dzieci
+  - dla młodzieży
+  - dla seniorów
+  - impreza
+  - sport
+  - inne
+  fetched_at: '2026-09-13T22:00:15.109792+00:00'
+- uid: 31b83aa257298576@waw-calendars
+  source: waw4free
+  title: Z Homerem Warszawskiej ulicy po brukach Syreniego Grodu
+  start: '2026-09-27'
+  end: '2026-09-27'
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-158498-z-homerem-warszawskiej-ulicy-po-brukach-syreniego-grodu
+  description: null
+  categories:
+  - spotkanie
+  - wykład
+  fetched_at: '2026-09-13T22:00:15.110709+00:00'
 - uid: 6d0438945134425b@waw-calendars
   source: waw4free
   title: Obecność - Wystawa sztuki Artystów Warszawskiego Stowarzyszenia Plastyków
@@ -8829,6 +8626,32 @@ events:
   - sport
   - warsztaty
   fetched_at: '2026-08-29T16:00:08.969025+00:00'
+- uid: 64b7575e21ef469f@waw-calendars
+  source: waw4free
+  title: Bezpłatna Zumba w Jabłonnie
+  start: null
+  end: null
+  all_day: true
+  location: null
+  url: https://waw4free.pl/wydarzenie-84528-bezplatna-zumba-w-jablonnie
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.172333+00:00'
+- uid: 518b147335ecf30c@waw-calendars
+  source: waw4free
+  title: Bezpłatne aikido dla dorosłych
+  start: null
+  end: null
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-147215-bezplatne-aikido-dla-doroslych
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.175940+00:00'
 - uid: a4fcc775f7c0a3f9@waw-calendars
   source: waw4free
   title: Bezpłatne badania mammograficzne na Targówku
@@ -9069,6 +8892,32 @@ events:
   - dla młodzieży
   - sport
   fetched_at: '2026-08-25T16:00:11.110029+00:00'
+- uid: f9d9f85319a9d1bc@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami
+  start: null
+  end: null
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-149774-bezplatne-zajecia-taneczne-dla-dzieci-4-8-lat-z-niepelnosprawnosciami
+  description: null
+  categories:
+  - dla dzieci
+  - sport
+  fetched_at: '2026-09-13T22:00:08.162305+00:00'
+- uid: 3b405cae19205f6b@waw-calendars
+  source: waw4free
+  title: Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami
+  start: null
+  end: null
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-149780-bezplatne-zajecia-taneczne-dla-rodzicow-z-dziecmi-3-8-lat-z-niepelnosprawnosciami
+  description: null
+  categories:
+  - dla dzieci
+  - sport
+  fetched_at: '2026-09-13T22:00:08.166863+00:00'
 - uid: 1677b43c9f07c39b@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia w Skatepark Jutrzenka z BMX School
@@ -9084,19 +8933,6 @@ events:
   - sport
   - warsztaty
   fetched_at: '2026-09-06T16:00:13.825680+00:00'
-- uid: 9bde3b338d5460b6@waw-calendars
-  source: waw4free
-  title: Bezpłatne zajęcia zumby na Wilanowie
-  start: null
-  end: null
-  all_day: true
-  location: Wilanów, Warszawa
-  url: https://waw4free.pl/wydarzenie-158231-bezplatne-zajecia-zumby-na-wilanowie
-  description: null
-  categories:
-  - sport
-  - warsztaty
-  fetched_at: '2026-09-06T16:00:13.851558+00:00'
 - uid: 6721d13eb85b824d@waw-calendars
   source: waw4free
   title: Bezpłatne zajęcia Zumby w Domu Kultury Świt
@@ -9110,6 +8946,19 @@ events:
   - sport
   - warsztaty
   fetched_at: '2026-08-09T16:00:07.714987+00:00'
+- uid: 9d6015bced1572be@waw-calendars
+  source: waw4free
+  title: Bezpłatny cross training w Jabłonnie
+  start: null
+  end: null
+  all_day: true
+  location: null
+  url: https://waw4free.pl/wydarzenie-115547-bezplatny-cross-training-w-jablonnie
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.175470+00:00'
 - uid: 7962c643e0cf7118@waw-calendars
   source: waw4free
   title: Bezpłatny fitness na Plaży Romantycznej
@@ -9217,18 +9066,6 @@ events:
   - spacer lub rower
   - sport
   fetched_at: '2026-08-30T16:00:06.945106+00:00'
-- uid: 3ce4116fea3de42f@waw-calendars
-  source: waw4free
-  title: Bielańska Wyprzedaż Garażowa
-  start: null
-  end: null
-  all_day: true
-  location: Bielany, Warszawa
-  url: https://waw4free.pl/wydarzenie-154591-bielanska-wyprzedaz-garazowa
-  description: null
-  categories:
-  - targi, garażówka
-  fetched_at: '2026-08-30T16:00:06.928750+00:00'
 - uid: 53d9327d58b2c9ca@waw-calendars
   source: waw4free
   title: Bielańskie Dożynki 2026
@@ -9616,6 +9453,19 @@ events:
   categories:
   - koncert
   fetched_at: '2026-08-16T16:00:08.612754+00:00'
+- uid: f3ca217d927c1e55@waw-calendars
+  source: waw4free
+  title: 'CINEMONDAY: Let’s talk about cinema'
+  start: null
+  end: null
+  all_day: true
+  location: Ochota, Warszawa
+  url: https://waw4free.pl/wydarzenie-158566-cinemonday-let-s-talk-about-cinema
+  description: null
+  categories:
+  - spotkanie
+  - po angielsku
+  fetched_at: '2026-09-13T22:00:08.175022+00:00'
 - uid: 518e9e1571789a7e@waw-calendars
   source: waw4free
   title: 'CINEMONDAY: Let’s talk about cinema'
@@ -9770,6 +9620,18 @@ events:
   categories:
   - impreza
   fetched_at: '2026-08-29T16:00:08.968546+00:00'
+- uid: 2d2ebd0b11b5489b@waw-calendars
+  source: waw4free
+  title: 'CRASH Mondays № 52: AI w planowaniu contentu'
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158200-crash-mondays-52-ai-w-planowaniu-contentu
+  description: null
+  categories:
+  - wykład
+  fetched_at: '2026-09-13T22:00:08.169224+00:00'
 - uid: 7cc3769b1c29d43d@waw-calendars
   source: waw4free
   title: Crusin’ x The X | Zamknięcie Sezonu Letniego
@@ -9973,6 +9835,19 @@ events:
   - film
   - wykład
   fetched_at: '2026-08-18T16:00:08.397009+00:00'
+- uid: 1d96c2d50a9cfbee@waw-calendars
+  source: waw4free
+  title: Cykl „Gry matematyczne” – rodzinne zajęcia dla dzieci 5-6 lat
+  start: null
+  end: null
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-158508-cykl-gry-matematyczne-rodzinne-zajecia-dla-dzieci-5-6-lat
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.165061+00:00'
 - uid: d778bb522e888493@waw-calendars
   source: waw4free
   title: CZARNINA koncert plenerowy
@@ -10273,7 +10148,7 @@ events:
   url: https://waw4free.pl/informacja-1095-darmowy-coworking-w-warszawie
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.556398+00:00'
+  fetched_at: '2026-09-13T22:00:15.117467+00:00'
 - uid: 06fd71df077d3657@waw-calendars
   source: waw4free
   title: Darmowy dyżur krawcowej
@@ -10430,6 +10305,18 @@ events:
   - warsztaty
   - inne
   fetched_at: '2026-09-12T16:00:08.090647+00:00'
+- uid: 1f3439d0c614f0b3@waw-calendars
+  source: waw4free
+  title: DOBRE KINO NA SADACH by Filmweb
+  start: null
+  end: null
+  all_day: true
+  location: Żoliborz, Warszawa
+  url: https://waw4free.pl/wydarzenie-152914-dobre-kino-na-sadach-by-filmweb
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-09-13T22:00:08.176366+00:00'
 - uid: 62d4e835c53dc6d9@waw-calendars
   source: waw4free
   title: Dobro z Lasu | Wielozmysłowy spacer z kawą
@@ -10921,7 +10808,7 @@ events:
   url: https://waw4free.pl/w-warszawie-za-darmo-dzisiaj
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.555093+00:00'
+  fetched_at: '2026-09-13T22:00:15.116184+00:00'
 - uid: 8f3d0cb366ea989d@waw-calendars
   source: waw4free
   title: EAT. DRINK. DANCE. x DZIEŃ I NOC Hala Mirowska
@@ -11467,6 +11354,19 @@ events:
   - spotkanie
   - inne
   fetched_at: '2026-08-09T16:00:07.700961+00:00'
+- uid: 736c15449a8746df@waw-calendars
+  source: waw4free
+  title: FITNESS dla osób 60+ [godz. 10:00 i 11:00]
+  start: null
+  end: null
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157561-fitness-dla-osob-60-godz-10-00-i-11-00
+  description: null
+  categories:
+  - dla seniorów
+  - sport
+  fetched_at: '2026-09-13T22:00:08.157599+00:00'
 - uid: c22dd1d50063908d@waw-calendars
   source: waw4free
   title: Foksal i okolice Okólnika - luksusowe budowle, przedziwne historie [spacer Praskiej Ferajny]
@@ -11653,6 +11553,19 @@ events:
   - stand-up, kabaret, impro
   - po angielsku
   fetched_at: '2026-08-28T16:00:10.237007+00:00'
+- uid: 6f49c73607533578@waw-calendars
+  source: waw4free
+  title: Frisbee na Bielanach - otwarte granie dla każdego
+  start: null
+  end: null
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-152498-frisbee-na-bielanach-otwarte-granie-dla-kazdego
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.167312+00:00'
 - uid: 3ff3c9c88ff82305@waw-calendars
   source: waw4free
   title: Frisbee na Bielanach - otwarte granie dla każdego
@@ -12482,7 +12395,7 @@ events:
   description: null
   categories:
   - reklama
-  fetched_at: '2026-09-13T16:00:16.534202+00:00'
+  fetched_at: '2026-09-13T22:00:15.105149+00:00'
 - uid: 12ad86ef8c1c7451@waw-calendars
   source: waw4free
   title: Impro draka za Zwrotnikiem Raka - komedia improwizowana grupy NOPLANDO
@@ -12567,7 +12480,7 @@ events:
   url: https://waw4free.pl/informacje
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.555345+00:00'
+  fetched_at: '2026-09-13T22:00:15.116436+00:00'
 - uid: 0ead7d8fe2457f08@waw-calendars
   source: waw4free
   title: 'InneRAVE: Rave somatyczny // INNERAVE: Somatic Rave'
@@ -13205,6 +13118,19 @@ events:
   categories:
   - inne
   fetched_at: '2026-08-29T16:00:08.995975+00:00'
+- uid: e358a73eced9df7b@waw-calendars
+  source: waw4free
+  title: Kamil Galus "Skity" - spotkanie poetyckie Środek Wyrazu
+  start: null
+  end: null
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-158097-kamil-galus-skity-spotkanie-poetyckie-srodek-wyrazu
+  description: null
+  categories:
+  - spotkanie
+  - inne
+  fetched_at: '2026-09-13T22:00:08.170970+00:00'
 - uid: d5f46498e8754df6@waw-calendars
   source: waw4free
   title: Kanał waw4free
@@ -13215,7 +13141,7 @@ events:
   url: https://m.me/j/AbaeNYWhNzCEDoJm/
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.556143+00:00'
+  fetched_at: '2026-09-13T22:00:15.117216+00:00'
 - uid: 2c17ddb613734582@waw-calendars
   source: waw4free
   title: KAPELANI POWSTANIA WARSZAWSKIEGO. HISTORIA O. JÓZEFA WARSZAWSKIEGO SI
@@ -13694,6 +13620,18 @@ events:
   categories:
   - film
   fetched_at: '2026-08-20T16:00:09.960091+00:00'
+- uid: f0a4dc378a534220@waw-calendars
+  source: waw4free
+  title: 'Kino znów na Ursynowie: „Zaproszenie”'
+  start: null
+  end: null
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-158161-kino-znow-na-ursynowie-zaproszenie
+  description: null
+  categories:
+  - film
+  fetched_at: '2026-09-13T22:00:08.171388+00:00'
 - uid: 2d9d6a5f10df713d@waw-calendars
   source: waw4free
   title: 'Kino znów na Ursynowie: „Znaki Pana Śliwki”'
@@ -13773,6 +13711,19 @@ events:
   categories:
   - film
   fetched_at: '2026-08-18T16:00:08.406484+00:00'
+- uid: 0b8d2586100cceab@waw-calendars
+  source: waw4free
+  title: Klub Gier Planszowych
+  start: null
+  end: null
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-158596-klub-gier-planszowych
+  description: null
+  categories:
+  - dla młodzieży
+  - inne
+  fetched_at: '2026-09-13T22:00:08.166389+00:00'
 - uid: 23ef38e6ca3f406f@waw-calendars
   source: waw4free
   title: Klub Książki dla Młodzieży - Ucieczka
@@ -13913,6 +13864,21 @@ events:
   categories:
   - warsztaty
   fetched_at: '2026-08-24T18:03:05.637845+00:00'
+- uid: cc2b07b781e7f475@waw-calendars
+  source: waw4free
+  title: 'Kolażowa Antologia Poezji: Maria Grossek-Korycka'
+  start: null
+  end: null
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-156949-kolazowa-antologia-poezji-maria-grossek-korycka
+  description: null
+  categories:
+  - dla seniorów
+  - spotkanie
+  - warsztaty
+  - inne
+  fetched_at: '2026-09-13T22:00:08.162838+00:00'
 - uid: e6743be1ba9b35b0@waw-calendars
   source: waw4free
   title: Kolonia Profesorska, ASP i okolice Liceum Batorego [spacer Praskiej Ferajny]
@@ -15171,6 +15137,19 @@ events:
   categories:
   - impreza
   fetched_at: '2026-08-22T16:00:08.910801+00:00'
+- uid: 858b4e09b766e87d@waw-calendars
+  source: waw4free
+  title: Lato w Pałacu | Soft Sculpture. Warsztaty z filcowania na sucho
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158080-lato-w-palacu-soft-sculpture-warsztaty-z-filcowania-na-sucho
+  description: null
+  categories:
+  - dla młodzieży
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.163726+00:00'
 - uid: 1ac96ff175dfdc85@waw-calendars
   source: waw4free
   title: Lato w Pałacu | Soft Sculpture. Warsztaty z filcowania na sucho
@@ -16050,6 +16029,20 @@ events:
   categories:
   - warsztaty
   fetched_at: '2026-09-09T16:00:11.694615+00:00'
+- uid: 1416e2c485fa0a73@waw-calendars
+  source: waw4free
+  title: 'Meet & Speak Monday: English'
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158339-meet-speak-monday-english
+  description: null
+  categories:
+  - spotkanie
+  - inne
+  - po angielsku
+  fetched_at: '2026-09-13T22:00:08.174101+00:00'
 - uid: befeca47ee505996@waw-calendars
   source: waw4free
   title: Mela Koteluk – koncert
@@ -16121,7 +16114,7 @@ events:
   url: https://waw4free.pl/miejsca
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.555615+00:00'
+  fetched_at: '2026-09-13T22:00:15.116699+00:00'
 - uid: b637c2a9ec31adda@waw-calendars
   source: waw4free
   title: Mieszkać tanio i wspólnie - rozwój spółdzielczości lokatorskiej w Polsce
@@ -16478,7 +16471,7 @@ events:
   fetched_at: '2026-08-23T16:00:09.740114+00:00'
 - uid: b4c14530ae15478c@waw-calendars
   source: waw4free
-  title: Muzea ze wstępem wolnym w soboty
+  title: Muzea ze wstępem wolnym w niedziele
   start: null
   end: null
   all_day: true
@@ -16486,7 +16479,7 @@ events:
   url: https://waw4free.pl/wstep-wolny
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.554575+00:00'
+  fetched_at: '2026-09-13T22:00:15.115647+00:00'
 - uid: f6861b309e23063f@waw-calendars
   source: waw4free
   title: Muzeum Gazowni Warszawskiej i dawny wolski przemysł wokół niego [spacer Praskiej Ferajny]
@@ -17003,7 +16996,7 @@ events:
   url: https://waw4free.pl/newsletter
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.555887+00:00'
+  fetched_at: '2026-09-13T22:00:15.116964+00:00'
 - uid: 480fd71a972f8ebc@waw-calendars
   source: waw4free
   title: Nie dotykaj moich płyt x Jan Młynarski
@@ -17320,6 +17313,18 @@ events:
   categories:
   - spacer lub rower
   fetched_at: '2026-08-29T16:00:08.935202+00:00'
+- uid: 2aea090530d81003@waw-calendars
+  source: waw4free
+  title: 'Nowa książka: Atlantyk-trans Tomasz Szerszeń'
+  start: null
+  end: null
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157808-nowa-ksiazka-atlantyk-trans-tomasz-szerszen
+  description: null
+  categories:
+  - spotkanie
+  fetched_at: '2026-09-13T22:00:08.173188+00:00'
 - uid: 2bcbdfee4a6c01b7@waw-calendars
   source: waw4free
   title: 'Nowa książka: Świat przed nami nie istniał. Jak wojna została... Katarzyna Surmiak-Domańska'
@@ -17625,6 +17630,18 @@ events:
   - dla dzieci
   - sport
   fetched_at: '2026-09-06T16:00:13.817036+00:00'
+- uid: ff2a793d8dd3ef8e@waw-calendars
+  source: waw4free
+  title: OM Chanting
+  start: null
+  end: null
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-92592-om-chanting
+  description: null
+  categories:
+  - inne
+  fetched_at: '2026-09-13T22:00:08.170505+00:00'
 - uid: 424fbdf07eec7b37@waw-calendars
   source: waw4free
   title: OM Chanting - joga dźwięku nad Jeziorkiem Czerniakowskim
@@ -17637,6 +17654,20 @@ events:
   categories:
   - inne
   fetched_at: '2026-09-13T16:00:08.058353+00:00'
+- uid: ea4975fe854340a8@waw-calendars
+  source: waw4free
+  title: Omatulenie - spotkania dla kobiet po stracie Mamy
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157769-omatulenie-spotkania-dla-kobiet-po-stracie-mamy
+  description: null
+  categories:
+  - spotkanie
+  - warsztaty
+  - inne
+  fetched_at: '2026-09-13T22:00:08.168792+00:00'
 - uid: 3699ed0634d78d3e@waw-calendars
   source: waw4free
   title: Open Mic Stand Up w Arcade Bee Hala Koszyki x Wydarzenia Komediowe
@@ -17817,6 +17848,18 @@ events:
   - warsztaty
   - inne
   fetched_at: '2026-09-01T16:00:09.322362+00:00'
+- uid: 925c74cac88ffdeb@waw-calendars
+  source: waw4free
+  title: Otwarta bezpłatna pracownia krawiecka - Taka Szpilka!
+  start: null
+  end: null
+  all_day: true
+  location: Ursynów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157819-otwarta-bezplatna-pracownia-krawiecka-taka-szpilka
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.158852+00:00'
 - uid: 6137f5252cdf7091@waw-calendars
   source: waw4free
   title: Otwarta bezpłatna pracownia krawiecka - Taka Szpilka!
@@ -17867,6 +17910,30 @@ events:
   categories:
   - warsztaty
   fetched_at: '2026-08-17T16:00:07.054601+00:00'
+- uid: 8eda69b6c66cd45e@waw-calendars
+  source: waw4free
+  title: Otwarta pracownia haftu | haft ozdobny na chusteczce
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158640-otwarta-pracownia-haftu-haft-ozdobny-na-chusteczce
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.160885+00:00'
+- uid: fbc57e8c08a95f01@waw-calendars
+  source: waw4free
+  title: OTWARTA PRACOWNIA MALARSKA - akwarele dla poczatkujących
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158641-otwarta-pracownia-malarska-akwarele-dla-poczatkujacych
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.169657+00:00'
 - uid: fb29ce90334c8691@waw-calendars
   source: waw4free
   title: OTWARTA PRACOWNIA MALARSKA - akwarele dla poczatkujących
@@ -19104,6 +19171,32 @@ events:
   categories:
   - slajdowisko
   fetched_at: '2026-08-24T18:03:05.647999+00:00'
+- uid: d8ede7327ad0ea79@waw-calendars
+  source: waw4free
+  title: Poniedziałkowe granie z WGP
+  start: null
+  end: null
+  all_day: true
+  location: Wola, Warszawa
+  url: https://waw4free.pl/wydarzenie-125219-poniedzialkowe-granie-z-wgp
+  description: null
+  categories:
+  - spotkanie
+  - inne
+  fetched_at: '2026-09-13T22:00:08.161827+00:00'
+- uid: c48f081c9befb408@waw-calendars
+  source: waw4free
+  title: Poniedziałkowe zajęcia jogi w plenerze na Osiedlu "Przyjaźń"
+  start: null
+  end: null
+  all_day: true
+  location: Bemowo, Warszawa
+  url: https://waw4free.pl/wydarzenie-154172-poniedzialkowe-zajecia-jogi-w-plenerze-na-osiedlu-przyjazn
+  description: null
+  categories:
+  - sport
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.167794+00:00'
 - uid: 8d8880de33e1065d@waw-calendars
   source: waw4free
   title: Poranny rave w największym domu aukcyjnym w Polsce
@@ -19168,6 +19261,20 @@ events:
   - spotkanie
   - warsztaty
   fetched_at: '2026-08-09T16:00:07.730326+00:00'
+- uid: 0c695d27140409be@waw-calendars
+  source: waw4free
+  title: POSKIE OKRĘTY PODWODNE 1939
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158214-poskie-okrety-podwodne-1939
+  description: null
+  categories:
+  - film
+  - spotkanie
+  - wykład
+  fetched_at: '2026-09-13T22:00:08.171886+00:00'
 - uid: 8d1cac768fe86584@waw-calendars
   source: waw4free
   title: Posłuchaj pejzażu. Spotkania dla dorosłych i młodzieży (14+) na wystawie "Nabiści. Prorocy nowej
@@ -20952,6 +21059,19 @@ events:
   categories:
   - spacer lub rower
   fetched_at: '2026-08-29T16:00:08.978920+00:00'
+- uid: 9ce3add32490dae6@waw-calendars
+  source: waw4free
+  title: Semestralne warsztaty rysunkowe dla dzieci
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158182-semestralne-warsztaty-rysunkowe-dla-dzieci
+  description: null
+  categories:
+  - dla dzieci
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.161355+00:00'
 - uid: a6d433b1402d4f18@waw-calendars
   source: waw4free
   title: Seniorzy na Łące – gimnastyka metodą Moshe Feldenkraisa
@@ -21220,6 +21340,18 @@ events:
   categories:
   - spacer lub rower
   fetched_at: '2026-09-04T16:00:11.947409+00:00'
+- uid: 7958328e1a57d82e@waw-calendars
+  source: waw4free
+  title: Skuterem przez Wietnam i Kambodżę
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157173-skuterem-przez-wietnam-i-kambodze
+  description: null
+  categories:
+  - slajdowisko
+  fetched_at: '2026-09-13T22:00:08.172757+00:00'
 - uid: 5f7e7bb2e01f99b8@waw-calendars
   source: waw4free
   title: Sladami " Lalki" Bolesława Prusa
@@ -21282,6 +21414,19 @@ events:
   categories:
   - warsztaty
   fetched_at: '2026-08-19T16:00:08.043759+00:00'
+- uid: b3aa29da6c0b80dc@waw-calendars
+  source: waw4free
+  title: Slavic Language Exchange
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158381-slavic-language-exchange
+  description: null
+  categories:
+  - spotkanie
+  - inne
+  fetched_at: '2026-09-13T22:00:08.174560+00:00'
 - uid: d942c064c16cb893@waw-calendars
   source: waw4free
   title: SLING & SLANG | Zajęcia muzyczno-językowe dla dzieci
@@ -22002,6 +22147,18 @@ events:
   - spacer lub rower
   - inne
   fetched_at: '2026-08-20T16:00:09.947423+00:00'
+- uid: ab4f173b04b4452e@waw-calendars
+  source: waw4free
+  title: Spacer szlakiem romansów
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157565-spacer-szlakiem-romansow
+  description: null
+  categories:
+  - spacer lub rower
+  fetched_at: '2026-09-13T22:00:08.165937+00:00'
 - uid: 6a06df694741f815@waw-calendars
   source: waw4free
   title: Spacer wokół Cytadeli Warszawskiej
@@ -22667,6 +22824,18 @@ events:
   categories:
   - warsztaty
   fetched_at: '2026-09-01T16:00:09.324252+00:00'
+- uid: 951f15d382f7543e@waw-calendars
+  source: waw4free
+  title: Spotkajmy się na Twardej - Kartka  dla nauczyciela
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-158132-spotkajmy-sie-na-twardej-kartka-dla-nauczyciela
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.164164+00:00'
 - uid: 2220b55dfd7953bd@waw-calendars
   source: waw4free
   title: Spotkajmy się nad Wisłą | Warsztaty telefonowej fotografii przyrodniczej
@@ -22787,6 +22956,18 @@ events:
   categories:
   - spotkanie
   fetched_at: '2026-09-02T16:00:10.746596+00:00'
+- uid: a9caefb0f0c757ba@waw-calendars
+  source: waw4free
+  title: Spotkanie autorskie z Moniką Ksieniewicz-Mil
+  start: null
+  end: null
+  all_day: true
+  location: Bielany, Warszawa
+  url: https://waw4free.pl/wydarzenie-157479-spotkanie-autorskie-z-monika-ksieniewicz-mil
+  description: null
+  categories:
+  - spotkanie
+  fetched_at: '2026-09-13T22:00:08.165485+00:00'
 - uid: 2b7190b8947d19da@waw-calendars
   source: waw4free
   title: Spotkanie Mistrzów Polskiego Bramkarstwa
@@ -22854,6 +23035,21 @@ events:
   - warsztaty
   - inne
   fetched_at: '2026-09-12T16:00:08.069809+00:00'
+- uid: 839884a340a3b276@waw-calendars
+  source: waw4free
+  title: Spotkanie treningowo-terapeutyczne dla osób współuzależnionych
+  start: null
+  end: null
+  all_day: true
+  location: Śródmieście, Warszawa
+  url: https://waw4free.pl/wydarzenie-157643-spotkanie-treningowo-terapeutyczne-dla-osob-wspoluzaleznionych
+  description: null
+  categories:
+  - film
+  - spotkanie
+  - warsztaty
+  - inne
+  fetched_at: '2026-09-13T22:00:08.158372+00:00'
 - uid: 1fcd5d06659ee6b2@waw-calendars
   source: waw4free
   title: 'Spotkanie w Izbie: Kto mnie narysował?!'
@@ -22950,6 +23146,18 @@ events:
   - spotkanie
   - inne
   fetched_at: '2026-08-14T16:00:09.170566+00:00'
+- uid: 2f771c3abd65394f@waw-calendars
+  source: waw4free
+  title: Spotkanie z pisarką i filozofką Karoliną Lewestam, autorką książki „Szmaty”
+  start: null
+  end: null
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-157960-spotkanie-z-pisarka-i-filozofka-karolina-lewestam-autorka-ksiazki-szmaty
+  description: null
+  categories:
+  - spotkanie
+  fetched_at: '2026-09-13T22:00:08.173613+00:00'
 - uid: 079a8d209496aa1a@waw-calendars
   source: waw4free
   title: 'Spotkanie z pszczołą - lekcje edukacyjne w pasiece [godz: 10:00, 12:00, 14:00]'
@@ -23526,6 +23734,18 @@ events:
   - film
   - koncert
   fetched_at: '2026-09-12T16:00:08.112545+00:00'
+- uid: ad3b40a17561ef94@waw-calendars
+  source: waw4free
+  title: Szkocja z plecakiem – 154 km szlakiem West Highland Way
+  start: null
+  end: null
+  all_day: true
+  location: Praga-Północ, Warszawa
+  url: https://waw4free.pl/wydarzenie-158439-szkocja-z-plecakiem-154-km-szlakiem-west-highland-way
+  description: null
+  categories:
+  - slajdowisko
+  fetched_at: '2026-09-13T22:00:08.164597+00:00'
 - uid: 4969211d53b1d829@waw-calendars
   source: waw4free
   title: Szkolenie "Prawne miny w biznesie – 7 błędów, przez które firma traci pieniądze, dane i kontrolę"
@@ -24979,6 +25199,18 @@ events:
   - sport
   - warsztaty
   fetched_at: '2026-08-21T16:00:08.114150+00:00'
+- uid: dadd9dd612e06c8f@waw-calendars
+  source: waw4free
+  title: Vistula Toastmasters Leaders - spotkanie hybrydowe
+  start: null
+  end: null
+  all_day: true
+  location: Mokotów, Warszawa
+  url: https://waw4free.pl/wydarzenie-157607-vistula-toastmasters-leaders-spotkanie-hybrydowe
+  description: null
+  categories:
+  - spotkanie
+  fetched_at: '2026-09-13T22:00:08.170086+00:00'
 - uid: 1afda9b2fbe01f03@waw-calendars
   source: waw4free
   title: Vive Napoleon! Cesarz Francuzów w Warszawie. Spacer z przewodnikiem
@@ -26118,7 +26350,7 @@ events:
   description: null
   categories:
   - reklama
-  fetched_at: '2026-09-13T16:00:11.522495+00:00'
+  fetched_at: '2026-09-13T22:00:10.670282+00:00'
 - uid: 49f40edf318596c4@waw-calendars
   source: waw4free
   title: 'Warsztaty w Osadzie: Stylizacja włosów z Janki Cuda Wianki – Koki'
@@ -26183,6 +26415,18 @@ events:
   - teatr
   - warsztaty
   fetched_at: '2026-08-20T16:00:09.935413+00:00'
+- uid: fe8fb82539ed2988@waw-calendars
+  source: waw4free
+  title: 'WARSZTATY: MELODIA WARSZAWSKIEJ GWARY'
+  start: null
+  end: null
+  all_day: true
+  location: Białołęka, Warszawa
+  url: https://waw4free.pl/wydarzenie-158471-warsztaty-melodia-warszawskiej-gwary
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.160386+00:00'
 - uid: 75df20194bbdf2b2@waw-calendars
   source: waw4free
   title: 'Warsztaty: Mozaika klimatyczna'
@@ -26396,7 +26640,7 @@ events:
   url: https://waw4free.pl/wesprzyj
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.556664+00:00'
+  fetched_at: '2026-09-13T22:00:15.117908+00:00'
 - uid: 76af8f593945b047@waw-calendars
   source: waw4free
   title: Westfield Summer Festival | Aktywacje dla dzieci z Fikołkami
@@ -26661,7 +26905,7 @@ events:
   description: null
   categories:
   - reklama
-  fetched_at: '2026-09-13T16:00:12.815753+00:00'
+  fetched_at: '2026-09-13T22:00:12.232930+00:00'
 - uid: d73f7f5d4d8b73c7@waw-calendars
   source: waw4free
   title: Wielki Dzień Pszczół w Pasiece Edukacyjnej Wilanów
@@ -27095,6 +27339,18 @@ events:
   categories:
   - wykład
   fetched_at: '2026-09-05T16:00:08.145736+00:00'
+- uid: 89b98b943731b95c@waw-calendars
+  source: waw4free
+  title: Wydziergaj chustę! - warsztaty MAL
+  start: null
+  end: null
+  all_day: true
+  location: Praga-Południe, Warszawa
+  url: https://waw4free.pl/wydarzenie-157177-wydziergaj-chuste-warsztaty-mal
+  description: null
+  categories:
+  - warsztaty
+  fetched_at: '2026-09-13T22:00:08.163264+00:00'
 - uid: f569f5ca0592229e@waw-calendars
   source: waw4free
   title: Wygraj podwójne zaproszenie na premierę „Letniego dnia” Sławomira Mrożka w Teatrze Klasyki Polskiej
@@ -27171,18 +27427,6 @@ events:
   categories:
   - targi, garażówka
   fetched_at: '2026-08-09T16:00:07.716407+00:00'
-- uid: de21fd1bd4529292@waw-calendars
-  source: waw4free
-  title: Wyprzedaż Garażowa na Zieleniaku
-  start: null
-  end: null
-  all_day: true
-  location: Ochota, Warszawa
-  url: https://waw4free.pl/wydarzenie-150814-wyprzedaz-garazowa-na-zieleniaku
-  description: null
-  categories:
-  - targi, garażówka
-  fetched_at: '2026-08-30T16:00:06.914555+00:00'
 - uid: 9f9e645a08de86b4@waw-calendars
   source: waw4free
   title: Wyprzedaż Garażowa Promenada / Back to School
@@ -27302,7 +27546,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=17.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:09.871961+00:00'
+  fetched_at: '2026-09-13T22:00:10.024410+00:00'
 - uid: dbc6ce24298d7419@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w czwartek, 20 sierpnia
@@ -27324,7 +27568,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=24.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:15.133639+00:00'
+  fetched_at: '2026-09-13T22:00:13.566659+00:00'
 - uid: 2c2ed97b4bbbaf55@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w czwartek, 27 sierpnia
@@ -27379,7 +27623,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=20.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:11.824904+00:00'
+  fetched_at: '2026-09-13T22:00:11.409749+00:00'
 - uid: 44320b97700f788f@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w niedzielę, 23 sierpnia
@@ -27391,6 +27635,17 @@ events:
   description: null
   categories: []
   fetched_at: '2026-08-23T16:00:09.758797+00:00'
+- uid: 09e76f89b52e0c5c@waw-calendars
+  source: waw4free
+  title: Wystawy czasowe trwające w niedzielę, 27 września
+  start: null
+  end: null
+  all_day: true
+  location: null
+  url: https://waw4free.pl/?wydarzenia=27.09.2026&kategoria14=wystawy
+  description: null
+  categories: []
+  fetched_at: '2026-09-13T22:00:15.115913+00:00'
 - uid: b2c5bd5aef36ac2e@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w niedzielę, 30 sierpnia
@@ -27456,7 +27711,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=18.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:10.708357+00:00'
+  fetched_at: '2026-09-13T22:00:10.477501+00:00'
 - uid: 4ac2b6d840442468@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w piątek, 21 sierpnia
@@ -27478,7 +27733,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=25.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:15.870106+00:00'
+  fetched_at: '2026-09-13T22:00:14.247904+00:00'
 - uid: 587a3fb371a29c88@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w piątek, 28 sierpnia
@@ -27522,7 +27777,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=14.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:08.714336+00:00'
+  fetched_at: '2026-09-13T22:00:08.176886+00:00'
 - uid: 99845206f9f6511e@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w poniedziałek, 17 sierpnia
@@ -27544,7 +27799,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=21.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:12.817588+00:00'
+  fetched_at: '2026-09-13T22:00:12.234748+00:00'
 - uid: 335709472929f8d5@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w poniedziałek, 24 sierpnia
@@ -27610,7 +27865,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=19.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:11.561283+00:00'
+  fetched_at: '2026-09-13T22:00:10.695438+00:00'
 - uid: c6e85821e4f409a7@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w sobotę, 22 sierpnia
@@ -27632,7 +27887,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=26.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:16.554842+00:00'
+  fetched_at: '2026-09-13T22:00:14.788316+00:00'
 - uid: 23ab08b93f9916ed@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w sobotę, 29 sierpnia
@@ -27676,7 +27931,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=16.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:09.617257+00:00'
+  fetched_at: '2026-09-13T22:00:08.812168+00:00'
 - uid: a5744fbd8b25ce27@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w środę, 19 sierpnia
@@ -27709,7 +27964,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=23.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:14.251156+00:00'
+  fetched_at: '2026-09-13T22:00:13.081829+00:00'
 - uid: 99e8bd18bed7804c@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające w środę, 26 sierpnia
@@ -27764,7 +28019,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=15.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:09.216511+00:00'
+  fetched_at: '2026-09-13T22:00:08.284572+00:00'
 - uid: cf10d789e6f4107b@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające we wtorek, 18 sierpnia
@@ -27786,7 +28041,7 @@ events:
   url: https://waw4free.pl/?wydarzenia=22.09.2026&kategoria14=wystawy
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:13.609175+00:00'
+  fetched_at: '2026-09-13T22:00:12.927195+00:00'
 - uid: c73b77678be39ea3@waw-calendars
   source: waw4free
   title: Wystawy czasowe trwające we wtorek, 25 sierpnia
@@ -27831,7 +28086,7 @@ events:
   url: https://waw4free.pl/szukaj
   description: null
   categories: []
-  fetched_at: '2026-09-13T16:00:08.084646+00:00'
+  fetched_at: '2026-09-13T22:00:08.177137+00:00'
 - uid: f3f2b4544f5aaddd@waw-calendars
   source: waw4free
   title: Wyszywamy i Tańczymy Urzecze - warsztaty haftu (wyszywamy chusty)
@@ -29704,4 +29959,4 @@ events:
   description: null
   categories:
   - reklama
-  fetched_at: '2026-09-13T16:00:11.555681+00:00'
+  fetched_at: '2026-09-13T22:00:10.692362+00:00'
