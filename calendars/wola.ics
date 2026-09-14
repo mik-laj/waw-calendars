@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Kino i potańcówka na Skwerze Gwary Warszawskiej
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260914T160034Z
+DTSTAMP:20260914T220033Z
 UID:c0f67d2518033f07@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Kino i potańcówka na Skwerze Gwary Warszawskiej Pobierz
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – Bieg Nocny
 DTSTART;TZID="UTC+02:00":20260919T210000
 DTEND;TZID="UTC+02:00":20260919T230000
-DTSTAMP:20260914T160034Z
+DTSTAMP:20260914T220033Z
 UID:6e7561a25eaebe18@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – Bieg Nocny Pobierz jako plik PDF Druku
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Chodźmy odkryć Ulrychów! - spacer sąsiedzki
 DTSTART;TZID="UTC+02:00":20260919T130000
 DTEND;TZID="UTC+02:00":20260919T143000
-DTSTAMP:20260914T160034Z
+DTSTAMP:20260914T220033Z
 UID:14a44b24815f41d3@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Chodźmy odkryć Ulrychów! - spacer sąsiedzki Pobierz j
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Potańcówka „Niedziela na Głównym”
 DTSTART;TZID="UTC+02:00":20260920T160000
 DTEND;TZID="UTC+02:00":20260920T210000
-DTSTAMP:20260914T160034Z
+DTSTAMP:20260914T220033Z
 UID:cbc4f35301d5d48e@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Potańcówka „Niedziela na Głównym” Pobierz jako pl
@@ -100,7 +100,7 @@ SUMMARY:Wspólnie dla rodzin osób w spektrum autyzmu - zapraszamy na konf
  erencję
 DTSTART;TZID="UTC+02:00":20260923T093000
 DTEND;TZID="UTC+02:00":20260923T150000
-DTSTAMP:20260914T160034Z
+DTSTAMP:20260914T220033Z
 UID:6cf9fdc337d5e2c6@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wspólnie dla rodzin osób w spektrum autyzmu - zapraszam
@@ -118,5 +118,28 @@ DESCRIPTION:null Wspólnie dla rodzin osób w spektrum autyzmu - zapraszam
  spolnie-dla-rodzin-osob-w-spektrum-autyzmu-zapraszamy-na-konferencje-1
 URL:https://wola.um.warszawa.pl/-/wspolnie-dla-rodzin-osob-w-spektrum-auty
  zmu-zapraszamy-na-konferencje-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora
+DTSTART;TZID="UTC+02:00":20260929T110000
+DTEND;TZID="UTC+02:00":20260929T123000
+DTSTAMP:20260914T220033Z
+UID:9ab353c6dbe6e670@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Spotkanie z Krzysztofem Zanussim - Wolska Akademia Senior
+ a Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwie
+ ra się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn 
+ Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie 
+ Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza
+  Google - Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - L
+ ink otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do 
+ kalendarza - Link otwiera się w nowej karcie 29.09.2026 11:00 - 29.09.202
+ 6 12:30 ul. Zawiszy 5\, Warszawa wolska akademia seniora Burmistrz Krzyszt
+ of Strzałkowski wraz z Radą i Zarządem Dzielnicy Wola m.st. Warszawy za
+ praszają na wyjątkowe wydarzenie w ramach Wolskiej Akademii Seniora. Tym
+  razem goście…\n\nŹródło: https://wola.um.warszawa.pl/-/spotkanie-z-
+ krzysztofem-zanussim-wolska-akademia-seniora
+URL:https://wola.um.warszawa.pl/-/spotkanie-z-krzysztofem-zanussim-wolska-
+ akademia-seniora
 END:VEVENT
 END:VCALENDAR
