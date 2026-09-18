@@ -4,34 +4,10 @@ PRODID:-//waw-calendars//PL
 X-WR-CALNAME:Wydarzenia — Dzielnica Wola
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-SUMMARY:Kino i potańcówka na Skwerze Gwary Warszawskiej
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T160033Z
-UID:c0f67d2518033f07@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Kino i potańcówka na Skwerze Gwary Warszawskiej Pobierz
-  jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w
-  nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link otwi
- era się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do 
- kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google -
-  Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwie
- ra się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarz
- a - Link otwiera się w nowej karcie 28.08.2026 20:00 - 18.09.2026 22:00 S
- kwer Gwary Warszawskiej wola warszawa dotacja czas wolny filmy potańcówk
- a Fundacja Rozwoju Kinematografii Dzielnica Wola posiada bogatą tradycję
-  kinową i przez dekady była ważnym miejscem życia filmowego Warszawy\,
-  na jej obszarze d…\n\nŹródło: https://wola.um.warszawa.pl/-/kino-i-p
- otancowka-na-skwerze-gwary-warszawskiej
-LOCATION:Skwer Gwary Warszawskiej\, Warszawa
-URL:https://wola.um.warszawa.pl/-/kino-i-potancowka-na-skwerze-gwary-warsz
- awskiej
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – Bieg Nocny
 DTSTART;TZID="UTC+02:00":20260919T210000
 DTEND;TZID="UTC+02:00":20260919T230000
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:6e7561a25eaebe18@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – Bieg Nocny Pobierz jako plik PDF Druku
@@ -54,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Chodźmy odkryć Ulrychów! - spacer sąsiedzki
 DTSTART;TZID="UTC+02:00":20260919T130000
 DTEND;TZID="UTC+02:00":20260919T143000
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:14a44b24815f41d3@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Chodźmy odkryć Ulrychów! - spacer sąsiedzki Pobierz j
@@ -76,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Potańcówka „Niedziela na Głównym”
 DTSTART;TZID="UTC+02:00":20260920T160000
 DTEND;TZID="UTC+02:00":20260920T210000
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:cbc4f35301d5d48e@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Potańcówka „Niedziela na Głównym” Pobierz jako pl
@@ -100,7 +76,7 @@ SUMMARY:Wspólnie dla rodzin osób w spektrum autyzmu - zapraszamy na konf
  erencję
 DTSTART;TZID="UTC+02:00":20260923T093000
 DTEND;TZID="UTC+02:00":20260923T150000
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:6cf9fdc337d5e2c6@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wspólnie dla rodzin osób w spektrum autyzmu - zapraszam
@@ -123,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora
 DTSTART;TZID="UTC+02:00":20260929T110000
 DTEND;TZID="UTC+02:00":20260929T123000
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:9ab353c6dbe6e670@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Spotkanie z Krzysztofem Zanussim - Wolska Akademia Senior
@@ -146,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260918T160033Z
+DTSTAMP:20260918T220031Z
 UID:0dc09957ccab04eb@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwier
@@ -163,5 +139,29 @@ DESCRIPTION:null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwier
  h inwestycji i zac…\n\nŹródło: https://wola.um.warszawa.pl/-/wolskie-
  ostance
 URL:https://wola.um.warszawa.pl/-/wolskie-ostance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Łazienki Królewskie - spacer z przewodnikiem w ramach Wolskiej A
+ kademii Seniora
+DTSTART;TZID="UTC+02:00":20261003T100000
+DTEND;TZID="UTC+02:00":20261003T120000
+DTSTAMP:20260918T220031Z
+UID:012be0559dc79599@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Łazienki Królewskie - spacer z przewodnikiem w ramach W
+ olskiej Akademii Seniora Pobierz jako plik PDF Drukuj Link otwiera się w 
+ nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w
+  nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwie
+ ra się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej kar
+ cie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do
+  kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarz
+ enia (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 03.10
+ .2026 10:00 - 03.10.2026 12:00 wolska akademia seniora Autor: fot. Szymon 
+ Polański Zapraszamy Seniorów i Seniorki Wola na spacer po "najszczęśli
+ wszym miejscu w Warszawie"\, letniej rezydencji króla Stanisława Augusta
+  - Łazienkach Kr…\n\nŹródło: https://wola.um.warszawa.pl/-/lazienki-
+ krolewskie-spacer-w-ramach-wolskiej-akademii-seniora
+URL:https://wola.um.warszawa.pl/-/lazienki-krolewskie-spacer-w-ramach-wols
+ kiej-akademii-seniora
 END:VEVENT
 END:VCALENDAR
