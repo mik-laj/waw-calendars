@@ -666,7 +666,7 @@ events:
     i…
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:19.800684+00:00'
+  fetched_at: '2026-09-22T16:00:19.650450+00:00'
 - uid: 9ab353c6dbe6e670@waw-calendars
   source: wola
   title: Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora
@@ -685,27 +685,7 @@ events:
     Warszawy zapraszają na wyjątkowe wydarzenie w ramach Wolskiej Akademii Seniora. Tym razem goście…
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:20.184443+00:00'
-- uid: 0dc09957ccab04eb@waw-calendars
-  source: wola
-  title: Wolskie Ostańce
-  start: '2026-09-30'
-  end: '2026-10-11'
-  all_day: true
-  location: null
-  url: https://wola.um.warszawa.pl/-/wolskie-ostance
-  description: null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link
-    otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej
-    karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej karcie
-    Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera
-    się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w nowej
-    karcie 30.09.2026 12:00 - 11.10.2026 20:00 wola edukacja koncert wydarzenie historia wolskie centrum
-    kultury muzeum woli burmistrz woli konferencja Wolskie Centrum Kultury OSTAŃCE 2026 Miasto, pamięć,
-    ludzie. Co zostaje z miasta, które nieustannie się zmienia? Co trwa mimo wyburzeń, nowych inwestycji
-    i zac…
-  categories:
-  - Wola
-  fetched_at: '2026-09-22T10:00:20.743127+00:00'
+  fetched_at: '2026-09-22T16:00:20.110730+00:00'
 - uid: 012be0559dc79599@waw-calendars
   source: wola
   title: Łazienki Królewskie - spacer z przewodnikiem w ramach Wolskiej Akademii Seniora
@@ -725,7 +705,27 @@ events:
     Kr…'
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:21.447380+00:00'
+  fetched_at: '2026-09-22T16:00:20.981728+00:00'
+- uid: 0dc09957ccab04eb@waw-calendars
+  source: wola
+  title: Wolskie Ostańce
+  start: '2026-10-09'
+  end: '2026-10-11'
+  all_day: true
+  location: null
+  url: https://wola.um.warszawa.pl/-/wolskie-ostance
+  description: null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link
+    otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej
+    karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej karcie
+    Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera
+    się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w nowej
+    karcie 09.10.2026 09:00 - 11.10.2026 20:00 wola edukacja koncert wydarzenie historia wolskie centrum
+    kultury muzeum woli burmistrz woli konferencja Wolskie Centrum Kultury OSTAŃCE 2026 Miasto, pamięć,
+    ludzie. Co zostaje z miasta, które nieustannie się zmienia? Co trwa mimo wyburzeń, nowych inwestycji
+    i zac…
+  categories:
+  - Wola
+  fetched_at: '2026-09-22T16:00:21.445370+00:00'
 - uid: dc4643dc4ca9c352@waw-calendars
   source: wola
   title: Biegaj po Woli – XIX Bieg Papieski
@@ -745,7 +745,7 @@ events:
     Dorośli, …'
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:21.827929+00:00'
+  fetched_at: '2026-09-22T16:00:22.099582+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -764,7 +764,7 @@ events:
     cyklu „Biegaj po Woli”. To doskonała okazja, aby zadbać o formę, aktywnie spędzić czas. Dla kogo…'
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:22.980335+00:00'
+  fetched_at: '2026-09-22T16:00:22.508068+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -784,4 +784,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-09-22T10:00:23.545040+00:00'
+  fetched_at: '2026-09-22T16:00:23.021247+00:00'
