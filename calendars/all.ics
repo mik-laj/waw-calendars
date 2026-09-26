@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólna zabawa z psami
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9c74c2e1e4d86641@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156446-wspolna-zabaw
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne saunowanie jesienią w Saunie Wisła
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:eeef48c2c0208041@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158089-bezplatne-sau
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne warsztaty krawieckie - Pracownia Taka Szpilka!
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f89a3c546609d044@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157829-bezplatne-war
@@ -46,7 +46,7 @@ SUMMARY:33. Międzynarodowe Targi Roślin\, Technologii Ogrodniczej i Arch
  itektury Krajobrazu ZIELEŃ TO ŻYCIE
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7fddf0c5a10e6ced@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Międzynarodowe targi ZIELEŃ TO ŻYCIE prezentują rośliny o
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Dziecięcy Wrzesień w Parku Pięciu Sióstr
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:cb1207a7c46ca2ea@waw-calendars
 CATEGORIES:dla dzieci,sport,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158206-dzieciecy-wrz
@@ -81,24 +81,10 @@ URL:https://waw4free.pl/wydarzenie-158206-dzieciecy-wrzesien-w-parku-pieci
  u-siostr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bezpłatne warsztaty artystyczne W ramach wystawy „Całość” 
- w Aptece Sztuki
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:9b15dc0517c2b2e0@waw-calendars
-CATEGORIES:warsztaty,wystawa
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158301-bezplatne-war
- sztaty-artystyczne-w-ramach-wystawy-calosc-w-aptece-sztuki
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158301-bezplatne-warsztaty-artystyczne-
- w-ramach-wystawy-calosc-w-aptece-sztuki
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bezpłatne warsztaty elektroniczne - Pracownia Oto Dioda!
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1dc046af4d0730b8@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158277-bezplatne-war
@@ -112,7 +98,7 @@ SUMMARY:Kongres i Międzynarodowe Targi Kosmetyczno-Fryzjerskie BEAUTY FOR
  UM &amp\;amp\; HAIR 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8760a1a28c0b3b51@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Targi BEAUTY FORUM & HAIR to wyjątkowy pod względem charakte
@@ -133,22 +119,10 @@ URL:https://expoxxi.pl/events/kongres-i-miedzynarodowe-targi-kosmetyczno-f
  ryzjerskie-beauty-forum-hair-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jarmark Sztuki w Galerii Młociny
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:11151d94c4ec1a7f@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158598-jarmark-sztuk
- i-w-galerii-mlociny
-LOCATION:Bielany\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158598-jarmark-sztuki-w-galerii-mlociny
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Festiwal Marketingu
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e4733d75d64f14fd@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Festiwal Marketingu – Międzynarodowe Targi Reklamy i Druku 
@@ -171,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Smart City Expo Poland
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c28cd960a5d93e42@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Smart City Expo Poland to wydarzenie poświęcone rozwojowi in
@@ -194,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:30. Festiwal Nauki w Warszawie
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b0e616cd46885bfa@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spotkanie,warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158149-30-festiwal-n
@@ -206,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Bielańskie Dni Sztuki 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d79c38fcc8e11930@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,koncert,spacer lub rower,spotkanie,t
  argi\, garażówka,warsztaty,wystawa,inne
@@ -219,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:TRŁ WWA
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b91763c5c7e8b6f5@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:TRŁ WWA! już 19-20 września. Targi Rzeczy Ładnych w Warsza
@@ -239,25 +213,12 @@ LOCATION:EXPO XXI Warszawa\, ul. Prądzyńskiego 12/14\, Warszawa
 URL:https://expoxxi.pl/events/trl-wwa/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:„Warsaw Rising” – interaktywna gra o Powstaniu Warszawskim
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:0e38cb740fc55ecb@waw-calendars
-CATEGORIES:dla młodzieży,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157925-warsaw-rising
- -interaktywna-gra-o-powstaniu-warszawskim
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157925-warsaw-rising-interaktywna-gra-o
- -powstaniu-warszawskim
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Architektura/ charrette9.3iA: idea Artycypacja / Gropius GraNaRy R
  ebus: Rekuperacja? Rewitalizacja? Realność? Radość? Jak współtworzy
  ć?
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2e9f7b3531c336bf@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159103-architektura-
@@ -272,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Europejski Tydzień Sportu #Be Active z Aktywną Warszawą
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9eafb9c227cdda4f@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158807-europejski-ty
@@ -285,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Europejski Tydzień Sportu #BeActive
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:30e061d7d3a6a89b@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158807-europejski-ty
@@ -298,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Logitech G Play 2026
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:103e51b43c8bc7d1@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Logitech G PLAY 2026 to dwa dni pełne gamingu\, rywalizacji i
@@ -321,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:#SCF2026FALL
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fdcdabfda4876807@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Najważniejsze targi rynku nieruchomości handlowych. Spotkani
@@ -339,7 +300,7 @@ SUMMARY:HPCI CEE (Home and Personal Care Ingredients Central and Eastern E
  urope) - 15. Edycja
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:363c63ebfd4d2a96@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Targi HPCI (Home and Personal Care Ingredients) Central and Ea
@@ -358,24 +319,11 @@ URL:https://expoxxi.pl/events/hpci-cee-home-and-personal-care-ingredients-
  central-and-eastern-europe-15-edycja/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pierwszy jesienny Jarmark Produktów Regionalnych w Blue City
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:e468947fe1b69ad1@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159167-pierwszy-jesi
- enny-jarmark-produktow-regionalnych-w-blue-city
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159167-pierwszy-jesienny-jarmark-produk
- tow-regionalnych-w-blue-city
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Book Festival 2026 I Duży Międzynarodowy Festiwal Czytania I
   Kiedyś było lepiej
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c4aeb81d79046df0@waw-calendars
 CATEGORIES:spotkanie,wykład,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-154601-big-book-fest
@@ -388,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Festiwal Opowieści w Muzeum Pragi
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:24bfc268156e84a2@waw-calendars
 CATEGORIES:spacer lub rower,sport,wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158925-festiwal-opow
@@ -398,23 +346,10 @@ URL:https://waw4free.pl/wydarzenie-158925-festiwal-opowiesci-w-muzeum-prag
  i
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X Festiwal Katolickiej Nauki Społecznej
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:4ae264d937d9b599@waw-calendars
-CATEGORIES:spotkanie,wykład,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159097-x-festiwal-ka
- tolickiej-nauki-spolecznej
-LOCATION:Włochy\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159097-x-festiwal-katolickiej-nauki-spo
- lecznej
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FRINGE Warszawa 2026 - weekend sztuki niezależnej
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:38c4d060313fd0fc@waw-calendars
 CATEGORIES:spotkanie,wystawa,inne,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158879-fringe-warsza
@@ -429,7 +364,7 @@ SUMMARY:Języki jednoczą. Tydzień z językami\, kulturą i literaturą e
  acza w Warszawie
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fbf8a1647934f14e@waw-calendars
 CATEGORIES:warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159087-jezyki-jednoc
@@ -441,23 +376,10 @@ URL:https://waw4free.pl/wydarzenie-159087-jezyki-jednocza-tydzien-z-jezyka
  nardowy-dzien-tlumacza-w-warszawie
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miasteczko Ruchu Drogowego dla dzieci
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:4d2a5c3397370022@waw-calendars
-CATEGORIES:dla dzieci,sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158828-miasteczko-ru
- chu-drogowego-dla-dzieci
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158828-miasteczko-ruchu-drogowego-dla-d
- zieci
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Balance Run House
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4752f8dc4ec31aaa@waw-calendars
 CATEGORIES:impreza,sport,warsztaty,wykład,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159154-new-balance-r
@@ -466,37 +388,10 @@ LOCATION:Śródmieście\, Warszawa
 URL:https://waw4free.pl/wydarzenie-159154-new-balance-run-house
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stół pełen historii. Paweł Swanski maluje w Koszykach
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:a5898c76fe321f80@waw-calendars
-CATEGORIES:wystawa,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159041-stol-pelen-hi
- storii-pawel-swanski-maluje-w-koszykach
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159041-stol-pelen-historii-pawel-swansk
- i-maluje-w-koszykach
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2
- 026
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:4ee6c791953d88b2@waw-calendars
-CATEGORIES:dla dzieci,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150549-wielkie-serca
- -spektakle-w-multimedialnym-parku-fontann-2026
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-150549-wielkie-serca-spektakle-w-multim
- edialnym-parku-fontann-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JAPONIA NA PRADZE - POP-UP JAPOŃSKI 4 edycja
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ec0dfd89b96e079d@waw-calendars
 CATEGORIES:targi\, garażówka,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157984-japonia-na-pr
@@ -509,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Jesienny targ vintage w Gospodzie do Syta
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dcca1b28eb29dbe9@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158799-jesienny-targ
@@ -522,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Targi Vintage na Nowym Bazarze Różyckiego
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3884c5d97e7eaeb5@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158302-targi-vintage
@@ -532,363 +427,10 @@ URL:https://waw4free.pl/wydarzenie-158302-targi-vintage-na-nowym-bazarze-r
  ozyckiego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teatralna Szkoła Gotowania: pączki
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:80bb1bf928eb3ada@waw-calendars
-CATEGORIES:warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158557-teatralna-szk
- ola-gotowania-paczki
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158557-teatralna-szkola-gotowania-paczk
- i
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wystawa malarstwa | CAŁOŚĆ | Dorota Nowicka Kokka
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DTSTAMP:20260926T160031Z
-UID:8511d149f12fc651@waw-calendars
-CATEGORIES:wystawa
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158293-wystawa-malar
- stwa-calosc-dorota-nowicka-kokka
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158293-wystawa-malarstwa-calosc-dorota-
- nowicka-kokka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Ogłaszam alarm dla miasta Warszawy" - śladami września 1939 ro
- ku
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9aad61631fe2fa19@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159018-oglaszam-alar
- m-dla-miasta-warszawy-sladami-wrzesnia-1939-roku
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159018-oglaszam-alarm-dla-miasta-warsza
- wy-sladami-wrzesnia-1939-roku
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:82. rocznica wybuchu Powstania Warszawskiego wraz z grą miejską 
- - Bądź sprawny jak Zawiszak
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:4ff63ed67155a47e@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,warsztaty,wystawa,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159191-82-rocznica-w
- ybuchu-powstania-warszawskiego-wraz-z-gra-miejska-badz-sprawny-jak-zawisza
- k
-LOCATION:Targówek\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159191-82-rocznica-wybuchu-powstania-wa
- rszawskiego-wraz-z-gra-miejska-badz-sprawny-jak-zawiszak
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADOPTUJ WARSZAWIAKA
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:46a9403be9af4a0d@waw-calendars
-CATEGORIES:spotkanie,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159102-adoptuj-warsz
- awiaka
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159102-adoptuj-warszawiaka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bajeczna Fiesta - spektakl dla dzieci Teatru Kultureska
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:ee16080fde59de34@waw-calendars
-CATEGORIES:dla dzieci,teatr
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158154-bajeczna-fies
- ta-spektakl-dla-dzieci-teatru-kultureska
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158154-bajeczna-fiesta-spektakl-dla-dzi
- eci-teatru-kultureska
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bemowska Strefa Kibica
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:3c4d64697b482d1c@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,impreza,sport,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159240-bemowska-stre
- fa-kibica
-LOCATION:Bemowo\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159240-bemowska-strefa-kibica
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia jogi
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:7be2f62c4ba609f7@waw-calendars
-CATEGORIES:sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151799-bezplatne-zaj
- ecia-jogi
-LOCATION:Wilanów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-151799-bezplatne-zajecia-jogi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia w Skatepark Jutrzenka z BMX School
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:1677b43c9f07c39b@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158118-bezplatne-zaj
- ecia-w-skatepark-jutrzenka-z-bmx-school
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158118-bezplatne-zajecia-w-skatepark-ju
- trzenka-z-bmx-school
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpłatne zajęcia zumby na Wilanowie
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9bde3b338d5460b6@waw-calendars
-CATEGORIES:sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158231-bezplatne-zaj
- ecia-zumby-na-wilanowie
-LOCATION:Wilanów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158231-bezplatne-zajecia-zumby-na-wilan
- owie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bielańska Wyprzedaż Garażowa
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:3ce4116fea3de42f@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-154591-bielanska-wyp
- rzedaz-garazowa
-LOCATION:Bielany\, Warszawa
-URL:https://waw4free.pl/wydarzenie-154591-bielanska-wyprzedaz-garazowa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESIGNER MARKET
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:427720015fb25ff1@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159377-designer-mark
- et
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159377-designer-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dawne Leszno. Spacer śladami zaginionego świata.
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:bf412f80edc938f8@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158307-dawne-leszno-
- spacer-sladami-zaginionego-swiata
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158307-dawne-leszno-spacer-sladami-zagi
- nionego-swiata
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drugie Życie Tkanin: szyjemy kosmetyczkę #myślęniemarnuję
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e466240109417a17@waw-calendars
-CATEGORIES:warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156811-drugie-zycie-
- tkanin-szyjemy-kosmetyczke-mysleniemarnuje
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-156811-drugie-zycie-tkanin-szyjemy-kosm
- etyczke-mysleniemarnuje
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dzień Patrona Warszawy na Ursynowie
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:c3183cd9d50d4b49@waw-calendars
-CATEGORIES:koncert,targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158685-dzien-patrona
- -warszawy-na-ursynowie
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158685-dzien-patrona-warszawy-na-ursyno
- wie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fajny zawód? Rozmowa o asystencji osobistej
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:fcb4ecad2a0d9f70@waw-calendars
-CATEGORIES:spotkanie,wykład,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159085-fajny-zawod-r
- ozmowa-o-asystencji-osobistej
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159085-fajny-zawod-rozmowa-o-asystencji
- -osobistej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRA TERENOWA / GEOCACHING - SPOTKANIE Z VARSAVIANISTĄ - ETNOGRAFI
- CZNE WARSZTATY DLA DZIECI
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:b16800fc778d37a4@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,spacer lub rower,spotkanie,warsztaty
- ,wykład
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159189-gra-terenowa-
- geocaching-spotkanie-z-varsavianista-etnograficzne-warsztaty-dla-dzieci
-LOCATION:Białołęka\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159189-gra-terenowa-geocaching-spotkani
- e-z-varsavianista-etnograficzne-warsztaty-dla-dzieci
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gmach! Wokół Pałacu Kultury i Nauki. Spacer z przewodnikiem
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:7fd5411be96f9085@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159128-gmach-wokol-p
- alacu-kultury-i-nauki-spacer-z-przewodnikiem
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159128-gmach-wokol-palacu-kultury-i-nau
- ki-spacer-z-przewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:II Turniej Ground Golfa o Puchar Burmistrza Dzielnica Wilanów
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:6fdcf89c5af05a5d@waw-calendars
-CATEGORIES:dla seniorów,sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158737-ii-turniej-gr
- ound-golfa-o-puchar-burmistrza-dzielnica-wilanow
-LOCATION:Wilanów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158737-ii-turniej-ground-golfa-o-puchar
- -burmistrza-dzielnica-wilanow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joga na Polu Mokotowskim - 11 sezon
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e7ec2e582ab702a0@waw-calendars
-CATEGORIES:sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-153684-joga-na-polu-
- mokotowskim-11-sezon
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153684-joga-na-polu-mokotowskim-11-sezo
- n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jubileusz z okazji 25-lecia Pływalni "Foka"
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:c9cf00e8e1673d64@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,impreza,koncert,sport,teatr,warsztat
- y,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158822-jubileusz-z-o
- kazji-25-lecia-plywalni-foka
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158822-jubileusz-z-okazji-25-lecia-plyw
- alni-foka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klub Fotograficzny
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:8717b830ca661c60@waw-calendars
-CATEGORIES:warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-145320-klub-fotograf
- iczny
-LOCATION:Wawer\, Warszawa
-URL:https://waw4free.pl/wydarzenie-145320-klub-fotograficzny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kolory Dzielnicy Praga-Południe
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:fcefee16be5c7bc1@waw-calendars
-CATEGORIES:dla młodzieży,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158544-kolory-dzieln
- icy-praga-poludnie
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158544-kolory-dzielnicy-praga-poludnie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koncert Chopinowski w Łazienkach Królewskich [godz. 12:00 i 16:0
- 0]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:56b93e8146b03d9e@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152770-koncert-chopi
- nowski-w-lazienkach-krolewskich-godz-12-00-i-16-00
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-152770-koncert-chopinowski-w-lazienkach
- -krolewskich-godz-12-00-i-16-00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koncert Jazzowy - New Bebop Trio feat. Nathan Williams
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:aac8e83fa9e783c2@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159396-koncert-jazzo
- wy-new-bebop-trio-feat-nathan-williams
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159396-koncert-jazzowy-new-bebop-trio-f
- eat-nathan-williams
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koncert familijny „Kalejdoskop Marzeń i Snów” – „20 lat 
- BCK – Dzieje się na Bemowie”
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e7428b27ee3a16fe@waw-calendars
-CATEGORIES:dla dzieci,koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158949-koncert-famil
- ijny-kalejdoskop-marzen-i-snow-20-lat-bck-dzieje-sie-na-bemowie
-LOCATION:Bemowo\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158949-koncert-familijny-kalejdoskop-ma
- rzen-i-snow-20-lat-bck-dzieje-sie-na-bemowie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koncert zespołu Jezve – wyjątkowa podróż w bałkańskich ryt
- mach
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9169ca1350e44442@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159178-koncert-zespo
- lu-jezve-wyjatkowa-podroz-w-balkanskich-rytmach
-LOCATION:Rembertów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159178-koncert-zespolu-jezve-wyjatkowa-
- podroz-w-balkanskich-rytmach
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koncert “Ty masz dla mnie coś”
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1e395bf815bc4c79@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157917-koncert-ty-ma
@@ -897,232 +439,11 @@ LOCATION:Praga-Południe\, Warszawa
 URL:https://waw4free.pl/wydarzenie-157917-koncert-ty-masz-dla-mnie-cos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LETNIE AUDYCJE ORGANOWE / SUMMER ORGAN RECITALS
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:5a6ed6207ab47ae7@waw-calendars
-CATEGORIES:koncert,po angielsku
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152767-letnie-audycj
- e-organowe-summer-organ-recitals
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-152767-letnie-audycje-organowe-summer-o
- rgan-recitals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO. LAS REMBERTOWSKI
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:12049e7fe128a7cb@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,impreza,spacer lub rower,warsztaty,i
- nne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158429-lesne-spotkan
- ia-rodzinne-spacer-i-ognisko-las-rembertowski
-LOCATION:Rembertów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158429-lesne-spotkania-rodzinne-spacer-
- i-ognisko-las-rembertowski
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:89135cbee6d69f4a@waw-calendars
-CATEGORIES:dla dzieci,spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158928-legendy-warsz
- awskie-spacer-rodzinny-z-prezentami-dla-dzieci
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158928-legendy-warszawskie-spacer-rodzi
- nny-z-prezentami-dla-dzieci
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mali Odkrywcy
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:6f0090325d4a965d@waw-calendars
-CATEGORIES:dla dzieci,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159157-mali-odkrywcy
-LOCATION:Targówek\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159157-mali-odkrywcy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maraton filmów krótkometrażowych | Festiwal Siły Marzeń
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:8ddefdf27a5fc900@waw-calendars
-CATEGORIES:film
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158898-maraton-filmo
- w-krotkometrazowych-festiwal-sily-marzen
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158898-maraton-filmow-krotkometrazowych
- -festiwal-sily-marzen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miautystyczne - performans
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:82e589c8254d64d5@waw-calendars
-CATEGORIES:teatr
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157679-miautystyczne
- -performans
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157679-miautystyczne-performans
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Między Górą a Dołem – spacer po Skarpie Mokotowskiej
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:dd45ace6f6852ab0@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159075-miedzy-gora-a
- -dolem-spacer-po-skarpie-mokotowskiej
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159075-miedzy-gora-a-dolem-spacer-po-sk
- arpie-mokotowskiej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Między Nowym Światem a Skarpą. Historie z Foksal\, Smolnej i ki
- lku innych wyjątkowych miejsc
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:bceb9296b54baada@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158564-miedzy-nowym-
- swiatem-a-skarpa-historie-z-foksal-smolnej-i-kilku-innych-wyjatkowych-miej
- sc
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158564-miedzy-nowym-swiatem-a-skarpa-hi
- storie-z-foksal-smolnej-i-kilku-innych-wyjatkowych-miejsc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Między Raz-Dwa a Raz-Dwa-Trzy Happening uliczny
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:da2e5e285b58b1c4@waw-calendars
-CATEGORIES:spacer lub rower,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158020-miedzy-raz-dw
- a-a-raz-dwa-trzy-happening-uliczny
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158020-miedzy-raz-dwa-a-raz-dwa-trzy-ha
- ppening-uliczny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Między Zygmuntem a Mikołajem. Spacer z przewodnikiem po Krakowsk
- im Przedmieściu
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e9281874acc82636@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158281-miedzy-zygmun
- tem-a-mikolajem-spacer-z-przewodnikiem-po-krakowskim-przedmiesciu
-LOCATION:Bielany\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158281-miedzy-zygmuntem-a-mikolajem-spa
- cer-z-przewodnikiem-po-krakowskim-przedmiesciu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mokotowskie bezpłatne zajęcia piłki nożnej dla dzieci na Naszy
- m Podwórku! [godz. 13:00\, 14:00\, 15:00]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:be7e7d66e16e699c@waw-calendars
-CATEGORIES:dla dzieci,sport
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150980-mokotowskie-b
- ezplatne-zajecia-pilki-noznej-dla-dzieci-na-naszym-podworku-godz-13-00-14-
- 00-15-00
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-150980-mokotowskie-bezplatne-zajecia-pi
- lki-noznej-dla-dzieci-na-naszym-podworku-godz-13-00-14-00-15-00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIEDOSYT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:77542eea41213593@waw-calendars
-CATEGORIES:impreza
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159241-niedosyt
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159241-niedosyt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Na oczach mam sen... Grochów Wielki
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9c64ef499e2c293e@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158750-na-oczach-mam
- -sen-grochow-wielki
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158750-na-oczach-mam-sen-grochow-wielki
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nad Wisłę Rowerem #20 - Północne dopływy Wisły
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:d196114371065961@waw-calendars
-CATEGORIES:spacer lub rower,sport,wykład
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159325-nad-wisle-row
- erem-20-polnocne-doplywy-wisly
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159325-nad-wisle-rowerem-20-polnocne-do
- plywy-wisly
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niedzielne Spotkanie Sparingowe
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:2597fec9b7265f44@waw-calendars
-CATEGORIES:sport,warsztaty,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-58073-niedzielne-spo
- tkanie-sparingowe
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-58073-niedzielne-spotkanie-sparingowe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OM Chanting - joga dźwięku nad Jeziorkiem Czerniakowskim
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:424fbdf07eec7b37@waw-calendars
-CATEGORIES:inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158038-om-chanting-j
- oga-dzwieku-nad-jeziorkiem-czerniakowskim
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158038-om-chanting-joga-dzwieku-nad-jez
- iorkiem-czerniakowskim
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Odetchnąć pięknem: Tajemnice Natolina [darmowy spacer z przewod
- nikiem PTTK]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9be0cdb455b9b695@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158696-odetchnac-pie
- knem-tajemnice-natolina-darmowy-spacer-z-przewodnikiem-pttk
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158696-odetchnac-pieknem-tajemnice-nato
- lina-darmowy-spacer-z-przewodnikiem-pttk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ogród w szemranej okolicy - wystawa instalacji malarskiej Kamili 
  Śladowskiej z okazji festiwalu Fringe
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a5fb97d738d8979a@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159068-ogrod-w-szemr
@@ -1133,608 +454,10 @@ URL:https://waw4free.pl/wydarzenie-159068-ogrod-w-szemranej-okolicy-wystaw
  a-instalacji-malarskiej-kamili-sladowskiej-z-okazji-festiwalu-fringe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Park Skaryszewski - zmiany klimatu a rośliny
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:2e231bd4423c9b27@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159000-park-skarysze
- wski-zmiany-klimatu-a-rosliny
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159000-park-skaryszewski-zmiany-klimatu
- -a-rosliny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pieśni Powstania Warszawskiego | Muzyczno-filmowa opowieść na M
- okotowie
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:72c58d55387f6105@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157596-piesni-powsta
- nia-warszawskiego-muzyczno-filmowa-opowiesc-na-mokotowie
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157596-piesni-powstania-warszawskiego-m
- uzyczno-filmowa-opowiesc-na-mokotowie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Powstańczy Mokotów. Śladami niemieckich zbrodni na ludności cy
- wilnej
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:729806d5a706cf72@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157256-powstanczy-mo
- kotow-sladami-niemieckich-zbrodni-na-ludnosci-cywilnej
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157256-powstanczy-mokotow-sladami-niemi
- eckich-zbrodni-na-ludnosci-cywilnej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Przez Ząbkowskiej podwórka\, zakamarki i tajemnice do Monopolu/K
- onesera [spacer Praskiej Ferajny]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9639ba102d25f9c8@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159069-przez-zabkows
- kiej-podworka-zakamarki-i-tajemnice-do-monopolu-konesera-spacer-praskiej-f
- erajny
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159069-przez-zabkowskiej-podworka-zakam
- arki-i-tajemnice-do-monopolu-konesera-spacer-praskiej-ferajny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RODZINNY PIKNIK W PAN MUZEUM ZIEMI
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:782294ebe5a6fa2d@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza,wystawa,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159350-rodzinny-pikn
- ik-w-pan-muzeum-ziemi
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159350-rodzinny-piknik-w-pan-muzeum-zie
- mi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Raj utracony? Saska Kępa. Spacer z przewodnikiem
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:04322f4a4b390cab@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159126-raj-utracony-
- saska-kepa-spacer-z-przewodnikiem
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159126-raj-utracony-saska-kepa-spacer-z
- -przewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodzinne pląsanie na trawiastym dywanie
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:30a98619d3aea4e6@waw-calendars
-CATEGORIES:dla dzieci,sport,spotkanie,warsztaty,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150184-rodzinne-plas
- anie-na-trawiastym-dywanie
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-150184-rodzinne-plasanie-na-trawiastym-
- dywanie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodzinny piknik ekologiczny pt.: "Czysta rzeka"
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:ac1dced15e00d3f9@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,impreza,spotkanie,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158942-rodzinny-pikn
- ik-ekologiczny-pt-czysta-rzeka
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158942-rodzinny-piknik-ekologiczny-pt-c
- zysta-rzeka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roztańczone Rodziny: „Bliskość w Ruchu” dla dzieci 3-7 lat
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9d74db11939d74c0@waw-calendars
-CATEGORIES:dla dzieci,sport,warsztaty,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158988-roztanczone-r
- odziny-bliskosc-w-ruchu-dla-dzieci-3-7-lat
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158988-roztanczone-rodziny-bliskosc-w-r
- uchu-dla-dzieci-3-7-lat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SING & SLANG | Zajęcia muzyczno-językowe dla dzieci
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:bfce75e4ef99d87f@waw-calendars
-CATEGORIES:dla dzieci,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159254-sing-slang-za
- jecia-muzyczno-jezykowe-dla-dzieci
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159254-sing-slang-zajecia-muzyczno-jezy
- kowe-dla-dzieci
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPICHLERZ | Spotkajmy się po sąsiedzku
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:c49bff11037f40b8@waw-calendars
-CATEGORIES:impreza,koncert,spotkanie,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158758-spichlerz-spo
- tkajmy-sie-po-sasiedzku
-URL:https://waw4free.pl/wydarzenie-158758-spichlerz-spotkajmy-sie-po-sasie
- dzku
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer Adopciaków 2026
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:eb9e4feb0a74edbf@waw-calendars
-CATEGORIES:impreza,spacer lub rower,wykład,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159174-spacer-adopci
- akow-2026
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159174-spacer-adopciakow-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer po powojennych osiedlach Praga I\, II i III
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:13dbeea4717f9fbf@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159359-spacer-po-pow
- ojennych-osiedlach-praga-i-ii-i-iii
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159359-spacer-po-powojennych-osiedlach-
- praga-i-ii-i-iii
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacer po Łazienkach Królewskich. Po nim koncert chopinowski
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:ec7ce4a6dec20944@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158042-spacer-po-laz
- ienkach-krolewskich-po-nim-koncert-chopinowski
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158042-spacer-po-lazienkach-krolewskich
- -po-nim-koncert-chopinowski
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spacery Varsavianistycze I Kultura na Pradze Południe
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:3a4aad833bd18bba@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157139-spacery-varsa
- vianistycze-i-kultura-na-pradze-poludnie
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157139-spacery-varsavianistycze-i-kultu
- ra-na-pradze-poludnie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spotkanie z Niną Patalon
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:2aa438adb3cb9efb@waw-calendars
-CATEGORIES:dla młodzieży,sport,spotkanie
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157729-spotkanie-z-n
- ina-patalon
-LOCATION:Wilanów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157729-spotkanie-z-nina-patalon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Straszny spacer po Starówce
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:d54c1cfa5398008e@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158849-straszny-spac
- er-po-starowce
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158849-straszny-spacer-po-starowce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sąsiedzka wymianka | ciuchy\, dom\, relaks
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e2819464e8da062d@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158091-sasiedzka-wym
- ianka-ciuchy-dom-relaks
-LOCATION:Targówek\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158091-sasiedzka-wymianka-ciuchy-dom-re
- laks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Targ Śniadaniowy na Mokotowie // Sunday Breakfast Market
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:29ebeb00c5bfc239@waw-calendars
-CATEGORIES:impreza,inne,po angielsku
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151013-targ-sniadani
- owy-na-mokotowie-sunday-breakfast-market
-LOCATION:Mokotów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-151013-targ-sniadaniowy-na-mokotowie-su
- nday-breakfast-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transitioning in Poland
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:e066801adb1704c3@waw-calendars
-CATEGORIES:spotkanie,wykład,po angielsku
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158935-transitioning
- -in-poland
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158935-transitioning-in-poland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trening Biegowy z 12tri.pl
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:5619a06084ade2e7@waw-calendars
-CATEGORIES:sport
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-78636-trening-biegow
- y-z-12tri-pl
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-78636-trening-biegowy-z-12tri-pl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ty masz dla mnie coś
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:f823463fc50db784@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158947-ty-masz-dla-m
- nie-cos
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158947-ty-masz-dla-mnie-cos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ursus 1976: Pomniki | Murale | Symbole – wycieczka rowerowa
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:1d7a9ed4a92b277b@waw-calendars
-CATEGORIES:spacer lub rower,spotkanie
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159203-ursus-1976-po
- mniki-murale-symbole-wycieczka-rowerowa
-LOCATION:Ursus\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159203-ursus-1976-pomniki-murale-symbol
- e-wycieczka-rowerowa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ursynowski Nordic Walking 2026 | Grupy niedzielne
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:88684dadb761e81d@waw-calendars
-CATEGORIES:spacer lub rower,sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-147625-ursynowski-no
- rdic-walking-2026-grupy-niedzielne
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-147625-ursynowski-nordic-walking-2026-g
- rupy-niedzielne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ursynów Zawsze w Formie - Pilates
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:48a11fb12014939b@waw-calendars
-CATEGORIES:sport,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-153396-ursynow-zawsz
- e-w-formie-pilates
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-153396-ursynow-zawsze-w-formie-pilates
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warszawa z "Lalki" Prusa w przededniu premiery kinowej
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:7897450815ce0236@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159009-warszawa-z-la
- lki-prusa-w-przededniu-premiery-kinowej
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159009-warszawa-z-lalki-prusa-w-przeded
- niu-premiery-kinowej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warszawski Festiwal Organowy „Organy Śródmieścia”
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:055cd4f92e38b842@waw-calendars
-CATEGORIES:koncert
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158218-warszawski-fe
- stiwal-organowy-organy-srodmiescia
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158218-warszawski-festiwal-organowy-org
- any-srodmiescia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warszawskie dworce - Podziemne miasto [100 lat PKP\, spacer z prze
- wodnikiem]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:0d326b13cf6ba4de@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158561-warszawskie-d
- worce-podziemne-miasto-100-lat-pkp-spacer-z-przewodnikiem
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158561-warszawskie-dworce-podziemne-mia
- sto-100-lat-pkp-spacer-z-przewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warsztaty antystresowe | Stowarzyszenie Wspólne Podwórko
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:6dda347f4b9fe72c@waw-calendars
-CATEGORIES:warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157063-warsztaty-ant
- ystresowe-stowarzyszenie-wspolne-podworko
-LOCATION:Praga-Południe\, Warszawa
-URL:https://waw4free.pl/wydarzenie-157063-warsztaty-antystresowe-stowarzys
- zenie-wspolne-podworko
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wspólne czytanie "Lalki" w Łazienkach
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:5aa8d667647df9c9@waw-calendars
-CATEGORIES:spotkanie,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159232-wspolne-czyta
- nie-lalki-w-lazienkach
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159232-wspolne-czytanie-lalki-w-lazienk
- ach
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wyprzedaż Garażowa na Zieleniaku
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:de21fd1bd4529292@waw-calendars
-CATEGORIES:targi\, garażówka
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150814-wyprzedaz-gar
- azowa-na-zieleniaku
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-150814-wyprzedaz-garazowa-na-zieleniaku
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:419cd7fafa192b00@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza,sport,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158121-xxii-rodzinny
- -piknik-integracyjny-szczesliwice-2026
-LOCATION:Ochota\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158121-xxii-rodzinny-piknik-integracyjn
- y-szczesliwice-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Z Homerem Warszawskiej ulicy po brukach Syreniego Grodu
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:31b83aa257298576@waw-calendars
-CATEGORIES:spotkanie,wykład
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158498-z-homerem-war
- szawskiej-ulicy-po-brukach-syreniego-grodu
-LOCATION:Praga-Północ\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158498-z-homerem-warszawskiej-ulicy-po-
- brukach-syreniego-grodu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Z placu Trzech Krzyży na Książęce. Spacer z przewodnikiem
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:1e71c317605fdca8@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159132-z-placu-trzec
- h-krzyzy-na-ksiazece-spacer-z-przewodnikiem
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159132-z-placu-trzech-krzyzy-na-ksiazec
- e-spacer-z-przewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zabawy ruchowe (dla dorosłych)
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:c3495ee54d6bea0b@waw-calendars
-CATEGORIES:sport,warsztaty,inne
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158820-zabawy-ruchow
- e-dla-doroslych
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158820-zabawy-ruchowe-dla-doroslych
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zacisze - drewniaki\, gargamele oraz historie intrygujące i przez
- abawne [spacer Praskiej Ferajny]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:3a59a12727d1a615@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159071-zacisze-drewn
- iaki-gargamele-oraz-historie-intrygujace-i-przezabawne-spacer-praskiej-fer
- ajny
-LOCATION:Targówek\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159071-zacisze-drewniaki-gargamele-oraz
- -historie-intrygujace-i-przezabawne-spacer-praskiej-ferajny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śladami "Lalki" Bolesława Prusa
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:d187f0d9ac0e6a3b@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159019-sladami-lalki
- -boleslawa-prusa
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159019-sladami-lalki-boleslawa-prusa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śródmiejskie bieganie dla każdego
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:d5aa01709182b69c@waw-calendars
-CATEGORIES:sport
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149938-srodmiejskie-
- bieganie-dla-kazdego
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-149938-srodmiejskie-bieganie-dla-kazdeg
- o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śródmieście Płn. cz. 5 - spacer z przewodnikiem
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:65d7728090810b59@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158720-srodmiescie-p
- ln-cz-5-spacer-z-przewodnikiem
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158720-srodmiescie-pln-cz-5-spacer-z-pr
- zewodnikiem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„20 lat BCK – Dzieje się na Bemowie”
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:9a6b141174f10050@waw-calendars
-CATEGORIES:dla dzieci,impreza,koncert,sport,targi\, garażówka,teatr,wars
- ztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158842-20-lat-bck-dz
- ieje-sie-na-bemowie
-LOCATION:Bemowo\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158842-20-lat-bck-dzieje-sie-na-bemowie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Bezdroża. Oddech od świata” | Festiwal Siły Marzeń | reż
- yseria: Mikael Lypinski | Polska 2023
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:55c99aed62acc5c1@waw-calendars
-CATEGORIES:film
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158899-bezdroza-odde
- ch-od-swiata-festiwal-sily-marzen-rezyseria-mikael-lypinski-polska-2023
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158899-bezdroza-oddech-od-swiata-festiw
- al-sily-marzen-rezyseria-mikael-lypinski-polska-2023
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Big Water Theory” | Festiwal Siły Marzeń | reżyseria: Emil
- e Dominé | Francja 2024
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:b034a422b2656eb0@waw-calendars
-CATEGORIES:film
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158901-big-water-the
- ory-festiwal-sily-marzen-rezyseria-emile-domin-francja-2024
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158901-big-water-theory-festiwal-sily-m
- arzen-rezyseria-emile-domin-francja-2024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Run Again” | Festiwal Siły Marzeń | reżyseria: Alexis Berg
-  | Francja 2025
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:bd51c43e28f2d9ed@waw-calendars
-CATEGORIES:film
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158902-run-again-fes
- tiwal-sily-marzen-rezyseria-alexis-berg-francja-2025
-LOCATION:Ursynów\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158902-run-again-festiwal-sily-marzen-r
- ezyseria-alexis-berg-francja-2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Sherlock Holmes – przenieś się do świata tajemnic " Litera
- cki Piknik Kryminalny rodzinny
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:6c54578efc98813e@waw-calendars
-CATEGORIES:dla dzieci,dla młodzieży,impreza,teatr,warsztaty
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159175-sherlock-holm
- es-przenies-sie-do-swiata-tajemnic-literacki-piknik-kryminalny-rodzinny
-LOCATION:Wawer\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159175-sherlock-holmes-przenies-sie-do-
- swiata-tajemnic-literacki-piknik-kryminalny-rodzinny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Spacer po Starych Powązkach. Cz. 1”
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:0bdccb9e81294b02@waw-calendars
-CATEGORIES:spacer lub rower
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158784-spacer-po-sta
- rych-powazkach-cz-1
-LOCATION:Wola\, Warszawa
-URL:https://waw4free.pl/wydarzenie-158784-spacer-po-starych-powazkach-cz-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Współobecność” - immersyjna wystawa VR [godz. 15:00 - 18:
- 00]
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260926T160031Z
-UID:94b98f3beb1aa9c8@waw-calendars
-CATEGORIES:wystawa
-DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159123-wspolobecnosc
- -immersyjna-wystawa-vr-godz-15-00-18-00
-LOCATION:Śródmieście\, Warszawa
-URL:https://waw4free.pl/wydarzenie-159123-wspolobecnosc-immersyjna-wystawa
- -vr-godz-15-00-18-00
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adwokat diabła\, czyli o technikach retorycznych Cycerona
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4658fd842dc11b89@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159218-adwokat-diabl
@@ -1747,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatna Zumba w Jabłonnie
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:64b7575e21ef469f@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-84528-bezplatna-zumb
@@ -1758,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne aikido dla dorosłych
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:518b147335ecf30c@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-147215-bezplatne-aik
@@ -1771,7 +494,7 @@ SUMMARY:Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawno
  ściami
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f9d9f85319a9d1bc@waw-calendars
 CATEGORIES:dla dzieci,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149774-bezplatne-zaj
@@ -1785,7 +508,7 @@ SUMMARY:Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z ni
  epełnosprawnościami
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3b405cae19205f6b@waw-calendars
 CATEGORIES:dla dzieci,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149780-bezplatne-zaj
@@ -1798,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatny cross training w Jabłonnie
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9d6015bced1572be@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-115547-bezplatny-cro
@@ -1810,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:CINEMONDAY: Let’s talk about cinema
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0e661d9bc4f5b1b1@waw-calendars
 CATEGORIES:spotkanie,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159074-cinemonday-le
@@ -1823,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:FITNESS dla osób 60+ [godz. 10:00 i 11:00]
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:736c15449a8746df@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157561-fitness-dla-o
@@ -1836,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Festiwal Wody – Jesteśmy wodą
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0dab3b4c72f1081c@waw-calendars
 CATEGORIES:film,spacer lub rower,warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159083-festiwal-wody
@@ -1848,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:Improwizacje teatralne - warsztaty z wyobraźnią dla każdego
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2056caef07294fcb@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159220-improwizacje-
@@ -1862,7 +585,7 @@ SUMMARY:JPJO - SPOTKANIE DLA LEKTORÓW - WYMIANA DOBRYCH PRAKTYK I NETWORK
  ING
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7a0296399c4ab9ad@waw-calendars
 CATEGORIES:spotkanie,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159056-jpjo-spotkani
@@ -1876,7 +599,7 @@ SUMMARY:Jak zorganizować naprawdę DOBRY wyjazd? – dyskusja o etycznym
  podróżowaniu z Alicją Kosińską
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f822183c7f3c92e1@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159360-jak-zorganizo
@@ -1890,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:Joga w OSiR Polna
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:998e022c98a2fd20@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158975-joga-w-osir-p
@@ -1903,7 +626,7 @@ SUMMARY:Kawa i książka dla seniorów: Jakubowska\, Fijałkowska\, Miłob
  ędzka\, Kozioł\, Świrszczyńska
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e1fe58f0dc9f4e28@waw-calendars
 CATEGORIES:dla seniorów,spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159221-kawa-i-ksiazk
@@ -1916,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:Kino znów na Ursynowie: „Nowa fala”
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:49502b6a5b388f5c@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158162-kino-znow-na-
@@ -1928,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Komik szuka żony dla kolegi - program randkowy
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4d6da87c9c925285@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159116-komik-szuka-z
@@ -1941,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:Meet & Speak Monday: English
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1416e2c485fa0a73@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158339-meet-speak-mo
@@ -1953,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Nowa książka: "Tobiasz i wielki liść" Inga Iwasiów
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5b9100545a16428a@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157809-nowa-ksiazka-
@@ -1966,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:OM Chanting
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ff2a793d8dd3ef8e@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-92592-om-chanting
@@ -1978,7 +701,7 @@ SUMMARY:Obecność - Wystawa sztuki Artystów Warszawskiego Stowarzyszenia
   Plastyków
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6d0438945134425b@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156987-obecnosc-wyst
@@ -1991,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:Ogród Saski - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dc4806167eb4aaed@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159046-ogrod-saski-s
@@ -2004,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:Ogród Saski - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4c4ad86e7b19d774@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159047-ogrod-saski-s
@@ -2017,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Otwarta bezpłatna pracownia krawiecka - Taka Szpilka!
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:925c74cac88ffdeb@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157819-otwarta-bezpl
@@ -2030,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:Pamir Highway: Azja Centralna na rowerze
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:322d7bba1b55061d@waw-calendars
 CATEGORIES:slajdowisko
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159318-pamir-highway
@@ -2043,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:Poniedziałkowe granie z WGP
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d8ede7327ad0ea79@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-125219-poniedzialkow
@@ -2055,7 +778,7 @@ BEGIN:VEVENT
 SUMMARY:Poniedziałkowe zajęcia jogi w plenerze na Osiedlu "Przyjaźń"
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c48f081c9befb408@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-154172-poniedzialkow
@@ -2068,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Slavic Language Exchange
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b3aa29da6c0b80dc@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158381-slavic-langua
@@ -2081,7 +804,7 @@ SUMMARY:Spektakl „Dziewczynka z zapałkami. Świat smogu” [godz. 9:30
  \, 11:00 i 12:30]
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:63087e1cf15eedda@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157223-spektakl-dzie
@@ -2094,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkajmy się  na Twardej - Dekoracyjny gobelin cz. 2
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dd73609950834953@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158141-spotkajmy-sie
@@ -2107,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkanie autorskie z Katarzyną Drogą w W64
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:512d439c39862bf5@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159122-spotkanie-aut
@@ -2120,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:Sypka Warszawa - koncert o Powstaniu Warszawskim
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3153dcc18a57c13a@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159113-sypka-warszaw
@@ -2133,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Vistula Toastmasters Leaders - spotkanie hybrydowe
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dadd9dd612e06c8f@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157607-vistula-toast
@@ -2147,7 +870,7 @@ SUMMARY:Wernisaż Wake Up Humans Ewy Cieniak oraz występ chóru Kolektyw
  Dźwięku
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:cfa5150461cd1213@waw-calendars
 CATEGORIES:koncert,wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159076-wernisaz-wake
@@ -2160,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia z języka angielskiego dla seniorów
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:962a1c8792c2378f@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158919-zajecia-z-jez
@@ -2173,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:Łagodny Qigong - budowanie odporności jesienią
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:380b4403771b71cc@waw-calendars
 CATEGORIES:dla seniorów,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159394-lagodny-qigon
@@ -2186,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Śladami Lalki - opowieść o Warszawie Prusa
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5e6a393bd5e41bcf@waw-calendars
 CATEGORIES:spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159105-sladami-lalki
@@ -2199,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:„Pierwsze kroki w biznesie – rejestracja i wsparcie”
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dd7c8d48aa0dad7a@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158222-pierwsze-krok
@@ -2212,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:Akademia Sztuk Wonnych - zapachowy kurs z Kasią Kochańską
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:687464e278e1eed3@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159086-akademia-sztu
@@ -2225,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:Aleja Szucha. Spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:302b47c787fc30c3@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159133-aleja-szucha-
@@ -2238,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatny kurs medytacji Sahadźa Joga
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:08245ef0d2552a71@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152923-bezplatny-kur
@@ -2252,7 +975,7 @@ SUMMARY:Czego oczy [na ogół] nie widzą. Spacer po Krakowskim Przedmieś
  ciu
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:902a3f6e1b22e14c@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157577-czego-oczy-na
@@ -2265,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:Daj się poznać! Targi Pracy i Przedsiębiorczości w Warszawie
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0f12d778ccadb34d@waw-calendars
 CATEGORIES:targi\, garażówka,warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158749-daj-sie-pozna
@@ -2278,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:EKO warsztaty
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:92158d48f8f8f380@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-146479-eko-warsztaty
@@ -2289,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:Handpanowe wtorki w Restauracji Bliski Wschód!
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7c6dfae26bac4226@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-141055-handpanowe-wt
@@ -2303,7 +1026,7 @@ SUMMARY:Islam\, polityka i państwo: gdzie muzułmanie europejscy są u si
  ebie?
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:55bfb28638056965@waw-calendars
 CATEGORIES:spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158845-islam-polityk
@@ -2317,7 +1040,7 @@ SUMMARY:JAK MÓWI POLSKA? SPOTKANIE WOKÓŁ KSIĄŻKI „PO NASZEMU” WYD
  ANEJ PRZEZ DSH I „DWUTYGODNIK”
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:83a0127fb8cd4ef8@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157128-jak-mowi-pols
@@ -2331,7 +1054,7 @@ SUMMARY:KTOŚ TU MILCZY – O słowach\, których nie wypowiedzieliśmy. W
  arsztat dramowy dla dorosłych
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8603bf0b17115a6b@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159279-ktos-tu-milcz
@@ -2344,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:Kabaddi - Treningi otwarte
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:938bcc48ad64fb71@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157050-kabaddi-treni
@@ -2357,7 +1080,7 @@ SUMMARY:Kamienice Śródmieścia między Alejami Jerozolimskimi\, a Wilcz
  ą
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bfb0c6d8e9bf876e@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159010-kamienice-sro
@@ -2370,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:Karol Open mic
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:aebac736420f8362@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158998-karol-open-mi
@@ -2382,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:Klub Książki Azjatyckiej - Elif Shafak "Bękart ze Stambułu"
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6786865944ec91df@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158686-klub-ksiazki-
@@ -2395,7 +1118,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert MOVA i Darek Cieślak
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c12d326059642c64@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159317-koncert-mova-
@@ -2407,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Miautystyczne - performans
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f18fe546e3545f60@waw-calendars
 CATEGORIES:teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157687-miautystyczne
@@ -2420,7 +1143,7 @@ SUMMARY:Nie tylko Woodstock | Festiwalowe dokumenty muzyczne - "Glastonbur
  y"
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:08d9807d2e6766b2@waw-calendars
 CATEGORIES:film,spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157432-nie-tylko-woo
@@ -2433,7 +1156,7 @@ BEGIN:VEVENT
 SUMMARY:Nordic Walking w Parku Praskim
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:aed73fd6c27755a1@waw-calendars
 CATEGORIES:spacer lub rower,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151832-nordic-walkin
@@ -2445,7 +1168,7 @@ BEGIN:VEVENT
 SUMMARY:Ogród Saski - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1342a7d1d9267984@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159048-ogrod-saski-s
@@ -2458,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:Planszówki w RTV
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c1f50983efde94fa@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157942-planszowki-w-
@@ -2470,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Pokaz dzieł Olgi Boznańskiej  w MNW
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:aa540c26cfab2c05@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-141796-pokaz-dziel-o
@@ -2484,7 +1207,7 @@ SUMMARY:Powrót do siebie – kobiecy krąg oddechu\, głosu i łagodnego
  ruchu
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a330dcb6cc8288b8@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157487-powrot-do-sie
@@ -2497,7 +1220,7 @@ BEGIN:VEVENT
 SUMMARY:Public Speaking practice at Poland’s First Toastmasters
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:666ec5d5fa477d9f@waw-calendars
 CATEGORIES:spotkanie,warsztaty,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156673-public-speaki
@@ -2510,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:RAPOTERAPIA - Życia stara szkoła
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:256266c167506618@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158565-rapoterapia-z
@@ -2522,7 +1245,7 @@ SUMMARY:Rekolekcje ewangelizacyjne (REO) - Zrób ten krok\, Bóg na Ciebie
   czeka
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ef3e2c0d0acbe283@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159205-rekolekcje-ew
@@ -2535,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:Skarby Muzeum Narodowego w Warszawie cz. 2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0777e3c6c3194533@waw-calendars
 CATEGORIES:spacer lub rower,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158782-skarby-muzeum
@@ -2548,7 +1271,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer Wzdłuż Wisły z Janem Mencwelem
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e531f66471591d7b@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159082-spacer-wzdluz
@@ -2561,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkajmy się  na Twardej - Osłonka na  doniczkę
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:442dd4983a4fb222@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158142-spotkajmy-sie
@@ -2574,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkanie z Krzysztofem Zanussim - Wolska Akademia Seniora
 DTSTART;TZID="UTC+02:00":20260929T110000
 DTEND;TZID="UTC+02:00":20260929T123000
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9ab353c6dbe6e670@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Spotkanie z Krzysztofem Zanussim - Wolska Akademia Senior
@@ -2597,7 +1320,7 @@ BEGIN:VEVENT
 SUMMARY:Stefan Rowecki „Grot” – wystawa biograficzna
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f3fb01111fc47ff4@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159212-stefan-roweck
@@ -2610,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty śpiewu
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:77fefec1fa594344@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158890-warsztaty-spi
@@ -2622,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:Wtorki z jogą na PGE Narodowym
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:da2e47cd89867f56@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-142974-wtorki-z-joga
@@ -2634,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:Zdrowy Kręgosłup w Parku Kultury w Powsinie
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dee17ba3bd988a6a@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158836-zdrowy-kregos
@@ -2647,7 +1370,7 @@ BEGIN:VEVENT
 SUMMARY:Śródmiejskie bieganie dla każdego
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:025ddacd92accd08@waw-calendars
 CATEGORIES:sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149937-srodmiejskie-
@@ -2660,7 +1383,7 @@ BEGIN:VEVENT
 SUMMARY:73. Wieczory z Poezją i Muzyką
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1497b1366e0fb5e3@waw-calendars
 CATEGORIES:koncert,spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158906-73-wieczory-z
@@ -2673,7 +1396,7 @@ SUMMARY:Bezpłatny piknik rodzinny i dzień otwarty The Boat Trip nad Zegr
  zem
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bba0d2880fab3f57@waw-calendars
 CATEGORIES:dla dzieci,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157655-bezplatny-pik
@@ -2685,7 +1408,7 @@ BEGIN:VEVENT
 SUMMARY:Było i ni ma. Spacer po przedwojennym centrum Warszawy
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4c7b9a7e921f6427@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157578-bylo-i-ni-ma-
@@ -2699,7 +1422,7 @@ SUMMARY:Cykliczne Spotkanie Klasycznej Motoryzacji Fundacji Youngtimer War
  saw
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6eb4c44783ef9f98@waw-calendars
 CATEGORIES:spotkanie,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159035-cykliczne-spo
@@ -2712,7 +1435,7 @@ BEGIN:VEVENT
 SUMMARY:Darmowa Zumba® na Bielanach
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:88428d2a3f4e344c@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-73889-darmowa-zumba-
@@ -2724,7 +1447,7 @@ BEGIN:VEVENT
 SUMMARY:Dekoracje\, które się mszczą | Fringe Warszawa 2026
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:17ad1ff30badf4a4@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159293-dekoracje-kto
@@ -2737,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:Dęby Młocińskie - spacer przyrodniczy
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:662fefb622608171@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159215-deby-mlocinsk
@@ -2750,7 +1473,7 @@ BEGIN:VEVENT
 SUMMARY:Granice z serca // Warsztat 3/4 z cyklu ’Szanuję siebie’
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2a73309acb53b4ef@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157245-granice-z-ser
@@ -2762,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:Grupa terapeutyczno‑rozwojowa dla młodzieży
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:413050f465189bb1@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156279-grupa-terapeu
@@ -2775,7 +1498,7 @@ BEGIN:VEVENT
 SUMMARY:Jak się czujesz (ale tak naprawdę?). Czułe spotkanie z emocjami
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6dd934110aedf6ef@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159107-jak-sie-czuje
@@ -2788,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:Karaoke dla ludzi bez wstydu i granic CO ŚRODĘ W Oparach Absurdu
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c83491279d87b849@waw-calendars
 CATEGORIES:impreza,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158592-karaoke-dla-l
@@ -2801,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Kino znów na Ursynowie: „O czym sobie nie mówimy”
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:acae57214e7f2905@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158163-kino-znow-na-
@@ -2814,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert greckiej muzyki cerkiewnej na Ochocie
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c3af7050df5e2e4e@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157820-koncert-greck
@@ -2828,7 +1551,7 @@ SUMMARY:Konwersacje językowe: "Pogaduchy po angielsku" (English Speaking
  Meeting)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:82a21fe20e535946@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159066-konwersacje-j
@@ -2841,7 +1564,7 @@ BEGIN:VEVENT
 SUMMARY:Modułowe Origami - Warsztaty Cykliczne
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:25de5d899eca1225@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151724-modulowe-orig
@@ -2854,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:Moje konie. Sławomir Szereda
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d806a8a61878a482@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158545-moje-konie-sl
@@ -2866,7 +1589,7 @@ BEGIN:VEVENT
 SUMMARY:NORDIC WALKING dla osób 60+
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4072f0727d82306c@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157560-nordic-walkin
@@ -2879,7 +1602,7 @@ SUMMARY:Nie na swoim miejscu - prezentacja książki w języku białoruski
  m
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9da071a904096d45@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159106-nie-na-swoim-
@@ -2892,7 +1615,7 @@ BEGIN:VEVENT
 SUMMARY:Niech złość nie szkodzi! - cykl warsztatowy
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9f91c3cfb517e8e4@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158924-niech-zlosc-n
@@ -2905,7 +1628,7 @@ BEGIN:VEVENT
 SUMMARY:Nu Fonia & Friends | Jam Session "Scena Młodych"
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ec85926377daa06b@waw-calendars
 CATEGORIES:koncert,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158085-nu-fonia-frie
@@ -2918,7 +1641,7 @@ BEGIN:VEVENT
 SUMMARY:PIWNICA POETÓW Jadwiga Malina gościem Iwony Smolki
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:17b2d4e648b53149@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158870-piwnica-poeto
@@ -2931,7 +1654,7 @@ BEGIN:VEVENT
 SUMMARY:Praktyki uważności- medytacja na co dzień
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9aa5038f97a8da66@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-155070-praktyki-uwaz
@@ -2944,7 +1667,7 @@ BEGIN:VEVENT
 SUMMARY:QIGONG W MUZEUM | prozdrowotne ćwiczenia dla każdego
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8087751fe197ed6c@waw-calendars
 CATEGORIES:dla seniorów,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152622-qigong-w-muze
@@ -2958,7 +1681,7 @@ SUMMARY:Resort zbrodni. Urząd i Służba Bezpieczeństwa w PRL | Sowiecka
   czy rodzima? Rodowód bezpieki
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5b330d3a0079acc5@waw-calendars
 CATEGORIES:spotkanie,wykład,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159231-resort-zbrodn
@@ -2972,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:SPOTKANIA RODZICIELSKIE
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b3fd735bc4125585@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159222-spotkania-rod
@@ -2983,7 +1706,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkajmy się  na Twardej - Malujemy kredkami akwarelowymi
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5b1ec780c73b7a2a@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158143-spotkajmy-sie
@@ -2996,7 +1719,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkanie autorskie z Michałem Krasuckim
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9a323919898b8058@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159005-spotkanie-aut
@@ -3009,7 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkanie autorskie z Michałem Krasuckim
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:184032f393dffa4a@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159013-spotkanie-aut
@@ -3022,7 +1745,7 @@ BEGIN:VEVENT
 SUMMARY:Szkolenie dotyczące funduszy europejskich dla przedsiębiorców
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f65690173e16f1b2@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158223-szkolenie-dot
@@ -3035,7 +1758,7 @@ BEGIN:VEVENT
 SUMMARY:Tai Chi w Parku Kultury w Powsinie
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a89d0e8914c2133c@waw-calendars
 CATEGORIES:dla seniorów,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158834-tai-chi-w-par
@@ -3049,7 +1772,7 @@ SUMMARY:Trudne sytuacje w opiece nad chorym z demencją cz. I - spotkanie
  z psychogerontologiem dla opiekunów rodzinnych
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:218c6e48d0f75d77@waw-calendars
 CATEGORIES:spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159127-trudne-sytuac
@@ -3064,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:Twórcze inspiracje na Wolskiej: Jesienne dekoracje
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8c234b31534b54f7@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157511-tworcze-inspi
@@ -3077,7 +1800,7 @@ BEGIN:VEVENT
 SUMMARY:Ursynowski Nordic Walking 2026 | Grupy środowe
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d31599b88e69534d@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-147626-ursynowski-no
@@ -3090,7 +1813,7 @@ BEGIN:VEVENT
 SUMMARY:VIII Forum Cyberbezpieczeństwa
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:13fd3b967085670d@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158832-viii-forum-cy
@@ -3102,7 +1825,7 @@ BEGIN:VEVENT
 SUMMARY:Wawerska Akademia Seniora - spektakl „Zacznijmy jeszcze raz”
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5d411ccbce9c5bb3@waw-calendars
 CATEGORIES:dla seniorów,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159332-wawerska-akad
@@ -3115,7 +1838,7 @@ BEGIN:VEVENT
 SUMMARY:Wawerska Akademia Seniora | Spektakl „Zacznijmy jeszcze raz”
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:47b8cd57f9dc0517@waw-calendars
 CATEGORIES:dla seniorów,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158905-wawerska-akad
@@ -3128,7 +1851,7 @@ BEGIN:VEVENT
 SUMMARY:Wieczór z Eckhartem Tolle – Warszawa
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c292f10cb6419246@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:An Evening with Eckhart Tolle in Warsaw We are delighted to in
@@ -3151,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:World Pub Quiz + Social Meetup
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a70cd96848b357a3@waw-calendars
 CATEGORIES:spotkanie,inne,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158430-world-pub-qui
@@ -3164,7 +1887,7 @@ SUMMARY:Wykład "Turcja osmańska: sąsiad\, rywal i sprzymierzeniec Rzecz
  ypospolitej"
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4568c4efb49192e6@waw-calendars
 CATEGORIES:wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159344-wyklad-turcja
@@ -3177,7 +1900,7 @@ BEGIN:VEVENT
 SUMMARY:Wystawa "recykling znaczeń"
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1d46752412b306dc@waw-calendars
 CATEGORIES:spotkanie,wystawa,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159193-wystawa-recyk
@@ -3190,7 +1913,7 @@ SUMMARY:Wystawa malarstwa Marcela Sienkiewicza | “Maski\, stwory i inne
  emocje”
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7a709efb27216fc1@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157741-wystawa-malar
@@ -3204,7 +1927,7 @@ SUMMARY:Wystawa „Wspólne Życie\, Wspólna Przyszłość” 80 - lat ON
  Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:48bdff49f51ee54f@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157848-wystawa-wspol
@@ -3217,7 +1940,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia jogi w plenerze w Parku Górczewska [godz. 17:30 i 18:40]
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:29afd92b383ead34@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-154170-zajecia-jogi-
@@ -3230,7 +1953,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia z futbolu australijskiego
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:32f3b31bfb4acd14@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152306-zajecia-z-fut
@@ -3243,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba w OSiR Polna
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:159bfa5abfe2c074@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157817-zumba-w-osir-
@@ -3256,7 +1979,7 @@ SUMMARY:ŚRÓDMIEJSKI FESTIWAL SPORTÓW MIEJSKICH - wielki finał Ride the
   Future
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d643aa3d8ed37068@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157496-srodmiejski-f
@@ -3269,7 +1992,7 @@ BEGIN:VEVENT
 SUMMARY:„Niebionka na pętli”. Spotkanie z Miłoszem Piotrowskim
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:60cad04bff06144b@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158989-niebionka-na-
@@ -3282,7 +2005,7 @@ BEGIN:VEVENT
 SUMMARY:„Tribute to Leonard Cohen” | Yanistan
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:24bdcb780385006b@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157468-tribute-to-le
@@ -3296,7 +2019,7 @@ SUMMARY:„Troska na odległość. Transnarodowe światy filipińskich mig
  rantów w Stanach Zjednoczonych” - spotkanie o książce
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7843ed55cf42628c@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159236-troska-na-odl
@@ -3311,7 +2034,7 @@ BEGIN:VEVENT
 SUMMARY:"Czas na upgrade" | Co naprawdę psuje wdrożenia AI w firmach?
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:81f4ec821704a8eb@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159358-czas-na-upgra
@@ -3324,7 +2047,7 @@ SUMMARY:Bezpłatna gimnastyka usprawniająca dla osób z niepełnosprawno
  ściami
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:38a2ad0578fdd2f0@waw-calendars
 CATEGORIES:sport,dla seniorów
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149782-bezplatna-gim
@@ -3338,7 +2061,7 @@ SUMMARY:Bezpłatne zajęcia latino solo dla osób z niepełnosprawnościam
  i
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8fe1a94baa141b0c@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-149781-bezplatne-zaj
@@ -3351,7 +2074,7 @@ BEGIN:VEVENT
 SUMMARY:Bliżej Mam - cykl spotkań wokół macierzyństwa
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4b8d3e713465f9e0@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158923-blizej-mam-cy
@@ -3364,7 +2087,7 @@ BEGIN:VEVENT
 SUMMARY:Chica Moustache (koncert + release party!)
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6e4083152702d1a0@waw-calendars
 CATEGORIES:impreza,koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158824-chica-moustac
@@ -3377,7 +2100,7 @@ BEGIN:VEVENT
 SUMMARY:Czwartkowe oprowadzania po aktualnych wystawach Zachęty
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:211de37173792267@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-138452-czwartkowe-op
@@ -3390,7 +2113,7 @@ BEGIN:VEVENT
 SUMMARY:Darmowy dyżur naprawczy | Jazdów
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:de9aefd4de60d55e@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159256-darmowy-dyzur
@@ -3403,7 +2126,7 @@ SUMMARY:Enigmy Norymbergi i współczesne wyzwania prawa międzynarodowego
  . Debata w 80. rocznicę wyroku
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d085211aac07e387@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159120-enigmy-norymb
@@ -3417,7 +2140,7 @@ BEGIN:VEVENT
 SUMMARY:Festiwal Możliwości Silver Stars
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:61042da64f6c074c@waw-calendars
 CATEGORIES:dla seniorów,impreza,stand-up\, kabaret\, impro,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158400-festiwal-mozl
@@ -3429,7 +2152,7 @@ BEGIN:VEVENT
 SUMMARY:GOLDEXPO WARSZAWA 2026
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c7e88accf73150f9@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:GOLDEXPO WARSZAWA – to targi dedykowane branży złotniczo-j
@@ -3453,7 +2176,7 @@ SUMMARY:Gimnastyka usprawniająca stawy i kręgosłup\, rozciągająca\, m
  odelująca sylwetkę
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2706ee6bdddef188@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151243-gimnastyka-us
@@ -3467,7 +2190,7 @@ SUMMARY:Granice bez poczucia winy. Jak dbać o siebie i swoje potrzeby\, p
  ozostając w dobrej relacji z innymi?
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ad805ce173cd8065@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159380-granice-bez-p
@@ -3481,7 +2204,7 @@ BEGIN:VEVENT
 SUMMARY:IMPREZOWE CZWARTKI Z DJ-EM
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e4b0af480da2aa87@waw-calendars
 CATEGORIES:impreza
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157667-imprezowe-czw
@@ -3494,7 +2217,7 @@ SUMMARY:Jak zatrzymać wodę w ogrodzie? W ogrodzie PaństwoMiasto i Miejs
  kie Pszczoły
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2b9396950ca81393@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159078-jak-zatrzymac
@@ -3507,7 +2230,7 @@ BEGIN:VEVENT
 SUMMARY:Jesienne przetwory w Pałacyku Konopackiego
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:cc2b6c22fc829555@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159152-jesienne-prze
@@ -3520,7 +2243,7 @@ BEGIN:VEVENT
 SUMMARY:Kid Book Club
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:67af5edee243f294@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spotkanie,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159382-kid-book-club
@@ -3531,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:Koszykówka dla młodzieży na Wilanowie
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0946260e2115e146@waw-calendars
 CATEGORIES:dla młodzieży,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159171-koszykowka-dl
@@ -3544,7 +2267,7 @@ BEGIN:VEVENT
 SUMMARY:Nordic Walking w Parku Kultury w Powsinie
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3967f244c9edce08@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158838-nordic-walkin
@@ -3558,7 +2281,7 @@ SUMMARY:Odsłuch 2. odcinka audioserialu "Sala 600" z widokiem na panoram
  ę Warszawy
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5620ff7453ade307@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159346-odsluch-2-odc
@@ -3572,7 +2295,7 @@ SUMMARY:Panel ekspercki: Centra choreograficzne w Polsce – dlaczego ich
  potrzebujemy?
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2c27c920527cfa0b@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159022-panel-eksperc
@@ -3585,7 +2308,7 @@ BEGIN:VEVENT
 SUMMARY:Plecenie z wikliny w ogrodzie społecznym
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f876615954468da5@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158816-plecenie-z-wi
@@ -3598,7 +2321,7 @@ BEGIN:VEVENT
 SUMMARY:Próg widzialnego. Joanna Mazuś i Krzysztof Sokolovski
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3dbd3898f621c90b@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158700-prog-widzialn
@@ -3611,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:Sam Kowalski | Mikrokoncert w Zielonym OKO
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:012c9843216bde11@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159192-sam-kowalski-
@@ -3624,7 +2347,7 @@ BEGIN:VEVENT
 SUMMARY:Smażenie i budowanie słonia | Kolektyw Szczątki
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e44d28ffa222cd54@waw-calendars
 CATEGORIES:warsztaty,wystawa,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159134-smazenie-i-bu
@@ -3637,7 +2360,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer szlakiem warszawskich neonów
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c361670ea08314e9@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159011-spacer-szlaki
@@ -3650,7 +2373,7 @@ BEGIN:VEVENT
 SUMMARY:Speed Friending!
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ff79240c35cd23e4@waw-calendars
 CATEGORIES:spotkanie,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159381-speed-friendi
@@ -3662,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkajmy się  na Twardej
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:764bb12ce759c599@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159184-spotkajmy-sie
@@ -3674,7 +2397,7 @@ BEGIN:VEVENT
 SUMMARY:Stare Miasto od podstaw. Spacer z przewodniczką
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6a5e3d01a2729e73@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159028-stare-miasto-
@@ -3687,7 +2410,7 @@ BEGIN:VEVENT
 SUMMARY:Sąsiedzkie planszówki
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c2c9ea1f92d3d96f@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159288-sasiedzkie-pl
@@ -3699,7 +2422,7 @@ BEGIN:VEVENT
 SUMMARY:Ultimate frisbee dla początkujących
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a890181f9b095e4d@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152496-ultimate-fris
@@ -3713,7 +2436,7 @@ SUMMARY:Warsaw Caught My Eye – Patriotism Today Storytelling workshops a
  t the Museum of Warsaw for people with migration experience
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a433d20d5af5ec5d@waw-calendars
 CATEGORIES:warsztaty,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159020-warsaw-caught
@@ -3728,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty Rękodzielnicze w Pół na Puł
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e177f54474ba1531@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-134785-warsztaty-rek
@@ -3741,7 +2464,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty tkackie - cykl bezpłatnych warsztatów dla dorosłych
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ddfe22cf2ef63ef5@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158953-warsztaty-tka
@@ -3754,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Wawer w moich powieściach - wieczór autorski Marcina Wolskiego
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a03d7b61fea46803@waw-calendars
 CATEGORIES:dla seniorów,spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159196-wawer-w-moich
@@ -3767,7 +2490,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA dla osób 60+ [godz. 10:00 i 11:00]
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:995f8d63ae20bd14@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157564-zumba-dla-oso
@@ -3780,7 +2503,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia sensoryczne dla dzieci do 3 roku życia
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9a41b762e4a9e9fc@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159164-zajecia-senso
@@ -3793,7 +2516,7 @@ BEGIN:VEVENT
 SUMMARY:Śladami Warszawskich Bobrów
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9607a77dc49fdc39@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159077-sladami-warsz
@@ -3805,7 +2528,7 @@ BEGIN:VEVENT
 SUMMARY:FESTIWAL PRZEMIANY 2026 I Czy AI myśli za ciebie?
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f1040413639bf73d@waw-calendars
 CATEGORIES:koncert,spotkanie,teatr,warsztaty,wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157901-festiwal-prze
@@ -3819,7 +2542,7 @@ SUMMARY:Hans Lijklema "Tworzymy własną książkę" - warsztaty artystycz
  ne z pisarzem
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6e2ed9b4c639a5d9@waw-calendars
 CATEGORIES:dla dzieci,spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158959-hans-lijklema
@@ -3832,7 +2555,7 @@ BEGIN:VEVENT
 SUMMARY:Jak zabić rzekę na 10 sposobów?
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2684b11e5c213192@waw-calendars
 CATEGORIES:spacer lub rower,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159079-jak-zabic-rze
@@ -3844,7 +2567,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert Zespołu Teatralnego SZTOS | Otwarta Scena
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9ceb19451c142585@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158644-koncert-zespo
@@ -3857,7 +2580,7 @@ BEGIN:VEVENT
 SUMMARY:Ocalić od zapomnienia - Kapela z Chmielnej
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:63826bcb96498444@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159369-ocalic-od-zap
@@ -3870,7 +2593,7 @@ BEGIN:VEVENT
 SUMMARY:Oddajmy Ryby Odrze – Układanie mozaiki z kafelków
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b6681777e00e841b@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159081-oddajmy-ryby-
@@ -3884,7 +2607,7 @@ SUMMARY:Październik ’56 | Przegląd filmowy - "Ziemia"\, 1956\, reż. J
  erzy Zarzycki
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1ba61c6863bb97e3@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159262-pazdziernik-5
@@ -3897,7 +2620,7 @@ BEGIN:VEVENT
 SUMMARY:Premiera "Shared Dreams" - Hoteloko Company - spektakl
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:031215a4f95ab250@waw-calendars
 CATEGORIES:teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159250-premiera-shar
@@ -3911,7 +2634,7 @@ SUMMARY:Puste gniazdo\, pełna ja. Odnajdywanie nowej tożsamości po wypr
  owadzce dzieci
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c921169b8457680c@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159201-puste-gniazdo
@@ -3924,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer z przewodniczką: Święci i grzesznicy dawnej Warszawy
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4706a242b9228b3f@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159029-spacer-z-prze
@@ -3938,7 +2661,7 @@ SUMMARY:Sztuka Czasu Wolnego. Spotkania wokół wybranych dzieł w Białym
   Domu dla dorosłych
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:201fe64e8c9c93ef@waw-calendars
 CATEGORIES:wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158171-sztuka-czasu-
@@ -3951,7 +2674,7 @@ BEGIN:VEVENT
 SUMMARY:Sztuka nie tylko Mokotowa | Wycieczki integracyjne Seniorów
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:415da9653eb72954@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150228-sztuka-nie-ty
@@ -3964,7 +2687,7 @@ BEGIN:VEVENT
 SUMMARY:Treningi ogólnorozwojowe w Parku Kultury w Powsinie
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c9ad6f1829ac28c0@waw-calendars
 CATEGORIES:sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158837-treningi-ogol
@@ -3977,7 +2700,7 @@ BEGIN:VEVENT
 SUMMARY:Wernisaż malarstwa Oskara Derycha
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5e6305896f1bb707@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159197-wernisaz-mala
@@ -3991,7 +2714,7 @@ SUMMARY:Wernisaż wystawy Karoliny Ślusarczyk "Struktury wybrzeża. Od pl
  amy do kadru."
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4e01c1d271ed2e39@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159044-wernisaz-wyst
@@ -4004,7 +2727,7 @@ BEGIN:VEVENT
 SUMMARY:Wernisaż wystawy prac Anny Mostowskiej
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:def994016d9f351f@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159285-wernisaz-wyst
@@ -4017,7 +2740,7 @@ BEGIN:VEVENT
 SUMMARY:Współwłasność nieruchomości - rozwiąż problemy z ekspertem
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fd390dc78f991d04@waw-calendars
 CATEGORIES:dla seniorów,spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158713-wspolwlasnosc
@@ -4030,7 +2753,7 @@ BEGIN:VEVENT
 SUMMARY:"Zwierzęta w wielkim mieście" na Ursynowie
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bb1553ae122a7abb@waw-calendars
 CATEGORIES:dla dzieci,spotkanie,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159261-zwierzeta-w-w
@@ -4043,7 +2766,7 @@ BEGIN:VEVENT
 SUMMARY:32. Speed Debating - otwarty klub dyskusyjny
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6fc2d2e74b62d00b@waw-calendars
 CATEGORIES:spotkanie,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157786-32-speed-deba
@@ -4057,7 +2780,7 @@ SUMMARY:BEZPŁATNE WARSZTATY | Granice i odporność psychiczna wolontariu
  sza
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:70df5dbc971be46f@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159230-bezplatne-war
@@ -4070,7 +2793,7 @@ BEGIN:VEVENT
 SUMMARY:Bajkowe Poranki w Murowance
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b035f49a745c811c@waw-calendars
 CATEGORIES:dla dzieci,film,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159199-bajkowe-poran
@@ -4082,7 +2805,7 @@ BEGIN:VEVENT
 SUMMARY:Budowa lalek teatralnych | 5. Mokotowski Trójdzionek Teatralny
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6543d7dc4a777328@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158540-budowa-lalek-
@@ -4096,7 +2819,7 @@ SUMMARY:Daj ubraniom drugie życie – warsztaty naprawy odzieży [godz. 1
  0:00\, 12:00\, 14:00]
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bf01f97afefa2c4e@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159257-daj-ubraniom-
@@ -4109,7 +2832,7 @@ BEGIN:VEVENT
 SUMMARY:Elab Education Conference 2026
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:780f087493247a1e@waw-calendars
 CATEGORIES:dla młodzieży,targi\, garażówka,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157805-elab-educatio
@@ -4121,7 +2844,7 @@ BEGIN:VEVENT
 SUMMARY:Filip Moszant - Wypalenisko - wernisaż
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8acd7ac9e6a70fc9@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158554-filip-moszant
@@ -4134,7 +2857,7 @@ BEGIN:VEVENT
 SUMMARY:Fragmentarium: warsztaty kolażu
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:63cc7c845d93cf9b@waw-calendars
 CATEGORIES:dla młodzieży,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159021-fragmentarium
@@ -4146,7 +2869,7 @@ BEGIN:VEVENT
 SUMMARY:Heniek Małolepszy przedstawia: Czytamy Wiecha!
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:eba611edbc49d7b8@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157341-heniek-malole
@@ -4159,7 +2882,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz dla dzieci
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d32a37a5dda0d7eb@waw-calendars
 CATEGORIES:dla dzieci,koncert,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159176-jazz-dla-dzie
@@ -4172,7 +2895,7 @@ SUMMARY:Jesień z odzysku - ekologiczne dekoracje jesienne [godz. 10:00\,
  12:00\, 14:00]
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f2362234ddd0733b@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159258-jesien-z-odzy
@@ -4185,7 +2908,7 @@ BEGIN:VEVENT
 SUMMARY:KABAK TOG – קאַבאַק טאָג\, czyli DZIEŃ DYNI
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1331cfd482c3f78a@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159091-kabak-tog-czy
@@ -4197,7 +2920,7 @@ BEGIN:VEVENT
 SUMMARY:KUKIEŁKOWNIA — ART SPACE Otwarta strefa
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0a3034902c9cf822@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159271-kukielkownia-
@@ -4211,7 +2934,7 @@ SUMMARY:Komuna. Kolekcja. Wystawa z okazji 30-lecia stowarzyszenia Teatr K
  omuna Warszawa
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:25468cb700eda6fc@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158558-komuna-kolekc
@@ -4224,7 +2947,7 @@ BEGIN:VEVENT
 SUMMARY:Koncert rodzinny - Dominobajki
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c4a4b5fe0b9af0ea@waw-calendars
 CATEGORIES:dla dzieci,koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158402-koncert-rodzi
@@ -4237,7 +2960,7 @@ SUMMARY:Lapis lazuli\, turkusy i karneole. Biżuteria etniczna Azji Centra
  lnej. Wykład
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d62a224335a48705@waw-calendars
 CATEGORIES:dla seniorów,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159058-lapis-lazuli-
@@ -4250,7 +2973,7 @@ BEGIN:VEVENT
 SUMMARY:Mokotowski Trójdzionek Teatralny: Warsztaty impro
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:47e808944f405a53@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158461-mokotowski-tr
@@ -4263,7 +2986,7 @@ BEGIN:VEVENT
 SUMMARY:Noc Bibliotek we Włochach
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ec85ffe3d8ae7855@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,spotkanie,warsztaty,wy
  stawa,inne
@@ -4277,7 +3000,7 @@ SUMMARY:Od nagietka do galaktyki - Pani Jurek Studio\, Natalia Wielechowsk
  a
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9adebfe31757d826@waw-calendars
 CATEGORIES:spotkanie,teatr,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158697-od-nagietka-d
@@ -4291,7 +3014,7 @@ SUMMARY:Ostatnia kreska kończąca dzieło\, czyli o roli Pieczęci w mala
  rstwie tuszem | wykład Sensei Ryuki
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9a62ce165061400f@waw-calendars
 CATEGORIES:dla seniorów,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159140-ostatnia-kres
@@ -4305,7 +3028,7 @@ BEGIN:VEVENT
 SUMMARY:Prago\, tu jesień! Spotkania edukacyjno-warsztatowe
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c5b7dc329e1151c3@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159333-prago-tu-jesi
@@ -4319,7 +3042,7 @@ SUMMARY:Praska Jesień w Świątyniach | Alicja Majewska z Włodzimierzem
  Korczem
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:acafaff77f91eff0@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159242-praska-jesien
@@ -4333,7 +3056,7 @@ SUMMARY:Rodzinna Matematyka - dla dzieci w wieku 6-9 lat wraz z rodzicami/
  opiekunami
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:303fc682cf7ba18f@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158493-rodzinna-mate
@@ -4346,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:SZUM\, SZEPT\, SZMER | premiera albumu inspirowanego miastem
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:accb3893fe551994@waw-calendars
 CATEGORIES:koncert,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158650-szum-szept-sz
@@ -4359,7 +3082,7 @@ BEGIN:VEVENT
 SUMMARY:Sobótki z bajką\, czytaną i malowaną
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:eb6eb8f49bbde1f4@waw-calendars
 CATEGORIES:dla dzieci,spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159007-sobotki-z-baj
@@ -4372,7 +3095,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer Śladami kibucu na Grochowie
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:032288cc3c590a52@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158006-spacer-sladam
@@ -4385,7 +3108,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer – Śladami kibucu na Grochowie
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fd918ce6bc9ae1b8@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159289-spacer-sladam
@@ -4399,7 +3122,7 @@ SUMMARY:Spotkanie z wolontariuszką i dziennikarką Aldoną Hartwińską w
   Ukraińskim Domu
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:74658f864ce88c7f@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159392-spotkanie-z-w
@@ -4412,7 +3135,7 @@ BEGIN:VEVENT
 SUMMARY:Szkolenie z Pierwszej Pomocy
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:35812cf58f42acb7@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-150136-szkolenie-z-p
@@ -4424,7 +3147,7 @@ BEGIN:VEVENT
 SUMMARY:Sąsiedzka Garażówka – daj rzeczom drugie życie!
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2986f7230c553e1b@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159287-sasiedzka-gar
@@ -4437,7 +3160,7 @@ BEGIN:VEVENT
 SUMMARY:TARG SANDOMIERSKI I PRZYJACIELE | Sandomierz w Koneserze
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a930aa7d98269723@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159320-targ-sandomie
@@ -4450,7 +3173,7 @@ BEGIN:VEVENT
 SUMMARY:Tai-chi dla zdrowia
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f5509b74feb38af1@waw-calendars
 CATEGORIES:dla seniorów,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159331-tai-chi-dla-z
@@ -4462,7 +3185,7 @@ BEGIN:VEVENT
 SUMMARY:Tango i jazz na Białołęce
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d6d21426078f821f@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158843-tango-i-jazz-
@@ -4474,7 +3197,7 @@ BEGIN:VEVENT
 SUMMARY:Targi Jestem Slow #Jesieniara
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ca961e427775adf7@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158014-targi-jestem-
@@ -4486,7 +3209,7 @@ BEGIN:VEVENT
 SUMMARY:Targowisko Sztuki
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c9601722f552a52c@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156724-targowisko-sz
@@ -4499,7 +3222,7 @@ SUMMARY:WARSZTATY OKOŁOROZWODOWE \,\,JA\, RODZIC I DZIECKO’’ | Stowar
  zyszenie Wspólne Podwórko
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b13993f09acef16b@waw-calendars
 CATEGORIES:warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158088-warsztaty-oko
@@ -4513,7 +3236,7 @@ SUMMARY:WEEKEND SENIORA Z KULTURĄ | „Czy potrafisz rozpoznać\, kiedy A
  I próbuje Cię oszukać?”
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ccea9a9df8c67ebd@waw-calendars
 CATEGORIES:dla seniorów,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159324-weekend-senio
@@ -4527,7 +3250,7 @@ SUMMARY:Warsztat dla specjalistów - Dialog Motywujący w pracy pomocowej
  - wprowadzenie
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:138ccf680a0f08c6@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156272-warsztat-dla-
@@ -4540,7 +3263,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty #wKamieniu | Zakorzenieni w wodzie
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9f79f33029abccf4@waw-calendars
 CATEGORIES:spacer lub rower,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158966-warsztaty-wka
@@ -4554,7 +3277,7 @@ SUMMARY:Warsztaty artystyczne - tworzymy scenografie do koncertu „Lot do
   Nibylandii”
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ab94cb4f02cf2db0@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158956-warsztaty-art
@@ -4567,7 +3290,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty scrapbookingowe
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:79988253532474d6@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159365-warsztaty-scr
@@ -4579,7 +3302,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Seniora z Kulturą w Instytucie Pileckiego
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0f503a48952853e8@waw-calendars
 CATEGORIES:dla seniorów,film,warsztaty,wystawa,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159247-weekend-senio
@@ -4592,7 +3315,7 @@ BEGIN:VEVENT
 SUMMARY:Weź udział w szczycie klimatycznym – LARP
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a154fcd544265153@waw-calendars
 CATEGORIES:spotkanie,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159080-wez-udzial-w-
@@ -4606,7 +3329,7 @@ SUMMARY:Wieczór poetycki | AKWA KANIS Emilian Mucha | Czytelnia Klimatycz
  na
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d1335b540982bde9@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158656-wieczor-poety
@@ -4619,7 +3342,7 @@ BEGIN:VEVENT
 SUMMARY:Wsie Warszawy: Wieś nieuchwytna. Spacer po Górcach
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3d3a1204395e48a4@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158831-wsie-warszawy
@@ -4632,7 +3355,7 @@ BEGIN:VEVENT
 SUMMARY:Wystawa plenerowa DZIKIE HISTORIE
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7aaf3a150f7ecc1f@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159274-wystawa-plene
@@ -4645,7 +3368,7 @@ BEGIN:VEVENT
 SUMMARY:X-lecie Chóru Kameralnego "In Laetitia"
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:84829afd95ba49e3@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158733-x-lecie-choru
@@ -4658,7 +3381,7 @@ BEGIN:VEVENT
 SUMMARY:XVII Ursynowski Festiwal Streetfoodu x Zakończenie Sezonu
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0ddf9ae6d73d6374@waw-calendars
 CATEGORIES:impreza,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159162-xvii-ursynows
@@ -4672,7 +3395,7 @@ SUMMARY:Zabytkowe cmentarze Warszawy: 3/5 Stare Powązki [darmowy spacer z
   przewodnikiem]
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5c8eb661bb969530@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159204-zabytkowe-cme
@@ -4685,7 +3408,7 @@ BEGIN:VEVENT
 SUMMARY:Zrób sobie teatr! Warsztaty teatralne z Grażyną Musiałowską
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4b54330b76b209dd@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159264-zrob-sobie-te
@@ -4699,7 +3422,7 @@ SUMMARY:Zwróć uwagę i spójrz w bok. Spacer po niewidocznych detalach S
  tarego i Nowego Miasta
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:70a38f14ed8c6c07@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159030-zwroc-uwage-i
@@ -4713,7 +3436,7 @@ SUMMARY:Łazienki Królewskie - spacer z przewodnikiem w ramach Wolskiej A
  kademii Seniora
 DTSTART;TZID="UTC+02:00":20261003T100000
 DTEND;TZID="UTC+02:00":20261003T120000
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:012be0559dc79599@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Łazienki Królewskie - spacer z przewodnikiem w ramach W
@@ -4737,7 +3460,7 @@ SUMMARY:„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla d
  zieci
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a930d9534515c0c3@waw-calendars
 CATEGORIES:dla dzieci,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159269-mala-krolewna
@@ -4750,7 +3473,7 @@ BEGIN:VEVENT
 SUMMARY:„Sekrety Starego Miasta”
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:79d35eb7d788375b@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159374-sekrety-stare
@@ -4762,7 +3485,7 @@ BEGIN:VEVENT
 SUMMARY:Abisko — między lodem a zorzą
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d6bd62a2b3b4d6e4@waw-calendars
 CATEGORIES:slajdowisko
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158859-abisko-miedzy
@@ -4774,7 +3497,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień św. Franciszka i Lasu Bielańskiego 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4da94b70b29a101d@waw-calendars
 CATEGORIES:dla dzieci,impreza,targi\, garażówka,warsztaty,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158252-dzien-sw-fran
@@ -4787,7 +3510,7 @@ BEGIN:VEVENT
 SUMMARY:Galimatias czyli emerytura na wesoło - Kaberecik dalej leci
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:af494109406a7ea6@waw-calendars
 CATEGORIES:stand-up\, kabaret\, impro
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159200-galimatias-cz
@@ -4800,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:Garażówka na Mokotowie
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:279c4be0d4b44fa1@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159108-garazowka-na-
@@ -4812,7 +3535,7 @@ BEGIN:VEVENT
 SUMMARY:Kiermasz rękodzieła i swojskiego jadła
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:05a4dc607bb5727c@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158938-kiermasz-reko
@@ -4825,7 +3548,7 @@ BEGIN:VEVENT
 SUMMARY:Klasyka w Wawrze
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f435a6fdc86c118a@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158933-klasyka-w-waw
@@ -4837,7 +3560,7 @@ BEGIN:VEVENT
 SUMMARY:Kukaj Kukawko! na Pikniku Św. Franciszka
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:271fa25e58fb3a36@waw-calendars
 CATEGORIES:dla dzieci,koncert,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158570-kukaj-kukawko
@@ -4850,7 +3573,7 @@ BEGIN:VEVENT
 SUMMARY:Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:cc7a0397acdea43e@waw-calendars
 CATEGORIES:dla dzieci,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159311-legendy-warsz
@@ -4864,7 +3587,7 @@ SUMMARY:Malarstwo zachodnie i wschodnie malarstwo tuszowe -Suibokuga: ró
  żnice w perspektywie
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1abca4f198151710@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159227-malarstwo-zac
@@ -4877,7 +3600,7 @@ BEGIN:VEVENT
 SUMMARY:Mokotowski Trójdzionek Teatralny: Sen nocy letniej
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a0b7d556f54a6147@waw-calendars
 CATEGORIES:teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158463-mokotowski-tr
@@ -4890,7 +3613,7 @@ BEGIN:VEVENT
 SUMMARY:Rodzinna Gra Terenowa - Nadwiślańskie Ekoprzygody
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e777764483422397@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158943-rodzinna-gra-
@@ -4904,7 +3627,7 @@ SUMMARY:Sinfonia Varsovia: Historie muzyką opowiadane. „Muzyczna kuchni
  a klasyków"
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:cc18591169c71773@waw-calendars
 CATEGORIES:koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158759-sinfonia-vars
@@ -4917,7 +3640,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer po absurdach PRL-u
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6ac6e5e8cc423453@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159099-spacer-po-abs
@@ -4930,7 +3653,7 @@ SUMMARY:Spotkanie autorskie z Jerzym Raszkowskim | Czekając na swojego Mo
  jżesza
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:20f8f84afb16ed27@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159216-spotkanie-aut
@@ -4943,7 +3666,7 @@ BEGIN:VEVENT
 SUMMARY:Tajemnice ulic na Starych Bielanach
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:32da683a3ddf84dd@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159327-tajemnice-uli
@@ -4957,7 +3680,7 @@ SUMMARY:To tam da się wejść? [I miejsce w konkursie Perełki Warszawy 2
  026]
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ed643b8c15d2027f@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158693-to-tam-da-sie
@@ -4970,7 +3693,7 @@ BEGIN:VEVENT
 SUMMARY:Warszawskie Małe Getto
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:45abd9ca70839ced@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159385-warszawskie-m
@@ -4983,7 +3706,7 @@ SUMMARY:Warszawskie Miasta Ogrody: 1/4 Włochy [darmowy spacer z przewodni
  kiem]
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8138c2c1eaed38c3@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159206-warszawskie-m
@@ -4997,7 +3720,7 @@ SUMMARY:Warsztaty redakcyjne i nowa seria plakatów Loesje w domku Państw
  omiasto
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6dc26138efc79e52@waw-calendars
 CATEGORIES:dla młodzieży,spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158259-warsztaty-red
@@ -5010,7 +3733,7 @@ BEGIN:VEVENT
 SUMMARY:Wystawa | Oś Transcendencji | Malina Wieczorek
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:20869728f51f4095@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157636-wystawa-os-tr
@@ -5023,7 +3746,7 @@ BEGIN:VEVENT
 SUMMARY:XII Marsz po Zdrowie
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d0993376d153e525@waw-calendars
 CATEGORIES:spacer lub rower,sport,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159259-xii-marsz-po-
@@ -5035,7 +3758,7 @@ BEGIN:VEVENT
 SUMMARY:XVI Powsiński Dzień Dyni
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a291c8ab3879d30b@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,impreza,koncert,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159130-xvi-powsinski
@@ -5047,7 +3770,7 @@ BEGIN:VEVENT
 SUMMARY:XXIII Warszawskie Święto Chleba
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e33fb61793252855@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,impreza,koncert,targi
  \, garażówka,warsztaty,wystawa
@@ -5060,7 +3783,7 @@ BEGIN:VEVENT
 SUMMARY:Zakończenie sezonu #zKawąPoWarszawie: Śladami "Lalki"
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fe173969ecd0b8f5@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158742-zakonczenie-s
@@ -5073,7 +3796,7 @@ BEGIN:VEVENT
 SUMMARY:Zrób sobie teatr! Warsztaty teatralne z Grażyną Musiałowską
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fb86ba9e3383859d@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159329-zrob-sobie-te
@@ -5087,7 +3810,7 @@ SUMMARY:Łazienki Królewskie nocą... Duchy przeszłości [straszny space
  r z przewodnikiem]
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:406ce51a878acf88@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159207-lazienki-krol
@@ -5100,7 +3823,7 @@ BEGIN:VEVENT
 SUMMARY:Śródmieście Płn. cz. 6 - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8dc59449410b52a3@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158721-srodmiescie-p
@@ -5114,7 +3837,7 @@ SUMMARY:„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla d
  zieci
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:98258bf8e7fe3bae@waw-calendars
 CATEGORIES:dla dzieci,teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159328-mala-krolewna
@@ -5127,7 +3850,7 @@ BEGIN:VEVENT
 SUMMARY:AI Filmmakers Meetup Warsaw
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fe0cff4753688627@waw-calendars
 CATEGORIES:film,spotkanie,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159104-ai-filmmakers
@@ -5140,7 +3863,7 @@ SUMMARY:Dyskusyjny Klub Płytowo-Książkowy: Rekonstrukcja. Połowa twarz
  y tonie w mroku
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e7ad66d8abcbc291@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159038-dyskusyjny-kl
@@ -5154,7 +3877,7 @@ SUMMARY:Eksperymenty w Śródmieściu\, cykl 5 zajęć [godz. 16:30 i 17:4
  5]
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fefc34812ee4bcf1@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159001-eksperymenty-
@@ -5167,7 +3890,7 @@ BEGIN:VEVENT
 SUMMARY:Granada - Kraina z Księgi Tysiąca i Jednej Nocy
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:48ef32b5d40e811c@waw-calendars
 CATEGORIES:slajdowisko,spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159249-granada-krain
@@ -5180,7 +3903,7 @@ BEGIN:VEVENT
 SUMMARY:Kino znów na Ursynowie: Vivaldi i ja
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:31d60b3541f8bad1@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159334-kino-znow-na-
@@ -5193,7 +3916,7 @@ BEGIN:VEVENT
 SUMMARY:Międzynarodowe Targi Uniwersyteckie QS
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7fbc8faed4cf42d3@waw-calendars
 CATEGORIES:dla młodzieży,targi\, garażówka,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158103-miedzynarodow
@@ -5207,7 +3930,7 @@ SUMMARY:Nie każdy wypala się zawodowo tak samo: stres i przeciążenia w
   pracy okiem Gallupa
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2f845d50f0f2ffae@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158635-nie-kazdy-wyp
@@ -5220,7 +3943,7 @@ BEGIN:VEVENT
 SUMMARY:Spacer z przewodniczką: Trzy Place w Centrum Warszawy
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:63297ac3bdecf410@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159031-spacer-z-prze
@@ -5234,7 +3957,7 @@ SUMMARY:Spotkanie z poetka Justyną Kulikowską\, autorką tomu „Wnyki d
  la światła”\, finalistką Nike 2026
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6516233cce2d24e9@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159291-spotkanie-z-p
@@ -5248,7 +3971,7 @@ BEGIN:VEVENT
 SUMMARY:Studencki Speed Friending
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d228766923cf298a@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159319-studencki-spe
@@ -5260,7 +3983,7 @@ BEGIN:VEVENT
 SUMMARY:Żelazowa Wola - zwiedzanie z przewodnikiem
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f09ce55902a8ae4b@waw-calendars
 CATEGORIES:dla seniorów,spacer lub rower,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159040-zelazowa-wola
@@ -5272,7 +3995,7 @@ BEGIN:VEVENT
 SUMMARY:Bezpłatne Warsztaty Stolarskie - Pracownia W tym Sęk!
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ca8698438576a2a3@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158233-bezplatne-war
@@ -5285,7 +4008,7 @@ BEGIN:VEVENT
 SUMMARY:Dom\, do którego chce się wracać
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:40121ea923b67d72@waw-calendars
 CATEGORIES:spotkanie,warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159118-dom-do-ktoreg
@@ -5298,7 +4021,7 @@ SUMMARY:Fotografia\, która sprzedaje. Jak wykorzystać zdjęcia do rozwoj
  u firmy
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5bb9da26ca24b134@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159177-fotografia-kt
@@ -5311,7 +4034,7 @@ BEGIN:VEVENT
 SUMMARY:Konflikt - od napięcia do nowej perspektywy
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:33ae5755d6a9b713@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159245-konflikt-od-n
@@ -5324,7 +4047,7 @@ BEGIN:VEVENT
 SUMMARY:Kongres Szefów Kuchni i Restauratorów
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:47432c782b0f2c7c@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Doroczny bezpłatny program edukacyjny dla branży HoReCa. Wyd
@@ -5337,7 +4060,7 @@ BEGIN:VEVENT
 SUMMARY:Orbita Literacka Reading Party w Elektrze
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ec0d229a5dfe7949@waw-calendars
 CATEGORIES:impreza,spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159039-orbita-litera
@@ -5350,7 +4073,7 @@ BEGIN:VEVENT
 SUMMARY:Skarby Muzeum Narodowego w Warszawie cz. 1
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1c26947a72d056ac@waw-calendars
 CATEGORIES:spacer lub rower,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159375-skarby-muzeum
@@ -5364,7 +4087,7 @@ SUMMARY:Spacer po jesiennych Łazienkach Królewskich śladami Stanisława
   Augusta Poniatowskiego
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:862bede633a37215@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159032-spacer-po-jes
@@ -5377,7 +4100,7 @@ BEGIN:VEVENT
 SUMMARY:Tajwan. Wyspa wielu kultur | wykład Piotra Plebaniaka
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:eeaf43b6c6eef38b@waw-calendars
 CATEGORIES:slajdowisko,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159139-tajwan-wyspa-
@@ -5390,7 +4113,7 @@ BEGIN:VEVENT
 SUMMARY:Wełniane Dzień Dobry: Warsztaty tkackie – mała forma tkacka
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3b3ddb8697d0b5f1@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158827-welniane-dzie
@@ -5403,7 +4126,7 @@ BEGIN:VEVENT
 SUMMARY:Wodniackie porządki w Dzielnicy Wisła 2026
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:c8e1f99f00757623@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-151208-wodniackie-po
@@ -5417,7 +4140,7 @@ SUMMARY:Wykłady do wystawy "Nabiści. Prorocy nowej sztuki" | "Być artys
  tą w Paryżu: rynek sztuki i jego aktorzy"
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8b76ec9875f50916@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156022-wyklady-do-wy
@@ -5431,7 +4154,7 @@ BEGIN:VEVENT
 SUMMARY:Wystawa fotografii "Ilustracje bajek niewydanych"
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8cb44ca618d4459a@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157240-wystawa-fotog
@@ -5444,7 +4167,7 @@ BEGIN:VEVENT
 SUMMARY:XVII Praskie Targi Pracy
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2d47ee602df673c6@waw-calendars
 CATEGORIES:spotkanie,targi\, garażówka,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158573-xvii-praskie-
@@ -5456,7 +4179,7 @@ BEGIN:VEVENT
 SUMMARY:ZOSTAJE W OBIEGU | Przeróbki Tkanin i Personalizacja Ubrań
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:62ee0d2babe42823@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157773-zostaje-w-obi
@@ -5469,7 +4192,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia muzyczne dla dzieci do 3 roku życia
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b43b77594c1afa91@waw-calendars
 CATEGORIES:dla dzieci,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159163-zajecia-muzyc
@@ -5482,7 +4205,7 @@ BEGIN:VEVENT
 SUMMARY:Śródmieście Płn. cz. 6 - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b17bc1ff5e61131f@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158722-srodmiescie-p
@@ -5495,7 +4218,7 @@ BEGIN:VEVENT
 SUMMARY:Śródmieście Płn. cz. 6 - spacer z przewodnikiem
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ba757afb0427d1ab@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158723-srodmiescie-p
@@ -5509,7 +4232,7 @@ SUMMARY:„Faronauci” - specjalne spotkanie Dyskusyjnego Klubu Książki
   z udziałem Adama Robińskiego
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5b9416aa5dc57fbd@waw-calendars
 CATEGORIES:spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159234-faronauci-spe
@@ -5522,7 +4245,7 @@ BEGIN:VEVENT
 SUMMARY:Czytanie książek fotograficznych
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6ee89f051c4a9ad6@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158092-czytanie-ksia
@@ -5534,7 +4257,7 @@ BEGIN:VEVENT
 SUMMARY:DCN Warsaw 2026
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e9600c0525fc0314@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:The Warsaw data center market is a dynamic and rapidly expandi
@@ -5557,7 +4280,7 @@ SUMMARY:Debata. Kulturowy recykling. Czego szukamy w dawnych opowieściach
  ?
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0b0d72f9ad8c4bb6@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159235-debata-kultur
@@ -5570,7 +4293,7 @@ BEGIN:VEVENT
 SUMMARY:Demencja na co dzień. Jak rozumieć\, wspierać i być blisko
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:19eb5d79ef0debc4@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158830-demencja-na-c
@@ -5584,7 +4307,7 @@ SUMMARY:Dostępność i godność – pokonywanie barier  // Warsztat 5/6
  z cyklu SENSYtywne rozmowy
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:59726db272738066@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157249-dostepnosc-i-
@@ -5596,7 +4319,7 @@ BEGIN:VEVENT
 SUMMARY:FotoStrefa: fotografia smartfonem dla początkujących
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:40d90f56fe960f5b@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159094-fotostrefa-fo
@@ -5609,7 +4332,7 @@ BEGIN:VEVENT
 SUMMARY:Jak rozmawiać o tym\, co trudne? Spotkanie z Justyną Dąbrowską
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:314d6d13f602140f@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159156-jak-rozmawiac
@@ -5622,7 +4345,7 @@ BEGIN:VEVENT
 SUMMARY:Mama i Bobas w Murowance
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6156a3633ed37f94@waw-calendars
 CATEGORIES:dla dzieci,spotkanie,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159277-mama-i-bobas-
@@ -5635,7 +4358,7 @@ SUMMARY:NIE WYRZUCAJ - PRZERÓB | warsztaty recyklingowe - artystyczna gum
  ka do włosów
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:091aad29fb897c69@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-153565-nie-wyrzucaj-
@@ -5649,7 +4372,7 @@ SUMMARY:Opowieści o wodzie. Wykłady z Przemysławem Nawrockim | Wisła w
   XVIII wieku
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ec1427d585a57bf7@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157408-opowiesci-o-w
@@ -5662,7 +4385,7 @@ BEGIN:VEVENT
 SUMMARY:Próbny trening capoeiry dla dzieci
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:37cd6e522a6b925a@waw-calendars
 CATEGORIES:dla dzieci,dla młodzieży,sport
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158503-probny-trenin
@@ -5675,7 +4398,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkania z Muzyką | Koncert „Pudełko zwane wyobraźnią”
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4445563ca31e3d18@waw-calendars
 CATEGORIES:dla seniorów,koncert
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158915-spotkania-z-m
@@ -5688,7 +4411,7 @@ BEGIN:VEVENT
 SUMMARY:Sąsiedzkie spotkania kulinarne
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:41d2a748ab4ff51f@waw-calendars
 CATEGORIES:spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159304-sasiedzkie-sp
@@ -5700,7 +4423,7 @@ BEGIN:VEVENT
 SUMMARY:WARSZTATY FOTOGRAFICZNE - CYJANOTYPIA
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b149f617e5ed581a@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159361-warsztaty-fot
@@ -5713,7 +4436,7 @@ BEGIN:VEVENT
 SUMMARY:Warsztaty rękodzielnicze I Kultura na Pradze-Południe
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:96ac26a2d672bad3@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157134-warsztaty-rek
@@ -5726,7 +4449,7 @@ BEGIN:VEVENT
 SUMMARY:Wewnętrzna moc – warsztaty dla kobiet
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0487ec214e9eef44@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159290-wewnetrzna-mo
@@ -5739,7 +4462,7 @@ BEGIN:VEVENT
 SUMMARY:Wielka Podłoga UW
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:79fb8d90cc6418a3@waw-calendars
 CATEGORIES:inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159378-wielka-podlog
@@ -5751,7 +4474,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólne dzierganie na Wolskiej: otwarte spotkanie
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:92d373ba184157e3@waw-calendars
 CATEGORIES:dla seniorów,spotkanie,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157510-wspolne-dzier
@@ -5764,7 +4487,7 @@ BEGIN:VEVENT
 SUMMARY:Czas na sztukę\, nareszcie! Spotkanie z Jolantą Ćwiklińską
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:fe7ecb2ee619cb54@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158963-czas-na-sztuk
@@ -5778,7 +4501,7 @@ SUMMARY:Czego oczy [na ogół] nie widzą. Spacer po Krakowskim Przedmieś
  ciu
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0c7d4c6f68a54f85@waw-calendars
 CATEGORIES:spacer lub rower
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159148-czego-oczy-na
@@ -5791,7 +4514,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień Jerzego Giedroycia w Muzeum Historii Polski
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:65c33de3564b9032@waw-calendars
 CATEGORIES:koncert,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158862-dzien-jerzego
@@ -5804,7 +4527,7 @@ BEGIN:VEVENT
 SUMMARY:Kino w Pałacyku: „The Last Showgirl”
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:f6d672d30d804a4d@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159292-kino-w-palacy
@@ -5818,7 +4541,7 @@ SUMMARY:Komunikacja z nastolatkiem – warsztaty i konsultacje dla rodzic
  ów
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:81f8ab768a6acf4f@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159372-komunikacja-z
@@ -5831,7 +4554,7 @@ BEGIN:VEVENT
 SUMMARY:Konferencja "Edukacja medialna i dobrostan cyfrowy dorosłych"
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:99e82778b37c5723@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158913-konferencja-e
@@ -5844,7 +4567,7 @@ BEGIN:VEVENT
 SUMMARY:LATA 80. PATRZĄ NA NAS | wystawa czasowa
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d64449787dcf35a8@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158654-lata-80-patrz
@@ -5857,7 +4580,7 @@ BEGIN:VEVENT
 SUMMARY:MELUZYNY Z WIELKIEJ PŁYTY | wystawa czasowa
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:80060b5ee63ee35d@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158022-meluzyny-z-wi
@@ -5870,7 +4593,7 @@ BEGIN:VEVENT
 SUMMARY:Między planetami a niebem - skrzydlate historie
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2d7271db76d2f503@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159151-miedzy-planet
@@ -5885,7 +4608,7 @@ SUMMARY:Mosty solidarności. Ukraińcy ratujący Polaków w czasie „anty
   hab. Damiana Markowskiego
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b45a89c810690678@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159150-mosty-solidar
@@ -5901,7 +4624,7 @@ SUMMARY:Salonik Historyczny „Wawerska onomastyka czyli o pochodzeniu mie
  jscowych nazw osiedli i ulic” Prowadzenie: Paweł Ajdacki
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:26f916b707c123cd@waw-calendars
 CATEGORIES:wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159278-salonik-histo
@@ -5917,7 +4640,7 @@ SUMMARY:Spotkajmy się przy stole – międzypokoleniowe warsztaty twórcz
  e
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:4324da9af0ed8ae5@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159037-spotkajmy-sie
@@ -5930,7 +4653,7 @@ BEGIN:VEVENT
 SUMMARY:Spotkania pasjonatów szydełka i drutów - MAL
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bbea46e09f09a6fc@waw-calendars
 CATEGORIES:spotkanie
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-155780-spotkania-pas
@@ -5944,7 +4667,7 @@ SUMMARY:Trudne rozmowy w rodzinie. Od konfliktu do dialogu: prelekcja i wa
  rsztaty - Ewa Mażul
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:2675aa2cbbf33d12@waw-calendars
 CATEGORIES:warsztaty,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159376-trudne-rozmow
@@ -5957,7 +4680,7 @@ BEGIN:VEVENT
 SUMMARY:Wymianka Ciuchowa w Gnieździe
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3b73378f399555ea@waw-calendars
 CATEGORIES:targi\, garażówka
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-152103-wymianka-ciuc
@@ -5969,7 +4692,7 @@ BEGIN:VEVENT
 SUMMARY:ZOSTAJE W OBIEGU | Drugie życie tkanin i warsztaty krawieckie
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bb07faddbb16a4d0@waw-calendars
 CATEGORIES:warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158527-zostaje-w-obi
@@ -5982,7 +4705,7 @@ BEGIN:VEVENT
 SUMMARY:AGAINST THE SUN by Paweł Swanski
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9524166b166b5e6a@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159042-against-the-s
@@ -5994,7 +4717,7 @@ BEGIN:VEVENT
 SUMMARY:Comfy Karaoke
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1210c423c31ee66d@waw-calendars
 CATEGORIES:impreza,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159294-comfy-karaoke
@@ -6005,7 +4728,7 @@ BEGIN:VEVENT
 SUMMARY:Fenomen Człowieka
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:b79e79114e331d54@waw-calendars
 CATEGORIES:koncert,spotkanie,warsztaty,wystawa,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159395-fenomen-czlow
@@ -6017,7 +4740,7 @@ BEGIN:VEVENT
 SUMMARY:Mums’ Book Club
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:44850d38988d9622@waw-calendars
 CATEGORIES:spotkanie,po angielsku
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159389-mums-book-clu
@@ -6030,7 +4753,7 @@ SUMMARY:Październik ’56 | Przegląd filmowy - „Życie raz jeszcze”
  \, 1964\, reż. Janusz Morgenstern
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:bf995bb72b434e43@waw-calendars
 CATEGORIES:film
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159263-pazdziernik-5
@@ -6044,7 +4767,7 @@ SUMMARY:Posłuchaj pejzażu. Spotkania dla dorosłych i młodzieży (14+)
  na wystawie "Nabiści. Prorocy nowej sztuki"
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:8d1cac768fe86584@waw-calendars
 CATEGORIES:dla młodzieży,dla seniorów,spotkanie,wykład
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-156910-posluchaj-pej
@@ -6058,7 +4781,7 @@ BEGIN:VEVENT
 SUMMARY:THIS IS OUR TIME 2026
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:e5ebfd57e934e008@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Pragniesz doświadczyć prawdziwej przemiany i wejść na nowy
@@ -6074,7 +4797,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0dc09957ccab04eb@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwier
@@ -6096,7 +4819,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce - między znikaniem a trwaniem
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0d6cbe5d6b9995e8@waw-calendars
 CATEGORIES:film,spacer lub rower,teatr,warsztaty,wykład,wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158547-wolskie-ostan
@@ -6109,7 +4832,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce: miasto i pamieć
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:824a8cf261a4e39e@waw-calendars
 CATEGORIES:film,spacer lub rower,teatr,warsztaty,wykład,wystawa,inne
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159272-wolskie-ostan
@@ -6121,7 +4844,7 @@ BEGIN:VEVENT
 SUMMARY:Wystawa Łukasza Wawrynkiewicza: przejścia i gradienty
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:3dd6363d98f19de7@waw-calendars
 CATEGORIES:wystawa
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157846-wystawa-lukas
@@ -6135,7 +4858,7 @@ SUMMARY:XX Międzynarodowy Festiwal Teatru Lalek i Animacji Filmowych dla
  Dorosłych „Lalka też Człowiek”
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:51202ef872f1d2c7@waw-calendars
 CATEGORIES:film,teatr,warsztaty
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158948-xx-miedzynaro
@@ -6150,7 +4873,7 @@ SUMMARY:ZESPÓŁ KRUCHOŚCI | Pakulnis\, Podsiadlik\, Rajda | TEATR SPRAW
  NAJWAŻNIEJSZYCH
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:5174e9448222e504@waw-calendars
 CATEGORIES:teatr
 DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159321-zespol-krucho
@@ -6163,7 +4886,7 @@ BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – XIX Bieg Papieski
 DTSTART;TZID="UTC+02:00":20261010T110000
 DTEND;TZID="UTC+02:00":20261010T130000
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:dc4643dc4ca9c352@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – XIX Bieg Papieski Pobierz jako plik PD
@@ -6183,10 +4906,314 @@ LOCATION:Park Moczydło\, Warszawa
 URL:https://wola.um.warszawa.pl/-/biegaj-po-woli-3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Co napędza statki? Od tradycyjnych silników do ekologicznych tec
+ hnologii przyszłości
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:848b91cde20cd9bf@waw-calendars
+CATEGORIES:spotkanie
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158858-co-napedza-st
+ atki-od-tradycyjnych-silnikow-do-ekologicznych-technologii-przyszlosci
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158858-co-napedza-statki-od-tradycyjnyc
+ h-silnikow-do-ekologicznych-technologii-przyszlosci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daj ubraniom drugie życie – warsztaty naprawy odzieży [godz. 1
+ 0:00\, 12:00\, 14:00]
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:d4be0257e31bba9f@waw-calendars
+CATEGORIES:warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159260-daj-ubraniom-
+ drugie-zycie-warsztaty-naprawy-odziezy-godz-10-00-12-00-14-00
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159260-daj-ubraniom-drugie-zycie-warszt
+ aty-naprawy-odziezy-godz-10-00-12-00-14-00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:II Gocławski Festiwal Nauki „Misja: KOSMOS”
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:6a5f57efca0a1fd0@waw-calendars
+CATEGORIES:dla dzieci,dla młodzieży,impreza,warsztaty,wykład,wystawa,in
+ ne
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159223-ii-goclawski-
+ festiwal-nauki-misja-kosmos
+LOCATION:Praga-Południe\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159223-ii-goclawski-festiwal-nauki-misj
+ a-kosmos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIDS MARKET - II edycja kameralnych targów
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:2564752d1f073ddc@waw-calendars
+CATEGORIES:targi\, garażówka
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-157632-kids-market-i
+ i-edycja-kameralnych-targow
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-157632-kids-market-ii-edycja-kameralnyc
+ h-targow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kadr na Emocje. "Perfect Days" reż. Wim Wenders
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:7d7478041e28f7be@waw-calendars
+CATEGORIES:film,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158634-kadr-na-emocj
+ e-perfect-days-rez-wim-wenders
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158634-kadr-na-emocje-perfect-days-rez-
+ wim-wenders
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kadr na emocje. Filmy i warsztaty
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:048e37ef45bcc11b@waw-calendars
+CATEGORIES:film,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158392-kadr-na-emocj
+ e-filmy-i-warsztaty
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158392-kadr-na-emocje-filmy-i-warsztaty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kadr na emocje: "Born Dead" reż. Jacek Bławut i warsztat
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:0fecaa015fbb8643@waw-calendars
+CATEGORIES:dla młodzieży,film,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158873-kadr-na-emocj
+ e-born-dead-rez-jacek-blawut-i-warsztat
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158873-kadr-na-emocje-born-dead-rez-jac
+ ek-blawut-i-warsztat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kadr na emocje: "Ponieważ dziś jest sobota" - film i warsztat
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:65758e20f05ef35f@waw-calendars
+CATEGORIES:film,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158872-kadr-na-emocj
+ e-poniewaz-dzis-jest-sobota-film-i-warsztat
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158872-kadr-na-emocje-poniewaz-dzis-jes
+ t-sobota-film-i-warsztat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kadr na emocje: Mała Miss - film i warsztat
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:d63dc5a401cd1ee2@waw-calendars
+CATEGORIES:film,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158876-kadr-na-emocj
+ e-mala-miss-film-i-warsztat
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158876-kadr-na-emocje-mala-miss-film-i-
+ warsztat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koncert Majki Jeżowskiej w DSH | FESTIWAL BOHATEREK 2026
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:3902029ae2e8f79d@waw-calendars
+CATEGORIES:koncert
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159142-koncert-majki
+ -jezowskiej-w-dsh-festiwal-bohaterek-2026
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159142-koncert-majki-jezowskiej-w-dsh-f
+ estiwal-bohaterek-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koncert piosenek Mieczysława Fogga i Hanki Ordonówny “Jesienne
+  róże”
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:4ed9f64b05fcfa92@waw-calendars
+CATEGORIES:koncert
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158916-koncert-piose
+ nek-mieczyslawa-fogga-i-hanki-ordonowny-jesienne-roze
+LOCATION:Bielany\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158916-koncert-piosenek-mieczyslawa-fog
+ ga-i-hanki-ordonowny-jesienne-roze
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maraton Zumby w Śródmieściu
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:98bceac435a638b3@waw-calendars
+CATEGORIES:impreza,sport,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158929-maraton-zumby
+ -w-srodmiesciu
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158929-maraton-zumby-w-srodmiesciu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLONY vol. 3 | Kiermasz\, rękodzieło\, warsztaty\, jedzonko i od
+ poczynek
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:c2ec4db6c2a45aa0@waw-calendars
+CATEGORIES:film,spacer lub rower,targi\, garażówka,warsztaty,inne
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159323-plony-vol-3-k
+ iermasz-rekodzielo-warsztaty-jedzonko-i-odpoczynek
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159323-plony-vol-3-kiermasz-rekodzielo-
+ warsztaty-jedzonko-i-odpoczynek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tai-chi dla zdrowia - wspólne ćwiczenia dla seniorów
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:4df6d99471f31807@waw-calendars
+CATEGORIES:dla seniorów,sport
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159338-tai-chi-dla-z
+ drowia-wspolne-cwiczenia-dla-seniorow
+LOCATION:Wilanów\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159338-tai-chi-dla-zdrowia-wspolne-cwic
+ zenia-dla-seniorow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Targi dla Zwierzaków
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:98691fd0aac32d93@waw-calendars
+CATEGORIES:targi\, garażówka
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158681-targi-dla-zwi
+ erzakow
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158681-targi-dla-zwierzakow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The best of me - wystawa prac Jolanty Jędrzejewskiej
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20260926T220029Z
+UID:0cf5cf89b37147a6@waw-calendars
+CATEGORIES:wystawa
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158690-the-best-of-m
+ e-wystawa-prac-jolanty-jedrzejewskiej
+LOCATION:Praga-Południe\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158690-the-best-of-me-wystawa-prac-jola
+ nty-jedrzejewskiej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warszawa warstwa po warstwie | warsztaty międzypokoleniowe
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:e053d1221040c2af@waw-calendars
+CATEGORIES:dla dzieci,dla młodzieży,dla seniorów,warsztaty
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159368-warszawa-wars
+ twa-po-warstwie-warsztaty-miedzypokoleniowe
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159368-warszawa-warstwa-po-warstwie-war
+ sztaty-miedzypokoleniowe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warsztat "Razem przeciw stereotypom" dla mieszkańców Mokotowa
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:16a7fceed63b9b12@waw-calendars
+CATEGORIES:warsztaty,wykład
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159366-warsztat-raze
+ m-przeciw-stereotypom-dla-mieszkancow-mokotowa
+LOCATION:Mokotów\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159366-warsztat-razem-przeciw-stereotyp
+ om-dla-mieszkancow-mokotowa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wsie Warszawy: Urbanizacja na gorąco. Spacer po Grodzisku i Kąta
+ ch Grodziskich
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:12a839c952b2673b@waw-calendars
+CATEGORIES:spacer lub rower
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158835-wsie-warszawy
+ -urbanizacja-na-goraco-spacer-po-grodzisku-i-katach-grodziskich
+LOCATION:Targówek\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158835-wsie-warszawy-urbanizacja-na-gor
+ aco-spacer-po-grodzisku-i-katach-grodziskich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZESPÓŁ KRUCHOŚCI | Pakulnis\, Podsiadlik\, Rajda | TEATR SPRAW 
+ NAJWAŻNIEJSZYCH
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:b8cb7c53a925983c@waw-calendars
+CATEGORIES:teatr
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159322-zespol-krucho
+ sci-pakulnis-podsiadlik-rajda-teatr-spraw-najwazniejszych
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159322-zespol-kruchosci-pakulnis-podsia
+ dlik-rajda-teatr-spraw-najwazniejszych
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Śladami Marii Skłodowskiej-Curie | spacer miejski | FESTIWAL BOH
+ ATEREK 2026
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:cb2374662e1f3988@waw-calendars
+CATEGORIES:spacer lub rower
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159141-sladami-marii
+ -sklodowskiej-curie-spacer-miejski-festiwal-bohaterek-2026
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159141-sladami-marii-sklodowskiej-curie
+ -spacer-miejski-festiwal-bohaterek-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:„Dom\, który przechytrzył cenzurę i zmienił Polskę" – pre
+ miera filmu „Paryska Kultura"
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T220029Z
+UID:ac891468e8093a7a@waw-calendars
+CATEGORIES:film
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-159379-dom-ktory-prz
+ echytrzyl-cenzure-i-zmienil-polske-premiera-filmu-paryska-kultura
+LOCATION:Żoliborz\, Warszawa
+URL:https://waw4free.pl/wydarzenie-159379-dom-ktory-przechytrzyl-cenzure-i
+ -zmienil-polske-premiera-filmu-paryska-kultura
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polski modernizm. Walka o piękno
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260926T220029Z
+UID:a90d12850b196b55@waw-calendars
+CATEGORIES:wystawa
+DESCRIPTION:Źródło: https://waw4free.pl/wydarzenie-158159-polski-modern
+ izm-walka-o-piekno
+LOCATION:Śródmieście\, Warszawa
+URL:https://waw4free.pl/wydarzenie-158159-polski-modernizm-walka-o-piekno
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WSAVA Congress 2026
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6fcf2ada4902c259@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Join Us to Get the Latest Insights at WSAVA 2026 Let’s impro
@@ -6207,7 +5234,7 @@ BEGIN:VEVENT
 SUMMARY:SIMPLE PLAN - BIGGER THAN YOU THINK!
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:a5545c978a198c13@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:SIMPLE PLAN POWRACA DO EUROPY I WIELKIEJ BRYTANII Z TRASĄ KON
@@ -6230,7 +5257,7 @@ BEGIN:VEVENT
 SUMMARY:Targi Rzeczy Wyjątkowych
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0763c0bb46830105@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Targi Rzeczy Wyjątkowych to największe targi rzemiosła w Po
@@ -6253,7 +5280,7 @@ BEGIN:VEVENT
 SUMMARY:LiftExpo Poland
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:ef052812693151b2@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:LiftExpo Poland to jedyne w Polsce targi w pełni dedykowane b
@@ -6276,7 +5303,7 @@ BEGIN:VEVENT
 SUMMARY:edycja E-commerce Warsaw Expo
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d7bf88355c9ca7de@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Jeśli prowadzisz sklep internetowy albo odpowiadasz za rozwó
@@ -6299,7 +5326,7 @@ BEGIN:VEVENT
 SUMMARY:TransLogistica Poland
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:9925a06a0d735e8b@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Targi TransLogistica Poland to wiodące wydarzenie biznesowe w
@@ -6321,7 +5348,7 @@ BEGIN:VEVENT
 SUMMARY:ReBuild Ukraine: Construction &amp\;amp\; Energy
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:7879e83cc92cae5f@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:6th International Exhibition & Conference ReBuild Ukraine: Con
@@ -6344,7 +5371,7 @@ BEGIN:VEVENT
 SUMMARY:BEIKS MEDIA SHOW 2026
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:35ba5b5579a4f7e6@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:BEIKS MEDIA SHOW to wydarzenie dla profesjonalistów\, pasjona
@@ -6367,7 +5394,7 @@ BEGIN:VEVENT
 SUMMARY:XV Międzynarodowe Targi Wyposażenia Sklepów RetailShow 2026
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0dae3c3d3cbf830c@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Targi Wyposażenia Sklepów RetailShow – to coroczna\, najwi
@@ -6392,7 +5419,7 @@ BEGIN:VEVENT
 SUMMARY:WAWTech by DOU
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:21dc6618d75ebd7e@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:WAWTech to duża konferencja technologiczna\, która odbędzie
@@ -6411,7 +5438,7 @@ BEGIN:VEVENT
 SUMMARY:WAWTech by DOU
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:d7af16892743a26b@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:WAWTech to duża konferencja technologiczna\, która odbędzie
@@ -6430,7 +5457,7 @@ BEGIN:VEVENT
 SUMMARY:HYPE DISCO FESTIWAL WARSZAWA 2026
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:0bd9f15b4ba987aa@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:HYPE DISCO FESTIWAL WARSZAWA 2026 to absolutnie wyjątkowe wyd
@@ -6451,7 +5478,7 @@ SUMMARY:LET IT HYPE 2000&#039\;s Festiwal: Sonique\, Cascada\, Fly Project
  \, Lasgo
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:1192886753a8eac0@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:Największe hity lat 2000\, kultowe gwiazdy i wyjątkowa zimow
@@ -6476,7 +5503,7 @@ BEGIN:VEVENT
 SUMMARY:HYPE RAP FEST Warszawa
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20260926T160031Z
+DTSTAMP:20260926T220029Z
 UID:6197250569f18262@waw-calendars
 CATEGORIES:targi
 DESCRIPTION:HYPE RAP FESTIWAL 2026 to wyjątkowa noc\, podczas której na 
