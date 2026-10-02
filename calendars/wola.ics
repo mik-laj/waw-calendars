@@ -8,7 +8,7 @@ SUMMARY:Łazienki Królewskie - spacer z przewodnikiem w ramach Wolskiej A
  kademii Seniora
 DTSTART;TZID="UTC+02:00":20261003T100000
 DTEND;TZID="UTC+02:00":20261003T120000
-DTSTAMP:20261002T100037Z
+DTSTAMP:20261002T160033Z
 UID:012be0559dc79599@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Łazienki Królewskie - spacer z przewodnikiem w ramach W
@@ -28,10 +28,34 @@ URL:https://wola.um.warszawa.pl/-/lazienki-krolewskie-spacer-w-ramach-wols
  kiej-akademii-seniora
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolska Akademia Seniora: Jak zachować się w sytuacji kryzysowej?
+DTSTART;TZID="UTC+02:00":20261007T143000
+DTEND;TZID="UTC+02:00":20261007T160000
+DTSTAMP:20261002T160033Z
+UID:73c6116d25f08526@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Wolska Akademia Seniora: Jak zachować się w sytuacji kr
+ yzysowej? Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Li
+ nk otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie L
+ inkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej
+  karcie Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do ka
+ lendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza Out
+ look - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i d
+ odaj do kalendarza - Link otwiera się w nowej karcie 07.10.2026 14:30 - 0
+ 7.10.2026 16:00 Centrum Aktywności Międzypokoleniowej "Nowolipie"\, ul. 
+ Nowolipie 25b wolska akademia seniora sytuacje kryzysowe fundacja żyj z p
+ asją Zapraszamy Seniorki i Seniorów z Woli na spotkanie 7 października 
+ (środa) o godz. …\n\nŹródło: https://wola.um.warszawa.pl/-/wolska-ak
+ ademia-seniora-jak-zachowac-sie-w-sytuacji-kryzysowej
+LOCATION:Centrum Aktywności Międzypokoleniowej "Nowolipie"\, Warszawa
+URL:https://wola.um.warszawa.pl/-/wolska-akademia-seniora-jak-zachowac-sie
+ -w-sytuacji-kryzysowej
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261002T100037Z
+DTSTAMP:20261002T160033Z
 UID:0dc09957ccab04eb@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwier
@@ -53,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – XIX Bieg Papieski
 DTSTART;TZID="UTC+02:00":20261010T110000
 DTEND;TZID="UTC+02:00":20261010T130000
-DTSTAMP:20261002T100037Z
+DTSTAMP:20261002T160033Z
 UID:dc4643dc4ca9c352@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – XIX Bieg Papieski Pobierz jako plik PD
@@ -76,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Big Band Młynarski/ Namysłowski + Karwan + Szroeder
 DTSTART;TZID="UTC+02:00":20261011T170000
 DTEND;TZID="UTC+02:00":20261011T200000
-DTSTAMP:20261002T100037Z
+DTSTAMP:20261002T160033Z
 UID:473485062c74fc69@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Big Band Młynarski/ Namysłowski + Karwan + Szroeder Pob
