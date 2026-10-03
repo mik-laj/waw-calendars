@@ -4,34 +4,10 @@ PRODID:-//waw-calendars//PL
 X-WR-CALNAME:Wydarzenia — Dzielnica Wola
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-SUMMARY:Łazienki Królewskie - spacer z przewodnikiem w ramach Wolskiej A
- kademii Seniora
-DTSTART;TZID="UTC+02:00":20261003T100000
-DTEND;TZID="UTC+02:00":20261003T120000
-DTSTAMP:20261003T160034Z
-UID:012be0559dc79599@waw-calendars
-CATEGORIES:Wola
-DESCRIPTION:null Łazienki Królewskie - spacer z przewodnikiem w ramach W
- olskiej Akademii Seniora Pobierz jako plik PDF Drukuj Link otwiera się w 
- nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w
-  nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwie
- ra się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej kar
- cie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do
-  kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarz
- enia (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 03.10
- .2026 10:00 - 03.10.2026 12:00 wolska akademia seniora Autor: fot. Szymon 
- Polański Zapraszamy Seniorów i Seniorki Woli na spacer po "najszczęśli
- wszym miejscu w Warszawie"\, letniej rezydencji króla Stanisława Augusta
-  - Łazienkach Kr…\n\nŹródło: https://wola.um.warszawa.pl/-/lazienki-
- krolewskie-spacer-w-ramach-wolskiej-akademii-seniora
-URL:https://wola.um.warszawa.pl/-/lazienki-krolewskie-spacer-w-ramach-wols
- kiej-akademii-seniora
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolska Akademia Seniora: Jak zachować się w sytuacji kryzysowej?
 DTSTART;TZID="UTC+02:00":20261007T143000
 DTEND;TZID="UTC+02:00":20261007T160000
-DTSTAMP:20261003T160034Z
+DTSTAMP:20261003T220030Z
 UID:73c6116d25f08526@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolska Akademia Seniora: Jak zachować się w sytuacji kr
@@ -55,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Wolskie Ostańce
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261003T160034Z
+DTSTAMP:20261003T220030Z
 UID:0dc09957ccab04eb@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolskie Ostańce Pobierz jako plik PDF Drukuj Link otwier
@@ -77,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – XIX Bieg Papieski
 DTSTART;TZID="UTC+02:00":20261010T110000
 DTEND;TZID="UTC+02:00":20261010T130000
-DTSTAMP:20261003T160034Z
+DTSTAMP:20261003T220030Z
 UID:dc4643dc4ca9c352@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – XIX Bieg Papieski Pobierz jako plik PD
@@ -100,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Big Band Młynarski/ Namysłowski + Karwan + Szroeder
 DTSTART;TZID="UTC+02:00":20261011T170000
 DTEND;TZID="UTC+02:00":20261011T200000
-DTSTAMP:20261003T160034Z
+DTSTAMP:20261003T220030Z
 UID:473485062c74fc69@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Big Band Młynarski/ Namysłowski + Karwan + Szroeder Pob
