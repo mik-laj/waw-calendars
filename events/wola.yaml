@@ -1,5 +1,5 @@
 source: wola
-count: 46
+count: 49
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -846,6 +846,45 @@ events:
   categories:
   - Wola
   fetched_at: '2026-10-29T17:00:27.745500+00:00'
+- uid: 840b2480873d3fc9@waw-calendars
+  source: wola
+  title: Emocje i stres w opiece nad bliskimi z demencją- spotkanie ze specjalistą
+  start: '2026-11-04'
+  end: '2026-11-04'
+  all_day: true
+  location: null
+  url: https://wola.um.warszawa.pl/-/emocje-i-stres-w-opiece-nad-bliskimi-z-demencja-spotkanie-ze-specjalista
+  description: null Emocje i stres w opiece nad bliskimi z demencją- spotkanie ze specjalistą Pobierz
+    jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link
+    otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej
+    karcie Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera
+    się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia
+    (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 04.11.2026 - 04.11.2026 blisko bliskich
+    - wola opiekun osoby starszej syntonia Zapraszamy 4 listopada (środa) na kolejne spotkanie w ramach
+    programu Blisko - Bliskich - Wola 2026. Spotkanie odbędzie się w Wolskiej Mozaice ul. Wolska 46/48
+    (Me…
+  categories:
+  - Wola
+  fetched_at: '2026-11-03T17:00:28.247270+00:00'
+- uid: a68d9376ad318e29@waw-calendars
+  source: wola
+  title: Bezpieczne stosowanie lekow i suplementów - Wolska Akademia Seniora
+  start: '2026-11-05T12:00:00+01:00'
+  end: '2026-11-05T13:00:00+01:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/bezpieczne-stosowanie-lekow-i-suplementow-wolska-akademia-seniora
+  description: null Bezpieczne stosowanie lekow i suplementów - Wolska Akademia Seniora Pobierz jako plik
+    PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się
+    w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj
+    do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej
+    karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics)
+    i dodaj do kalendarza - Link otwiera się w nowej karcie 05.11.2026 12:00 - 05.11.2026 13:00 wykład
+    prozdrowotny fundacja żyj z pasją Zapraszamy na wykład, który poprowadzi dr Aleksandra Hyży - dietetyczka,
+    specjalistka zdrowia publicznego. Wykład odbędzie się 5 listopada (czwartek) o godz. 12:00 w Ośrod…
+  categories:
+  - Wola
+  fetched_at: '2026-11-03T17:00:28.992594+00:00'
 - uid: ec092fa8386ce9d3@waw-calendars
   source: wola
   title: Wspólne głosy - spotkania autorskie
@@ -865,7 +904,7 @@ events:
     Ku…
   categories:
   - Wola
-  fetched_at: '2026-11-03T11:00:23.590835+00:00'
+  fetched_at: '2026-11-03T17:00:29.567355+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -884,7 +923,27 @@ events:
     cyklu „Biegaj po Woli”. To doskonała okazja, aby zadbać o formę, aktywnie spędzić czas. Dla kogo…'
   categories:
   - Wola
-  fetched_at: '2026-11-03T11:00:23.915199+00:00'
+  fetched_at: '2026-11-03T17:00:29.740724+00:00'
+- uid: 19c0ca74fc8e113e@waw-calendars
+  source: wola
+  title: WISŁA 44
+  start: '2026-11-11T16:00:00+01:00'
+  end: '2026-11-11T18:00:00+01:00'
+  all_day: false
+  location: null
+  url: https://wola.um.warszawa.pl/-/wisla-44
+  description: null WISŁA 44 Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera
+    się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karcie
+    Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj
+    do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera
+    się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w nowej
+    karcie 11.11.2026 16:00 - 11.11.2026 18:00 obchody święta dotacja burmistrz woli radni woli listopad
+    Fundacja AVE W Święto Niepodległości 11 listopada 2026 roku o godz. 16 w kościele Dobrego Pasterza
+    na warszawskiej Woli, ul. Szczecińskiego 5 odbędzie się niezwykłe widowisko Chóru AVE i Filharmoników.
+    Artyści zap…
+  categories:
+  - Wola
+  fetched_at: '2026-11-03T17:00:30.499222+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -904,4 +963,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-11-03T11:00:24.649337+00:00'
+  fetched_at: '2026-11-03T17:00:30.927864+00:00'
