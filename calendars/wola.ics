@@ -4,10 +4,32 @@ PRODID:-//waw-calendars//PL
 X-WR-CALNAME:Wydarzenia — Dzielnica Wola
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
+SUMMARY:Wspólne głosy - spotkania autorskie
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261103T110033Z
+UID:ec092fa8386ce9d3@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Wspólne głosy - spotkania autorskie Pobierz jako plik P
+ DF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karci
+ e Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w n
+ owej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza -
+  Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwier
+ a się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w no
+ wej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otw
+ iera się w nowej karcie 05.11.2026 18:00 - 25.11.2026 20:00 Wspólny Pok
+ ój Zapraszamy na spotkania z autorkami bliskimi stowarzyszeniu Wspólny P
+ okój - porozmawiamy o ich najnowszych książkach poetyckich! Wydarzenia 
+ odbędą się w Wolskiej Mozaice (ul. Wolska 46/48) działającej w ramach
+  Wolskiego Centrum Ku…\n\nŹródło: https://wola.um.warszawa.pl/-/wspol
+ ne-glosy-spotkania-autorskie
+URL:https://wola.um.warszawa.pl/-/wspolne-glosy-spotkania-autorskie
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biegaj po Woli – II Bieg Niepodległości
 DTSTART;TZID="UTC+01:00":20261111T110000
 DTEND;TZID="UTC+01:00":20261111T130000
-DTSTAMP:20261103T050031Z
+DTSTAMP:20261103T110033Z
 UID:8971ba5e3e0194de@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Biegaj po Woli – II Bieg Niepodległości Pobierz jako 
