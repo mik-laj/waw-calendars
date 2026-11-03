@@ -1,5 +1,5 @@
 source: wola
-count: 45
+count: 46
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -846,6 +846,26 @@ events:
   categories:
   - Wola
   fetched_at: '2026-10-29T17:00:27.745500+00:00'
+- uid: ec092fa8386ce9d3@waw-calendars
+  source: wola
+  title: Wspólne głosy - spotkania autorskie
+  start: '2026-11-05'
+  end: '2026-11-25'
+  all_day: true
+  location: null
+  url: https://wola.um.warszawa.pl/-/wspolne-glosy-spotkania-autorskie
+  description: null Wspólne głosy - spotkania autorskie Pobierz jako plik PDF Drukuj Link otwiera się
+    w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link
+    otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera
+    się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza
+    Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link
+    otwiera się w nowej karcie 05.11.2026 18:00 - 25.11.2026 20:00 Wspólny Pokój Zapraszamy na spotkania
+    z autorkami bliskimi stowarzyszeniu Wspólny Pokój - porozmawiamy o ich najnowszych książkach poetyckich!
+    Wydarzenia odbędą się w Wolskiej Mozaice (ul. Wolska 46/48) działającej w ramach Wolskiego Centrum
+    Ku…
+  categories:
+  - Wola
+  fetched_at: '2026-11-03T11:00:23.590835+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -864,7 +884,7 @@ events:
     cyklu „Biegaj po Woli”. To doskonała okazja, aby zadbać o formę, aktywnie spędzić czas. Dla kogo…'
   categories:
   - Wola
-  fetched_at: '2026-11-03T05:00:22.835571+00:00'
+  fetched_at: '2026-11-03T11:00:23.915199+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -884,4 +904,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-11-03T05:00:23.348900+00:00'
+  fetched_at: '2026-11-03T11:00:24.649337+00:00'
