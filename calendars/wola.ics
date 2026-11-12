@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólne głosy - spotkania autorskie
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261112T170036Z
+DTSTAMP:20261112T230039Z
 UID:ec092fa8386ce9d3@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wspólne głosy - spotkania autorskie Pobierz jako plik P
@@ -30,7 +30,7 @@ SUMMARY:Warsztat plastyczny pt.” Jedna z najpiękniejszych chwil mojego
  życia – kolaż wspomnień”
 DTSTART;TZID="UTC+01:00":20261116T140000
 DTEND;TZID="UTC+01:00":20261116T163000
-DTSTAMP:20261112T170036Z
+DTSTAMP:20261112T230039Z
 UID:b6eaf3dcd9b3378a@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Warsztat plastyczny pt.” Jedna z najpiękniejszych chwi
@@ -50,5 +50,31 @@ DESCRIPTION:null Warsztat plastyczny pt.” Jedna z najpiękniejszych chwi
 LOCATION:Fundacja eFkropka\, Warszawa
 URL:https://wola.um.warszawa.pl/-/warsztat-plastyczny-pt-jedna-z-najpiekni
  ejszych-chwil-mojego-zycia-kolaz-wspomnien-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na c
+ zas”- zapraszamy do udziału
+DTSTART;TZID="UTC+01:00":20261127T140000
+DTEND;TZID="UTC+01:00":20261127T163000
+DTSTAMP:20261112T230039Z
+UID:b96a4dddf9f586f7@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrz
+ enia na czas”- zapraszamy do udziału Pobierz jako plik PDF Drukuj Link 
+ otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook Link
+  otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karcie Twi
+ tter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera s
+ ię w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej 
+ karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobi
+ erz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w now
+ ej karcie 27.11.2026 14:00 - 27.11.2026 16:30 Fundacja eFkropka\, Ożarows
+ ka\, 61 lok. U4\, Warszawa Zapraszamy mieszkanki i mieszkańców Woli na w
+ arsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na czas”\, 
+ który odbędzie się 27 listo…\n\nŹródło: https://wola.um.warszawa.p
+ l/-/warsztat-plastyczny-pt-trzy-pokolenia-trzy-spojrzenia-na-czas-zaprasza
+ my-do-udzialu
+LOCATION:Fundacja eFkropka\, Warszawa
+URL:https://wola.um.warszawa.pl/-/warsztat-plastyczny-pt-trzy-pokolenia-tr
+ zy-spojrzenia-na-czas-zapraszamy-do-udzialu
 END:VEVENT
 END:VCALENDAR
