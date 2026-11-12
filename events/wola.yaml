@@ -1,5 +1,5 @@
 source: wola
-count: 49
+count: 51
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -904,7 +904,7 @@ events:
     Ku…
   categories:
   - Wola
-  fetched_at: '2026-11-12T05:00:23.182859+00:00'
+  fetched_at: '2026-11-12T11:00:25.581822+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -944,6 +944,46 @@ events:
   categories:
   - Wola
   fetched_at: '2026-11-11T11:00:24.884309+00:00'
+- uid: b6eaf3dcd9b3378a@waw-calendars
+  source: wola
+  title: Warsztat plastyczny pt.” Jedna z najpiękniejszych chwil mojego życia – kolaż wspomnień”
+  start: '2026-11-16T14:00:00+01:00'
+  end: '2026-11-16T16:30:00+01:00'
+  all_day: false
+  location: Fundacja eFkropka, Warszawa
+  url: https://wola.um.warszawa.pl/-/warsztat-plastyczny-pt-jedna-z-najpiekniejszych-chwil-mojego-zycia-kolaz-wspomnien-
+  description: null Warsztat plastyczny pt.” Jedna z najpiękniejszych chwil mojego życia – kolaż wspomnień”
+    Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie Facebook
+    Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera się
+    w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google -
+    Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz
+    plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 16.11.2026 14:00 -
+    16.11.2026 16:30 Fundacja eFkropka, Ożarowska , 61 lok. U4., Warszawa zdrowie psychiczne Zapraszamy
+    mieszkanki i mieszkańców Woli na bezpłatny warsztat plastyczny pt.” Jedna z najpiękniejszych chwil
+    mojego życ…
+  categories:
+  - Wola
+  fetched_at: '2026-11-12T11:00:26.057834+00:00'
+- uid: b96a4dddf9f586f7@waw-calendars
+  source: wola
+  title: Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na czas”- zapraszamy do udziału
+  start: '2026-11-27T14:00:00+01:00'
+  end: '2026-11-27T16:30:00+01:00'
+  all_day: false
+  location: Fundacja eFkropka, Warszawa
+  url: https://wola.um.warszawa.pl/-/warsztat-plastyczny-pt-trzy-pokolenia-trzy-spojrzenia-na-czas-zapraszamy-do-udzialu
+  description: null Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na czas”- zapraszamy do
+    udziału Pobierz jako plik PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie
+    Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w nowej karcie Twitter Link otwiera
+    się w nowej karcie Dodaj do kalendarza - Link otwiera się w nowej karcie Dodaj do kalendarza Google
+    - Link otwiera się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w nowej karcie Pobierz
+    plik wydarzenia (.ics) i dodaj do kalendarza - Link otwiera się w nowej karcie 27.11.2026 14:00 -
+    27.11.2026 16:30 Fundacja eFkropka, Ożarowska, 61 lok. U4, Warszawa Zapraszamy mieszkanki i mieszkańców
+    Woli na warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na czas”, który odbędzie się 27
+    listo…
+  categories:
+  - Wola
+  fetched_at: '2026-11-12T11:00:26.618090+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -963,4 +1003,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-11-12T05:00:23.622758+00:00'
+  fetched_at: '2026-11-12T11:00:26.946764+00:00'
