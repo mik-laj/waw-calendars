@@ -1,5 +1,5 @@
 source: wola
-count: 51
+count: 52
 events:
 - uid: c7ac99cc0246ce26@waw-calendars
   source: wola
@@ -904,7 +904,7 @@ events:
     Ku…
   categories:
   - Wola
-  fetched_at: '2026-11-17T05:00:25.085487+00:00'
+  fetched_at: '2026-11-17T11:00:27.396167+00:00'
 - uid: 8971ba5e3e0194de@waw-calendars
   source: wola
   title: Biegaj po Woli – II Bieg Niepodległości
@@ -964,6 +964,26 @@ events:
   categories:
   - Wola
   fetched_at: '2026-11-16T11:00:25.304416+00:00'
+- uid: 1dc153e487f69987@waw-calendars
+  source: wola
+  title: Wolski Bal Andrzejkowy dla Seniorów
+  start: '2026-11-25T16:00:00+01:00'
+  end: '2026-11-25T19:30:00+01:00'
+  all_day: false
+  location: Fabryka Norblina, Warszawa
+  url: https://wola.um.warszawa.pl/-/bal-andrzejkowy-dla-seniorow
+  description: null Wolski Bal Andrzejkowy dla Seniorów Pobierz jako plik PDF Drukuj Link otwiera się
+    w nowej karcie Link otwiera się w nowej karcie Facebook Link otwiera się w nowej karcie LinkedIn Link
+    otwiera się w nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - Link otwiera
+    się w nowej karcie Dodaj do kalendarza Google - Link otwiera się w nowej karcie Dodaj do kalendarza
+    Outlook - Link otwiera się w nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link
+    otwiera się w nowej karcie 25.11.2026 16:00 - 25.11.2026 19:30 Fabryka Norblina,, ul. Żelazna 51/53
+    aktywny senior Wolski Bal Andrzejkowy Zapraszamy seniorki i seniorów z Woli na Wolski Bal Andrzejkowy.
+    Wybierzcie swoje ulubione stroje i spędźcie z nami wyjątkowy wieczór pełen tańca, muzyki i świetnej
+    zaba…
+  categories:
+  - Wola
+  fetched_at: '2026-11-17T11:00:27.629510+00:00'
 - uid: b96a4dddf9f586f7@waw-calendars
   source: wola
   title: Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na czas”- zapraszamy do udziału
@@ -983,7 +1003,7 @@ events:
     listo…
   categories:
   - Wola
-  fetched_at: '2026-11-17T05:00:25.556803+00:00'
+  fetched_at: '2026-11-17T11:00:28.569064+00:00'
 - uid: 535009f846c8e5ca@waw-calendars
   source: wola
   title: Biegaj po Woli –  II Bieg Mikołajkowy
@@ -1003,4 +1023,4 @@ events:
     czas. Os…'
   categories:
   - Wola
-  fetched_at: '2026-11-17T05:00:26.267500+00:00'
+  fetched_at: '2026-11-17T11:00:29.097555+00:00'
