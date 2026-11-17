@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólne głosy - spotkania autorskie
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261117T050036Z
+DTSTAMP:20261117T110039Z
 UID:ec092fa8386ce9d3@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wspólne głosy - spotkania autorskie Pobierz jako plik P
@@ -26,11 +26,34 @@ DESCRIPTION:null Wspólne głosy - spotkania autorskie Pobierz jako plik P
 URL:https://wola.um.warszawa.pl/-/wspolne-glosy-spotkania-autorskie
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolski Bal Andrzejkowy dla Seniorów
+DTSTART;TZID="UTC+01:00":20261125T160000
+DTEND;TZID="UTC+01:00":20261125T193000
+DTSTAMP:20261117T110039Z
+UID:1dc153e487f69987@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Wolski Bal Andrzejkowy dla Seniorów Pobierz jako plik PD
+ F Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej karcie
+  Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w no
+ wej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza - 
+ Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwiera
+  się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w now
+ ej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link otwi
+ era się w nowej karcie 25.11.2026 16:00 - 25.11.2026 19:30 Fabryka Norbli
+ na\,\, ul. Żelazna 51/53 aktywny senior Wolski Bal Andrzejkowy Zapraszamy
+  seniorki i seniorów z Woli na Wolski Bal Andrzejkowy. Wybierzcie swoje u
+ lubione stroje i spędźcie z nami wyjątkowy wieczór pełen tańca\, muz
+ yki i świetnej zaba…\n\nŹródło: https://wola.um.warszawa.pl/-/bal-an
+ drzejkowy-dla-seniorow
+LOCATION:Fabryka Norblina\, Warszawa
+URL:https://wola.um.warszawa.pl/-/bal-andrzejkowy-dla-seniorow
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na c
  zas”- zapraszamy do udziału
 DTSTART;TZID="UTC+01:00":20261127T140000
 DTEND;TZID="UTC+01:00":20261127T163000
-DTSTAMP:20261117T050036Z
+DTSTAMP:20261117T110039Z
 UID:b96a4dddf9f586f7@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrz
