@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wspólne głosy - spotkania autorskie
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261121T170037Z
+DTSTAMP:20261121T230040Z
 UID:ec092fa8386ce9d3@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wspólne głosy - spotkania autorskie Pobierz jako plik P
@@ -30,7 +30,7 @@ SUMMARY:Bezpieczne stosowanie lekow i suplementów u osób starszych - spo
  tkanie z farmakologiem klinicznym
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261121T170037Z
+DTSTAMP:20261121T230040Z
 UID:a3c5bf1d3122d09a@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Bezpieczne stosowanie lekow i suplementów u osób starsz
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Wolski Bal Andrzejkowy dla Seniorów
 DTSTART;TZID="UTC+01:00":20261125T160000
 DTEND;TZID="UTC+01:00":20261125T193000
-DTSTAMP:20261121T170037Z
+DTSTAMP:20261121T230040Z
 UID:1dc153e487f69987@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Wolski Bal Andrzejkowy dla Seniorów Pobierz jako plik PD
@@ -78,7 +78,7 @@ SUMMARY:Warsztaty radzenia sobie z emocjami i stresem w opiece - program B
  lisko Bliskich - Wola 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261121T170037Z
+DTSTAMP:20261121T230040Z
 UID:b75bbaa8e4bffd9f@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Warsztaty radzenia sobie z emocjami i stresem w opiece - 
@@ -103,7 +103,7 @@ SUMMARY:Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrzenia na c
  zas”- zapraszamy do udziału
 DTSTART;TZID="UTC+01:00":20261127T140000
 DTEND;TZID="UTC+01:00":20261127T163000
-DTSTAMP:20261121T170037Z
+DTSTAMP:20261121T230040Z
 UID:b96a4dddf9f586f7@waw-calendars
 CATEGORIES:Wola
 DESCRIPTION:null Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrz
@@ -123,5 +123,28 @@ DESCRIPTION:null Warsztat plastyczny pt. „Trzy pokolenia – trzy spojrz
 LOCATION:Fundacja eFkropka\, Warszawa
 URL:https://wola.um.warszawa.pl/-/warsztat-plastyczny-pt-trzy-pokolenia-tr
  zy-spojrzenia-na-czas-zapraszamy-do-udzialu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biegaj po Woli –  II Bieg Mikołajkowy
+DTSTART;TZID="UTC+01:00":20261206T110000
+DTEND;TZID="UTC+01:00":20261206T130000
+DTSTAMP:20261121T230040Z
+UID:535009f846c8e5ca@waw-calendars
+CATEGORIES:Wola
+DESCRIPTION:null Biegaj po Woli – II Bieg Mikołajkowy Pobierz jako plik
+  PDF Drukuj Link otwiera się w nowej karcie Link otwiera się w nowej kar
+ cie Facebook Link otwiera się w nowej karcie LinkedIn Link otwiera się w
+  nowej karcie Twitter Link otwiera się w nowej karcie Dodaj do kalendarza
+  - Link otwiera się w nowej karcie Dodaj do kalendarza Google - Link otwi
+ era się w nowej karcie Dodaj do kalendarza Outlook - Link otwiera się w 
+ nowej karcie Pobierz plik wydarzenia (.ics) i dodaj do kalendarza - Link o
+ twiera się w nowej karcie 06.12.2026 11:00 - 06.12.2026 13:00 Park im. Ed
+ warda Szymańskiego sport biegaj po woli Bieg Papieski w parku Moczydło |
+  Autor: UD Wola Zapraszamy do udziału w tegorocznej edycji sportowego cyk
+ lu „Biegaj po Woli”. To doskonała okazja\, aby zadbać o formę\, akt
+ ywnie spędzić czas. Os…\n\nŹródło: https://wola.um.warszawa.pl/-/bi
+ egaj-po-woli-5
+LOCATION:Park im. Edwarda Szymańskiego\, Warszawa
+URL:https://wola.um.warszawa.pl/-/biegaj-po-woli-5
 END:VEVENT
 END:VCALENDAR
